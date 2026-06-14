@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="100">
+  <message offset="1f80">
+Queen: Ugh, honestly!{nl}
+Another mole popped up!{waitkey}{clearbox}This mirror's handy, but{nl}
+one wish and the moles{nl}
+multiply like this? A scam!{waitkey}{ret}
+</message>
+  <message offset="1fe0">
+Mark: Kozai!{waitkey}{ret}
+</message>
+  <message offset="1ff0">
+Queen: ...{wait_fr:32}So you've come!{nl}
+Well? My painting was{nl}
+the better one, wasn't it?!{waitkey}{ret}
+</message>
+  <message offset="2028">
+Maki: Chisato...{wait_fr:48} please,{nl}
+stop this now...{waitkey}{clearbox}I already know your{nl}
+painting's better...{wait_fr:48}{nl}
+And those moles...{waitkey}{ret}
+</message>
+  <message offset="2078">
+Queen: Oh, shut up!{nl}
+Don't say things{nl}
+you don't even mean!{waitkey}{clearbox}You think I got what{nl}
+I deserved, don't you!{waitkey}{ret}
+</message>
+  <message offset="20c4">
+Queen: Never mind that.{nl}
+{ctl0f:1}, there's something{nl}
+I want to show you.{waitkey}{ret}
+</message>
+  <message offset="20f0">
+Maki: That's...{wait_fr:80}{nl}
+my painting...!{waitkey}{ret}
+</message>
+  <message offset="210c">
+Queen: Hey, {ctl0f:1},{nl}
+you saw the paintings hung{nl}
+in the exhibition room?{waitkey}{clearbox}My painting, and this{nl}
+miserable painting of Maki's -{nl}
+which do you think is better?{waitkey}{ret}
+</message>
+  <message offset="2174">
+Mark: Sonomura's painting{nl}
+is obviously the better{nl}
+one, duhhh!{waitkey}{ret}
+</message>
+  <message offset="219c">
+Queen: I'm not asking a{nl}
+monkey like you!{waitkey}{ret}
+</message>
+  <message offset="21c4">
+Queen: Mirror, mirror,{nl}
+grant Chisato's wish!{waitkey}{clearbox}Turn those monkeys{wait_fr:32}{nl}
+into stone!{nl}
+Nomoraka tanomamaa!{waitkey}{ret}
+</message>
+  <message offset="221c">
+Mark: Whoa!{waitkey}{ret}
+</message>
+  <message offset="222c">
+Nanjo: Ngh!{waitkey}{ret}
+</message>
+  <message offset="223c">
+Elly: Eek!{waitkey}{ret}
+</message>
+  <message offset="2250">
+Brown: Agh!{waitkey}{ret}
+</message>
+  <message offset="2264">
+Ayase: Noo!{waitkey}{ret}
+</message>
+  <message offset="2274">
+Reiji: ...gh!{waitkey}{ret}
+</message>
+  <message offset="2288">
+Maki: Chisato, stop!{waitkey}{ret}
+</message>
+  <message offset="229c">
+Queen: Ah-hahahaha!!{nl}
+Turn to stone, just like that!{wait_fr:64}{nl}
+...Ah!{waitkey}{ret}
+</message>
+  <message offset="22d0">
+Queen: Daaamn it!{nl}
+Another mole popped up{nl}
+again!{waitkey}{clearbox}Turning you to stone was{nl}
+too soft! I should've put{nl}
+you through something worse!{waitkey}{ret}
+</message>
+  <message offset="2330">
+Queen: {ctl0f:1},{nl}
+I'll give you, and only you,{nl}
+a chance.{waitkey}{clearbox}My beautiful painting,{nl}
+and Maki's painting -{nl}
+which do you think is better?{waitkey}Now, answer me honestly!{waitkey}{ret}
+</message>
+  <message offset="239c">
+How do you answer?{nl}
+{ctl0e:22}{ret}
+</message>
+  <message offset="23b0">
+Mark: You idiot!{nl}
+Do you really think{nl}
+that's true?!{waitkey}{ret}
+</message>
+  <message offset="23e0">
+Queen: Hehehe, ah-hahaha!{waitkey}{clearbox}How about that, Maki!{nl}
+{ctl0f:1} chose me{nl}
+over you.{waitkey}{ret}
+</message>
+  <message offset="2420">
+Maki: ...{wait_fr:32}...{wait_fr:32}...{wait_fr:32}...{wait_fr:32}...{waitkey}{ret}
+</message>
+  <message offset="2444">
+Nanjo: We managed to avoid{nl}
+being turned to stone.{waitkey}{ret}
+</message>
+  <message offset="2464">
+Aki: Honestly, what are you{nl}
+doing, Queen!{waitkey}{clearbox}I told you to beat{nl}
+these guys!{waitkey}{ret}
+</message>
+  <message offset="249c">
+Queen: I'm sorry, Angel.{nl}
+But if I get any more{nl}
+moles than this...{waitkey}{ret}
+</message>
+  <message offset="24d0">
+Aki: Then if you beat them,{nl}
+I'll put your face{nl}
+back to normal!{waitkey}{ret}
+</message>
+  <message offset="24fc">
+Queen: You promise?!{wait_fr:48}{nl}
+...All right.{nl}
+I'll do it!{waitkey}{ret}
+</message>
+  <message offset="252c">
+Queen: I'm sorry, {ctl0f:1}.{nl}
+You're actually pretty{nl}
+much my type, but...{waitkey}{ret}
+</message>
+  <message offset="2560">
+Queen: Mirror, mirror,{nl}
+hear Chisato's wish.{nl}
+Grant me power!{waitkey}Nomoraka tanomamaa!{waitkey}{ret}
+</message>
+  <message offset="25ac">
+Mark: Serves you right!{nl}
+This guy's no coward who'd{nl}
+cave to threats!{waitkey}{clearbox}...Ngh!{waitkey}{ret}
+</message>
+  <message offset="25e8">
+Queen: {ctl0f:1},{waitkey}I thought you of all people{nl}
+would understand, but{nl}
+I misjudged you.{waitkey}{clearbox}I'll repay this humiliation{nl}
+tenfold!{wait_fr:48} Turn to stone{nl}
+with the rest of them!{waitkey}{ret}
+</message>
+  <message offset="2658">
+Aki: Ugh, you're still at it?{waitkey}Hey, Queen, if you beat{nl}
+these guys, I'll put your{nl}
+face back to normal!{waitkey}{ret}
+</message>
+  <message offset="2694">
+Queen: Since the Angel{nl}
+says so, change of plans.{waitkey}{clearbox}I'll defeat you all{nl}
+with my own hands!{waitkey}{ret}
+</message>
+  <message offset="26d8">
+Naito: ...{wait_fr:48}Silly Chisato.{nl}
+Have a little more faith{nl}
+in me, won't you?{waitkey}{ret}
+</message>
+  <message offset="270c">
+Kozai: But, Yosuke,{nl}
+I was so anxious.{waitkey}{clearbox}I kept worrying about{nl}
+what I'd do if you{nl}
+came to hate me.{waitkey}{ret}
+</message>
+  <message offset="2750">
+Naito: Haha, you!{nl}
+As if I could ever{nl}
+come to hate you, Chisato.{waitkey}{clearbox}Don't make such a sad{nl}
+face. Smile for me,{wait_fr:48}{nl}
+all right, Chii dear?{waitkey}{ret}
+</message>
+  <message offset="27b0">
+Mark: {wait_fr:48}'Chii dear,'{wait_fr:48} he says...{wait_fr:48}{nl}
+Looks like we're in{nl}
+the way. Let's head out,{nl}
+{ctl0f:1}...{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="66">
+  <message offset="1224">
+Nurse: Oh? You're a friend{nl}
+of Maki Sonomura's, aren't{nl}
+you?{waitkey}{ret}
+</message>
+  <message offset="1254">
+Mark: No...{waitkey}{ret}
+</message>
+  <message offset="1264">
+Nurse: You came to visit last{nl}
+week too, didn't you? And the{nl}
+week before, I think...{waitkey}{ret}
+</message>
+  <message offset="1298">
+Nanjo: Ohh~... How very kind{nl}
+of you.{waitkey}{ret}
+</message>
+  <message offset="12b8">
+Yukino: Nanjo, knock it off.{waitkey}{ret}
+</message>
+</scene>

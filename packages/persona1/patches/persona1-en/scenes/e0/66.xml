@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="66">
+  <message offset="142c">
+Student: Kyaaa!!{nl}
+A-a demon!!{waitkey}{ret}
+</message>
+  <message offset="144c">
+Elly: Are you all right?!{nl}
+There's nothing to fear now!{waitkey}{ret}
+</message>
+  <message offset="1488">
+Ayase: Ah!{nl}
+You okay?!{waitkey}{nl}
+{ctl0f:1}!{nl}
+Quit spacing out!{waitkey}{ret}
+</message>
+  <message offset="14b4">
+Maki: Ah!{nl}
+Are you okay?!{nl}
+Hold it right there, demon!{waitkey}{ret}
+</message>
+  <message offset="14ec">
+Demon: Heh, here they come.{nl}
+Tonight my fists hunger{nl}
+for blood.{nl}
+Let the blood-flowers bloom!{waitkey}{ret}
+</message>
+  <message offset="151c">
+Mark: Hey, you!{nl}
+It's dangerous! Get back!{nl}
+{wait_fr:88}...Y-you're...{nl}
+You're Kido?!{waitkey}{ret}
+</message>
+  <message offset="155c">
+Reiji: You lot...?{nl}
+Stay back...{nl}
+This one's mine to kill.{waitkey}{ret}
+</message>
+  <message offset="159c">
+Demon: Hoh, a spirited brat.{nl}
+For that nerve, I'll{nl}
+feast on you first.{waitkey}{nl}
+Rue your weakness in hell.{waitkey}{ret}
+</message>
+</scene>

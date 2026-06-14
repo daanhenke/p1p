@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="184">
+  <message offset="1538">
+Maki: That lady says the{nl}
+strangest thing. She says too{nl}
+much happiness makes her{nl}
+uneasy.{waitkey}{clearbox}Every day being fun is the{nl}
+best, isn't it? Don't you{nl}
+think so?{waitkey}{ret}
+</message>
+  <message offset="158c">
+Nanjo: I won't ask for luxury,{nl}
+but if only there were armor{nl}
+marked "No. 1"...{waitkey}{clearbox}There's no such thing.{wait_fr:32}{nl}
+Never mind.{waitkey}{ret}
+</message>
+  <message offset="15dc">
+Mark: My mom's got the worst{nl}
+taste in clothes!{waitkey}{clearbox}One time she bought me a{nl}
+T-shirt with "Sukeroku"{nl}
+written across the chest.{waitkey}{clearbox}Where does she even find{nl}
+stuff like that!{waitkey}{clearbox}Ah{wait_fr:37}, I'm {wait_fr:21}not like, worried{nl}
+about my mom or anything.{wait_fr:21}{nl}
+Don't get the wrong idea.{waitkey}{ret}
+</message>
+  <message offset="1684">
+Elly: I can't say I'm fond of{nl}
+armor, really.{waitkey}{ret}
+</message>
+  <message offset="16a8">
+Ayase: Ayase likes it mini.{nl}
+If it's too long, isn't it{nl}
+kinda frumpy?{waitkey}{ret}
+</message>
+  <message offset="16e0">
+Reiji: Anything's fine, just{nl}
+hurry it up, would you?{waitkey}{ret}
+</message>
+  <message offset="170c">
+Townsperson: I'm happy to live{nl}
+in such a fine town.{waitkey}{clearbox}But too much happiness, and{nl}
+a person starts to feel{nl}
+uneasy, you know.{waitkey}{clearbox}I start to think that when I{nl}
+wake tomorrow, it'll all turn{nl}
+out to have been a dream.{waitkey}{ret}
+</message>
+  <message offset="172c">
+Boutique Clerk: Welcome~ What{nl}
+are you looking for, hon? If{nl}
+you like, I'll fit it to{nl}
+your size!{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="215">
+  <message offset="11fc">
+Maki: Are you done with your{nl}
+business? Let's hurry and{nl}
+get out of here!{waitkey}{ret}
+</message>
+  <message offset="1224">
+Nanjo: Wounds of the heart,{nl}
+being invisible, are harder{nl}
+to heal, it seems.{waitkey}{clearbox}No, no particular meaning.{nl}
+It just crossed my mind{nl}
+just now.{waitkey}{ret}
+</message>
+  <message offset="1274">
+Mark: What are you lazing{nl}
+around for? Once we're healed,{nl}
+we move out!{waitkey}{ret}
+</message>
+  <message offset="129c">
+Elly: I want to vanquish the{nl}
+Demons and restore the{nl}
+peaceful town, but I feel a{nl}
+little wistful too.{waitkey}{ret}
+</message>
+  <message offset="12dc">
+Brown: When's the day gonna{nl}
+come that I'm the idol of the{nl}
+whole town — no, all of{nl}
+Japan~!{waitkey}{ret}
+</message>
+  <message offset="1318">
+Ayase: Ayase wants to go back{nl}
+to being a normal high{nl}
+school girl, and fast~!{waitkey}{ret}
+</message>
+  <message offset="1344">
+Reiji: I'd like to get this{nl}
+all settled soon.{waitkey}{clearbox}You've got someone waiting{nl}
+for you to come home too,{nl}
+haven't you?{waitkey}{ret}
+</message>
+  <message offset="138c">
+Nurse: It's dangerous, so you{nl}
+mustn't go wandering around{nl}
+too much!{waitkey}{ret}
+</message>
+  <message offset="177c">
+Doctor: I do hope the demons{nl}
+vanish soon...{waitkey}{clearbox}Though if they do, it'll be{nl}
+bad for my business. Ha ha ha.{waitkey}{ret}
+</message>
+  <message offset="17c0">
+Doctor: Now then, what'll{nl}
+it be?{nl}
+{ctl0e:17}{ret}
+</message>
+  <message offset="17d8">
+Doctor: All right then,{nl}
+all of you...{waitkey}{ret}
+</message>
+  <message offset="17f4">
+Doctor: It'll cost 1500 yen.{nl}
+Is that all right?{waitkey}{nl}
+{nl}
+
+</message>
+  <message offset="181c">
+{ret}
+</message>
+  <message offset="1838">
+Doctor: Hm. Let's get you{nl}
+treated, then.{waitkey}{ret}
+</message>
+  <message offset="186c">
+Doctor: Mm, that should do it.{waitkey}{ret}
+</message>
+  <message offset="18ac">
+Doctor: A shame, but I can't{nl}
+treat you with no money...{nl}
+Come back with the fee.{waitkey}{ret}
+</message>
+  <message offset="18dc">
+Doctor: Skimp on treatment{nl}
+now, and I hope it won't{nl}
+come back to bite you.{waitkey}{ret}
+</message>
+  <message offset="1900">
+Doctor: Good. Come straight{nl}
+back if anything comes up.{waitkey}{ret}
+</message>
+</scene>

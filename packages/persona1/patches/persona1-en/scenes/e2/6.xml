@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="6">
+  <message offset="1468">
+Nanjo: What a noisy girl...{waitkey}{ret}
+</message>
+  <message offset="1484">
+Mark: Hey,{wait_fr:32} {ctl0f:1}, you still{nl}
+not going to the hospital?{waitkey}{ret}
+</message>
+  <message offset="14ac">
+Yukino: Yuka looks like she{nl}
+doesn't think about anything,{waitkey}{clearbox}but I get the feeling she{nl}
+avoids thinking on purpose.{waitkey}{ret}
+</message>
+  <message offset="14f4">
+Student: You guys headed to{nl}
+the hospital? The big one out{nl}
+on Mikage's northeast edge?{waitkey}{clearbox}That's quite a walk.{nl}
+Well, good luck!{waitkey}{ret}
+</message>
+  <message offset="1548">
+Student: Hey, where's Ayase?{nl}
+Wasn't she with you guys?{waitkey}{clearbox}We made plans to hang out,{waitkey}{nl}
+but she's a total no-show.{nl}
+I'm thinking of just{nl}
+heading off without her!{waitkey}{clearbox}So weird, she was supposed{nl}
+to be looking forward to it!{waitkey}{clearbox}Ayase does this kind of{nl}
+thing a lot. Kinda aloof,{waitkey}{clearbox}you never really know what{nl}
+she's thinking.{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="51">
+  <message offset="1600">
+Maki: Oh, Elly!{nl}
+So happy to see you!{nl}
+You doing okay?{waitkey}{ret}
+</message>
+  <message offset="162c">
+Elly: ...{wait_fr:32}Maki?{nl}
+When did you get out?{waitkey}{clearbox}Oh, but now's not the{nl}
+time for that. I'm glad{nl}
+everyone is safe.{waitkey}{ret}
+</message>
+  <message offset="1690">
+Mark: Dead end here too.{waitkey}{ret}
+</message>
+  <message offset="16a8">
+Elly: Yes...{wait_fr:21}{nl}
+I checked around, but{nl}
+all the passages below{nl}
+are blocked.{waitkey}{clearbox}There's really no way{nl}
+out of town.{waitkey}{ret}
+</message>
+  <message offset="16fc">
+Brown: It's dangerous here!{nl}
+Don't worry,{waitkey}{clearbox}I'll sort it out in{nl}
+a jiffy — wait somewhere{nl}
+safe till then!{waitkey}{clearbox}Trust me!{waitkey}{ret}
+</message>
+  <message offset="175c">
+Ayase: It's not safe{nl}
+to be alone out here!{waitkey}{clearbox}Shouldn't you go{nl}
+somewhere safe?{waitkey}{ret}
+</message>
+  <message offset="1794">
+Elly: I know...{waitkey}{nl}
+But I might as well{nl}
+explore the town a bit.{nl}
+Take care, everyone.{waitkey}{ret}
+</message>
+  <message offset="17e0">
+Elly: Thank you, but{nl}
+I'm fine alone.{nl}
+Goodbye.{waitkey}{ret}
+</message>
+  <message offset="1810">
+So, what's the news?{nl}
+Anything new happen?{waitkey}{ret}
+</message>
+  <message offset="1830">
+Mark: Oh yeah, a lot.{nl}
+It's a long story, but{nl}
+basically...{waitkey}{ret}
+</message>
+  <message offset="185c">
+Elly: Oh really...?{nl}
+I can't believe I missed{nl}
+out on all that!{waitkey}{clearbox}But there's still time.{nl}
+I still have plenty of{nl}
+chances!{waitkey}{clearbox}Hey, {ctl07:1} — won't{nl}
+you bring me along?{nl}
+I have things I want{nl}
+to investigate.{waitkey}{ret}
+</message>
+  <message offset="18fc">
+Please take me with you!{nl}
+{ctl0e:7}{ret}
+</message>
+  <message offset="1914">
+Elly: How wonderful!{nl}
+I'll do my best!{waitkey}{ret}
+</message>
+  <message offset="1938">
+Nanjo: Here's a gun for{nl}
+you, Kirishima.{waitkey}{clearbox}...I'm reluctant to arm{nl}
+a lady, but given{nl}
+the emergency,{nl}
+it can't be helped.{waitkey}{ret}
+</message>
+  <message offset="1990">
+Maki: What were you{nl}
+doing in the subway?{waitkey}{ret}
+</message>
+  <message offset="19b4">
+Brown: Mark, you should've{nl}
+gone somewhere else!{waitkey}Honestly, Elly's way{nl}
+better than you.{waitkey}{ret}
+</message>
+  <message offset="19f8">
+Nanjo: The subway is blocked.{nl}
+There's no escaping{nl}
+this town.{waitkey}{ret}
+</message>
+  <message offset="1a30">
+Mark: Elly's got guts...{waitkey}{ret}
+</message>
+  <message offset="1a50">
+Elly: What an experience...{nl}
+I'm so happy!{waitkey}{ret}
+</message>
+  <message offset="1a7c">
+Ayase: What's going to{nl}
+happen to us all...{waitkey}{ret}
+</message>
+</scene>

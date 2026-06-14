@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="82">
+  <message offset="15e4">
+Nanjo: I will get to the root{nl}
+of this without fail.{wait_fr:48} There{nl}
+should be nothing I cannot do!{waitkey}{ret}
+</message>
+  <message offset="1620">
+Mark: Hey, do other people{nl}
+have this power too?{waitkey}{ret}
+</message>
+  <message offset="1648">
+Elly: It's Alaya Shrine.{nl}
+Don't go forgetting now!{waitkey}{ret}
+</message>
+  <message offset="1670">
+Yukino: That power's creepy,{nl}
+but it does seem useful.{waitkey}{ret}
+</message>
+  <message offset="1698">
+Patient: Nnngh, my bad tooth{nl}
+is starting to ache.{waitkey}Do I really have to get all{nl}
+the way over there just to{nl}
+get it treated?!{waitkey}{ret}
+</message>
+  <message offset="16e4">
+Patient: Whatever comes, I'm{nl}
+prepared for it, but I worry{nl}
+about my little grandchild...{waitkey}They should be at school, so{nl}
+I hope nothing's happened{nl}
+there.{waitkey}{ret}
+</message>
+</scene>

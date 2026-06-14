@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="212">
+  <message offset="13d4">
+Maki: So the real me{nl}
+imagined everyone at{nl}
+this school too, huh?{waitkey}What a strange feeling...{waitkey}{ret}
+</message>
+  <message offset="1418">
+Mark: Awfully quiet.{nl}
+No sign of anyone around.{waitkey}{ret}
+</message>
+  <message offset="1438">
+Nanjo: The entrance to the{nl}
+so-called Avidya World{nl}
+is the library.{waitkey}{ret}
+</message>
+  <message offset="1460">
+Reiji: This school and town,{nl}
+once I killed Kandori,{nl}
+I'd have no use for them...{waitkey}Or so I thought...{waitkey}{ret}
+</message>
+  <message offset="149c">
+Elly: {ctl07:1},{nl}
+do you like school?{waitkey}{clearbox}I... used to think it was{nl}
+a dull place. But now I{nl}
+love it...{waitkey}It's where I met everyone...{waitkey}{ret}
+</message>
+  <message offset="14f0">
+Elly: {ctl07:1},{nl}
+do you care for school?{waitkey}{clearbox}I... once thought it{nl}
+a tedious place.{nl}
+But now I adore it...{waitkey}It's where I met everyone...{waitkey}{ret}
+</message>
+  <message offset="1550">
+Brown: Y'know, I actually{nl}
+kinda like school.{nl}
+I'm hopeless at studying,{waitkey}but grades aren't everything.{waitkey}{ret}
+</message>
+  <message offset="1598">
+Ayase: {ctl0f:1},{nl}
+you like school?{nl}
+Ayase kinda likes it.{waitkey}You can do your own thing!{waitkey}{ret}
+</message>
+  <message offset="15d4">
+Ayase: {ctl08:65281}You like school?{nl}
+Ayase kinda likes it.{waitkey}You can do your own thing!{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="88">
+  <message offset="1950">
+Maki: This city's not so{nl}
+bad, right? I think{nl}
+paradise is a place like this.{waitkey}It's ordinary, but{nl}
+every day is fun.{waitkey}{ret}
+</message>
+  <message offset="19a0">
+Nanjo: That person Kurouri{nl}
+mentioned has me{nl}
+curious...{waitkey}{clearbox}{ctl0f:1},{nl}
+don't forget to visit{nl}
+the Araya Shrine.{waitkey}{ret}
+</message>
+  <message offset="19e4">
+Mark: This place is just{nl}
+like our city...{nl}
+smells all musty.{waitkey}{ret}
+</message>
+  <message offset="1a0c">
+Elly: So this is the{nl}
+Mirror of Harming.{nl}
+So mysterious and lovely!{waitkey}{ret}
+</message>
+  <message offset="1a40">
+Brown: So this is the{nl}
+Mirror of Harming...{wait_fr:37}{nl}
+Let's see if it shows{nl}
+this handsome face.{waitkey}{ret}
+</message>
+  <message offset="1a7c">
+Ayase: The Mirror of{nl}
+Harming? Will it show{nl}
+Ayase's face? My skin's{nl}
+been rough lately, sigh...{waitkey}{ret}
+</message>
+  <message offset="1abc">
+Reiji: So this is that{nl}
+Mirror of Harming thing.{waitkey}{ret}
+</message>
+  <message offset="1ae0">
+The Mirror of Harming{nl}
+gives off a divine,{nl}
+holy aura...{waitkey}{ret}
+</message>
+  <message offset="1b0c">
+Maki: Found it!{nl}
+This is the Mirror of{nl}
+Harming, isn't it!{waitkey}{ret}
+</message>
+  <message offset="1b34">
+Elly: Wh-what is this...!{waitkey}{ret}
+</message>
+  <message offset="1b4c">
+Ayase: Eep! What is this?!{waitkey}{ret}
+</message>
+  <message offset="1b60">
+Brown: Whoa!{nl}
+What is this?!{waitkey}{ret}
+</message>
+  <message offset="1b78">
+Reiji: !! What...?!{waitkey}{ret}
+</message>
+  <message offset="1b90">
+You mustn't take this...{nl}
+You really mustn't...{nl}
+You mustn'ttttt...{waitkey}{ret}
+</message>
+  <message offset="1bc0">
+Nanjo: What was that just{nl}
+now...! It looked like{nl}
+a little girl's face.{waitkey}She said not to take 'this'...{waitkey}{clearbox}Did she mean the{nl}
+Mirror of Harming?{waitkey}{ret}
+</message>
+  <message offset="1c14">
+Mark: Who cares about that!{nl}
+We're in trouble{nl}
+without this thing.{waitkey}{ret}
+</message>
+  <message offset="1c3c">
+Maki: That face just now...{nl}
+it looked like{nl}
+little Mai...{waitkey}{ret}
+</message>
+  <message offset="1c60">
+Mark: Here, {ctl0f:1}.{nl}
+With this, we can fight{nl}
+that monster in the{nl}
+subway, right?{waitkey}{ret}
+</message>
+  <message offset="1c98">
+Obtained the{nl}
+Mirror of Harming!{waitkey}{ret}
+</message>
+</scene>

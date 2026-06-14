@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="4">
+  <message offset="14a0">
+Nanjo: {ctl0f:1}, I may{nl}
+have said this before, but{nl}
+what about the hospital? We{nl}
+aren't going?{waitkey}{ret}
+</message>
+  <message offset="14d8">
+Mark: Toro's got guts, man!{nl}
+I mean, going after Ayase{wait_fr:32}{nl}
+of all people... no thanks,{nl}
+not me!{waitkey}{ret}
+</message>
+  <message offset="1518">
+Yukino: I don't like seeing{nl}
+someone who's serious get{nl}
+laughed at.{waitkey}{ret}
+</message>
+  <message offset="1540">
+Toro: I-I had this weird{nl}
+dream! A girl was saying{nl}
+"help me"...{waitkey}{clearbox}Think maybe it's a prophetic{nl}
+dream? Maybe there's a girl{nl}
+out there waiting for me{waitkey}{nl}
+to save her? Th-{wait_fr:32}that'd be{nl}
+so cool...{waitkey}{ret}
+</message>
+  <message offset="15c4">
+{color:2}Kenta Yokouchi, aka Toro.{nl}
+Loves to eat. Strong as an{nl}
+ox, but timid.{waitkey}{ret}
+</message>
+  <message offset="1604">
+Student: I saw it! Toro{nl}
+confessed to Ayase and got{nl}
+flat-out turned down!{waitkey}And he still won't stop{nl}
+pestering her!{waitkey}{ret}
+</message>
+  <message offset="1654">
+It seems the cafeteria lady{nl}
+has already gone home.{waitkey}{ret}
+</message>
+</scene>

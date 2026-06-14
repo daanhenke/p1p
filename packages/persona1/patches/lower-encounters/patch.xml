@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Reduces random encounter rate in dungeons. -->
+<patch id="lower-encounters" version="0.1.0" game="persona1" priority="10">
+  <name>Lower Encounter Rate</name>
+  <description>Reduces the random encounter step counter so fights happen less often.</description>
+</patch>

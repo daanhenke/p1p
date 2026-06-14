@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="210">
+  <message offset="12a4">
+Ayase: N-{wait_fr:30}...{wait_fr:30}no way......{waitkey}{ret}
+</message>
+  <message offset="12c0">
+Ayase: It's all{nl}
+frozen over!!{waitkey}{ret}
+</message>
+  <message offset="12d8">
+Brown: It's-it's over...{waitkey}{ret}
+</message>
+  <message offset="12ec">
+Nanjo: What have they{nl}
+done...{waitkey}{ret}
+</message>
+  <message offset="1300">
+Ayase: Hey, Ms. Saeko!{wait_fr:30}{nl}
+Let's quit the bad jokes!!{waitkey}{clearbox}Kuroori, you too, come on!{nl}
+Hey, say something!{waitkey}{clearbox}Hey{wait_fr:30}...{wait_fr:30}...{wait_fr:30}say{nl}
+something, please...{waitkey}{ret}
+</message>
+  <message offset="1368">
+Yukino: Ah...{waitkey}Beyond the hole too...{wait_fr:30}{nl}
+the whole town's{nl}
+frozen solid...{waitkey}{ret}
+</message>
+  <message offset="1394">
+Elly: If even the town{nl}
+has frozen over,
+</message>
+  <message offset="13c0">
+the only survivors are...{waitkey}{ret}
+</message>
+  <message offset="13e4">
+Brown: If even the town's{nl}
+frozen, the only survivors{nl}
+are...{waitkey}{ret}
+</message>
+  <message offset="1478">
+Ayase: Just us...!!{nl}
+That can't be...{waitkey}{clearbox}Ayase tried hard, right?{waitkey}Everyone tried hard, right!?{waitkey}And yet something this{nl}
+awful...{waitkey}{clearbox}No...{wait_fr:30}{nl}
+Nooo{wait_fr:9}o{wait_fr:9}o{wait_fr:9}o{wait_fr:9}o{wait_fr:9}o{wait_fr:9}!!{waitkey}{ret}
+</message>
+</scene>

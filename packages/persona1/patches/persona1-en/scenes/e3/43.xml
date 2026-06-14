@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="43">
+  <message offset="140c">
+Yukino: Yuka's going on like{nl}
+a child again.{waitkey}Well, I suppose it can't be{nl}
+helped.{waitkey}{ret}
+</message>
+  <message offset="1440">
+Ayase: Ugh!{waitkey}{clearbox}Isn't there some handy spell{nl}
+that could warp us straight{nl}
+to the Queen's room~!?{waitkey}{ret}
+</message>
+  <message offset="1480">
+Nanjo: A size that rivals my{nl}
+own home, if not greater.{waitkey}Impressive, impressive.{waitkey}{ret}
+</message>
+  <message offset="14ac">
+Brown: Phew~{waitkey}Let's take a breather.{waitkey}{ret}
+</message>
+  <message offset="14c8">
+Elly: I've been wondering for{nl}
+a while now...{waitkey}{clearbox}{ctl07:1}, what is it you're{nl}
+fighting for?{waitkey}{ret}
+</message>
+</scene>

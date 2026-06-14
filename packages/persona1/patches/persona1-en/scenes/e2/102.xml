@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="102">
+  <message offset="14fc">
+Mark: Hey...{wait_fr:32}{nl}
+Is nobody here...!{waitkey}{ret}
+</message>
+  <message offset="1520">
+Mark: You're hiding around{nl}
+here, right? It's me, Masao.{nl}
+I'm not a demon.{waitkey}It's okay, come on out. I'll{nl}
+take you all the way home.{waitkey}{ret}
+</message>
+  <message offset="1578">
+Mark: {wait_fr:21}Mom...{wait_fr:21}{waitkey}{ret}
+</message>
+  <message offset="1590">
+Mark: Ah, {ctl0f:1}, it's nothing.{nl}
+I'm fine, fine.{waitkey}{clearbox}My old lady definitely went{nl}
+home before anything could{nl}
+happen to her.{waitkey}{clearbox}She's probably glued to some{nl}
+tabloid show, making a fuss{nl}
+right about now.{wait_fr:32} Let's go!{waitkey}{ret}
+</message>
+  <message offset="1618">
+There seems to be no one{nl}
+here...{waitkey}{ret}
+</message>
+</scene>

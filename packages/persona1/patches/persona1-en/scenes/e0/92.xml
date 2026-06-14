@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="92">
+  <message offset="16c4">
+Monster: Nngh, aaagh...{nl}
+shurroooo...{nl}
+...Yog... Soth...{waitkey}{ret}
+</message>
+  <message offset="16f0">
+Maki: Wait!{nl}
+That monster looks strong.{waitkey}{clearbox}Like Kurouri said,{nl}
+let's try the shrine{nl}
+maybe we'll learn something!{waitkey}{ret}
+</message>
+  <message offset="1740">
+Demon: I am the gate and{nl}
+the key... son of{nl}
+Yog-Sothoth...{waitkey}{clearbox}To the unworthy,{nl}
+the gate shall never open...{nl}
+fu... fushuroo...{waitkey}{ret}
+</message>
+  <message offset="179c">
+Nanjo: I won't eat fish{nl}
+for a while... and it{nl}
+reeks something awful.{waitkey}{clearbox}{ctl0f:1}, I hate to say it,{nl}
+but as we are now,{nl}
+we can't beat this thing.{waitkey}{clearbox}Like it or not, we'll have{nl}
+to heed that shady{nl}
+man's advice.{waitkey}{ret}
+</message>
+  <message offset="1810">
+Yog-Sothoth Jr.:{nl}
+One who bears the{nl}
+Mirror of Harming...{waitkey}{clearbox}But unless you defeat me,{nl}
+none shall pass.{waitkey}{ret}
+</message>
+  <message offset="185c">
+Mark: Figured it'd come{nl}
+to this!{nl}
+{ctl0f:1}, let's go!{waitkey}{ret}
+</message>
+  <message offset="1884">
+Elly: Leave this creature{nl}
+be and it may grow{nl}
+bigger than a stable.{waitkey}{nl}
+Now's our only chance!{waitkey}{ret}
+</message>
+  <message offset="18d0">
+Ayase: Are we really{nl}
+fighting this thing?{waitkey}{nl}
+Ayase can't say she{nl}
+likes this look...{waitkey}{ret}
+</message>
+  <message offset="190c">
+Brown: This guy's got{nl}
+no taste...{nl}
+And he reeks of fish!{waitkey}{ret}
+</message>
+  <message offset="1938">
+Reiji: No time to stand{nl}
+around griping.{waitkey}{nl}
+Don't beat this thing,{nl}
+we don't reach him.{waitkey}{ret}
+</message>
+</scene>

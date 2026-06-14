@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="147">
+  <message offset="1950">
+Mark: Kandori!{nl}
+You're not getting away!{nl}
+Prepare yourself!!{waitkey}{ret}
+</message>
+  <message offset="197c">
+Reiji: ...{wait_fr:60}Found you{nl}
+at last...{nl}
+You won't escape now!{waitkey}{ret}
+</message>
+  <message offset="19ac">
+Aki: You're so persistent!!{nl}
+I won't let you get{nl}
+in Papa's way!!{waitkey}{ret}
+</message>
+  <message offset="19d4">
+Kandori: ...{wait_fr:60}Stop, Aki.{nl}
+Stand back.{waitkey}{ret}
+</message>
+  <message offset="19f8">
+Aki: But Papa...{waitkey}{ret}
+</message>
+  <message offset="1a08">
+Kandori: Wait in that room.{nl}
+I'll come shortly.{waitkey}{ret}
+</message>
+  <message offset="1a2c">
+Aki: ...{wait_fr:60}Okay.{waitkey}{ret}
+</message>
+  <message offset="1a3c">
+Maki: Stop tormenting people!{nl}
+Turn everyone back{nl}
+to normal!{waitkey}{ret}
+</message>
+  <message offset="1a64">
+Kandori: ...{wait_fr:60}Don't worry.{nl}
+I'll do no more than this.{nl}
+Anymore...{wait_fr:180} none of it matters.{waitkey}{ret}
+</message>
+  <message offset="1a9c">
+Nanjo: ...{waitkey}{ret}
+</message>
+  <message offset="1aa8">
+Brown: What's the deal?!{nl}
+Did he just suddenly{nl}
+lose all his drive?{waitkey}We psyched ourselves up{nl}
+for nothing, c'mon.{waitkey}{ret}
+</message>
+  <message offset="1aec">
+Elly: Why?!{nl}
+Something's off about him.{waitkey}{ret}
+</message>
+  <message offset="1b0c">
+Ayase: Hey!{nl}
+Did he chicken out?{nl}
+No use apologizing now!{waitkey}{clearbox}Ayase is super ticked off!{waitkey}{ret}
+</message>
+  <message offset="1b58">
+Reiji: ...{wait_fr:60}What's your{nl}
+game? You think you can{nl}
+beg for your life now?{waitkey}{ret}
+</message>
+  <message offset="1b8c">
+Kandori: ...{wait_fr:60}For what{nl}
+do you all live?{waitkey}{ret}
+</message>
+  <message offset="1bb4">
+Mark: The hell?!{waitkey}{ret}
+</message>
+  <message offset="1bc8">
+Kandori: Man is not strong{nl}
+enough to live without{nl}
+some goal to strive for...{waitkey}{clearbox}Everyone seeks something,{nl}
+however trivial it may be...{nl}
+That is why they can{nl}
+live so desperately.{waitkey}{clearbox}But...{wait_fr:60} once every wish{nl}
+is satisfied, what is{nl}
+there left to seek?{waitkey}{clearbox}At the summit you reach{nl}
+by granting wish on wish...{nl}
+lies only endless{nl}
+emptiness and solitude.{waitkey}{clearbox}So is it not better never{nl}
+to climb the stairs you set{nl}
+yourself? That way...{waitkey}you can dream forever.{waitkey}{ret}
+</message>
+  <message offset="1ce0">
+Kandori: I... kept climbing{nl}
+the stairs to destroy{nl}
+this worthless world...{waitkey}{clearbox}But none of it matters now.{nl}
+For me as I am now...{nl}
+nothing is impossible.{waitkey}{clearbox}Heh...{wait_fr:60} Winds of solitude{nl}
+and emptiness rage about me.{nl}
+So this is the realm{nl}
+of a god?{waitkey}{ret}
+</message>
+  <message offset="1d78">
+Maki: ...{waitkey}{ret}
+</message>
+  <message offset="1d84">
+Kandori: Young one,{wait_fr:88}{nl}
+I let you come this far{nl}
+to ask you that.{waitkey}For what do you all live?{waitkey}{ret}
+</message>
+  <message offset="1dc8">
+For what do you live?{nl}
+{ctl0e:15}{ret}
+</message>
+  <message offset="1ddc">
+Maki: That's right!{nl}
+What we live for...{waitkey}{clearbox}Maybe I'll never{nl}
+know the answer...{wait_fr:88}{nl}
+But! I believe in myself!{waitkey}{clearbox}I'll live a life{nl}
+with no regrets!{waitkey}{ret}
+</message>
+  <message offset="1e44">
+Maki: No, no!{nl}
+What we live for...{waitkey}{clearbox}Maybe I'll never{nl}
+know the answer...{wait_fr:88}{nl}
+But! I believe in myself!{waitkey}{clearbox}I'll live a life{nl}
+with no regrets!{waitkey}{ret}
+</message>
+  <message offset="1eb0">
+Mark: You dummy.{nl}
+A grown man like you{nl}
+doesn't even get that?{waitkey}{clearbox}It's so you can shine{nl}
+bright in each and every{nl}
+moment, obviously!{waitkey}{clearbox}Your vibe's too gloomy.{nl}
+So bad!{nl}
+Get a more positive attitude!{waitkey}{ret}
+</message>
+  <message offset="1f40">
+Reiji: ...{wait_fr:60}It's obvious.{nl}
+It's to kill you!{waitkey}{clearbox}That settles things with{nl}
+this filthy blood. If I don't,{nl}
+I can't make my mother happy!{waitkey}{ret}
+</message>
+  <message offset="1fa0">
+Elly: To protect those{nl}
+dear to me! The ones here are{nl}
+my true friends, the kind{nl}
+I can open my heart to...{waitkey}{clearbox}I can't lose the precious{nl}
+things I've finally found!{waitkey}{ret}
+</message>
+  <message offset="200c">
+Brown: To surpass myself!{nl}
+I'm done with lying and{nl}
+tucking my tail!{waitkey}{clearbox}I've decided!{nl}
+I'll take down the geezer{nl}
+and say goodbye to my{nl}
+phony self too!{waitkey}{ret}
+</message>
+  <message offset="2074">
+Ayase: For my future husband!{nl}
+Ayase's the one who'll{nl}
+struggle later in life.{waitkey}{clearbox}A small house is fine, but{nl}
+a cute one. And the kids,{nl}
+maybe a boy and a girl.{waitkey}{clearbox}I'll name them Takuya and{nl}
+Yuki, and then...{waitkey}{ret}
+</message>
+  <message offset="20f0">
+Nanjo: Kandori...{wait_fr:60} Stop this.{nl}
+Such excessive bravado{nl}
+is painful to watch.{waitkey}{ret}
+</message>
+  <message offset="2124">
+Kandori: What...?{waitkey}{ret}
+</message>
+  <message offset="2134">
+Nanjo: You must realize it.{nl}
+That the place you reached{nl}
+by using people is no{nl}
+throne of god.{waitkey}That you've done nothing{nl}
+by yourself...{waitkey}{ret}
+</message>
+  <message offset="2184">
+Kandori: You...{waitkey}{ret}
+</message>
+  <message offset="2194">
+Nanjo: You're suffering.{nl}
+You despair at yourself,{nl}
+at being able to live{nl}
+no other way than this.{waitkey}{ret}
+</message>
+  <message offset="21d0">
+Kandori: Silence...{waitkey}{ret}
+</message>
+  <message offset="21e0">
+Nanjo: Your wish to erase{nl}
+mankind, like hers,{nl}
+{wait_fr:88}springs from dread{nl}
+of your own future.{waitkey}{ret}
+</message>
+  <message offset="2224">
+Kandori: Silence!{waitkey}{ret}
+</message>
+  <message offset="2234">
+Nanjo: To want to change,{wait_fr:60}{nl}
+unable to change,{wait_fr:60}{nl}
+wishing to disappear...{waitkey}{clearbox}Did you think one man's{nl}
+fear would grow lighter{nl}
+if all mankind bore it?{waitkey}{ret}
+</message>
+  <message offset="2290">
+Kandori: ...{waitkey}{ret}
+</message>
+  <message offset="229c">
+Nanjo: Why not stop using{nl}
+grand pretexts to justify{nl}
+your inferiority complex?{waitkey}{clearbox}You, more than anyone,{nl}
+must see how absurd{nl}
+you are.{waitkey}{ret}
+</message>
+  <message offset="22f4">
+Kandori: ...{wait_fr:60}So much abuse{nl}
+hurled at a god. I cannot{nl}
+let it pass.{waitkey}I'll send you to your{nl}
+end with my own hands.{waitkey}{ret}
+</message>
+  <message offset="2338">
+Mark: Tch.{nl}
+So you finally feel{nl}
+like it!{waitkey}{ret}
+</message>
+  <message offset="2358">
+Kandori: Can you defeat me?{nl}
+Can you protect these{nl}
+precious things of yours?{waitkey}{ret}
+</message>
+  <message offset="2384">
+Reiji: ...{wait_fr:60}I'll protect{nl}
+my mother and these guys.{nl}
+By killing you.{waitkey}{ret}
+</message>
+  <message offset="23b8">
+Elly: Yes!{nl}
+We can do it!{waitkey}{ret}
+</message>
+  <message offset="23e4">
+Brown: You bet we can!{waitkey}{ret}
+</message>
+  <message offset="23fc">
+Ayase: Obviously!{waitkey}{ret}
+</message>
+  <message offset="2410">
+Kandori: Then show me!{nl}
+Before the throne of god!{waitkey}{ret}
+</message>
+  <message offset="2434">
+Kandori: Young one...{nl}
+I have not heard{nl}
+your answer.{waitkey}{ret}
+</message>
+</scene>

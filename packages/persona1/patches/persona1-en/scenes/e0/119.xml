@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="119">
+  <message offset="172c">
+Mai: Aaah!!{nl}
+Mr. Bear!{nl}
+Mr. Bear died!{waitkey}{clearbox}Waaaaaah!{nl}
+Nobody is nice{nl}
+to little Mai!{waitkey}Be nicer to me!{waitkey}{ret}
+</message>
+  <message offset="1790">
+Maki: She vanished...{nl}
+Somehow... I feel like{nl}
+we did a bad thing...{waitkey}{ret}
+</message>
+  <message offset="17b8">
+Nanjo: Honestly...{nl}
+This is what comes of Inaba{nl}
+scaring her like that!{waitkey}We've lost a valuable{nl}
+source of information.{waitkey}{ret}
+</message>
+  <message offset="17f0">
+Elly: That bear...{nl}
+was her only friend.{nl}
+And we...{waitkey}{ret}
+</message>
+  <message offset="1828">
+Brown: A real little witch,{nl}
+all right. That was close.{nl}
+Still...{waitkey}felt kinda bad for her.{waitkey}{ret}
+</message>
+  <message offset="1864">
+Ayase: Ugh!{nl}
+It's 'cause Inaba said{nl}
+something he shouldn't!{waitkey}{ret}
+</message>
+  <message offset="1888">
+Mark: What was I supposed{nl}
+to do! I never figured{nl}
+it'd turn out like this...{waitkey}{ret}
+</message>
+  <message offset="18bc">
+Nanjo: Hm?{nl}
+Something's lying there.{waitkey}{ret}
+</message>
+  <message offset="18d8">
+Maki: Ah!{nl}
+It's Mai's compact!{waitkey}{ret}
+</message>
+  <message offset="18f8">
+Mark: I see...{nl}
+She must've dropped it.{nl}
+Leaves a bad taste, but{waitkey}let's borrow it.{waitkey}{ret}
+</message>
+  <message offset="192c">
+Maki: It grants any wish,{nl}
+right...? Should we have{nl}
+it carry us to the castle?{waitkey}{ret}
+</message>
+  <message offset="195c">
+Nanjo: Good idea.{nl}
+Inaba, give it a try.{waitkey}{ret}
+</message>
+  <message offset="1978">
+Mark: All right.{nl}
+It went something like this.{nl}
+Nomoraka tanomama!{waitkey}{ret}
+</message>
+  <message offset="19a0">
+Maki: ...{wait_fr:30}...{wait_fr:30}...{wait_fr:60}{nl}
+Nothing's happening.{waitkey}{ret}
+</message>
+  <message offset="19c8">
+Nanjo: No such easy luck.{nl}
+Likely only that child{nl}
+can use it.{waitkey}{ret}
+</message>
+  <message offset="19fc">
+Mark: Nothing for it.{nl}
+Let's go on foot.{waitkey}{ret}
+</message>
+  <message offset="1a18">
+Maki: {ctl07:1},{nl}
+show me that compact.{waitkey}{clearbox}Huh, it's only half, but{nl}
+it's the same as mine...{waitkey}Mine has no mirror, but{nl}
+this one has it set{nl}
+in properly.{waitkey}{ret}
+</message>
+  <message offset="1a7c">
+Mark: Well, wishes are{nl}
+something you grant{nl}
+yourself, after all.{waitkey}If everything went your{nl}
+way, the world'd be{nl}
+boring, wouldn't it.{waitkey}{ret}
+</message>
+  <message offset="1ac8">
+Nanjo: Kandori...{nl}
+what does he mean to do{nl}
+once he has that compact...?{waitkey}{ret}
+</message>
+  <message offset="1afc">
+Reiji: ...{waitkey}{ret}
+</message>
+  <message offset="1b08">
+Elly: I remember when I was{nl}
+small, I'd pretend our mirror{nl}
+at home was a magic one{waitkey}and make wishes to it.{waitkey}{clearbox}'Let me become a pretty girl{nl}
+everyone likes,'{nl}
+or something like that...{waitkey}{ret}
+</message>
+  <message offset="1b70">
+Brown: Aw~ such a shame.{nl}
+I've got so many wishes,{nl}
+too.{waitkey}{ret}
+</message>
+  <message offset="1b98">
+Ayase: Ohh, and I've got so{nl}
+many things I want!{nl}
+{ctl0f:1}, buy them for me?{waitkey}{ret}
+</message>
+  <message offset="1bc8">
+It's locked.{waitkey}{ret}
+</message>
+  <message offset="1bd8">
+Obtained the Half Compact.{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="157">
+  <message offset="149c">
+Maki: We have to restore{nl}
+the town.{waitkey}{ret}
+</message>
+  <message offset="14b4">
+Maki: To think Kandori{nl}
+can use a Persona too...{waitkey}{ret}
+</message>
+  <message offset="14d4">
+Mark: If we just deal with{nl}
+Kandori, the town should{nl}
+go back to normal.{waitkey}{ret}
+</message>
+  <message offset="14fc">
+Mark: Let's hurry after{nl}
+Kandori!{waitkey}{ret}
+</message>
+  <message offset="151c">
+Nanjo: We've no time to{nl}
+dawdle in a place like this.{waitkey}{ret}
+</message>
+  <message offset="1540">
+Nanjo: We've no time to{nl}
+dawdle in a place like this.{waitkey}{ret}
+</message>
+  <message offset="1564">
+Ayase: Let's go give Kandori{nl}
+a thrashing!{waitkey}C'mon, hurry~!!{waitkey}{ret}
+</message>
+  <message offset="1590">
+Ayase: So Kandori had{nl}
+the butterfly dream too?{waitkey}{ret}
+</message>
+  <message offset="15b4">
+Brown: As long as I'm here,{nl}
+Kandori's got no future.{waitkey}Dehyahyahyahya!{waitkey}{ret}
+</message>
+  <message offset="15e8">
+Brown: So Kandori had{nl}
+the butterfly dream too, huh.{waitkey}{ret}
+</message>
+  <message offset="160c">
+Elly: Let's hurry.{waitkey}{ret}
+</message>
+  <message offset="1620">
+Elly: I wonder if Kandori{nl}
+had the butterfly dream too?{waitkey}{ret}
+</message>
+  <message offset="1658">
+Reiji: ...{waitkey}{ret}
+</message>
+</scene>

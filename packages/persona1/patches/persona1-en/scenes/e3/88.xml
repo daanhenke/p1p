@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="88">
+  <message offset="11a4">
+Mariko: I keep hearing screams{nl}
+and groans from the room next{nl}
+door!{waitkey}{clearbox}It's surely a poltergeist!{nl}
+You don't know it? It means a{nl}
+"noisy spirit phenomenon"!!{waitkey}{ret}
+</message>
+  <message offset="120c">
+Yukino: No time limit is{nl}
+eerie in its own way. I think{nl}
+we'd best hurry on.{waitkey}{ret}
+</message>
+  <message offset="1244">
+Ayase: This tower's, like,{nl}
+super creepy, y'know? Let's{nl}
+get out quick~{waitkey}{ret}
+</message>
+  <message offset="1278">
+Nanjo: Still, that woman{nl}
+Michiko rubs me the wrong{nl}
+way! Unpleasant!{waitkey}Truly unpleasant!!{waitkey}{ret}
+</message>
+  <message offset="12bc">
+Brown: Hey hey! This tower's{nl}
+got no time limit, right?{waitkey}Let's take a rest!{waitkey}{clearbox}Let's keep it breezy! Nice{nl}
+and breezy~!{waitkey}{ret}
+</message>
+  <message offset="1314">
+Elly: Shouldn't we press on as{nl}
+fast as we can? I have such a{nl}
+bad feeling{waitkey}I can't shake it.{waitkey}{ret}
+</message>
+</scene>

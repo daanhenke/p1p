@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="69">
+  <message offset="18c4">
+Aki: Aaah!! Damn it~{nl}
+I'll tell Papa on you!{nl}
+Papa is strong, you know!{waitkey}{clearbox}He'll finish off the lot{nl}
+of you in one shot!!{waitkey}{ret}
+</message>
+  <message offset="1918">
+Maki: Wait!{nl}
+...Ugh! She got away again.{waitkey}{ret}
+</message>
+  <message offset="1940">
+Nanjo: ...Just who is that{nl}
+child...?{waitkey}{ret}
+</message>
+  <message offset="1968">
+Yosuke: Everyone, are you{nl}
+all right?!{waitkey}{ret}
+</message>
+  <message offset="1980">
+Maki: Yosuke!{nl}
+Are you okay?!{waitkey}{ret}
+</message>
+  <message offset="19a0">
+Yosuke: Yeah. Thanks to you,{nl}
+the school's back to normal.{waitkey}Thank you.{waitkey}{ret}
+</message>
+  <message offset="19d0">
+Elly: You're welcome.{waitkey}{ret}
+</message>
+  <message offset="19e4">
+Brown: Daa-hahaha!{nl}
+We just did what anyone{nl}
+would. No thanks needed!{waitkey}{ret}
+</message>
+  <message offset="1a18">
+Ayase: Honestly, no number of{nl}
+lives would be enough.{waitkey}Not that telling you{nl}
+does any good.{waitkey}{ret}
+</message>
+  <message offset="1a50">
+Yosuke: I'm really grateful.{nl}
+By the way... there's someone{nl}
+I'd like you to meet.{waitkey}Could you come with me?{waitkey}{ret}
+</message>
+  <message offset="1a94">
+Nanjo: Why?{waitkey}{ret}
+</message>
+  <message offset="1aa4">
+Yosuke: He's someone who's{nl}
+looked after me since I came{nl}
+here, and he believed me.{waitkey}{clearbox}Right now he's looking into{nl}
+the two worlds and such.{nl}
+He may have found something.{waitkey}{ret}
+</message>
+  <message offset="1b14">
+Mark: Ohh~ He actually took{nl}
+you seriously, huh.{nl}
+Just what kind of guy is he?{waitkey}{ret}
+</message>
+  <message offset="1b44">
+Yosuke: Well, that's...{nl}
+you'll see when you meet him.{nl}
+I'll wait in the library!{waitkey}{ret}
+</message>
+  <message offset="1b78">
+Elly: What's gotten into him?{nl}
+Well, in any case,{nl}
+let's head to the library.{waitkey}{ret}
+</message>
+  <message offset="1ba8">
+Brown: H-hey! Aw, man,{nl}
+he's already gone.{nl}
+Is that guy really hurt?{waitkey}{ret}
+</message>
+  <message offset="1be4">
+Ayase: We're going somewhere{nl}
+again?! Let's take a break.{waitkey}{ret}
+</message>
+  <message offset="1c08">
+Mark: Then shall we leave you{nl}
+behind by yourself, Ayase?{waitkey}{ret}
+</message>
+  <message offset="1c28">
+Ayase: ...{wait_fr:60}Fine, fine!{nl}
+You jerk, Inaba!{nl}
+Masao monkey! Monkey monkey!{waitkey}{ret}
+</message>
+  <message offset="1c64">
+Mark: Ah! Why you!{nl}
+You said monkey just now!{nl}
+You said Masao!{waitkey}Don't call me by that{nl}
+lame name!{waitkey}{ret}
+</message>
+  <message offset="1cac">
+Maki: Cut it out, you two!{nl}
+Come on, {ctl07:1},{nl}
+let's get to the library.{waitkey}{ret}
+</message>
+  <message offset="1ce0">
+Mark: Don't mind it.{waitkey}{ret}
+</message>
+  <message offset="1cf4">
+Mark: H-hey...{nl}
+He hopped off on one foot.{waitkey}Should we go check it out?{nl}
+Eh, Reiji?{waitkey}{ret}
+</message>
+  <message offset="1d34">
+Reiji: ...{waitkey}{ret}
+</message>
+  <message offset="1d40">
+Mark: Geez~!{nl}
+You're such a buzzkill.{nl}
+Lighten up a little, will ya.{waitkey}{ret}
+</message>
+  <message offset="1d78">
+Reiji: ...{wait_fr:60}Don't bother{nl}
+with me...{waitkey}{ret}
+</message>
+  <message offset="1d98">
+Mark: Well, whatever.{nl}
+Let's get going then, {ctl0f:1}.{waitkey}{ret}
+</message>
+  <message offset="1db8">
+Maki: I wonder if he's the{nl}
+one Yosuke meant. If so,{nl}
+he's surely in the library.{waitkey}{ret}
+</message>
+  <message offset="1df0">
+Nanjo: ...{wait_fr:60}That girl calls{nl}
+Kandori her father, but{nl}
+is she really his child?{waitkey}I've never heard he had{nl}
+a child.{waitkey}{ret}
+</message>
+  <message offset="1e3c">
+Mark: That brat from before{nl}
+really ticks me off!{nl}
+Next time, she'll get it.{waitkey}{ret}
+</message>
+  <message offset="1e70">
+Mark: Geez, that Ayase's{nl}
+got such a mouth on her.{waitkey}And yet some guys go for{nl}
+that type. The world's a{nl}
+mystery.{waitkey}{ret}
+</message>
+  <message offset="1eb4">
+Mark: That Reiji's a real{nl}
+twisted-up guy.{waitkey}Hey, you and me, let's{nl}
+do something about him.{waitkey}{ret}
+</message>
+  <message offset="1ef4">
+Elly: ...{wait_fr:60}Naito too{nl}
+has lost someone dear{nl}
+to him... It must be hard...{waitkey}{ret}
+</message>
+  <message offset="1f30">
+Brown: Kids can be{nl}
+surprisingly cruel, y'know.{nl}
+They don't know when to stop.{waitkey}{clearbox}What if someone died, huh?{wait_fr:88}{nl}
+Oh, she means to kill from{nl}
+the start, so I guess it's{nl}
+fine? Wahaha!{waitkey}Ooh, scary...{waitkey}{ret}
+</message>
+  <message offset="1fa8">
+Ayase: I wanna go home soon~{nl}
+If not for this, I'd be{nl}
+grooving at a club right now.{waitkey}{ret}
+</message>
+  <message offset="1fdc">
+Reiji: ...{wait_fr:60}I told you{nl}
+not to bother with me.{waitkey}{ret}
+</message>
+  <message offset="2000">
+Maki: Come to think of it...{nl}
+where did everyone in this{nl}
+world go?{waitkey}{clearbox}You were here too, {ctl07:1},{nl}
+and Inaba, and everyone.{waitkey}{ret}
+</message>
+  <message offset="204c">
+Mark: It looks no different{nl}
+at all, and yet they call{nl}
+it another world.{waitkey}{ret}
+</message>
+  <message offset="207c">
+Elly: ...{wait_fr:60}Oh, I'm sorry.{nl}
+I was lost in thought.{waitkey}{ret}
+</message>
+  <message offset="20a4">
+Hiremon Stone.{nl}
+A massive rock unearthed in{nl}
+1963 during the school's{nl}
+original construction.{waitkey}{clearbox}Its makeup is samataite,{nl}
+but magnetic anomalies{nl}
+have been detected.{waitkey}{clearbox}Legend says a heavenly{nl}
+being named Hiremon{waitkey}cast it down from the sky{nl}
+as a guardian stone for{nl}
+Mikage Town.{waitkey}{ret}
+</message>
+</scene>

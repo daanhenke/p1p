@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="53">
+  <message offset="15a4">
+{nl}
+
+</message>
+  <message offset="15d0">
+Ayase: Oh no!!{nl}
+There's something huge{nl}
+in here!{waitkey}{ret}
+</message>
+  <message offset="1604">
+Mark: Ayase, heads up!{nl}
+Leave this to us —{nl}
+go hide!{waitkey}{ret}
+</message>
+  <message offset="1624">
+Maki: This is incredible...{nl}
+Like something out{nl}
+of sci-fi...{waitkey}{ret}
+</message>
+  <message offset="1680">
+Nanjo:
+</message>
+  <message offset="16f0">
+{nl}
+Beyond here, if you find{nl}
+anything suspicious, think{nl}
+before you touch it!{waitkey}{clearbox}...Honestly, just thinking{nl}
+about Inaba still makes{nl}
+me furious!{waitkey}
+</message>
+  <message offset="1728">
+Mark: Amazing...{nl}
+To build something like this —{nl}
+they mean
+</message>
+</scene>

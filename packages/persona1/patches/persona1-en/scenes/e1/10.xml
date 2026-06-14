@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="10">
+  <message offset="18bc">
+A cold wind blows in{nl}
+from beyond the door.{waitkey}{clearbox}The door is frozen solid{nl}
+and won't budge.{waitkey}{ret}
+</message>
+  <message offset="18f4">
+A cold wind blows in{nl}
+from beyond the door.{waitkey}{ret}
+</message>
+  <message offset="1914">
+Go to the Demon Mountain?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="192c">
+Jack Frost: Hee-ho!{nl}
+We transferred here from the{nl}
+Demon Mountain past the door!{waitkey}{clearbox}Jackie: Hee-ho!{nl}
+It's cooler over here,{nl}
+nicer to live in.{waitkey}{clearbox}Jack Frost: School's fun,{nl}
+huh, Jackie!{waitkey}{clearbox}Jackie: Eh, it's so-so.{waitkey}{clearbox}Jack Frost: I wonder if I can{nl}
+make a hundred friends?{waitkey}{clearbox}Jackie: I doubt it.{waitkey}{clearbox}Jack Frost: ......Hee-ho?{waitkey}Human girls don't talk{nl}
+so coldly, y'know.{waitkey}{clearbox}Jackie: Hee-hooo??{nl}
+Humans are so difficult.{nl}
+It's tiring.{waitkey}{ret}
+</message>
+  <message offset="1a7c">
+Jack Frost: Hee-ho!{waitkey}{clearbox}Clear one tower, and one{nl}
+door to the Demon Mountain{nl}
+opens. Why's that?{waitkey}{clearbox}Jackie: Hee-ho!{nl}
+It's just that age, y'know.{nl}
+The mountain has its{nl}
+reasons.{waitkey}{clearbox}Jack Frost: Hee-ho?{waitkey}Anyway, the door{nl}
+opens!{waitkey}{ret}
+</message>
+  <message offset="1b20">
+Jackie: Hee-hooo... Nothing{nl}
+fun's happened lately, hee-ho.{waitkey}{clearbox}Jack Frost: Hee-ho!{nl}
+Shall I set the school{nl}
+on fire?! Fwooosh!{waitkey}{clearbox}Jackie: Don't. Mistakes of{nl}
+youth and all that.{waitkey}Besides, it's hot.{waitkey}{ret}
+</message>
+  <message offset="1bac">
+Yukino: A creepy door.{waitkey}{ret}
+</message>
+  <message offset="1bc4">
+Yukino: Who's the one who{nl}
+casually built a{nl}
+snowman?!{waitkey}{ret}
+</message>
+  <message offset="1bec">
+Yukino: My toes are going{nl}
+numb.{waitkey}{clearbox}Honestly, the drama club!{nl}
+Why pick "The Snow Queen"?{nl}
+No "Queen of Eternal Summer"?{waitkey}{clearbox}I'm no good with the cold.{waitkey}{ret}
+</message>
+  <message offset="1c54">
+Ayase: That door feels like{nl}
+a demon might pop out...{waitkey}{ret}
+</message>
+  <message offset="1c7c">
+Ayase: Kyaa~~♥{nl}
+Look, look, those plushies~♥{nl}
+So pretty~~♥♥{waitkey}{ret}
+</message>
+  <message offset="1cc4">
+Ayase: Do we still have{nl}
+business here?{waitkey}{ret}
+</message>
+  <message offset="1cdc">
+Nanjo: The wise man keeps{nl}
+clear of danger.{waitkey}{ret}
+</message>
+  <message offset="1cf8">
+Nanjo: The wise man keeps{nl}
+clear of danger.{waitkey}{ret}
+</message>
+  <message offset="1d14">
+Nanjo: Not that it matters,{nl}
+but they look pale.{waitkey}They should get more iron.{waitkey}{ret}
+</message>
+  <message offset="1d4c">
+Brown: Hey, check it out!{nl}
+There's a weird creature!!{nl}
+Going "hee-ho, hee-ho."{waitkey}{ret}
+</message>
+  <message offset="1d88">
+Brown: Talk to 'em and{nl}
+turns out they've had it{nl}
+rough, those two.{waitkey}{clearbox}And so young, too.{waitkey}Kuhh~~! It's enough to{nl}
+make me cry.{waitkey}{ret}
+</message>
+  <message offset="1ddc">
+Elly: No one's here.{nl}
+Let's try another room.{waitkey}{ret}
+</message>
+  <message offset="1e00">
+Elly: Oh! It's a Jack Frost!!{waitkey}{clearbox}Be careful!! Its cute{nl}
+appearance is a disguise{nl}
+to lure people in.{waitkey}{clearbox}They say anyone who{nl}
+approaches unguarded is{nl}
+frozen by its blizzard{nl}
+breath!!{waitkey}{ret}
+</message>
+  <message offset="1e90">
+Elly: Innocence and cruelty{nl}
+are two sides of one coin.{nl}
+Be careful!{waitkey}{ret}
+</message>
+  <message offset="1ec0">
+Yukino: How many "Mirror{nl}
+Shards" have we got now?{nl}
+Show me the "Mirror Frame."{waitkey}{ret}
+</message>
+  <message offset="1f00">
+Show the "Mirror Frame"?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1f1c">
+Yukino: Well, fine, but{nl}
+let's check it now and then.{waitkey}{ret}
+</message>
+</scene>

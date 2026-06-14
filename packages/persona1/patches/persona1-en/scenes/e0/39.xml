@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="39">
+  <message offset="1608">
+Principal Oishi: {ctl0f:1}!{nl}
+You're safe! I'm{nl}
+so relieved...!{waitkey}{clearbox}If anything happened tomy dear students...{wait_fr:32}{nl}
+I worry so...{waitkey}{ret}
+</message>
+  <message offset="1670">
+Vice Principal: Outrageous!{nl}
+If anything goes wrong,{nl}
+the school bears blame!{waitkey}{clearbox}And then WE get{nl}
+disciplined!{waitkey}{clearbox}If only the students had{nl}
+gone home earlier...{waitkey}What a miserable wretch{nl}
+I am!{waitkey}{ret}
+</message>
+  <message offset="171c">
+Principal Oishi: I hear{nl}
+you're looking into{nl}
+the Snow Queen...{wait_fr:48}{wait_fr:21}{nl}
+Let me tell you all.{waitkey}{clearbox}Our school's Snow Queen{nl}
+has always been performed{nl}
+wearing a mask.{waitkey}{clearbox}But that mask carried{nl}
+a troubling rumor{nl}
+that never went away.{waitkey}{clearbox}People started saying{nl}
+the queen's mask{nl}
+was cursed.{waitkey}{clearbox}Even I didn't believe it{nl}
+until eight years ago...{waitkey}{clearbox}The last Snow Queen{nl}
+was Ms. Saeko.{waitkey}{ret}
+</message>
+  <message offset="182c">
+Vice Principal: Pr-Principal!!{nl}
+What are you saying?!{waitkey}{ret}
+</message>
+  <message offset="1858">
+Principal Oishi: Eight{nl}
+years ago...{wait_fr:32}{nl}
+Ms. Saeko lost her{nl}
+best friend.{waitkey}{clearbox}If only I had noticed{nl}
+sooner...{wait_fr:32} If only she{nl}
+hadn't worn that mask...{waitkey}{clearbox}...{wait_fr:21} The mask was{nl}
+put away and stored{nl}
+in the gym after that.{waitkey}{clearbox}Please don't bring up{nl}
+Ms. Saeko's{nl}
+painful past.{waitkey}{ret}
+</message>
+  <message offset="1918">
+Vice Principal: ...{wait_fr:32}{nl}
+The principal is just{nl}
+joking, kid. Don't{nl}
+believe a word of it!{waitkey}{ret}
+</message>
+  <message offset="1954">
+{color:3}Principal Oishi.{nl}
+Headmistress of St. Hermelin.{nl}
+A woman who loves children{nl}
+and flowers alike.{waitkey}{ret}
+</message>
+  <message offset="1998">
+{color:2}Vice Principal Hannya.{nl}
+Also called "Hannya."{nl}
+Notoriously strict and{nl}
+deeply unpopular.{waitkey}{ret}
+</message>
+  <message offset="19e0">
+Principal Oishi: I don't{nl}
+want to lose any more{nl}
+dear students...{wait_fr:37}{nl}
+Please take care.{waitkey}{ret}
+</message>
+  <message offset="1a28">
+Vice Principal: What now?{nl}
+I'm busy —{nl}
+get out of here!{waitkey}{ret}
+</message>
+  <message offset="1a5c">
+Principal Oishi: The Snow{nl}
+Queen mask... could it be{nl}
+connected to all this?{waitkey}{clearbox}Surely not... But{nl}
+{ctl0f:1}, stay away{nl}
+from the gym storage.{waitkey}{ret}
+</message>
+</scene>

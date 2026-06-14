@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="7">
+  <message offset="152c">
+...
+</message>
+  <message offset="1554">
+...
+</message>
+  <message offset="1590">
+Ayase: What's this big talk?{nl}
+Ayase's busy right now!!{waitkey}{ret}
+</message>
+  <message offset="15bc">
+Toro: U-um, Ayase...{nl}
+u-um um um um um um{waitkey}sorry for calling you out.{waitkey}{ret}
+</message>
+  <message offset="15ec">
+Ayase: What? You're so slow.{nl}
+If there's nothing,{nl}
+I'm leaving!{waitkey}Later.{waitkey}{ret}
+</message>
+  <message offset="1618">
+Toro: W-wait!{nl}
+I'll say it, I'll say it,{nl}
+I'll say it!{waitkey}...Okay?{waitkey}{ret}
+</message>
+  <message offset="1668">
+Ayase: Hurry up and finish!{nl}
+I've got somewhere to be!!{waitkey}{ret}
+</message>
+  <message offset="1674">
+Toro: ......Ayase......{waitkey}......I{wait_fr:32}...I......{waitkey}{ret}
+</message>
+  <message offset="1720">
+Ayase: I...?{waitkey}{ret}
+</message>
+  <message offset="178c">
+Toro: I love youuuu!{waitkey}I{wait_fr:64} love you soooo much!!{waitkey}{clearbox}P-please please please{nl}
+go go go out with me!!{waitkey}{clearbox}I'll d-d-definitely{nl}
+make you happly{wait_fr:18} hoppy{wait_fr:18} happy{wait_fr:18}, I will!{waitkey}{clearbox}Huff huff, wheeze wheeze...{waitkey}{ret}
+</message>
+  <message offset="17cc">
+Ayase: ...{wait_fr:18}...{wait_fr:18}...{wait_fr:18}...{wait_fr:18}...{wait_fr:18}...{wait_fr:18}...{wait_fr:18}{nl}
+Say that after you look{nl}
+in a mirror.{waitkey}You're a hard pass.{waitkey}{clearbox}Anyway, Ayase's outta here.{waitkey}{ret}
+</message>
+  <message offset="1858">
+Toro: W-wait, please!!{waitkey}Why am I a pass?{nl}
+What's wrong with me?{waitkey}{ret}
+</message>
+  <message offset="18e0">
+Ayase: You're fat and slow,{nl}
+you just grin no matter{nl}
+what's said to you,{waitkey}{clearbox}always in the same shirt,{nl}
+only ever sleeping, reading{nl}
+manga, or eating - what's{waitkey}even fun about that?{waitkey}{clearbox}Everything about you's a no!{nl}
+Ayase doesn't get it.{waitkey}{ret}
+</message>
+  <message offset="1918">
+Toro: Th-that's cruel......{waitkey}Then what's fun for{nl}
+you, Ayase?{waitkey}{clearbox}Laughing when you're not{nl}
+happy, going along with the{nl}
+crowd even when it's dumb...{waitkey}Are you scared of{nl}
+being alone?{waitkey}{ret}
+</message>
+</scene>

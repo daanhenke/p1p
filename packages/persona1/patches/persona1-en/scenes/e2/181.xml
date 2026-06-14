@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="181">
+  <message offset="14bc">
+Himeno: Oh my, what is it,{nl}
+everyone? Did you come to see{nl}
+our treasured heirlooms?{waitkey}{clearbox}But sorry, to prevent theft{nl}
+we don't open them to the{nl}
+public.{waitkey}{ret}
+</message>
+  <message offset="151c">
+Mark: I don't even wanna see{nl}
+your family's treasures, but{waitkey}{clearbox}"prevent theft" — does that{nl}
+mean you're suspecting us?{waitkey}{ret}
+</message>
+  <message offset="1564">
+Himeno: Oh, is that how it{nl}
+sounded? How unpleasant, so{nl}
+touchy.{waitkey}{clearbox}I didn't mean it that way{nl}
+at all.{waitkey}{ret}
+</message>
+  <message offset="15a4">
+Elly: {ctl07:1}... I'm feeling{nl}
+a little unwell. Might I step{nl}
+outside ahead of you?{waitkey}{ret}
+</message>
+  <message offset="15dc">
+Brown: Argh! This really ticks{nl}
+me off!!{waitkey}{clearbox}Just 'cause she's a bit rich,{nl}
+who does she think she is!{waitkey}{ret}
+</message>
+  <message offset="1624">
+Ayase: You know, Himeno was{nl}
+way cuter the way she was{nl}
+before.{waitkey}{ret}
+</message>
+  <message offset="1648">
+Reiji: {ctl0f:1}...{nl}
+I'm heading out ahead.{waitkey}{ret}
+</message>
+  <message offset="1664">
+Maki: Yuko, you're being rude{nl}
+to everyone. Apologize.{waitkey}{ret}
+</message>
+  <message offset="1688">
+Himeno: But Maki...{wait_fr:32} you're{nl}
+my friend, Maki, but the{nl}
+others aren't!{waitkey}{ret}
+</message>
+  <message offset="16c4">
+Maki: Honestly, Yuko. What{nl}
+am I going to do with you...{waitkey}{ret}
+</message>
+  <message offset="16e4">
+Maki: Well then, everyone,{nl}
+let's go.{waitkey}{ret}
+</message>
+  <message offset="16fc">
+{color:3}Yuko Himeno{nl}
+Was supposed to be an{nl}
+admirable girl working a job{nl}
+for her family's sake, but...{waitkey}{ret}
+</message>
+  <message offset="1740">
+Himeno: Maki, won't you stay{nl}
+for some tea?{waitkey}{clearbox}There's one extra serving of{nl}
+sweets my pastry chef made.{waitkey}{clearbox}If you would, my little{nl}
+brothers would be delighted!{waitkey}{ret}
+</message>
+  <message offset="17ac">
+Maki: Yuko...{wait_fr:32} then I'll{nl}
+come by with everyone next{nl}
+time.{waitkey}{ret}
+</message>
+  <message offset="17e0">
+Himeno: ...{wait_fr:32}How boring!{waitkey}{ret}
+</message>
+  <message offset="17f8">
+Himeno: Oh, it's you lot?{wait_fr:32}{nl}
+...Fine. Today, as a special{nl}
+treat, I'll invite you all in.{waitkey}{ret}
+</message>
+  <message offset="1834">
+Mark: Why so sudden{wait_fr:32}...{nl}
+I get it.{waitkey}{clearbox}The town's all weird, so{nl}
+you're scared, huh?{waitkey}{ret}
+</message>
+  <message offset="1874">
+Himeno: I-it's not that!{waitkey}{clearbox}We've got John the Doberman,{nl}
+and Sebastian the butler,{nl}
+too!{waitkey}I'm not scared at all!{waitkey}{ret}
+</message>
+  <message offset="18d0">
+Nanjo: Heh. Then once all of{nl}
+this is resolved, we'll all{nl}
+pay you a visit.{waitkey}{ret}
+</message>
+</scene>

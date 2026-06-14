@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="56">
+  <message offset="11ac">
+Nanjo: Is no one home?{wait_fr:32}{nl}
+...My, what a cozy little{nl}
+house this is.{waitkey}{ret}
+</message>
+  <message offset="11e4">
+Mark: Well, compared to your{nl}
+house, anywhere'd look like{nl}
+a cozy little place!{waitkey}{clearbox}Honestly... this is just how{nl}
+rich boys are...{waitkey}{ret}
+</message>
+  <message offset="1234">
+Yukino: This is Yuko Himeno's{nl}
+place, Sonomura's friend...{waitkey}{clearbox}I work a job for my own{nl}
+future, but she does it for{nl}
+her family's sake...{waitkey}{ret}
+</message>
+  <message offset="1290">
+Mark: Aww... now that's a{nl}
+tearjerker!{waitkey}{ret}
+</message>
+  <message offset="12b0">
+Mark: Nanjo, you oughta get a{nl}
+job too and pay Yamaoka's{nl}
+wages yourself!{waitkey}{ret}
+</message>
+  <message offset="12e4">
+Yukino: Looks like Himeno's{nl}
+not back yet.{waitkey}{ret}
+</message>
+</scene>

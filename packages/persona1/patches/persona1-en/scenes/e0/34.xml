@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="34">
+  <message offset="1434">
+Maki's mother: And so{nl}
+that's how it is.{waitkey}{ret}
+</message>
+  <message offset="144c">
+Ms. Saeko: SEBEC, huh...{wait_fr:32}{nl}
+Those guys...!{wait_fr:21}{nl}
+Sorry {ctl0f:1}, but{nl}
+could you help?{waitkey}Go to the wall breach and{nl}
+tell Yukino to stop{nl}
+patching it.{waitkey}Inaba and Nanjo might{nl}
+be coming back{nl}
+that way.{waitkey}{ret}
+</message>
+  <message offset="14dc">
+Maki's mother: I am so{nl}
+sorry for all the{nl}
+trouble I've caused...{waitkey}{ret}
+</message>
+  <message offset="150c">
+Ms. Saeko: They know about{nl}
+the wall breach, right?{waitkey}Since the gate is locked,{nl}
+that's the only way{nl}
+to get in.{waitkey}{ret}
+</message>
+  <message offset="1560">
+Agastya Tree: Young one...{nl}
+Well met, that you have{nl}
+come to me.{waitkey}{ret}
+</message>
+  <message offset="158c">
+Agastya Tree:{nl}
+Shall I engrave your{nl}
+record within me?{waitkey}{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="15b8">
+Agastya Tree: Young one...{nl}
+Take care as{nl}
+you journey on.{waitkey}{ret}
+</message>
+  <message offset="1890">
+Natsumi: Sonoda's mother's{nl}
+injury isn't too bad.{nl}
+You needn't worry.{waitkey}{clearbox}And you, {ctl0f:1}?{nl}
+Are you hurt?{nl}
+Let me check.{waitkey}{ret}
+</message>
+  <message offset="18f0">
+Natsumi: There, all done.{nl}
+Take care now.{waitkey}{ret}
+</message>
+</scene>

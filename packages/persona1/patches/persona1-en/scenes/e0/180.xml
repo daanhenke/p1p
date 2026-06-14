@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="180">
+  <message offset="1478">
+{nl}
+
+</message>
+  <message offset="14d0">
+{nl}
+
+</message>
+  <message offset="1500">
+Maki: I can't take it!{nl}
+No more people dying...{nl}
+Nobody wants to die, right?{waitkey}{clearbox}We can just capture Kandori{nl}
+- let's save them!{waitkey}{ret}
+</message>
+</scene>

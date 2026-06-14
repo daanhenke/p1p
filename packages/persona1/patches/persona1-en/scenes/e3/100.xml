@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="100">
+  <message offset="118c">
+Yukino: Even as we stand here,{nl}
+time keeps slipping by. It's{nl}
+so frustrating.{waitkey}{clearbox}Really, it makes me feel like{nl}
+maybe I'm powerless.{waitkey}{ret}
+</message>
+  <message offset="11dc">
+Ayase: Working hard like this,{nl}
+all of us toward one goal{waitkey}it's kinda nice, isn't it.{waitkey}{ret}
+</message>
+  <message offset="1210">
+Nanjo: Hey, how long do you{nl}
+intend to stay in a place{nl}
+like this?{waitkey}{ret}
+</message>
+  <message offset="1234">
+Brown: The school ending up{nl}
+like this is a real problem,{nl}
+sure, but{waitkey}{clearbox}somehow it's like being freed{nl}
+from boring everyday life —{nl}
+kinda exciting, huh!{waitkey}{ret}
+</message>
+  <message offset="129c">
+Elly: The Tower of Thanatos,{nl}
+Tartarus... it's practically{nl}
+Greek mythology.{waitkey}{ret}
+</message>
+</scene>

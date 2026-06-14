@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="16">
+  <message offset="1264">
+Nanjo: I don't have much{nl}
+connection to the gym, but...{nl}
+well, I'll let it pass.{waitkey}{ret}
+</message>
+  <message offset="1298">
+Mark: If only it had a big{nl}
+mirror, it'd be perfect for{nl}
+dance practice~{waitkey}{ret}
+</message>
+  <message offset="12d0">
+Yukino: Me, I just want to{nl}
+get to the hospital already.{waitkey}{ret}
+</message>
+  <message offset="12f4">
+Student: The gym's brand new,{nl}
+so the sound system's great!{waitkey}{clearbox}Look forward to our live show{nl}
+at the school festival!{waitkey}{clearbox}So on sports day, I'm gonna{nl}
+ditch out quick and head{nl}
+straight to the studio!{waitkey}{ret}
+</message>
+  <message offset="1374">
+Student: I heard a 2nd-year{nl}
+named Naito went missing{nl}
+along with his girlfriend.{waitkey}{clearbox}I've got a hunch it was{nl}
+SEBEC's doing!{waitkey}{clearbox}...{wait_fr:21}Huh? Have I got proof?{nl}
+That's, well, just a{nl}
+man's intuition!{waitkey}{ret}
+</message>
+</scene>

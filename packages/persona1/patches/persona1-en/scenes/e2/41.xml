@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="41">
+  <message offset="1714">
+Clerk: Oh, Mayuzumi, you're{nl}
+early. Your shift hasn't{nl}
+started yet, has it? Need{nl}
+something?{waitkey}{ret}
+</message>
+  <message offset="174c">
+Yukino: Something came up{nl}
+suddenly... I'll be a little{nl}
+late for my shift. I'll make{nl}
+up for it by staying longer.{waitkey}{ret}
+</message>
+  <message offset="1788">
+Clerk: Ah, that's fine. My,{nl}
+you're dedicated. Having a{nl}
+goal really does make a{nl}
+difference, doesn't it.{waitkey}{ret}
+</message>
+  <message offset="17bc">
+Nanjo: I can't even imagine{nl}
+Mayuzumi in that uniform,{nl}
+smiling away.{waitkey}{ret}
+</message>
+  <message offset="17f0">
+Nanjo: Open for business even{nl}
+with demons about — quite{nl}
+admirable.{waitkey}{ret}
+</message>
+  <message offset="1818">
+Mark: Yukino, working a job{nl}
+seriously... So what's this{nl}
+goal of hers?{waitkey}{ret}
+</message>
+  <message offset="184c">
+Mark: I wonder if the demons{nl}
+won't come inside the store.{nl}
+Either way, it's a relief.{waitkey}{ret}
+</message>
+  <message offset="1880">
+Yukino: I want to study{nl}
+abroad and learn photography{nl}
+over there. That's why I'm{nl}
+saving up money.{waitkey}{ret}
+</message>
+  <message offset="18b8">
+Yukino: Maybe I said{nl}
+something irresponsible.{nl}
+There's no guarantee of{nl}
+anything, after all.{waitkey}{ret}
+</message>
+  <message offset="18ec">
+Clerk: Welcome! What can I{nl}
+get for you?{waitkey}{ret}
+</message>
+  <message offset="1910">
+Elly: It's a strange feeling.{nl}
+Being here, I start to wonder{nl}
+if all of it was just{nl}
+a dream.{waitkey}{ret}
+</message>
+  <message offset="1944">
+Clerk: M-Mayuzumi! A-a{nl}
+monster appeared! Please,{nl}
+stay here with me!{waitkey}{ret}
+</message>
+  <message offset="197c">
+Yukino: I'm sorry, but I{nl}
+have to go. If you stay{nl}
+inside, you'll surely be{nl}
+all right.{waitkey}{ret}
+</message>
+  <message offset="19b4">
+Clerk: ...{wait_fr:16}I'll be okay if I{nl}
+stay inside, right?{wait_fr:21} I have to{nl}
+keep the store open... we're{nl}
+open year-round, after all...{waitkey}Welcome!{waitkey}{ret}
+</message>
+</scene>

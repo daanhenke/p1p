@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="57">
+  <message offset="1cd4">
+Takeda: Who are you?!{nl}
+Children again?!{nl}
+How did you get in?!{waitkey}{ret}
+</message>
+  <message offset="1d04">
+Kandori: Pathetic, Takeda.{nl}
+After that last boy,{nl}
+when did we become a daycare?{waitkey}{ret}
+</message>
+  <message offset="1d40">
+Nanjo: Same as ever, Kandori.{nl}
+For a fox borrowing a{nl}
+tiger's authority,{waitkey}{clearbox}you're taking things{nl}
+rather far, aren't you?{nl}
+Does Chairman Saeki know{nl}
+about this?{waitkey}{ret}
+</message>
+  <message offset="1da0">
+Kandori: Well, well —{nl}
+the Nanjo Konzern's{nl}
+young master.{waitkey}{clearbox}The old man knows nothing.{nl}
+And by the way —{nl}
+sneaking around like a thief{nl}
+will get you spanked.{waitkey}{nl}
+By your senile butler,{nl}
+perhaps?{waitkey}{ret}
+</message>
+  <message offset="1e24">
+Nanjo: Silence!{nl}
+You... you alone{nl}
+I'll never forgive!{waitkey}{ret}
+</message>
+  <message offset="1e4c">
+Mark: Hey, pal!{nl}
+Don't look so smug —{nl}
+you're gonna answer for this!{waitkey}{ret}
+</message>
+  <message offset="1e80">
+Maki: So this is...{nl}
+Kandori...?{waitkey}{ret}
+</message>
+  <message offset="1e9c">
+Elly: Just as expected.{nl}
+The arrogance — a villain{nl}
+really needs this quality.{waitkey}{ret}
+</message>
+  <message offset="1ed0">
+Brown: He looks weaker{nl}
+than I expected!{nl}
+{ctl08:65281}I'll handle that big one!{waitkey}{clearbox}After all, the leader{nl}
+should take on the boss!{waitkey}{ret}
+</message>
+  <message offset="1f1c">
+Ayase: Hey, old man!{nl}
+Don't treat us like kids!{nl}
+And what's with the ball?!{waitkey}Such an old man thing!{nl}
+Wrinkle face!{waitkey}{ret}
+</message>
+  <message offset="1f6c">
+Kandori: ...{wait_fr:80}{nl}
+Undisciplined brats{nl}
+are the same as beasts.{waitkey}{clearbox}Takeda — kill them.{nl}
+Try not to make a mess{nl}
+of the room.{waitkey}{ret}
+</message>
+  <message offset="1fc0">
+{color:2}Takeda.{nl}
+Kandori's right-hand man.{nl}
+Handles SEBEC's{nl}
+illegal operations.{color:0}{waitkey}{ret}
+</message>
+  <message offset="1ff8">
+{color:2}Kandori Takahisa.{nl}
+Ambitious branch manager{nl}
+of SEBEC. Dark rumors{nl}
+follow him always.{color:0}{waitkey}{ret}
+</message>
+  <message offset="2044">
+Mark: That bastard!!{nl}
+Where did he run off to?!{waitkey}{ret}
+</message>
+  <message offset="2064">
+Nanjo: No sign he used{nl}
+the door. There must{nl}
+be another exit.{waitkey}{ret}
+</message>
+  <message offset="2090">
+Maki: ...So that's{nl}
+Kandori...{nl}
+I feel like I've seen him...{waitkey}{ret}
+</message>
+  <message offset="20b4">
+Elly: Are you alright, Maki?{nl}
+You look a little{nl}
+pale.{waitkey}{ret}
+</message>
+  <message offset="20e0">
+Brown: Hmm?{nl}
+What's wrong, Maki?{nl}
+You look really serious.{waitkey}{ret}
+</message>
+  <message offset="2110">
+Ayase: What's up, Sonoda?{nl}
+You look really intense.{waitkey}{ret}
+</message>
+  <message offset="2134">
+Mark: Hmm?{nl}
+What's wrong, Sonoda?{nl}
+You look down.{waitkey}{ret}
+</message>
+  <message offset="215c">
+Maki: Huh? Oh... I'm fine.{nl}
+I'm okay, really.{nl}
+Come on, let's catch him!{waitkey}{ret}
+</message>
+  <message offset="2190">
+Nanjo: There must be another{nl}
+exit. I'll watch outside —{nl}
+find it quickly.{waitkey}{ret}
+</message>
+  <message offset="21c4">
+Mark: They can use{nl}
+Personas — that was{nl}
+a surprise.{waitkey}{ret}
+</message>
+  <message offset="21ec">
+Maki: Really, I'm fine.{nl}
+Just a little dizzy, that's{nl}
+all. Sorry to worry you.{waitkey}{ret}
+</message>
+  <message offset="2220">
+Elly: Kandori's Persona...{nl}
+The faceless god...{nl}
+the crawling chaos...{waitkey}A deity of countless names{nl}
+and twisted form. A symbol{nl}
+of malice itself.{waitkey}{ret}
+</message>
+  <message offset="2288">
+Brown: {ctl08:65281}They can use Personas{nl}
+too?! Nobody told me that!{waitkey}Isn't that super bad?!{waitkey}{ret}
+</message>
+  <message offset="22c4">
+Ayase: {ctl0f:1}!{nl}
+Get it together —{nl}
+he got away!{waitkey}{ret}
+</message>
+  <message offset="22ec">
+There's a switch.{nl}
+Press it?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="2304">
+Mark: Bingo!{nl}
+Nice work, {ctl0f:1}!{waitkey}{ret}
+</message>
+  <message offset="2320">
+Nanjo: A hidden passage.{nl}
+What a petty little{nl}
+man he is.{waitkey}{ret}
+</message>
+  <message offset="2348">
+Maki: {ctl07:1}!{nl}
+Let's go after him!{waitkey}{ret}
+</message>
+  <message offset="2368">
+Brown: {ctl08:65281}Check for traps first!{waitkey}{ret}
+</message>
+  <message offset="2388">
+Elly: {ctl07:1},{nl}
+are you uninjured?{nl}
+Shall we go?{waitkey}{ret}
+</message>
+  <message offset="23b8">
+Ayase: We're really going?{nl}
+Fine... I get it!{waitkey}{ret}
+</message>
+  <message offset="23dc">
+Maki: He's the one who{nl}
+messed up our town...{nl}
+I'll never forgive him!{waitkey}{clearbox}Huh...? Aha, nothing!{nl}
+Let's go!{waitkey}{ret}
+</message>
+  <message offset="2430">
+Mark: Let's get this guy{nl}
+and put an end to this!{waitkey}{ret}
+</message>
+  <message offset="2458">
+Nanjo: Ahead, I'm sure,{nl}
+lies the sorry shape{nl}
+of his petty ambitions.{waitkey}{ret}
+</message>
+  <message offset="2490">
+The switch no longer{nl}
+needs to be pressed.{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="27">
+  <message offset="2380">
+Elly: This is it.{nl}
+Maki's mother is here...{nl}
+My, what a lovely{nl}
+butterfly.{waitkey}{ret}
+</message>
+  <message offset="23b0">
+Yukino: Hey...{nl}
+Don't you think this{nl}
+butterfly is strange?{waitkey}{ret}
+</message>
+  <message offset="23d0">
+Mark: Wh-what{nl}
+the heck is this thing!?{waitkey}{ret}
+</message>
+</scene>

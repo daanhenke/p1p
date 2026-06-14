@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="51">
+  <message offset="143c">
+Nanjo: For clothes, my{nl}
+uniform is plenty. That, and{nl}
+this muffler.{waitkey}{ret}
+</message>
+  <message offset="146c">
+Mark: Speaking of clothes,{nl}
+what do you make of Nanjo's{nl}
+muffler? He's got it{nl}
+on all the time.{waitkey}{ret}
+</message>
+  <message offset="14a8">
+Yukino: Did Yuka ask you to{nl}
+pick up some clothes? Once{nl}
+you're done, we go to the{nl}
+hospital!{waitkey}{ret}
+</message>
+  <message offset="14e4">
+Clerk: Everyone in this town{nl}
+has such bad taste, honestly!{waitkey}The only halfway-decent one{nl}
+is a brown-haired boy I see{nl}
+sometimes. He wears goggles,{nl}
+and he's adorable!{waitkey}{ret}
+</message>
+</scene>

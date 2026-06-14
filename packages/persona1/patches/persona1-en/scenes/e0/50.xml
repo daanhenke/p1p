@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="50">
+  <message offset="1568">
+Brown: What... what was that?!{nl}
+Why did I...? What{nl}
+even was that?!{waitkey}{ret}
+</message>
+  <message offset="15a0">
+Nanjo: You too, Brown...{nl}
+But of all people, why{nl}
+would it show up in him...{waitkey}{ret}
+</message>
+  <message offset="15d8">
+Mark: Let me explain.{nl}
+Listen up, okay...{waitkey}{ret}
+</message>
+  <message offset="1604">
+Brown: Awesome!!{nl}
+I always knew I was{nl}
+a hero of justice!{waitkey}{clearbox}Yeah, like even as a kid{nl}
+I always felt I was{nl}
+a little different!!{waitkey}{ret}
+</message>
+  <message offset="166c">
+Mark: He doesn't{nl}
+quite get it...{wait_fr:32}Oh well.{waitkey}{nl}
+{wait_fr:16}Anyway, {ctl0f:1},{nl}
+I'm coming with you.{waitkey}You guys alone worries{nl}
+me a little,{nl}
+y'know?{waitkey}{ret}
+</message>
+  <message offset="16cc">
+Nanjo: That's my line.{nl}
+Inaba, hand the Security{nl}
+Card over to {ctl0f:1}.{waitkey}{ret}
+</message>
+  <message offset="1708">
+Mark: ...Fine. Here.{nl}
+"Security Card." Don't{nl}
+you lose it.{waitkey}{ret}
+</message>
+  <message offset="173c">
+Nanjo: Here's your gun,{nl}
+Inaba. Don't go shooting{nl}
+us by mistake.{waitkey}{ret}
+</message>
+  <message offset="1768">
+Brown: Hey hey, mind if{nl}
+I tag along?{waitkey}You guys are missing{nl}
+a little star power.{nl}
+With me here, the crew'll{nl}
+really shine! So, {ctl08:32769}
+</message>
+  <message offset="17e0">
+Mark: ...What do you think,{nl}
+{ctl0f:1}?{waitkey}{ret}
+</message>
+  <message offset="17f8">
+What will you do?{nl}
+{ctl0e:7}{ret}
+</message>
+  <message offset="1808">
+Brown: OK!{waitkey}{nl}
+I guess I'll lend you{nl}
+my help! Wa ha ha ha!{waitkey}{ret}
+</message>
+  <message offset="1844">
+Nanjo: Here's your gun,{nl}
+Brown. Don't fire it{nl}
+wildly.{waitkey}{clearbox}...What are you looking at?{waitkey}{ret}
+</message>
+  <message offset="1888">
+Brown: Oh, is that so?{nl}
+Really? No regrets?{nl}
+Oh well...{waitkey}{clearbox}Guess I'll just go to school{nl}
+then.{wait_fr:16}...{wait_fr:21}Don't come{nl}
+crying to me later!{waitkey}{ret}
+</message>
+  <message offset="18e8">
+Maki: Alright! Now that{nl}
+everyone's here...{nl}
+where are we going again?{waitkey}{ret}
+</message>
+  <message offset="1918">
+Nanjo: Don't lose the{nl}
+Security Card.{waitkey}{clearbox}We need it to get into{nl}
+the loading dock at{nl}
+the old factory.{waitkey}{ret}
+</message>
+  <message offset="1960">
+Mark: The Inspector{nl}
+turning into a demon...{nl}
+total madness!{waitkey}{ret}
+</message>
+  <message offset="1998">
+Brown: "Let's go!"?{nl}
+Or "Per-SOOOO-na!"?{nl}
+Both are way too lame.{waitkey}{clearbox}How about "Right on!"{nl}
+or something?!{waitkey}{ret}
+</message>
+</scene>

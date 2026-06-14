@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="6">
+  <message offset="16dc">
+{nl}
+
+</message>
+  <message offset="172c">
+Brown: H-hey, Toro!{nl}
+I'm sorry for hiding the{nl}
+food from you, okay?{waitkey}{clearbox}Please, don't eat any more!{nl}
+What a waste!!{waitkey}{ret}
+</message>
+  <message offset="1790">
+Student: Sorry, man.{nl}
+I figured if you found it,{nl}
+you'd eat the whole lot.{waitkey}{clearbox}We've gotta ration it -{nl}
+the school's in a crisis{nl}
+right now! Understand?{waitkey}{ret}
+</message>
+  <message offset="17ec">
+Toro: Sh-shut uuup!!{nl}
+You're all making fun of me!{waitkey}{clearbox}You were splitting the food{nl}
+behind my back, weren't you!{nl}
+Damn it, I'll stress-eat!!{waitkey}{ret}
+</message>
+  <message offset="1830">
+{color:2}Kenta Yokouchi, a.k.a.{nl}
+"Toro." Loves to eat.{nl}
+Strong, but timid.{color:0}{waitkey}{ret}
+</message>
+  <message offset="18a8">
+Brown: That's precious food!{nl}
+You get dumped and throw a{nl}
+fit, and we all starve?{waitkey}{clearbox}Aw, is my brilliant life{nl}
+gonna end like this?{nl}
+A suicide pact with a fatso...{waitkey}{ret}
+</message>
+  <message offset="1950">
+Toro: Aaaaaaah{waitkey}F-f-f-fat... Don't{nl}
+call me faaaat!!{waitkey}{clearbox}Daaaamn it!{waitkey}Before I starve, I'll eat!{nl}
+Eat and eat and stock up!{waitkey}{clearbox}I'll watch you all{nl}
+drop dead one by one!{waitkey}Uha uha uha uhaa!{waitkey}{ret}
+</message>
+  <message offset="1980">
+Student: H-hey...{nl}
+his eyes have gone wild.{nl}
+What now, Brown?{waitkey}{ret}
+</message>
+  <message offset="19b4">
+Brown: Wh-what do you mean,{nl}
+what now?!{waitkey}Damn it, Ayase!{nl}
+This is 'cause you{nl}
+dumped him!!{waitkey}{ret}
+</message>
+  <message offset="19e0">
+Ayase: Hey, hold on~!{nl}
+Why's this Ayase's{nl}
+fault~?!{waitkey}{ret}
+</message>
+  <message offset="1a00">
+Yukino: No helping it.{nl}
+Let's put him to sleep.{waitkey}{ret}
+</message>
+  <message offset="1a78">
+Toro: Aha aha ahaa~{nl}
+It's no use~{waitkey}{clearbox}I've got a Demon the{nl}
+butterfly gave me!{waitkey}{clearbox}I'm not a lump of meat{nl}
+anymore, Ayase!{waitkey}Uha uha uhaa!{waitkey}{ret}
+</message>
+  <message offset="1ab0">
+Brown: A Demon~?{nl}
+This guy's lost it - cracked{nl}
+from the shock of heartbreak.{waitkey}{ret}
+</message>
+  <message offset="1ae0">
+Elly: What!?{nl}
+Could it be... a Persona?{waitkey}{ret}
+</message>
+  <message offset="1b0c">
+Student: I'll go get{nl}
+a teacher!{nl}
+Keep watch till then!{waitkey}{ret}
+</message>
+  <message offset="1b38">
+Toro: Uha uha uha uha uha{nl}
+No matter how many of you,{nl}
+you can't stop me!{waitkey}{ret}
+</message>
+  <message offset="1b84">
+Nanjo: Calm down, Yokouchi!{waitkey}{clearbox}When the town's restored,{nl}
+I'll have my chef feed you{nl}
+a feast till you burst!{waitkey}{ret}
+</message>
+  <message offset="1bc4">
+Ayase: Toro!{nl}
+Why are you doing this?!{waitkey}{clearbox}This makes it look like{nl}
+Ayase's the bad guy!!{waitkey}{ret}
+</message>
+  <message offset="1c34">
+Toro: Ahh, my dear Ayase!{nl}
+If you'll go out with me,{nl}
+I'll spare you alone!{waitkey}{clearbox}I'll set aside your{nl}
+share of the food!{waitkey}Uha uha uhaa!{waitkey}{ret}
+</message>
+  <message offset="1c58">
+Ayase: Denied.{wait_fr:32}{nl}
+The worst.{wait_fr:32}{nl}
+Hard pass.{waitkey}{ret}
+</message>
+  <message offset="1c90">
+Toro: Uoooooh{waitkey}Damn it, damn it,{nl}
+a nobody like me, meee{waitkey}{ret}
+</message>
+  <message offset="1cdc">
+Yukino: H-hey, don't provoke{nl}
+him! You're too blunt, Yuka.{waitkey}{clearbox}When he confessed, you said{nl}
+something harsh too, right?!{waitkey}{ret}
+</message>
+  <message offset="1d18">
+Ayase: Not really~{nl}
+I just told the truth.{waitkey}Kinda like this{wait_fr:30}...{wait_fr:30}...{waitkey}{ret}
+</message>
+  <message offset="1d64">
+Brown: Boss lady!{waitkey}{clearbox}Looks like he won't snap{nl}
+out of it unless you give{nl}
+him a good thrashing!{waitkey}{ret}
+</message>
+  <message offset="1df8">
+Yukino: Who're you calling{nl}
+boss lady?! You've got{nl}
+some nerve. Save that{nl}
+for a last resort.{waitkey}{clearbox}For now, let's buy time{nl}
+until a teacher comes!{waitkey}{clearbox}C'mon, Uesugi!{nl}
+Quit standing there{nl}
+in a daze{waitkey}and lend a hand!!{waitkey}{ret}
+</message>
+  <message offset="1e20">
+Brown: Dehyahyahyahya!{nl}
+I'll follow you to the{nl}
+ends of the earth!{waitkey}{ret}
+</message>
+  <message offset="1e6c">
+Brown: Boo hoo...{nl}
+What a thing to{nl}
+say to me!!{waitkey}{clearbox}It's not too late!{nl}
+Apologize!{nl}
+Just apologize!!{waitkey}{ret}
+</message>
+  <message offset="1ebc">
+Nanjo: No wonder Yokouchi's{nl}
+angry.{waitkey}Truly, the mouth is the{nl}
+root of misfortune...{waitkey}{clearbox}You went too far, Ayase!{nl}
+Apologize.{waitkey}{ret}
+</message>
+  <message offset="1ef8">
+Ayase: Ehh~?!{nl}
+Did I go too far?{waitkey}{clearbox}Hey, Toro,{nl}
+did the truth hurt you?{waitkey}{ret}
+</message>
+  <message offset="1fc8">
+Toro: Ngh...{nl}
+Ayase, you really are...{waitkey}{clearbox}The price for hurting my{nl}
+pure heart is a heavy one~{waitkey}{clearbox}Demon, oh Demon,{nl}
+please come forth!{waitkey}{clearbox}Come out and punish{nl}
+all those who made{nl}
+fun of me!!{waitkey}{clearbox}......binburu...{wait_fr:30}banburu...{nl}
+...{wait_fr:30}bamboppun...{waitkey}{ret}
+</message>
+  <message offset="2008">
+Brown: Hey hey hey hey hey,{nl}
+what're you chanting, Toro?{waitkey}{clearbox}Doing that won't... what is{nl}
+this, a manga?{waitkey}{ret}
+</message>
+  <message offset="2048">
+Ayase: ?{nl}
+What's he chanting?{waitkey}{clearbox}You're a high schooler -{nl}
+quit dreaming about{nl}
+"Demons"...{waitkey}{ret}
+</message>
+</scene>

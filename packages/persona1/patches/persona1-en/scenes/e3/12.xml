@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="12">
+  <message offset="1a7c">
+Toro: No way... only milk and{nl}
+cheese left, and I don't even{nl}
+get to stress-eat...{waitkey}{clearbox}I can't even have dairy...{nl}
+It's a plot by someone who{nl}
+knows that. Yeah, that's{nl}
+gotta be it!!{waitkey}{clearbox}The whole world's laughing at{nl}
+my misfortune! U... ugh......{nl}
+dammit~{waitkey}{ret}
+</message>
+  <message offset="1b20">
+Toro: Huh, huh, whaa? Why was{nl}
+I sleeping in a place like{nl}
+this?{waitkey}{clearbox}Oh stop, everyone, don't look{nl}
+at me like that — it's{nl}
+embarrassing...{waitkey}{ret}
+</message>
+  <message offset="1b70">
+Toro: U... ugh...... why is it{nl}
+always me this happens to...{waitkey}{ret}
+</message>
+  <message offset="1ba0">
+Toro: U... ugh...... why is it{nl}
+always me this happens to...{waitkey}{clearbox}Oh right, I almost forgot.{nl}
+Kuroori asked me to hand{nl}
+these to you.{waitkey}{clearbox}When we came back from the{nl}
+tower together, he picked up{nl}
+some glittering shards,{waitkey}{clearbox}but his muscles ache so badly{nl}
+he can't carry things, so I'm{nl}
+delivering them for him.{waitkey}{ret}
+</message>
+  <message offset="1c5c">
+Got 2 "Mirror Shards"!{waitkey}{ret}
+</message>
+  <message offset="1c7c">
+Toro: I'm not the only one{nl}
+having a hard time, right.{waitkey}{clearbox}Ayase and you are giving it{nl}
+your all too.{waitkey}{clearbox}All right! I'll work hard too,{nl}
+and learn to drink milk!!{waitkey}{ret}
+</message>
+  <message offset="1ce0">
+{color:2}Kenta Yokouchi{nl}
+Nicknamed Toro. Loves to eat.{nl}
+Strong, but timid at heart.{color:0}{waitkey}{ret}
+</message>
+  <message offset="1d24">
+Student: It suddenly froze{nl}
+over — is this the demons'{nl}
+doing too?{waitkey}{clearbox}I just checked, and there's{nl}
+hardly any food left.{waitkey}{clearbox}No wonder Toro panicked...{waitkey}{ret}
+</message>
+  <message offset="1d88">
+Student: Huh? Whether I went{nl}
+to fetch a teacher?{waitkey}{clearbox}I did! But nobody would{nl}
+listen — "it'll fix itself,"{nl}
+"I'm busy," and so on.{waitkey}{clearbox}Well, anyway, I'm glad it's{nl}
+safe.{waitkey}The food, that is.{waitkey}{ret}
+</message>
+  <message offset="1e00">
+Student: Dumped by the girl{nl}
+he likes, forced to drink the{nl}
+milk he hates — Toro's having{nl}
+no luck today.{waitkey}{clearbox}Well, everyone has days like{nl}
+this now and then.{waitkey}{ret}
+</message>
+  <message offset="1e50">
+Student: That classroom that{nl}
+wouldn't open — you know, way{nl}
+to the left out of here.{waitkey}{clearbox}The ice melted a bit, so you{nl}
+can get in now, they say.{waitkey}{clearbox}There's a rumor a gorgeous{nl}
+orb is floating in there. Is{nl}
+it safe to go near, I wonder?{waitkey}{ret}
+</message>
+  <message offset="1ed4">
+Yukino: This is no time to be{nl}
+loafing around here!{waitkey}{clearbox}Let's go find someone we can{nl}
+rely on!{waitkey}{ret}
+</message>
+  <message offset="1f14">
+Yukino: Right then, let's head{nl}
+for the tower before long.{waitkey}{ret}
+</message>
+  <message offset="1f30">
+Yukino: We've gathered the{nl}
+"Mirror Shards," so let's{nl}
+hurry to the courtyard!{waitkey}{ret}
+</message>
+  <message offset="1f64">
+Yukino: Uesugi's not here.{nl}
+Wasn't he supposed to be{nl}
+watching Toro?{waitkey}{clearbox}That guy — did he bail?{waitkey}{ret}
+</message>
+  <message offset="1fa4">
+Yukino: Don't you feel like{nl}
+it's gotten a bit warmer?{waitkey}{ret}
+</message>
+  <message offset="1fc4">
+Ayase: It's frozen over even{nl}
+inside the school building!{waitkey}{clearbox}What is that monster doing!!{waitkey}{ret}
+</message>
+  <message offset="2000">
+Ayase: Toro... is he okay~?{waitkey}Ah, no, it's not like I'm{nl}
+worried about him.{waitkey}{ret}
+</message>
+  <message offset="2030">
+Ayase: Let's hurry and get{nl}
+out.{waitkey}{ret}
+</message>
+  <message offset="2044">
+Nanjo: What's with him, over{nl}
+being dumped by a girl! He'll{nl}
+never amount to anything like{nl}
+that.{waitkey}{ret}
+</message>
+  <message offset="2074">
+Nanjo: That big eater —{nl}
+something came out of his{nl}
+stomach, but is he all{nl}
+right now?{waitkey}{ret}
+</message>
+  <message offset="20a8">
+Nanjo: He's grown, in his own{nl}
+way, it seems.{waitkey}{ret}
+</message>
+  <message offset="20c8">
+Brown: Bwa~~~~choo!{waitkey}Ah, sorry — did it get on your{nl}
+clothes?{waitkey}{clearbox}Honestly, I feel as blue as a{nl}
+head of lettuce gone limp in{nl}
+the fridge.{waitkey}{clearbox}I figured I'd eat some{nl}
+piping-hot ramen, but the{nl}
+water won't even boil.{waitkey}{clearbox}On top of that, Toro went on{nl}
+a rampage, swearing to scarf{nl}
+down all the cafeteria food{nl}
+to spite getting dumped.{waitkey}{clearbox}So I hurried and hid{nl}
+everything but the dairy.{waitkey}{clearbox}No telling what'll happen{nl}
+next, so — that's me being{nl}
+ahead of the game, eh?{waitkey}{ret}
+</message>
+  <message offset="21d0">
+Brown: The whole school's in a{nl}
+panic, and the teachers have{nl}
+it rough too, seems like.{waitkey}{clearbox}Dunno what you did, but I'm{nl}
+glad things settled down.{waitkey}{clearbox}Well, me and one other guy{nl}
+will keep watch from here, so{nl}
+you can rest easy.{waitkey}{ret}
+</message>
+  <message offset="225c">
+Brown: Toro suddenly vanished,{nl}
+and the next thing I knew{waitkey}{clearbox}he started babbling nonsense{nl}
+about milk and torture.{waitkey}{clearbox}Well, me and one other guy{nl}
+will keep watch, so you can{nl}
+rest easy.{waitkey}{ret}
+</message>
+  <message offset="22d8">
+Brown: A Persona, huh... Used{nl}
+right, it seems like you could{nl}
+do anything.{waitkey}{ret}
+</message>
+  <message offset="2304">
+Brown: Personas are scary,{nl}
+huh. Me, I'm the very picture{nl}
+of selflessness, so I'm{nl}
+totally fine, though.{waitkey}{ret}
+</message>
+  <message offset="2340">
+Elly: In a state like this,{nl}
+food is precious too.{waitkey}{ret}
+</message>
+  <message offset="2364">
+Elly: Ayase landed us in a{nl}
+right mess. Honestly, that{nl}
+girl.{waitkey}{ret}
+</message>
+  <message offset="239c">
+Elly: A room with a beautiful{nl}
+orb floating in it? It seems{nl}
+worth a look.{waitkey}{ret}
+</message>
+  <message offset="23d4">
+Elly: Let's hurry to the{nl}
+floor above.{waitkey}{ret}
+</message>
+</scene>

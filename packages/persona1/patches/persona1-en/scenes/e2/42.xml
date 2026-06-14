@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="42">
+  <message offset="1358">
+Nanjo: Shibuya would be far{nl}
+too noisy to live in...{nl}
+That one's rather out of{nl}
+touch with reality.{waitkey}{ret}
+</message>
+  <message offset="1394">
+Mark: I wanna get out of that{nl}
+house soon too... It's so{nl}
+embarrassing I can't even{nl}
+invite friends over.{waitkey}{ret}
+</message>
+  <message offset="13cc">
+Yukino: That girl's a friend{nl}
+of Yuka's.{wait_fr:16} Two of a kind,{nl}
+really...{wait_fr:32} such a chatterbox.{waitkey}{ret}
+</message>
+  <message offset="1410">
+Girl: I wanna live on my own{nl}
+soon~ Somewhere around{nl}
+Shibuya, in a cool condo~...{waitkey}{clearbox}That'd be nice, right?{wait_fr:32}{nl}
+Ugh, I wanna get out of this{nl}
+boring town already~{waitkey}{ret}
+</message>
+  <message offset="1478">
+Clerk: Welcome! Will you be{nl}
+eating here?{waitkey}{ret}
+</message>
+  <message offset="14a0">
+Yukino: Hey, you! This is no{nl}
+time to be leisurely eating{nl}
+a burger!{waitkey}{ret}
+</message>
+</scene>

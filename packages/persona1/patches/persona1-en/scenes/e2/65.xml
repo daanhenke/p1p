@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="65">
+  <message offset="12c8">
+Nanjo: That old man... is he{nl}
+serious, or just having us{nl}
+on...{waitkey}{ret}
+</message>
+  <message offset="12f4">
+Mark: Tch, who's this{nl}
+"Hiroshi" anyway?{waitkey}{ret}
+</message>
+  <message offset="1310">
+Yukino: The nurse has it{nl}
+rough too, huh.{waitkey}{ret}
+</message>
+  <message offset="132c">
+Old Man: Oh my, Akiko.{nl}
+Hiroshi's come to see us.{waitkey}{ret}
+</message>
+  <message offset="1350">
+Nurse: That's right, Grandpa.{nl}
+It's Hiroshi.{waitkey}{ret}
+</message>
+  <message offset="1374">
+Old Man: So good of you to{nl}
+come, Hiroshi.{waitkey}{ret}
+</message>
+  <message offset="138c">
+Listen to the old man?{nl}
+{ctl0e:11}{ret}
+</message>
+  <message offset="13a4">
+Old Man: Listen, Hiroshi. The{nl}
+human heart is a complex{nl}
+thing.{waitkey}{clearbox}What shows on the surface{nl}
+isn't always a person's{nl}
+true heart.{waitkey}{clearbox}You must seek out the truth{nl}
+hidden beneath...{waitkey}{ret}
+</message>
+  <message offset="1408">
+Old Man: I see. Is school{nl}
+fun for you?{waitkey}{ret}
+</message>
+  <message offset="1424">
+Nurse: Hiroshi is apparently{nl}
+his grandson's name.{waitkey}And me, I'm being mistaken{nl}
+for his daughter...{waitkey}{ret}
+</message>
+</scene>

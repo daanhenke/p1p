@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="8">
+  <message offset="13d0">
+Nanjo: Hearing talk of SEBEC{nl}
+isn't exactly pleasant.{waitkey}{nl}
+Never mind that, let's go{nl}
+to the hospital.{waitkey}{ret}
+</message>
+  <message offset="1418">
+Mark: Ah, the good old{nl}
+haunted house!{waitkey}{clearbox}I used to play there a lot{nl}
+as a kid, and my old{nl}
+lady... er, mom would scold{waitkey}me for it...{waitkey}{ret}
+</message>
+  <message offset="146c">
+Yukino: It was about a year{nl}
+ago they tore down the empty{nl}
+house and built the SEBEC{nl}
+building there...{waitkey}{ret}
+</message>
+  <message offset="14ac">
+Student: You hear? There's{nl}
+all these weird rumors about{nl}
+the SEBEC building.{waitkey}{nl}
+Like moans coming from it,{nl}
+or red eyes peering from the{nl}
+windows...{waitkey}{nl}
+They built it where the{nl}
+haunted house used to be -{nl}
+folks say it's a curse.{waitkey}{ret}
+</message>
+</scene>

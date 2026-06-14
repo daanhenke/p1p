@@ -1,0 +1,10 @@
+{
+  "name": "@p1p/atlus",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PSX sector-table archive format (SectorArchive) — the one Atlus format shared across titles. Everything Persona 1–specific lives in the `persona1` package.",
+  "exports": { ".": "./src/index.ts" },
+  "scripts": { "build": "tsc -b" },
+  "dependencies": { "@p1p/core": "workspace:*" }
+}

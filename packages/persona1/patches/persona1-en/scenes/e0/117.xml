@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="117">
+  <message offset="1324">
+Maki: A month ago this was{nl}
+such a beautiful{nl}
+flower garden...{waitkey}{ret}
+</message>
+  <message offset="134c">
+Maki: ...{wait_fr:60}Oh, sorry...{nl}
+I was lost in thought...{nl}
+C'mon, let's hurry{nl}
+to the castle!{waitkey}{ret}
+</message>
+  <message offset="138c">
+Mark: In our world, this{nl}
+was the police station,{nl}
+right?{waitkey}{ret}
+</message>
+  <message offset="13b0">
+Mark: Hey, let's hurry{nl}
+back to that weird castle.{waitkey}{ret}
+</message>
+  <message offset="13d4">
+Nanjo: Before the disaster,{nl}
+this world must have been{nl}
+quite safe - there's no{nl}
+police force at all.{waitkey}{ret}
+</message>
+  <message offset="1418">
+Nanjo: ...{wait_fr:60}Forgive me.{nl}
+Let me think for a while.{waitkey}{ret}
+</message>
+  <message offset="143c">
+Reiji: ...{wait_fr:60}You've got{nl}
+no business with me.
+</message>
+  <message offset="1460">
+Get going.{waitkey}{ret}
+</message>
+  <message offset="1488">
+Reiji: ...{wait_fr:60}{nl}
+You've no business here{nl}
+anymore. Get going.{waitkey}{ret}
+</message>
+  <message offset="14a0">
+Elly: What a lonely forest...{waitkey}{ret}
+</message>
+  <message offset="14fc">
+Elly: {ctl07:1},{nl}
+you aren't hurt?{nl}
+Hm? Why ask so suddenly?{waitkey}{clearbox}Oh, no reason...{wait_fr:60}{nl}
+Does it seem strange,{nl}
+me saying such a thing?{waitkey}{ret}
+</message>
+  <message offset="1518">
+Brown: This place{nl}
+seems kinda dangerous...{waitkey}{ret}
+</message>
+  <message offset="1550">
+Brown: That girl earlier{nl}
+asked some heavy stuff...{nl}
+Got me feeling kinda blue.{waitkey}{ret}
+</message>
+  <message offset="1594">
+Ayase: {ctl0f:1}!{nl}
+Ayase hasn't seen this{nl}
+many trees in forever!{waitkey}{clearbox}Did you know this smell{nl}
+is called ozone?{waitkey}{ret}Ayase: ...{wait_fr:60}Hey, {ctl0f:1}.{nl}
+Ever seriously thought{nl}
+about "the future"?{waitkey}{clearbox}Ayase...{wait_fr:79} eh, never mind...{nl}
+Forget it, too heavy.{nl}
+Forget I said anything.{waitkey}{ret}
+</message>
+</scene>

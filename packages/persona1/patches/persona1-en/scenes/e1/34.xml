@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="34">
+  <message offset="132c">
+Yukino: Aw man, here too...{nl}
+...{wait_fr:30}...{wait_fr:30}...wait, what!{waitkey}{clearbox}It's the teachers! Asleep.{nl}
+Get it together, sheesh.{waitkey}{ret}
+</message>
+  <message offset="137c">
+Nanjo: Hm. The situation{nl}
+seems graver than I imagined.{nl}
+There must surely be some{waitkey}{clearbox}"thing" putting the people{nl}
+of the school to sleep.{nl}
+We must find it first.{waitkey}{ret}
+</message>
+  <message offset="13ec">
+Brown: Argh! Pathetic!{nl}
+Here I am, a mere student,{nl}
+working this hard,{waitkey}{clearbox}and the teachers slacking{nl}
+off like this - what gives?!{nl}
+Get it together, really.{waitkey}{ret}
+</message>
+  <message offset="1454">
+V.P. Hannya: Zzz... zzz...{wait_fr:30}guh!{nl}
+gaah...{wait_fr:30}grind grind...{wait_fr:30}grr...{nl}
+heh heh...{wait_fr:30}guhuhuhu...{wait_fr:30}heh...{waitkey}{ret}
+</message>
+  <message offset="14ac">
+Ayase: Ew~ this baldy's{nl}
+fast asleep with a creepy{nl}
+grin - so gross!!{waitkey}{ret}
+</message>
+  <message offset="14e4">
+Nanjo: Hideous... I can't{nl}
+bear to look. That such a man{nl}
+calls himself an educator -{nl}
+the world's gone to ruin.{waitkey}{clearbox}But is the Principal okay?{nl}
+He's groaning quite badly.{waitkey}{ret}
+</message>
+  <message offset="1544">
+Elly: Oh my! The Principal{nl}
+is groaning. Such a{nl}
+terrible sweat.{waitkey}{clearbox}Is this also the Snow{nl}
+Queen's magic at work?{waitkey}{ret}
+</message>
+  <message offset="1594">
+Principal Oishi: Zzz... zzz...{nl}
+nn{wait_fr:30}nngh...{nl}
+...but{wait_fr:30}... that is...{waitkey}{ret}
+</message>
+  <message offset="15cc">
+Yukino: Same as the room{nl}
+before.{waitkey}{clearbox}Neither of them will wake{nl}
+no matter what we try.{nl}
+What do we do?{waitkey}{ret}
+</message>
+  <message offset="160c">
+Yukino: You're not planning{nl}
+to just leave the sleeping{nl}
+folk like this, are you?{waitkey}{ret}
+</message>
+  <message offset="1638">
+Ayase: It's a chance, so~{nl}
+shall we doodle on{nl}
+Hannya's bald head?{waitkey}{ret}
+</message>
+  <message offset="166c">
+Nanjo: Honestly...! Why did{nl}
+we enter the tower? To escape{nl}
+the school, was it not?{waitkey}{clearbox}Then think of nothing else{nl}
+and press on! There's much{nl}
+waste in your actions.{waitkey}{ret}
+</message>
+  <message offset="16e8">
+Brown: Hmm{wait_fr:30}...hm{wait_fr:30}...hm{wait_fr:30}...hm{nl}
+...!{wait_fr:30} Right! As your leader,{nl}
+I, the great me, command:{waitkey}{clearbox}press on!{wait_fr:30}...but...{wait_fr:30} hold on.{nl}
+Saving these guys to earn{nl}
+a favor sounds good too. Hmm?{waitkey}{ret}
+</message>
+  <message offset="177c">
+Elly: Standing here like this{nl}
+only wastes time...{nl}
+Whether we wake the sleepers{waitkey}{clearbox}or clear the tower, what{nl}
+matters most for us now{nl}
+is to move forward.{waitkey}{ret}
+</message>
+  <message offset="17e8">
+V.P. Hannya: Gwoo...{wait_fr:30}guh...{nl}
+...copy it out...{wait_fr:30}hee...{wait_fr:30}heehee{nl}
+...shoes...{wait_fr:30}polish...{wait_fr:30}ehehe...{waitkey}{ret}
+</message>
+  <message offset="1844">
+Principal Oishi: Zzz... zzz...{nl}
+Ngh...{wait_fr:30}nnngh...{nl}
+...nngh{wait_fr:30}...nngh...{waitkey}{ret}
+</message>
+</scene>

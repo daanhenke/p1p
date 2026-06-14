@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="54">
+  <message offset="1260">
+{nl}
+
+</message>
+  <message offset="1338">
+Drama President: Hey, Hirose.{nl}
+You haven't shown up to{nl}
+drama club practice at all{waitkey}{clearbox}lately. How can you skip the{nl}
+rehearsals for "The Snow{nl}
+Queen" when you play her?!{waitkey}{clearbox}Everyone's working their{nl}
+hardest, and you're fine{nl}
+skipping out alone?!{waitkey}{clearbox}Do you have any sense of duty{nl}
+as a member with a lead role?!{waitkey}{ret}
+</message>
+  <message offset="139c">
+Drama Member: That's right,{nl}
+Kumi. Getting picked for{nl}
+"Snow Queen" over the{waitkey}{clearbox}president, and then this?{nl}
+Don't tell me it's gone{nl}
+to your head?{waitkey}{ret}
+</message>
+  <message offset="1400">
+Drama Member: But seriously,{nl}
+it's a problem if you don't{nl}
+come to practice a little.{waitkey}{clearbox}There's a limit to running{nl}
+lines with a stand-in.{nl}
+Kumi, what's your deal?{waitkey}{ret}
+</message>
+  <message offset="1478">
+Kumi: ...um...{nl}
+...I-I have to... study...{nl}
+...you see...{waitkey}{clearbox}...my grades dropped...{nl}
+...and my... parents...{nl}
+...said forget... club...{waitkey}...just study, they said...{waitkey}{ret}
+</message>
+  <message offset="14dc">
+Drama Member: Oh boy,{nl}
+just like the parents of the{nl}
+class's top crammer! C'mon.{waitkey}{clearbox}You were third in the whole{nl}
+grade on the last test.{nl}
+What's wrong with that?!{waitkey}{ret}
+</message>
+  <message offset="1504">
+Kumi: ...uh... because{nl}
+...it wasn't... first...{waitkey}{ret}
+</message>
+  <message offset="158c">
+Drama Member: What's that?!{nl}
+Trying to be snide?!{nl}
+Just 'cause you're a bit{waitkey}{clearbox}smart, don't get cocky!!{waitkey}{clearbox}If your precious studying{nl}
+matters that much, then{nl}
+just quit the club!!{waitkey}{clearbox}Frankly, you're a nuisance!{waitkey}{ret}
+</message>
+  <message offset="15b4">
+Kumi: ...th...{nl}
+...I didn't mean...{nl}
+...I...{waitkey}{ret}
+</message>
+  <message offset="16f8">
+Drama President: Fine, then.{nl}
+So that's why you haven't{nl}
+been coming to club...{waitkey}{clearbox}Hirose... are you looking{nl}
+down on me - no, on the{nl}
+club itself?{waitkey}{clearbox}Do you understand how much{nl}
+trouble you cause others by{nl}
+not attending practice?{waitkey}{clearbox}While you fuss over your own{nl}
+circumstances alone, do you{nl}
+truly grasp how much{waitkey}{clearbox}trouble others suffer{nl}
+because of it?{waitkey}{clearbox}Hirose... within this group{nl}
+called the "drama club,"{nl}
+what is your role right now?{waitkey}{clearbox}If you don't understand that,{nl}
+then please leave{nl}
+this club.{waitkey}{ret}
+</message>
+  <message offset="1770">
+Drama Member: Yeah! Yeah!{nl}
+The president's right!{nl}
+Get out!{waitkey}{clearbox}You big-headed four-eyes!{nl}
+A gloomy little nobody{nl}
+like you{waitkey}{clearbox}is unpleasant just to{nl}
+have around!{waitkey}{ret}
+</message>
+  <message offset="17d8">
+Drama Member: It's sad, but{nl}
+the president's got a point,{nl}
+y'know.{waitkey}{clearbox}Think hard, Kumi.{nl}
+Studying or your youth -{nl}
+which matters more to you...{waitkey}{clearbox}...or something.{waitkey}{ret}
+</message>
+</scene>

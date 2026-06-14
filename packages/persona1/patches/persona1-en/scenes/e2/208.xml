@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="208">
+  <message offset="16d8">
+Tsurunkamen: Ho ho ho ho...{nl}
+Well come, indeed. What sort{nl}
+of wares do you require?{waitkey}{ret}
+</message>
+  <message offset="1710">
+Kamentsurun: Ho ho ho ho...{nl}
+Gemstones I love above all{nl}
+else.{waitkey}{clearbox}I'm running a blowout trade —{nl}
+your gems for my treasured{nl}
+wares.{waitkey}Care to give it a try?{waitkey}{ret}
+</message>
+  <message offset="177c">
+Townsperson: It was such a{nl}
+livable town. What in the{nl}
+world happened? Am I having{nl}
+a bad dream, I wonder.{waitkey}{ret}
+</message>
+  <message offset="17b4">
+Maki: A livable town, huh...{nl}
+I ought to apologize to the{nl}
+townsfolk too.{waitkey}{ret}
+</message>
+  <message offset="17e0">
+Mark: Shady as ever, this{nl}
+shop.{waitkey}{ret}
+</message>
+  <message offset="17fc">
+Nanjo: Shops for the common{nl}
+folk have all sorts of rare{nl}
+things. Though this town is{nl}
+in a class of its own.{waitkey}{ret}
+</message>
+  <message offset="1830">
+Ayase: I'm hungry~ But Ayase{nl}
+will tough it out. Sonomura's{nl}
+having a hard time, after{nl}
+all.{waitkey}{ret}
+</message>
+  <message offset="1864">
+Brown: I'm tired from all this{nl}
+walking~ ...but this is no{nl}
+time to be saying that!{waitkey}{ret}
+</message>
+  <message offset="1890">
+Elly: Are you done shopping?{waitkey}{ret}
+</message>
+  <message offset="18a8">
+Elly: Have you finished your{nl}
+shopping?{waitkey}{ret}
+</message>
+  <message offset="18c0">
+Reiji: How long do you intend{nl}
+to keep shopping?{waitkey}
+</message>
+</scene>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="165">
+  <message offset="126c">
+Maki: This scenery... I feel{nl}
+like I've seen it somewhere{nl}
+before.{waitkey}{ret}
+</message>
+  <message offset="1294">
+Nanjo: {ctl0f:1}...{nl}
+Is your weapon ready?{waitkey}{ret}
+</message>
+  <message offset="12b8">
+Nanjo: {ctl0f:1}...{nl}
+Is your weapon ready?{waitkey}This time I won't let him{nl}
+slip away!{waitkey}{ret}
+</message>
+  <message offset="12fc">
+Mark: We're almost there...{wait_fr:32}{nl}
+Soon we'll beat Kandori and{nl}
+put the town back to normal...{waitkey}{ret}
+</message>
+  <message offset="1334">
+Mark: This time we'll beat{nl}
+Kandori and set the town{nl}
+right again!{waitkey}{ret}
+</message>
+  <message offset="1360">
+Elly: Do you not hear the{nl}
+sound of some great machine?{waitkey}{ret}
+</message>
+  <message offset="138c">
+Brown: ...{wait_fr:32}I wish I had a{nl}
+researcher all to myself,{nl}
+too.{waitkey}{ret}
+</message>
+  <message offset="13c4">
+Ayase: Those guys are the{nl}
+worst! All they think about{nl}
+is their own research!{waitkey}{ret}
+</message>
+  <message offset="13f8">
+Scientist: Curse Kandori!{waitkey}{nl}
+Keeping himself safe while he{nl}
+leaves us as demon prey, is{nl}
+that his plan?!{waitkey}{ret}
+</message>
+  <message offset="1440">
+Scientist: I don't see Dr.{nl}
+Nicolai anywhere...{waitkey}{wait_fr:32}{nl}
+Just when I thought he was up{nl}
+to something on the sly,{waitkey}he'd wormed his way into{nl}
+Kandori's good graces!{waitkey}{ret}
+</message>
+  <message offset="14a8">
+Scientist: At this rate, my{nl}
+precious experiment data will{nl}
+be ruined! Ahh, my important{nl}
+research...!{waitkey}{ret}
+</message>
+  <message offset="14ec">
+This door doesn't look like{nl}
+it'll open...{waitkey}{ret}
+</message>
+</scene>

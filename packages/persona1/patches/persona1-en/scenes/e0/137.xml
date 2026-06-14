@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="137">
+  <message offset="1ca0">
+Mark: Tch!{nl}
+It was a trap after all!{nl}
+{ctl0f:1}, let's go!{waitkey}{ret}
+</message>
+  <message offset="1ccc">
+Hariti: Maki...?{wait_fr:32}{nl}
+Maki, I finally found you.{nl}
+You're safe...{waitkey}{ret}
+</message>
+  <message offset="1d04">
+Nanjo: So this voice is...{wait_fr:32}{nl}
+Sonomura's mother...!{waitkey}{ret}
+</message>
+  <message offset="1d30">
+Hariti: Mother has been{nl}
+searching for you, Maki...{wait_fr:48}{nl}
+Come {wait_fr:21}Maki, {wait_fr:21}to Mother...{waitkey}{ret}
+</message>
+  <message offset="1d7c">
+Elly: Maki!{wait_fr:16}{nl}
+No good - she seems to be{nl}
+controlled by that Demon...{waitkey}{clearbox}The voice does sound like{nl}
+Maki's mother{wait_fr:32}, but{nl}
+we can't trust it!{waitkey}{clearbox}{ctl07:1}, let's fight!{waitkey}{ret}
+</message>
+  <message offset="1e04">
+Ayase: Hey, are you sure{nl}
+about this, {ctl0f:1}?!{waitkey}{clearbox}Sonomura might get killed{nl}
+by that monster!{nl}
+Let's take it down quick!{waitkey}{ret}
+</message>
+  <message offset="1e4c">
+Reiji: You okay leaving{nl}
+Sonomura like that, {ctl0f:1}?{nl}
+We gotta beat that demon!{waitkey}{ret}
+</message>
+  <message offset="1e9c">
+Mark: But that voice...{nl}
+It's gotta be Sonomura's{nl}
+mom's voice, right?{waitkey}{clearbox}I dunno why she's dressed{nl}
+like that, but what if it's{nl}
+really her mom...?{waitkey}{ctl0f:1}, we can't fight her!{waitkey}{ret}
+</message>
+  <message offset="1ed0">
+Nanjo: ...{wait_fr:16}...{wait_fr:16}...{wait_fr:16}...{wait_fr:16}...{waitkey}{ret}
+</message>
+  <message offset="1f50">
+What will you do?{nl}
+{ctl0e:18}{ret}
+</message>
+  <message offset="1f74">
+Hariti: Why do you{nl}
+stand in my way...?{nl}
+Give back my daughter!{waitkey}{ret}
+</message>
+  <message offset="1f84">
+Maki's Mother: Oh...{wait_fr:32} where{wait_fr:32}{nl}
+am I... isn't this the{nl}
+infirmary?{waitkey}{clearbox}My, it's a haunted house.{nl}
+I was just dreaming of{nl}
+that very thing.{waitkey}{ret}
+</message>
+  <message offset="1fb8">
+Mark: In this world,{nl}
+Sonomura's mom{nl}
+doesn't exist...{waitkey}{clearbox}...She's the real deal!{nl}
+But why is she here...{wait_fr:32}{nl}
+Ma'am, are you okay?{waitkey}{ret}
+</message>
+  <message offset="2010">
+Maki's Mother: Yes,{nl}
+I'm fine...{waitkey}When Maki was little, she'd{nl}
+get lost in the haunted{nl}
+house, and I'd find her.{waitkey}{clearbox}As I searched this vast{nl}
+mansion all alone,{nl}
+I heard Maki calling...{waitkey}After that, I don't{nl}
+remember a thing.{waitkey}{ret}
+</message>
+  <message offset="2078">
+Maki: Listen, ma'am...{nl}
+I'm really not{nl}
+your child.{waitkey}{ret}
+</message>
+  <message offset="2118">
+Maki's Mother: What...?{waitkey}{ret}
+</message>
+  <message offset="2144">
+Nanjo: Let me explain{nl}
+from the beginning.{waitkey}{ret}
+</message>
+  <message offset="2158">
+Maki's Mother: I see...{wait_fr:32}{nl}
+You're the Maki of{nl}
+this world.{waitkey}{clearbox}But why is there no me{nl}
+in this world, I wonder...{waitkey}{ret}
+</message>
+  <message offset="2174">
+Maki: Ah! The dimensional{nl}
+passage is vanishing...!{waitkey}{ret}
+</message>
+  <message offset="21c4">
+Mark: Ma'am, we've gotta{nl}
+go after Kandori.{waitkey}{ret}
+</message>
+  <message offset="21e8">
+Maki's Mother: I understand.{nl}
+Wait just a moment!{waitkey}{ret}
+</message>
+  <message offset="2214">
+Maki's Mother: This passage{nl}
+is very unstable.{waitkey}{clearbox}Someone must stay here{nl}
+and operate the machine.{waitkey}{ret}
+</message>
+  <message offset="223c">
+Maki: Someone has to{nl}
+stay behind?{nl}
+No - I won't leave anyone!{waitkey}{ret}
+</message>
+  <message offset="2288">
+Maki's Mother: I'll do it!{nl}
+I'll keep the passage{nl}
+stable, so don't worry - go.{waitkey}{clearbox}Though... it would make me{nl}
+happy if you came back{nl}
+for me once it's all over.{waitkey}{ret}
+</message>
+  <message offset="22bc">
+Maki: Ma'am...{waitkey}{ret}
+</message>
+  <message offset="2328">
+Maki's Mother: Yes?{nl}
+There's no time - hurry.{waitkey}{ret}
+</message>
+  <message offset="2338">
+Maki: I don't have{nl}
+a mother, but...{waitkey}{clearbox}I wish I'd had a kind{nl}
+mother like you{wait_fr:32},{nl}
+I really do...{waitkey}{ret}
+</message>
+  <message offset="235c">
+Maki: Once we beat Kandori,{nl}
+I'll be sure to find your{nl}
+"little Maki" too!{waitkey}{ret}
+</message>
+  <message offset="23a4">
+Maki's Mother: ...{wait_fr:16}...{wait_fr:16}...{wait_fr:16}...{wait_fr:16}{nl}
+Yes, that's right.{wait_fr:64}{nl}
+Thank you...{waitkey}{ret}
+</message>
+  <message offset="23e0">
+Nanjo: .........{waitkey}{ret}
+</message>
+  <message offset="2420">
+Maki's Mother: Off you go,{nl}
+everyone! Take care!{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="212">
+  <message offset="163c">
+Doctor: My nurse is such a{nl}
+busybody, it's no good.{waitkey}{ret}
+</message>
+  <message offset="1660">
+Doctor: Now then, what'll{nl}
+it be?{nl}
+{ctl0e:17}{ret}
+</message>
+  <message offset="1678">
+Doctor: All right then,{nl}
+all of you...{waitkey}{ret}
+</message>
+  <message offset="1694">
+Doctor: It'll cost 1500 yen.{nl}
+Is that all right?{waitkey}{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="16bc">
+Doctor: Hm. Let's get you{nl}
+treated, then.{waitkey}{ret}
+</message>
+  <message offset="16d8">
+Doctor: Mm, that should do it.{waitkey}{ret}
+</message>
+  <message offset="170c">
+Doctor: A shame, but I can't{nl}
+treat you with no money...{nl}
+Come back with the fee.{waitkey}{ret}
+</message>
+  <message offset="174c">
+Doctor: Skimp on treatment{nl}
+now, and I hope it won't{nl}
+come back to bite you.{waitkey}{ret}
+</message>
+  <message offset="177c">
+Doctor: Good. Come straight{nl}
+back if anything comes up.{waitkey}{ret}
+</message>
+  <message offset="17a0">
+Doctor: I'm a busy man. If{nl}
+you've no business here,{nl}
+off you go.{waitkey}{ret}
+</message>
+  <message offset="17c8">
+Nurse: Don't go letting Maki{nl}
+get hurt. She's the town's{nl}
+idol, after all.{waitkey}{ret}
+</message>
+  <message offset="1800">
+Nurse: Oh, you're from the{nl}
+same school as Maki Sonomura.{waitkey}{clearbox}Huh? You're friends with her?!{nl}
+Friends with the town idol —{nl}
+how envious I am~!!{waitkey}Get me an autograph sometime!!{waitkey}{ret}
+</message>
+  <message offset="1878">
+Maki: An idol? That's not{nl}
+true at all... Everyone's{nl}
+just been made to think so...{waitkey}{ret}
+</message>
+  <message offset="18ac">
+Mark: Sonomura an idol, huh...{nl}
+Not bad! You think so,
+</message>
+  <message offset="18e0">
+ right?{waitkey}{ret}
+</message>
+  <message offset="1910">
+Nanjo: ...{wait_fr:88} For Sonomura,{nl}
+who knows everything, those{nl}
+words must sting
+</message>
+  <message offset="192c">
+, I imagine.{waitkey}{ret}
+</message>
+  <message offset="195c">
+Ayase: Doctors are kinda{nl}
+full of themselves, huh.{waitkey}{ret}
+</message>
+  <message offset="1990">
+Brown: Forget
+</message>
+  <message offset="19cc">
+ injuries!{nl}
+Give me a cure for my clever{nl}
+noggin instead.{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="214">
+  <message offset="3710">
+Trish: Hi! I'm Trish!{nl}
+This is the Fountain of{nl}
+Recovery!{waitkey}{clearbox}The world runs on give and{nl}
+take! For the right price,{nl}
+I'll Recover anything!{waitkey}{ret}
+</message>
+  <message offset="3784">
+What can I do for you?{nl}
+{ctl0e:17}{ret}
+</message>
+  <message offset="3798">
+Trish: OK!{waitkey}{ret}
+</message>
+  <message offset="37ac">
+Trish: Let's see, the going{nl}
+rate for healing these days{nl}
+is about this much, so for{nl}
+everyone...{waitkey}{ret}
+</message>
+  <message offset="37e4">
+It'll cost 3000 yen, okay?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="3800">
+Trish: Thanks! All right,{nl}
+I'll heal you up! Pain, pain,{nl}
+fly away~!{waitkey}{ret}
+</message>
+  <message offset="3840">
+Trish: Phew... That's all!{nl}
+You're all better now!{waitkey}{ret}
+</message>
+  <message offset="388c">
+Trish: Boo~! You don't have{nl}
+any money?! Trish doesn't{nl}
+like broke people!{waitkey}{clearbox}Come back after you've saved{nl}
+up some money. Bye-bye!{waitkey}{ret}
+</message>
+  <message offset="38f4">
+Trish: Boo~!
+</message>
+  <message offset="392c">
+{nl}
+Cheapskate, cheapskate, total{nl}
+cheapskate! Don't blame me{nl}
+if you die!{waitkey}{ret}
+</message>
+  <message offset="3958">
+Come again, okay? I'll be{nl}
+waiting. Bye-bye!{waitkey}{ret}
+</message>
+</scene>

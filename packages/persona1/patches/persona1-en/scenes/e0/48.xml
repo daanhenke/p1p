@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="48">
+  <message offset="18fc">
+Maki: So this is the{nl}
+police station...{wait_fr:32}{nl}
+Right, right, I remember{nl}
+this place!{waitkey}{ret}
+</message>
+  <message offset="192c">
+Nanjo: ...{wait_fr:16}...{wait_fr:16}Right.{wait_fr:32}{nl}
+{ctl0f:1}, Inaba should be{nl}
+in the holding cell.{waitkey}{nl}
+But we need a key to get{nl}
+into the cell block.{nl}
+What do we do...{waitkey}{ret}
+</message>
+  <message offset="1994">
+Maki: Maybe it's{nl}
+somewhere around here.{nl}
+Let's look!{waitkey}{ret}
+</message>
+  <message offset="19bc">
+Nanjo: That makes sense.{nl}
+{ctl0f:1},{nl}
+help us search.{waitkey}{ret}
+</message>
+  <message offset="19e4">
+Found the "Cell Key"...{waitkey}{clearbox}Obtained the "Cell Key"!{waitkey}{ret}
+</message>
+  <message offset="1a18">
+There don't seem to be{nl}
+any more useful keys...{waitkey}{ret}
+</message>
+  <message offset="1a3c">
+Nanjo: Good — now we{nl}
+can open the cell door!{waitkey}{ret}
+</message>
+  <message offset="1a68">
+Nanjo: Inaba should be{nl}
+in the cells.{waitkey}Not that I want to{nl}
+rescue him, but he has{nl}
+the "Security Card."{waitkey}{ret}
+</message>
+  <message offset="1ab8">
+Maki: "Holding cell"...{wait_fr:32}{nl}
+Oh, the holding cell!{nl}
+Yeah, yeah, that's a thing!{waitkey}{ret}
+</message>
+  <message offset="1af4">
+Maki: Hey, {ctl07:1},{nl}
+Nanjo says I'm acting{nl}
+weird — what do you think?{waitkey}{ret}
+</message>
+  <message offset="1b2c">
+Brown: {ctl08:65281}You think I was{nl}
+in trouble and came{nl}
+to rescue me?{waitkey}Tch! That's not it!{waitkey}{clearbox}I'd just thought of{nl}
+a super-cool escape plan —{nl}
+what a waste! Dang!{waitkey}{ret}
+</message>
+  <message offset="1ba8">
+Nanjo: Once we had the card,{nl}
+we could have just left{nl}
+Inaba and Brown here.{waitkey}{ret}
+</message>
+  <message offset="1be8">
+Mark: That old bastard!{nl}
+How could you hand the cops{nl}
+over to demons?!{waitkey}{clearbox}That old bastard...{nl}
+I mean, the Inspector.{nl}
+He'd collar me sometimes{nl}
+and I'd get ticked,{waitkey}{clearbox}but he actually{nl}
+gave a damn about me.{nl}
+Don't tell me that{nl}
+demon got to him...{waitkey}{clearbox}...Nah.{nl}
+That overkill Inspector{nl}
+wouldn't fall that easy.{waitkey}{ret}
+</message>
+  <message offset="1cb0">
+Maki: We need a key{nl}
+to get into the cells.{nl}
+Let's find it first.{waitkey}{clearbox}Let's search inside.{waitkey}{ret}
+</message>
+  <message offset="1cf4">
+Nanjo: They wouldn't leave{nl}
+the key outside.{nl}
+Search inside more.{waitkey}{clearbox}Keep looking.{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="36">
+  <message offset="1578">
+There's nothing here.{waitkey}{ret}
+</message>
+  <message offset="1584">
+A small scrap of paper is{nl}
+stuck to the frozen floor.{waitkey}{ret}
+</message>
+  <message offset="15a4">
+Read it?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="15b8">
+Get rid of the old lead-role{nl}
+costumes from our "Snow{nl}
+Queen" — they're dirty and{nl}
+seem unlucky.{waitkey}{clearbox}The stuff's right of the{nl}
+vaulting box. I'm counting{nl}
+on you, first-years!!{nl}
+- The drama star{color:3}♥{color:0} captain{waitkey}{ret}
+</message>
+  <message offset="1634">
+Among the junk is a vintage{nl}
+costume.{waitkey}{ret}
+</message>
+  <message offset="1654">
+Got the "Spiegel Mask"!{waitkey}{ret}
+</message>
+  <message offset="1674">
+Got the "Spiegel Mail"!{waitkey}{ret}
+</message>
+  <message offset="1694">
+Got the "Spiegel Bein"!{waitkey}{ret}
+</message>
+  <message offset="16b4">
+Got the "Spiegel Blade"!{waitkey}{ret}
+</message>
+  <message offset="16d8">
+Frozen solid.{waitkey}{ret}
+</message>
+  <message offset="16e4">
+Frozen solid.{waitkey}{ret}
+</message>
+  <message offset="16f0">
+Yukino: This one's got eyes{nl}
+like it wants to say{nl}
+something...{waitkey}{ret}
+</message>
+  <message offset="1714">
+Yukino: We've got to give it{nl}
+our all for their sake too.{waitkey}{ret}
+</message>
+  <message offset="1734">
+Ayase: If I hit it with Agi,{nl}
+would it melt~?{waitkey}{ret}
+</message>
+  <message offset="1750">
+Ayase: If I hit it with Agi,{nl}
+would it melt~?{waitkey}{ret}
+</message>
+  <message offset="176c">
+Nanjo: "Still the mind, and{nl}
+even fire feels cool"{wait_fr:30}...{wait_fr:30}...{waitkey}Though making it colder won't{nl}
+help.{waitkey}{ret}
+</message>
+  <message offset="17a8">
+Nanjo: A windfall from the{nl}
+blue.{waitkey}An unexpected find, that was.{waitkey}{ret}
+</message>
+  <message offset="17cc">
+Brown: Damn it all!{waitkey}Night Queen or whatever you{nl}
+are, the great Brown won't{nl}
+forgive this!!{waitkey}{ret}
+</message>
+  <message offset="1808">
+Brown: The lead-role costume{nl}
+should be a perfect fit for{nl}
+me{wait_fr:30}...{wait_fr:30}...{waitkey}O~{wait_fr:30}my gosh~{waitkey}{clearbox}The size doesn't fit~{waitkey}Can't be helped. It pains me{nl}
+as captain, but{waitkey}{clearbox}{ctl08:5633}{nl}
+I might just let you have it.{waitkey}Just kidding.{waitkey}{ret}
+</message>
+  <message offset="1898">
+Brown: Hwuh?{waitkey}H-{wait_fr:15}hey! Look down by this{nl}
+guy's feet.{waitkey}{clearbox}Something's dropped there.{waitkey}I-{wait_fr:7}i-{wait_fr:7}i-{wait_fr:7}is{wait_fr:7} that{wait_fr:7} a 10,000-yen{nl}
+bill?! If it is, it's mine!{waitkey}{clearbox}Don't{wait_fr:7} take{wait_fr:7} it,{wait_fr:7} don't{wait_fr:7}{nl}
+take it~!! I found it, I{nl}
+did~!!{waitkey}{ret}
+</message>
+  <message offset="1958">
+Yukino: Grasping as ever,{nl}
+aren't you!{waitkey}{ret}
+</message>
+  <message offset="197c">
+Brown: Oh come now, Yukino.{waitkey}{clearbox}As if little me would ever{nl}
+pocket it.{waitkey}{clearbox}I'll present it to you nice{nl}
+and proper, Yukino.{waitkey}No, really, I will.{waitkey}{ret}
+</message>
+  <message offset="19e4">
+Yukino: You fool. I'm telling{nl}
+you that's not a 10,000-yen{nl}
+bill!{waitkey}{ret}
+</message>
+  <message offset="1a10">
+Brown: Huh? Oh{wait_fr:30}, well now~{nl}
+You're right. Sigh...{waitkey}{ret}
+</message>
+  <message offset="1a38">
+Ayase: What a total idiot.{nl}
+He'll face judgment after{nl}
+death, for sure.{waitkey}{ret}
+</message>
+  <message offset="1a5c">
+Brown: Gu-{wait_fr:30}gulp! Why do I{nl}
+have to hear that from{nl}
+Ayase of all people~!?{waitkey}{ret}
+</message>
+  <message offset="1a94">
+Brown: Sigh...{waitkey}{ret}
+</message>
+  <message offset="1aa4">
+Elly: Oh... here too.{waitkey}{ret}
+</message>
+  <message offset="1abc">
+Elly: You've found something{nl}
+nice.{waitkey}{ret}
+</message>
+</scene>

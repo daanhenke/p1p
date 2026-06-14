@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="0">
+  <message offset="1628">
+Oishi: Honestly, the Vice{waitkey}{nl}
+Principal... the boy may have{nl}
+started the fight, but surely{waitkey}{clearbox}he had his reasons. We ought{nl}
+to hear him out before we{nl}
+pass any judgment...{waitkey}{ret}
+</message>
+  <message offset="168c">
+Oishi: What an awful dream.{nl}
+Oh, my head is pounding...{waitkey}{ret}
+</message>
+  <message offset="16b4">
+Oishi: Education isn't only{nl}
+about handing out punishment.{waitkey}{ret}
+</message>
+  <message offset="16dc">
+Hannya: Outrageous! Taking{nl}
+such a defiant attitude with{nl}
+me! I'll hear no excuses!{waitkey}{clearbox}It's all lies anyway. As{nl}
+punishment: wash the windows,{nl}
+copy kanji, and shine{nl}
+my shoes!{waitkey}{ret}
+</message>
+  <message offset="175c">
+Hannya: Ah, if only that{nl}
+had been real...{waitkey}{clearbox}Hmph, never mind.{nl}
+It's nothing.{nl}
+Don't interrupt my writing.{waitkey}{ret}
+</message>
+  <message offset="179c">
+Hannya: Hey now, quit{nl}
+interrupting my writing.{nl}
+Or shall you do it too?{waitkey}{ret}
+</message>
+  <message offset="17d4">
+Kiichi: Gimme a break! Why am{nl}
+I the only one getting chewed{nl}
+out? The prez is guilty too!{waitkey}{clearbox}Yelling without even hearing{nl}
+me out - is that what an{nl}
+educator does, huh?!{waitkey}{ret}
+</message>
+  <message offset="183c">
+Kiichi: Pipe down, will ya!{nl}
+Why do I gotta copy kanji?!{waitkey}Love. {wait_fr:30}Love. {wait_fr:30}Love.{wait_fr:30}{nl}
+Lust. {wait_fr:30}Love{wait_fr:30}......{waitkey}{ret}
+</message>
+  <message offset="1894">
+Kiichi: Pipe down, will ya!{nl}
+I'm kinda busy here!{waitkey}Dog. {wait_fr:30}Dog. {wait_fr:30}Dog. {wait_fr:30}Mutt. {wait_fr:30}Dog{wait_fr:30}......{waitkey}{ret}
+</message>
+  <message offset="18ec">
+Yukino: Unbelievable. That{nl}
+bald geezer's lecturing him{nl}
+one-sidedly again.{waitkey}{ret}
+</message>
+  <message offset="1914">
+Yukino: That Kiichi kid's{nl}
+still copying kanji?{waitkey}{ret}
+</message>
+  <message offset="1934">
+Ayase: Kiichi didn't do{nl}
+anything wrong... Ayase saw{nl}
+it before the school froze.{waitkey}{clearbox}He couldn't stand the prez{nl}
+slacking, so he just "gave{nl}
+him a little warning." That's{nl}
+all!{waitkey}{ret}
+</message>
+  <message offset="1990">
+Ayase: Hey, hey - don't you{nl}
+just wanna smack that bald{nl}
+head when you look at it?{waitkey}{ret}
+</message>
+  <message offset="19bc">
+Nanjo: Both parties share{nl}
+blame. Both should do the{nl}
+writing.{waitkey}{ret}
+</message>
+  <message offset="19e8">
+Nanjo: Nothing will come of{nl}
+staying here.{waitkey}{ret}
+</message>
+  <message offset="1a04">
+Brown: Cold logic's bad{nl}
+enough, but I really wish{nl}
+he'd quit yellin' on emotion.{waitkey}{ret}
+</message>
+  <message offset="1a38">
+Brown: Let's hurry up and{nl}
+go somewhere else.{waitkey}{ret}
+</message>
+  <message offset="1a50">
+Elly: Grown men acting like{nl}
+this... it's not a very{nl}
+becoming sight, is it.{waitkey}{ret}
+</message>
+  <message offset="1a7c">
+Elly: Where could the Snow{nl}
+Queen have gone?{waitkey}{ret}
+</message>
+</scene>

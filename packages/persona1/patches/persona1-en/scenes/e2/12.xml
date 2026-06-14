@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="12">
+  <message offset="11ec">
+Nanjo: Archery's interesting{nl}
+too, I suppose... but don't{nl}
+forget the hospital.{waitkey}{ret}
+</message>
+  <message offset="1220">
+Mark: They say this club room{nl}
+has tons of bows. Maybe I'll{nl}
+borrow one and mess around{nl}
+sometime.{waitkey}{ret}
+</message>
+  <message offset="1254">
+Yukino: I'm just no good{nl}
+with bows. A razor's more{nl}
+my kind of weapon, I guess.{waitkey}{ret}
+</message>
+  <message offset="1284">
+Student: Archery's a refined,{nl}
+grown-up sport! Even if you{nl}
+don't have a bow, I'll lend{nl}
+you one, so it's fine!{waitkey}{ret}
+</message>
+</scene>

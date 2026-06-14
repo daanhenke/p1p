@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="193">
+  <message offset="15bc">
+White Girl: This is no time{nl}
+to be doing this...{waitkey}{clearbox}Hey,{nl}
+have you seen me?{waitkey}{ret}
+</message>
+  <message offset="15f8">
+Ayase: ?{nl}
+What's this kid saying?{waitkey}{clearbox}Hey there, little miss,{nl}
+why are you in a place{nl}
+like this? It's dangerous,{nl}
+go on home now.{waitkey}{ret}
+</message>
+  <message offset="1648">
+Nanjo: Ayase!{nl}
+There's no way a normal girl{nl}
+would be in a place{nl}
+like this!!{waitkey}{clearbox}She's not making any sense.{nl}
+She might not even be human!!{waitkey}{ret}
+</message>
+  <message offset="16a8">
+Elly: Ayase!{nl}
+Can't you think things{nl}
+through a little calmly?{waitkey}{clearbox}There's no way a girl{nl}
+would be here!{waitkey}{nl}
+She's a Monster!!{waitkey}{ret}
+</message>
+  <message offset="1714">
+Ayase: Oh, shut up already!{nl}
+Nitpicking every little thing{waitkey}{clearbox}I just called out because{nl}
+she looked like she was in{nl}
+trouble! I'm not cold-blooded{nl}
+like you!!{waitkey}{ret}
+</message>
+  <message offset="1764">
+White Girl: Mai-chan isn't{nl}
+lost, and isn't{nl}
+a demon either.{waitkey}{clearbox}More importantly,{nl}
+have you seen me?{waitkey}{clearbox}I'm wearing the same{nl}
+clothes as you big sisters{nl}
+and a white mask.{waitkey}{ret}
+</message>
+  <message offset="17d0">
+Yukino: A student here?{waitkey}{clearbox}Sorry, but I don't know{nl}
+any students wearing{nl}
+masks.{waitkey}{ret}
+</message>
+  <message offset="180c">
+Mai: I see.{waitkey}{ret}
+</message>
+  <message offset="181c">
+Ayase: Ah!!{waitkey}{ret}
+</message>
+  <message offset="182c">
+Yukino: Hey,{nl}
+that's the one from before!!{waitkey}{ret}
+</message>
+  <message offset="1848">
+Mai: Huh!?{nl}
+Where was she?{nl}
+Tell me!!{waitkey}{ret}
+</message>
+  <message offset="186c">
+Yukino: Uh, yeah.{nl}
+On this floor.{nl}
+But I forget exactly where.{waitkey}{ret}
+</message>
+  <message offset="1898">
+Mai: Thank you!{waitkey}{ret}
+</message>
+  <message offset="18ac">
+Yukino: Uh, yeah.{waitkey}{clearbox}I think it was a stage-like{nl}
+spot on the 8th floor.{nl}
+But she went{nl}
+further up, it seems.{waitkey}{ret}
+</message>
+  <message offset="18e8">
+Yukino: Who on earth{nl}
+was that girl...{waitkey}{ret}
+</message>
+  <message offset="18fc">
+Ayase: She doesn't seem{nl}
+like a bad kid, though...{waitkey}{ret}
+</message>
+  <message offset="1920">
+Nanjo: That girl...{nl}
+I feel like I've seen her{nl}
+somewhere.{waitkey}{nl}
+But who was she...{waitkey}{ret}
+</message>
+  <message offset="1950">
+Brown: What a cutie~{nl}
+If I lock her down now,{nl}
+in ten years...{waitkey}{ret}
+</message>
+  <message offset="1984">
+Elly: A girl in a place{nl}
+like this{waitkey}{nl}
+must be a Monster!{waitkey}{ret}
+</message>
+</scene>

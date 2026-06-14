@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="86">
+  <message offset="118c">
+Yukino: I really hate it! This{nl}
+tower's oppressive feeling!{waitkey}{ret}
+</message>
+  <message offset="11b4">
+Ayase: Toro and Kuroori...{nl}
+are they okay, I wonder?{waitkey}{ret}
+</message>
+  <message offset="11d8">
+Nanjo: Just this once, even I{nl}
+will go all out! Michiko{nl}
+alone I cannot forgive!{waitkey}{ret}
+</message>
+  <message offset="1214">
+Brown: All right! Michiko's{nl}
+room should be getting close{nl}
+now!{waitkey}{clearbox}Let's check our equipment!{waitkey}{ret}
+</message>
+  <message offset="125c">
+Elly: Phew, it's exhausting{nl}
+both mentally and physically.{nl}
+Is this Michiko's doing{waitkey}as well, I wonder?{waitkey}{ret}
+</message>
+</scene>

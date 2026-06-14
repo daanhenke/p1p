@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="5">
+  <message offset="161c">
+Male Student: Hnngh~? What's{nl}
+with this music~?!{waitkey}{ret}
+</message>
+  <message offset="1644">
+Male Student: This shop just{nl}
+kills the tension, man.{waitkey}And it's rough outside, too.{waitkey}{ret}
+</message>
+  <message offset="1678">
+Shopkeeper: Howdy. My{nl}
+great-grandkid's always in{nl}
+your care.{waitkey}{clearbox}I'm watching over you from{nl}
+the afterlife. Uhyahyahyahya.{waitkey}{ret}
+</message>
+  <message offset="16cc">
+Shopkeeper: My, it's cold{nl}
+out there~{waitkey}{ret}
+</message>
+  <message offset="16e8">
+Yukino: What's with that old{nl}
+man? "The afterlife" — where's{nl}
+that, huh.{waitkey}{clearbox}And anyway, why is there a{nl}
+pharmacy at the school...?{waitkey}{ret}
+</message>
+  <message offset="172c">
+Yukino: Where did this shop{nl}
+even spring up from?{waitkey}{ret}
+</message>
+  <message offset="174c">
+Ayase: Eee! A frog!!{waitkey}{clearbox}So pretty~{color:3}♥♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="177c">
+Ayase: I want this frog~{nl}
+Papa, buy it, buy it~{color:3}♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="17a8">
+Nanjo: Why a pharmacy...?{waitkey}{ret}
+</message>
+  <message offset="17c0">
+Nanjo: Is this a legitimate{nl}
+shop?{waitkey}{ret}
+</message>
+  <message offset="17d8">
+Brown: Hanajin Z... looks{nl}
+like it'd work like crazy.{waitkey}{ret}
+</message>
+  <message offset="1800">
+Brown: Maybe I'll buy up the{nl}
+Hanajin Z before school's{nl}
+back to normal...{waitkey}{ret}
+</message>
+  <message offset="1834">
+Elly: Nothing but dubious{nl}
+medicines... I wonder if{nl}
+there's no ill effect on{nl}
+the body.{waitkey}{ret}
+</message>
+  <message offset="1858">
+Elly: Isn't there any proper{nl}
+medicine for everyday life?{waitkey}{ret}
+</message>
+  <message offset="1880">
+Frog: Talking to a frog you've{nl}
+never met — you must be quite{nl}
+bored.{waitkey}{clearbox}For that curiosity, I might{nl}
+just give you a free sample{nl}
+Satomi Tadashi recommends.{waitkey}{ret}
+</message>
+  <message offset="18e0">
+Got the "Muscle Drinko"!{waitkey}{clearbox}Muscle Drinko —{nl}
+the essence of a frog's love.{waitkey}A syllable over.{waitkey}{ret}
+</message>
+  <message offset="1924">
+No way{wait_fr:30}, looks like you've{nl}
+got more than I do.{waitkey}{clearbox}Trying to mooch even more —{nl}
+you're heartless, you are.{nl}
+You'll surely face judgment{nl}
+after death.{waitkey}{clearbox}You can just go die. No, no,{nl}
+seriously.{waitkey}{ret}
+</message>
+  <message offset="1988">
+Just kidding{wait_fr:30}. You take all{nl}
+three and not even a{nl}
+thank-you?{waitkey}{clearbox}Surely{wait_fr:30} you're not swiping{nl}
+mini medals and travelers'{nl}
+clothes from other people's{nl}
+dressers, are you?{waitkey}{clearbox}You can just go die. No, no,{nl}
+seriously.{waitkey}{ret}
+</message>
+  <message offset="1a08">
+Frog: Oh my~ so pretty~{color:3}♥{color:0}{waitkey}An impression of Yuka Ayase.{nl}
+No, no, seriously.{waitkey}{clearbox}...{wait_fr:30}...{wait_fr:30}You're always so quiet.{nl}
+Here I'm offering comedy, and{nl}
+you just put a hand on your{nl}
+hip and look down in silence.{waitkey}{clearbox}In tribute to that surliness,{nl}
+I might just give you a free{nl}
+sample Satomi Tadashi{nl}
+recommends.{waitkey}{ret}
+</message>
+  <message offset="1abc">
+Got the "Hangonkou"!{waitkey}{clearbox}Hangonkou — written in kanji,{nl}
+it means "soul-summoning{nl}
+incense."{waitkey}Very educational, isn't it.{waitkey}{ret}
+</message>
+  <message offset="1b04">
+Just kidding{wait_fr:30}. After making{nl}
+me lavish all this on you,{nl}
+not one whisper of love?{waitkey}{clearbox}You're of that age now, so{nl}
+you ought to learn a little{nl}
+about the subtleties between{nl}
+man and woman.{waitkey}{clearbox}That is to say{wait_fr:30}{nl}
+this frog is a girl{color:3}♥{color:0}{waitkey}{ret}
+</message>
+</scene>

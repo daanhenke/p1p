@@ -1,0 +1,36 @@
+# syntax=docker/dockerfile:1
+# Build context is the app/ monorepo root (so the workspace deps resolve). Produces a static nginx
+# image serving the Persona 1 setup wizard — `wizard:packs` compiles the patch packs and stages the
+# banner/desktop art + music into public/ during the build. See .containerignore — it keeps installed
+# deps and the copyrighted disc data out of the context.
+#
+#   podman build -f packages/persona1/wizard/Containerfile -t persona1-wizard .
+
+# ---- build the static site ----
+FROM docker.io/library/node:22-alpine AS build
+RUN corepack enable && corepack prepare pnpm@10.33.2 --activate
+WORKDIR /app
+
+# Whole workspace (the lockfile pins every package); deps first for layer caching.
+COPY pnpm-workspace.yaml pnpm-lock.yaml package.json tsconfig.base.json tsconfig.json ./
+COPY packages ./packages
+RUN pnpm install --frozen-lockfile
+
+# Analytics + build metadata baked into the bundle (all empty -> analytics off, version from changelog).
+ARG VITE_UMAMI_SRC=
+ARG VITE_UMAMI_ID=
+ARG VITE_WIZARD_VERSION=
+ARG VITE_GIT_COMMIT=
+ENV VITE_UMAMI_SRC=$VITE_UMAMI_SRC \
+    VITE_UMAMI_ID=$VITE_UMAMI_ID \
+    VITE_WIZARD_VERSION=$VITE_WIZARD_VERSION \
+    VITE_GIT_COMMIT=$VITE_GIT_COMMIT
+
+# Compile packs + stage assets, then bundle. Typecheck is a CI/dev concern, skipped here.
+RUN pnpm --filter persona1 wizard:build
+
+# ---- serve the static bundle ----
+FROM docker.io/library/nginx:1.27-alpine AS runtime
+COPY packages/persona1/wizard/nginx.conf /etc/nginx/conf.d/default.conf
+COPY --from=build /app/packages/persona1/wizard/dist /usr/share/nginx/html
+EXPOSE 80

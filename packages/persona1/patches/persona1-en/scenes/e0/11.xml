@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="11">
+  <message offset="14fc">
+Yamaoka: Young master!{waitkey}{ret}
+</message>
+  <message offset="1510">
+{color:2}Yamaoka{nl}
+The Nanjo family butler.{nl}
+Has looked after Nanjo{nl}
+since he was a child.{color:0}{waitkey}{ret}
+</message>
+  <message offset="1550">
+Nanjo: Y-{wait_fr:32}Yamaoka...{waitkey}{ret}
+</message>
+  <message offset="1568">
+Yamaoka: Oh my goodness!{wait_fr:32}{nl}
+Young master Kei has come{nl}
+home with his friends!{nl}
+I am so pleased~!{waitkey}{ret}
+</message>
+  <message offset="15bc">
+Mark: Young{wait_fr:16} masteeer~?{waitkey}{ret}
+</message>
+  <message offset="15d8">
+Nanjo: Y-Yamaoka!{nl}
+How many times must I say{nl}
+stop calling me that!?{waitkey}{nl}
+I am...{waitkey}{ret}
+</message>
+  <message offset="1618">
+Mark: What? "I am"~?{waitkey}{ret}
+</message>
+  <message offset="1630">
+Nanjo: Ah, never mind...{wait_fr:16}{nl}
+Shut up, Inaba!{waitkey}{ret}
+</message>
+  <message offset="1654">
+Nanjo: Yamaoka, forget it.{nl}
+Go home ahead of us!{waitkey}{ret}
+</message>
+  <message offset="167c">
+Yamaoka: Oh my!{nl}
+Are you going out{nl}
+with everyone, young master!{waitkey}{ret}
+</message>
+  <message offset="16ac">
+Nanjo: We're just going to{nl}
+the hospital! And stop{nl}
+calling me young master!{waitkey}{ret}
+</message>
+  <message offset="16d4">
+Yamaoka: My goodness!{nl}
+The hospital, you say!{nl}
+Are you injured, young master!{waitkey}{ret}
+</message>
+  <message offset="1708">
+Yukino: Pff...{wait_fr:48}{nl}
+Ahahaha ha ha!{waitkey}{ret}
+</message>
+  <message offset="1724">
+Nanjo: I'm done with this!{nl}
+Let's go, {ctl0f:1}!{nl}
+Yamaoka, do NOT follow us!{waitkey}{ret}
+</message>
+</scene>

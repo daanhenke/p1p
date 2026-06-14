@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="217">
+  <message offset="1618">
+Maki: Huh, {ctl07:1}? Aren't we{nl}
+going to the shrine?{waitkey}{ret}
+</message>
+  <message offset="163c">
+Maki: That monster in the{nl}
+subway — I feel like I've{nl}
+seen it in a book. Was it a{nl}
+Cthulhu book?{waitkey}{ret}
+</message>
+  <message offset="1678">
+Maki: The "Evil-Warding{nl}
+Mirror" is here, right?{waitkey}{ret}
+</message>
+  <message offset="169c">
+Nanjo: You don't trust{nl}
+Kuroori?{waitkey}{clearbox}Unlike the one in our town,{nl}
+he seems to be quite{nl}
+capable.{waitkey}{ret}
+</message>
+  <message offset="16e4">
+Nanjo: Still, what a{nl}
+terrible stench that was!{waitkey}{ret}
+</message>
+  <message offset="1704">
+Nanjo: Yes, I'm fairly sure{nl}
+the "Evil-Warding Mirror"{nl}
+was on display here.{waitkey}{ret}
+</message>
+  <message offset="1734">
+Mark: This is like a field{nl}
+trip! Is there anywhere
+</message>
+  <message offset="176c">
+{nl}
+that's different from ours?{waitkey}{ret}
+</message>
+  <message offset="17a0">
+Mark: It was saying{nl}
+"Yog-Sothoth," that monster.{nl}
+What the heck's that mean?{waitkey}{ret}
+</message>
+  <message offset="17c4">
+Mark: We ran into that shady{nl}
+old man again, huh.{waitkey}Elly: I do wish they'd display{nl}
+a few more things about{nl}
+Demons here.{waitkey}{ret}
+</message>
+  <message offset="17fc">
+Elly: That Demon earlier was{nl}
+splendid! I was quite moved.{waitkey}{ret}
+</message>
+  <message offset="1830">
+Elly: With the "Evil-Warding{nl}
+Mirror," we can fight the{nl}
+subway Demon, can't we?{waitkey}
+</message>
+  <message offset="186c">
+Brown: I'm not really into{nl}
+this kind of thing, but...{waitkey}{ret}
+</message>
+  <message offset="1898">
+Brown: Me, fight that thing{nl}
+from before?{wait_fr:16} ...{wait_fr:21}Seriously?{waitkey}{ret}
+</message>
+  <message offset="18cc">
+Brown: With the "Evil-Warding{nl}
+Mirror"!{wait_fr:32} I can actually fight{nl}
+demons, huh...{waitkey}Ayase: What's this? {ctl0f:1},{nl}
+you're more of a bookworm{nl}
+than I thought!{waitkey}Ayase: Urp... I can't get the{nl}
+smell of that monster off me.{waitkey}{ret}
+</message>
+  <message offset="1904">
+Ayase: Someday, for sure,{nl}
+I'll uncover that shady old{nl}
+man's true identity!{waitkey}{ret}
+</message>
+  <message offset="1930">
+Reiji: {ctl0f:1}, you seem to{nl}
+have more composure than I{nl}
+thought.{waitkey}Reiji: I've never seen a{nl}
+monster like that before.{waitkey}{ret}
+</message>
+  <message offset="1958">
+Reiji: Can't be helped. Let's{nl}
+hurry and go grab this{nl}
+"Evil-Warding Mirror."{waitkey}{ret}
+</message>
+</scene>

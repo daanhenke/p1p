@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="200">
+  <message offset="1514">
+!
+</message>
+  <message offset="15a0">
+!
+</message>
+  <message offset="15f4">
+Night Queen: Hmhmhm...{nl}
+To think you'd chase me{nl}
+this far...{waitkey}{clearbox}You should have just waited{nl}
+quietly for the{nl}
+"Eternal Night."{waitkey}{clearbox}Very well, as you wish,{nl}
+I'll grant you despair.{waitkey}{clearbox}I won't go down as easily{nl}
+as Tomomi did.{wait_fr:30}{nl}
+Hmhmhm...{waitkey}{ret}
+</message>
+  <message offset="1678">
+Masked Girl: Why do you{nl}
+try to protect the school?{waitkey}{clearbox}A school like this...{wait_fr:30} a school{nl}
+like this should just{nl}
+disappear!{waitkey}{ret}
+</message>
+  <message offset="16a0">
+Masked Boy: Night Queen,{nl}
+we shall lend you our power.{waitkey}{clearbox}That said, this place is{nl}
+a bit cramped to combine{nl}
+the strength of three.{waitkey}{clearbox}We'll invite you to the{nl}
+top floor.{wait_fr:30} Follow us{nl}
+at your leisure.{waitkey}{ret}
+</message>
+  <message offset="16bc">
+Masked Boy: Are you ready,{nl}
+gentlemen?{waitkey}{ret}
+</message>
+  <message offset="16d4">
+Ready to head to the floor{nl}
+above?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="171c">
+Masked Boy: Very well.{waitkey}{ret}
+</message>
+  <message offset="1734">
+Masked Boy: Then keep{nl}
+honing yourselves.{waitkey}{clearbox}Whichever side wins,{nl}
+it makes no difference to me.{waitkey}{ret}
+</message>
+  <message offset="174c">
+Yukino: Let's hurry up!{waitkey}{ret}
+</message>
+  <message offset="175c">
+Ayase: I'm mentally ready.{waitkey}{ret}
+</message>
+  <message offset="17ec">
+Nanjo: ......{waitkey}{ret}
+</message>
+</scene>

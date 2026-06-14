@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="99">
+  <message offset="1520">
+Yukino: Where's this?{nl}
+It looks different from{nl}
+the rooms before.{waitkey}{ret}
+</message>
+  <message offset="1544">
+???: What have you come for,{nl}
+humans...? Did you come{nl}
+knowing this is the gate{waitkey}to the underworld,{waitkey}{clearbox}and that I am the watchdog{nl}
+Cerberus?{waitkey}{ret}
+</message>
+  <message offset="15b0">
+Nanjo: What is this beast?{nl}
+Does it mean to bar our way?{nl}
+If so, I'll show no mercy!{waitkey}{ret}
+</message>
+  <message offset="15ec">
+Brown: What's with this guy?{nl}
+Trying to block my path?{nl}
+What a stuck-up jerk.{waitkey}{clearbox}But he looks tough...{nl}
+Let's try "talking" first!{nl}
+Uh...{waitkey}{clearbox}"Me sama grumpy.{nl}
+You there, move it."{nl}
+...or something.{waitkey}{ret}
+</message>
+  <message offset="1674">
+Ayase: Hey, hey,{nl}
+us Ayase and friends{nl}
+don't really wanna{waitkey}fight you or anything.{waitkey}{clearbox}We just kinda wanna{nl}
+get to the other side,{nl}
+is all... No good?{waitkey}{ret}
+</message>
+  <message offset="16d4">
+Cerberus: Hmph.{nl}
+Beyond here lies the world{nl}
+of death - where the souls{waitkey}of the dead gather.{waitkey}{clearbox}I doubt the likes of you{nl}
+have business there?{waitkey}{ret}
+</message>
+  <message offset="1730">
+Nanjo: The "world of the{nl}
+dead," is it? How amusing.{nl}
+This tower itself is already{waitkey}a "hell" where demons gather.{waitkey}{clearbox}There is nothing left{nl}
+for us to fear now.{waitkey}{clearbox}Besides, the secret of our{nl}
+lost Persona power from the{nl}
+candle room may lie here.{waitkey}{clearbox}What Yuriko said back then -{nl}
+"I've taken the life of{nl}
+your other self"...{waitkey}{clearbox}referred to the loss of our{nl}
+Persona power.{waitkey}{clearbox}"Taking the life" is "death."{nl}
+"The death of one's other{nl}
+self," and this place,{waitkey}"where dead souls gather"!{waitkey}{clearbox}Hmph. It's plain our "other{nl}
+selves' souls" are here!{waitkey}{clearbox}Hey, mutt! You're stalling us{nl}
+on Yuriko's orders, aren't{nl}
+you? Let us through!{waitkey}{ret}
+</message>
+  <message offset="18e4">
+Elly: Heehee. The secret of{nl}
+the Persona lost in the candle{nl}
+room seems to lie here.{waitkey}{clearbox}What Yuriko said then -{nl}
+"I've taken the life of{nl}
+your other self"...{waitkey}{clearbox}referred to the loss of{nl}
+our Personas.{waitkey}{clearbox}"Taking the life" is "death."{nl}
+"The death of one's other{nl}
+self," and this place is{waitkey}"where dead souls gather"...{waitkey}{clearbox}Our "other selves' souls"{nl}
+seem to be here.{waitkey}{clearbox}Hey! Cerberus!! You're{nl}
+stalling us here on Yuriko's{nl}
+orders, aren't you?{waitkey}{clearbox}Be quiet and let us through!{nl}
+Or else...{waitkey}{ret}
+</message>
+  <message offset="1a78">
+Cerberus: You've got{nl}
+good intuition.{waitkey}{clearbox}That reasoning is half right{nl}
+and half wrong.{waitkey}{clearbox}Certainly, the Personas you{nl}
+speak of are here.{waitkey}{clearbox}But I have nothing to do{nl}
+with Yuriko. I simply guard{nl}
+this place because I wish to.{waitkey}{clearbox}In the world of the dead I{nl}
+watch over, half-baked souls{nl}
+of the dead are not wanted.{waitkey}{clearbox}Take them as you please.{waitkey}{ret}
+</message>
+  <message offset="1b50">
+Yukino: Understood.{nl}
+We'll go through.{waitkey}{clearbox}We won't lay a hand{nl}
+on you either.{waitkey}{ret}
+</message>
+  <message offset="1b80">
+Yukino: The world of the dead,{nl}
+huh. Never thought I'd visit{nl}
+while still alive.{waitkey}{ret}
+</message>
+  <message offset="1bb0">
+Ayase: It's kinda scary,{nl}
+huh, the afterlife!{waitkey}{ret}
+</message>
+  <message offset="1bd8">
+Nanjo: Not a place I'd care{nl}
+to visit of my own accord,{nl}
+if I had no business there.{waitkey}{ret}
+</message>
+  <message offset="1c0c">
+Brown: Whoa! The afterlife!{nl}
+When we get back, let's go{nl}
+on TV!{waitkey}{clearbox}"Uesugi saw it!! This is the{nl}
+afterlife!" ...or something!{nl}
+Dehyahyahyahya!!{waitkey}{ret}
+</message>
+  <message offset="1c88">
+Elly: Hell, is it?{nl}
+To see it while still alive{nl}
+is rather Lucky!{waitkey}{ret}
+</message>
+  <message offset="1cc0">
+Cerberus: The demons of{nl}
+Tartarus are stronger than{nl}
+those of the tower.{waitkey}{clearbox}They hate the living,{nl}
+so be careful.{waitkey}{ret}
+</message>
+  <message offset="1d0c">
+A cold wind blows in{nl}
+from beyond the door.{waitkey}{ret}
+</message>
+  <message offset="1d2c">
+Go to Tartarus?{nl}
+{ctl0e:0}{ret}
+</message>
+</scene>

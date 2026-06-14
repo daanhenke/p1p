@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="93">
+  <message offset="184c">
+Yog-Sothoth Jr.:{nl}
+Gck, gck, gck...{nl}
+You who have struck me down...{waitkey}{clearbox}My master, too, shall find{nl}
+you to her liking.{nl}
+Go on, proceed...{waitkey}{ret}
+</message>
+  <message offset="18ac">
+Aki: Aww, so that monster{nl}
+got beaten, huh.{waitkey}{clearbox}Losing to people like{nl}
+these - how stupid~!{waitkey}{ret}
+</message>
+  <message offset="18f0">
+Maki: Aki...chan!{nl}
+You've come to pull{nl}
+something again, haven't you!{waitkey}{ret}
+</message>
+  <message offset="1918">
+Aki: Beyond here is Aki's{nl}
+house. Come in, and I'll{nl}
+never let you back outside!{waitkey}{ret}
+</message>
+  <message offset="194c">
+Nanjo: Say what you like,{nl}
+but we're coming in.{waitkey}{clearbox}We have to defeat{nl}
+Kandori.{waitkey}{ret}
+</message>
+  <message offset="1988">
+Aki: ...{wait_fr:48}I won't ever{nl}
+let you do that!{waitkey}{clearbox}Once you're in Aki's house,{nl}
+I'll lock you up for good!{waitkey}{ret}
+</message>
+  <message offset="19d0">
+Mark: You dummy.{nl}
+Like I'd fall for the same{nl}
+trick twice!{waitkey}{clearbox}Now then, be a good girl,{nl}
+or I'll really have to{nl}
+punish you, got it?{waitkey}{ret}
+</message>
+  <message offset="1a24">
+Aki: Aki's not stupid!{nl}
+As proof, I thought up{nl}
+something really fun!{waitkey}{clearbox}...Your next opponent{nl}
+is a cuuute little girl.{nl}
+Look forward to it!{waitkey}{ret}
+</message>
+  <message offset="1a8c">
+Aki: Nomoraka tanomamaa!{waitkey}{ret}
+</message>
+  <message offset="1aa4">
+Maki: That Aki-chan{nl}
+what a cheeky kid she is.{waitkey}{clearbox}This time I'll catch her{nl}
+and scold her for sure!{waitkey}{ret}
+</message>
+  <message offset="1ae4">
+Maki: That cute little girl{nl}
+she mentioned... she meant{nl}
+Chisato, didn't she...{waitkey}{ret}
+</message>
+  <message offset="1b18">
+Nanjo: There's something{nl}
+that's been bothering me...{waitkey}{clearbox}...No, I've no proof.{nl}
+It's surely just a{nl}
+mistake on my part.{waitkey}{ret}
+</message>
+  <message offset="1b5c">
+Nanjo: That demon here{nl}
+spoke of a 'master.'{nl}
+Did it mean Aki?{waitkey}{ret}
+</message>
+  <message offset="1b90">
+Mark: All right, let's get{nl}
+outside and hunt down{nl}
+that Kandori!{waitkey}{ret}
+</message>
+  <message offset="1bb8">
+Mark: Here we are still{nl}
+wandering around a place{nl}
+like this.{waitkey}{clearbox}Hey, at this rate, can we{nl}
+really save Sonomura?{waitkey}{ret}
+</message>
+  <message offset="1bfc">
+Elly: I've never seen{nl}
+a demon like that before.{waitkey}{ret}
+</message>
+  <message offset="1c20">
+Elly: About that demon that{nl}
+was here...{waitkey}{clearbox}It almost felt as though{nl}
+it were testing our skill.{waitkey}{ret}
+</message>
+  <message offset="1c6c">
+Brown: Phew!{nl}
+I'm just glad that{nl}
+monster is gone!{waitkey}{ret}
+</message>
+  <message offset="1c98">
+Brown: This is one{nl}
+weird town...{waitkey}{ret}
+</message>
+  <message offset="1cb4">
+Ayase: Ugh!{nl}
+Ayase is never fighting{nl}
+something like that again!{waitkey}{ret}
+</message>
+  <message offset="1ce4">
+Ayase: The town suddenly{nl}
+going strange, demons{nl}
+starting to appear...{wait_fr:48}{nl}
+What happened to this town?{waitkey}{ret}
+</message>
+  <message offset="1d24">
+Reiji: You're not taking{nl}
+that brat's words{nl}
+seriously, are you?{waitkey}{ret}
+</message>
+  <message offset="1d54">
+Reiji: There's something I{nl}
+absolutely have to make{nl}
+Kandori answer for...{waitkey}{ret}
+</message>
+</scene>

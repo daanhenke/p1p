@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="177">
+  <message offset="2800">
+Butterfly: Young one.{nl}
+Within Iwato, you two{nl}
+will be alone.{nl}
+Are you fully prepared?{waitkey}Are your weapons and{nl}
+items in order?{waitkey}{ret}
+</message>
+  <message offset="2848">
+Will you enter Iwato?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="285c">
+Butterfly: Very well.{nl}
+I shall open the path to{nl}
+the Sea of Consciousness.{nl}
+It lies behind the shrine.{waitkey}Go forth.{waitkey}{ret}
+</message>
+  <message offset="2898">
+Butterfly: I see. Then come{nl}
+once you are ready.{waitkey}{ret}
+</message>
+  <message offset="28bc">
+Butterfly: Are you ready{nl}
+now?{waitkey}{ret}
+</message>
+  <message offset="28d4">
+Butterfly: Do you wish to go{nl}
+elsewhere? Then rejoin{nl}
+your companions.{waitkey}{ret}
+</message>
+  <message offset="2900">
+Rejoin your companions?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="2918">
+Butterfly: Come again{nl}
+once you are ready.{waitkey}{ret}
+</message>
+  <message offset="2934">
+Butterfly: If you mean to go{nl}
+outside, don't forget to{nl}
+rejoin your companions.{waitkey}{ret}
+</message>
+  <message offset="2960">
+Mark: Sonomura...{nl}
+I'm counting on you.{waitkey}{ret}
+</message>
+  <message offset="297c">
+Nanjo: We'll be waiting{nl}
+right here.{nl}
+Don't push yourself.{waitkey}{ret}
+</message>
+  <message offset="29a4">
+Maki: We're off, everyone.{nl}
+{ctl07:1}, let's go!{waitkey}{ret}
+</message>
+  <message offset="29c8">
+Mark: {ctl0f:1},{nl}
+just 'cause you're alone with{nl}
+Sonomura, don't go losing{nl}
+your self-control!{waitkey}{ret}
+</message>
+  <message offset="29fc">
+Maki: What are you{nl}
+talking about?{waitkey}{ret}
+</message>
+  <message offset="2a10">
+Mark: N-nothing, right,{nl}
+{ctl0f:1}?{nl}
+Heh heh, just guy talk.{waitkey}{ret}
+</message>
+  <message offset="2a40">
+Maki: That sounds kinda dirty.{nl}
+Oh well.{nl}
+{ctl07:1}, hurry, hurry!{waitkey}{ret}
+</message>
+  <message offset="2a6c">
+Mark: Somehow...{nl}
+Sonomura looks happy.{waitkey}{ret}
+</message>
+  <message offset="2a88">
+Elly: ...{waitkey}{ret}
+</message>
+  <message offset="2a94">
+Mark: Damn it!{nl}
+Why am I no good?{waitkey}{ret}
+</message>
+  <message offset="2ab8">
+Nanjo: Stay alert.{nl}
+There's no telling{nl}
+what's in there.{waitkey}{ret}
+</message>
+  <message offset="2ad8">
+Nanjo: Where are you going?{nl}
+Well, no matter, but{nl}
+we haven't much time.{waitkey}{ret}
+</message>
+  <message offset="2b04">
+Maki: I'm happy, you know...{nl}
+Because I'm not alone...{nl}
+because everyone, and{nl}
+you, are here... right!{waitkey}{ret}
+</message>
+  <message offset="2b40">
+Reiji: ...I'd like to have{nl}
+it out with you sometime.{nl}
+Don't go dying on me.{waitkey}{ret}
+</message>
+  <message offset="2b70">
+Reiji: Still not going?{waitkey}{ret}
+</message>
+  <message offset="2b88">
+Elly: Where are you going?{nl}
+I'll follow you anywhere{nl}
+you go, {ctl07:1}...{waitkey}{ret}
+</message>
+  <message offset="2bbc">
+Elly: Where are you going?{nl}
+I'll accompany you anywhere{nl}
+you go, {ctl07:1}...{waitkey}{ret}
+</message>
+  <message offset="2bf4">
+Elly: {ctl07:1}...{nl}
+do be careful...{nl}
+I'll be waiting...{waitkey}{ret}
+</message>
+  <message offset="2c1c">
+Elly: {ctl07:1}...{nl}
+please be careful...{nl}
+I'll be waiting...{waitkey}{ret}
+</message>
+  <message offset="2c44">
+Brown: Say hi to the{nl}
+real Maki for me!{waitkey}{ret}
+</message>
+  <message offset="2c64">
+Brown: Oh? Not going yet?{nl}
+Heh-heh, I bet you're{nl}
+getting cold feet?{waitkey}{ret}
+</message>
+  <message offset="2c98">
+Ayase: {ctl0f:1},{nl}
+you're still not going?{nl}
+Don't tell me you're scared?{waitkey}{ret}
+</message>
+  <message offset="2cc4">
+Ayase: {ctl08:65281}Still not going?{nl}
+Don't tell me{nl}
+you're scared?{waitkey}{ret}
+</message>
+  <message offset="2cf0">
+Ayase: {ctl08:65281}Make sure you go{nl}
+and see Sonomura, okay!{waitkey}{ret}
+</message>
+  <message offset="2d14">
+Ayase: {ctl0f:1},{nl}
+make sure you go and{nl}
+see Sonomura, okay!{waitkey}{ret}
+</message>
+</scene>

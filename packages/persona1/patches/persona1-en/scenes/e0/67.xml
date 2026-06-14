@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="67">
+  <message offset="1a0c">
+Mark: Man, this is a shock.{nl}
+You use a Persona too, huh.{waitkey}{ret}
+</message>
+  <message offset="1a34">
+Reiji: ...What?{nl}
+You lot are the same...?{waitkey}{ret}
+</message>
+  <message offset="1a5c">
+Nanjo: That's about it.{wait_fr:64}{nl}
+By the way, it seems{nl}
+you're the real Kido.{waitkey}{ret}
+</message>
+  <message offset="1a94">
+Reiji: ...What's that{nl}
+supposed to mean?{waitkey}{ret}
+</message>
+  <message offset="1aac">
+Elly: This place looks alike,{nl}
+but it's not our world.{waitkey}Do you understand?{waitkey}{ret}
+</message>
+  <message offset="1afc">
+Brown: Heh-heh.{nl}
+Clean out your ears{nl}
+and listen up.{waitkey}This is a school we know,{nl}
+and yet it isn't!{waitkey}{clearbox}It's a school in another{nl}
+world! Surprised, huh!{nl}
+Dang it!{wait_fr:60} Boo-hoo...{waitkey}{ret}
+</message>
+  <message offset="1b7c">
+Ayase: I'm the one with{nl}
+questions~ This being another{nl}
+world, can you believe it?{waitkey}I just don't get it~{waitkey}{ret}
+</message>
+  <message offset="1bc0">
+Nanjo: Kandori flung us into{nl}
+a nearly identical world.{nl}
+You're the same, aren't you?{waitkey}{clearbox}The boy sent into the rift{nl}
+between dimensions that{nl}
+Kandori and that scientist{nl}
+spoke of - that's you.{wait_fr:88} No?{waitkey}{clearbox}Why are you, who were sent{nl}
+into the rift, here unharmed?{nl}
+Why do you pursue Kandori?{waitkey}{ret}
+</message>
+  <message offset="1c80">
+Reiji: ...{wait_fr:94}I was drifting{nl}
+through a void when a kid{nl}
+in white clothes appeared...{waitkey}{clearbox}Next thing I knew,{nl}
+I was here. That's all...{nl}
+I owe you no more than that.{waitkey}{ret}
+</message>
+  <message offset="1ce4">
+Maki: A child in white...?{waitkey}{ret}
+</message>
+  <message offset="1d00">
+Mark: Don't be so prickly.{nl}
+We're gonna pound Kandori{nl}
+and find a way home.{waitkey}{clearbox}You come too.{nl}
+Your mom's gotta be{nl}
+worried about you.{waitkey}{ret}
+</message>
+  <message offset="1d58">
+Reiji: Shut up!{nl}
+I've no intention of{nl}
+running with you lot!{waitkey}I do as I please.{waitkey}{ret}
+</message>
+  <message offset="1d8c">
+Mark: What's that?!{nl}
+I show some concern and{nl}
+you get all cocky!{waitkey}{clearbox}Fine, do what you want!{nl}
+Drop dead in a ditch for{nl}
+all I care! You jerk!{waitkey}{clearbox}{wait_fr:60}What's with that guy...{nl}
+Just mention his mom and{nl}
+his whole face changes...{waitkey}{ret}
+</message>
+  <message offset="1e18">
+Maki: Stop it, Inaba.{nl}
+Nothing you say will help.{nl}
+He's got those kind of eyes...{waitkey}{clearbox}Kandori must have hurt{nl}
+something precious to him,{nl}
+just like he did to us...{waitkey}{ret}
+</message>
+  <message offset="1e84">
+Elly: {wait_fr:60}Something{nl}
+precious...{waitkey}{ret}
+</message>
+  <message offset="1e9c">
+Brown: Quit prying, quit it!{nl}
+Everybody's got things they{nl}
+don't want touched, right?{waitkey}{ret}
+</message>
+  <message offset="1ed4">
+Nanjo: Are you running a{nl}
+fever, Uesugi? That's a{nl}
+sensible thing for you to say.{waitkey}You look like you{nl}
+understand how he feels.{waitkey}{ret}
+</message>
+  <message offset="1f1c">
+Brown: Wh-what?{nl}
+A guy as straightforward as{nl}
+me is a rare thing, y'know?{waitkey}I could get declared a{nl}
+national treasure any day now!{waitkey}{ret}
+</message>
+  <message offset="1f74">
+Nanjo: A fool as ever...{nl}
+Now then, {ctl0f:1},{nl}
+shall we get going?{waitkey}{ret}
+</message>
+  <message offset="1fa4">
+Brown: What's that, Nanjo!{nl}
+Even as a national treasure,{nl}
+I won't speak to you!{waitkey}{ret}
+</message>
+  <message offset="1fe4">
+Ayase: Ehh~ That guy's got{nl}
+something like that?{nl}
+Isn't he just antisocial~?{waitkey}{ret}
+</message>
+  <message offset="2018">
+Maki: He's... Kido, was it?{nl}
+I'm sure even Kido has{nl}
+things that matter to him.{waitkey}Friends... dreams for{nl}
+the future, and so on.{waitkey}{ret}
+</message>
+  <message offset="2068">
+Ayase: ...Dreams for the{nl}
+future?{wait_fr:80} As long as now{nl}
+is good, who cares.{nl}
+How dumb...{waitkey}{ret}
+</message>
+  <message offset="20a4">
+Maki: How should I even{nl}
+explain that this isn't{nl}
+your world...{waitkey}{ret}
+</message>
+  <message offset="20d4">
+Reiji: What?{nl}
+So that bastard's here too?{wait_fr:108}{nl}
+Fine then...{waitkey}I'll go along with you lot.{waitkey}{ret}
+</message>
+  <message offset="2118">
+Maki: Then it's settled!{nl}
+I'm Maki Sonomura!{nl}
+Nice to meet you, Kido!{waitkey}{ret}
+</message>
+  <message offset="214c">
+Reiji: ...{wait_fr:30}...{wait_fr:30}...{waitkey}{ret}
+</message>
+  <message offset="2164">
+Maki: What?{nl}
+Is there something{nl}
+on my face?{wait_fr:108} Ah!{waitkey}{clearbox}You were so taken with{nl}
+how cute I am that you{nl}
+couldn't look away, right?{nl}
+Yeah, I get it, I get it.{waitkey}{ret}
+</message>
+  <message offset="21b8">
+Mark: C-come on,{nl}
+we can't dawdle forever.{nl}
+Let's hurry up and go!{waitkey}{ret}
+</message>
+  <message offset="21e8">
+Maki: Kido... you said a{nl}
+'child in white' saved you,{nl}
+right? Could it be...{waitkey}{clearbox}maybe it was little Mai...{nl}
+I've seen her a few times.{nl}
+A very mysterious girl...{waitkey}{ret}
+</message>
+  <message offset="2260">
+Mark: That idiot...{waitkey}{ret}
+</message>
+  <message offset="2278">
+Mark: C'mon, c'mon, let's go!{nl}
+Huh? 'What are you{nl}
+so worked up about'?{waitkey}Shut up!{waitkey}{ret}
+</message>
+  <message offset="22b4">
+Nanjo: Leave him be.{nl}
+He's after the same man.{nl}
+We'll surely meet again.{waitkey}{clearbox}As long as he doesn't{nl}
+get in our way,{nl}
+that's fine.{waitkey}{ret}
+</message>
+  <message offset="2304">
+Nanjo: Why Kido pursues{nl}
+Kandori? We'll learn{nl}
+in time, I suppose.{waitkey}For now, it's enough{nl}
+that he's of use to us.{waitkey}{ret}
+</message>
+  <message offset="2344">
+Elly: Something precious...{nl}
+Someone precious...{nl}
+{ctl07:1}, you...{waitkey}{ret}
+</message>
+  <message offset="2370">
+Is there someone{nl}
+precious to you?{ctl0e:28}{ret}
+</message>
+  <message offset="2388">
+Elly: I see...{wait_fr:60}{nl}
+For me...{wait_fr:60} I'm sorry{nl}
+for asking something{nl}
+so strange...{waitkey}{ret}
+</message>
+  <message offset="23c0">
+Elly: I see...{wait_fr:60}{nl}
+Then you're the same{nl}
+as me...{waitkey}{ret}
+</message>
+  <message offset="23e4">
+Brown: Y'know, it's not{nl}
+nice to go prying into{nl}
+what people keep hidden.{waitkey}{ret}
+</message>
+  <message offset="2414">
+You've got secrets too,{nl}
+don't you?{ctl0e:29}{ret}
+</message>
+  <message offset="2430">
+Brown: See? See?{nl}
+Knew it, right?{nl}
+That's just how people are!{waitkey}{ret}
+</message>
+  <message offset="2460">
+Brown: Yeah, right~?{nl}
+Is your bond with me{nl}
+really this skin-deep?{waitkey}{ret}
+</message>
+  <message offset="2498">
+Ayase: No point thinking{nl}
+about the future, right?{nl}
+You think so too, {ctl0f:1}?{waitkey}{ret}
+</message>
+  <message offset="24c8">
+As long as now is good,{nl}
+that's fine, right?{ctl0e:27}{ret}
+</message>
+  <message offset="24e4">
+Ayase: ...{wait_fr:60}Knew it, right!{nl}
+We click, {ctl0f:1}.{waitkey}{ret}
+</message>
+  <message offset="250c">
+Ayase: ...{wait_fr:60}What the heck!{nl}
+Dummy dummy dummy dummy{nl}
+dummy dummy dummy!{waitkey}{ret}
+</message>
+  <message offset="253c">
+Reiji: That Sonomura girl...{nl}
+I don't feel like it's{nl}
+our first meeting...{waitkey}What is she...?{waitkey}{ret}
+</message>
+  <message offset="2574">
+Student: That guy's called{nl}
+Kido? He's so cool...{waitkey}{ret}
+</message>
+  <message offset="2598">
+{color:2}Reiji Kido.{nl}
+A student who transferred{nl}
+in half a year ago. Quiet,{nl}
+always acts alone.{color:0}{waitkey}{ret}
+</message>
+</scene>

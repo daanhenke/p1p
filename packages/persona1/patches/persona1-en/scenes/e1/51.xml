@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="51">
+  <message offset="17a8">
+Yukino: Why's there a{nl}
+convenience store in a dream?{waitkey}{ret}
+</message>
+  <message offset="17c8">
+Ms. Natsumi: Hey,{nl}
+what do you want to eat{nl}
+tonight?{waitkey}{ret}
+</message>
+  <message offset="17e8">
+Her Boyfriend: You, of course!{nl}
+Just kidding!{nl}
+Nyahahaha!{waitkey}{ret}
+</message>
+  <message offset="1810">
+Nanjo: Oh, Ms. Natsumi's{nl}
+dream.{nl}
+Then that must be the man{nl}
+she broke up with recently.{waitkey}{clearbox}Not up to my standard, but{nl}
+a decent-looking fellow.{nl}
+Seems dim-witted, though.{waitkey}{ret}
+</message>
+  <message offset="186c">
+Brown: Huh huh?{nl}
+That's the boyfriend Ms.{nl}
+Natsumi just split with?{waitkey}{clearbox}Well, not as good as me,{nl}
+but he's doing pretty alright.{waitkey}{ret}
+</message>
+  <message offset="18c4">
+Ayase: Kyaa!{nl}
+The teacher's boyfriend{nl}
+is super cool!{waitkey}{clearbox}Ayase wants a{nl}
+boyfriend like that~{waitkey}{ret}
+</message>
+  <message offset="1908">
+Ms. Natsumi: Oh, you and your{nl}
+jokes! Come on, what do you{nl}
+want? Decide quick, quick.{waitkey}{clearbox}Let's hurry home and eat{nl}
+our bento.{waitkey}{ret}
+</message>
+  <message offset="195c">
+Her Boyfriend: Eh? Huh?{nl}
+Didn't you say you'd cook{nl}
+me your "homemade" food{waitkey}today, Natsumi??{waitkey}{ret}
+</message>
+  <message offset="19a4">
+Nanjo: Oh dear, surely Ms.{nl}
+Natsumi doesn't mean to pass{nl}
+off a store bento as her{waitkey}{clearbox}"homemade" cooking and feed{nl}
+it to him? Your Japanese is{nl}
+all wrong, Ms. Natsumi.{waitkey}{ret}
+</message>
+  <message offset="1a10">
+Elly: Ms. Natsumi...{nl}
+surely she doesn't mean to{nl}
+call a bento bought here{waitkey}{clearbox}"homemade" and feed it to{nl}
+him? Your use of Japanese{waitkey}is mistaken... Ms. Natsumi.{waitkey}{ret}
+</message>
+  <message offset="1a90">
+Ms. Natsumi: Yeah, I did!{nl}
+Once we're at my place,{nl}
+"I" will properly{waitkey}heat it in the microwave!{waitkey}{clearbox}How about this{nl}
+"Surprise Cutlet Bento"?{nl}
+It's a new product!{waitkey}Doesn't it look yummy!{waitkey}{clearbox}Let's get two of these!{nl}
+Hey? Hey?{waitkey}{ret}
+</message>
+  <message offset="1b34">
+Her Boyfriend: ...uh...yeah{nl}
+anything's... fine.{nl}
+I'm just... so full up{waitkey}inside... heh heh...{waitkey}{ret}
+</message>
+  <message offset="1b74">
+Yukino: Somehow... I can't{nl}
+watch this, in many senses.{waitkey}{clearbox}Let's wake them quick{nl}
+and hurry on.{waitkey}{ret}
+</message>
+  <message offset="1bac">
+Yukino: Still, no wonder{nl}
+the guy ran off on her.{nl}
+That teacher...{waitkey}{ret}
+</message>
+  <message offset="1bdc">
+Ayase: Hey, hey,{nl}
+the food here - is it okay{nl}
+if Ayase and the others{waitkey}eat it, I wonder?{waitkey}{ret}
+</message>
+  <message offset="1c18">
+Nanjo: This is eerier than{nl}
+a midnight convenience store{nl}
+with no clerk or customers.{waitkey}{ret}
+</message>
+  <message offset="1c50">
+Brown: Wonder if I could{nl}
+take this stuff back to the{nl}
+real world...{nl}
+what a waste.{waitkey}{ret}
+</message>
+  <message offset="1c88">
+Elly: Great!!{nl}
+That the human power to dream{nl}
+can create a space this Real!{waitkey}{clearbox}This convenience store is{nl}
+the genuine article, any{nl}
+way you look at it!{waitkey}{ret}
+</message>
+  <message offset="1cec">
+Ms. Natsumi: Hey!{nl}
+What's with you?!{waitkey}{clearbox}Pull anything weird and{nl}
+I'll call the police!!{waitkey}{ret}
+</message>
+  <message offset="1d28">
+Pinch Ms. Natsumi?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1d40">
+Her Boyfriend: What the?{nl}
+You! You got business{nl}
+with us, huh?!{waitkey}{ret}
+</message>
+  <message offset="1d70">
+Ms. Natsumi: N-no way, what?{waitkey}{ret}
+</message>
+  <message offset="1d88">
+Ms. Natsumi: Go away!{waitkey}{ret}
+</message>
+</scene>

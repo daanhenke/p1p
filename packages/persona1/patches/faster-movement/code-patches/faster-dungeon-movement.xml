@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code-patch id="faster-dungeon-movement" name="Faster dungeon movement">
+  <description>Walking and turning in the 3D dungeons run faster while staying smooth. The speed setting
+  scales the per-frame step; 2× is the well-tested default, 3×/4× are faster but less battle-tested.</description>
+  <setting id="movement-speed" label="Movement speed" description="Walking/turning step multiplier." default="x2">
+    <option value="x2" label="2× (smooth)"/>
+    <option value="x3" label="3× (fast)"/>
+    <option value="x4" label="4× (very fast)"/>
+  </setting>
+  <site file="/DNG.BIN" anchor="00 00 00 00 05 00 02 2a" offset="4" width="2" setting="movement-speed">
+    <case option="x2" value="2"/><case option="x3" value="3"/><case option="x4" value="4"/>
+  </site>
+  <site file="/DNG.BIN" anchor="21 20 00 00 21 80 00 00 32 a8 01 0c 01 00 10 26 1b 9c 01 0c 00 00 00 00 04 00 02 2a" offset="24" width="2" setting="movement-speed">
+    <case option="x2" value="2"/><case option="x3" value="3"/><case option="x4" value="4"/>
+  </site>
+  <site file="/DNG.BIN" anchor="a5 a8 01 0c 21 80 00 00 32 a8 01 0c 01 00 10 26 1b 9c 01 0c 00 00 00 00 04 00 02 2a" offset="24" width="2" setting="movement-speed">
+    <case option="x2" value="2"/><case option="x3" value="3"/><case option="x4" value="4"/>
+  </site>
+  <site file="/DNG.BIN" anchor="21 20 20 02 32 a8 01 0c 01 00 10 26 1b 9c 01 0c 00 00 00 00 04 00 02 2a" offset="20" width="2" setting="movement-speed">
+    <case option="x2" value="2"/><case option="x3" value="3"/><case option="x4" value="4"/>
+  </site>
+  <site file="/DNG.BIN" anchor="90 15 62 ac 04 00 02 2a" offset="4" width="2" setting="movement-speed">
+    <case option="x2" value="2"/><case option="x3" value="3"/><case option="x4" value="4"/>
+  </site>
+  <site file="/DNG.BIN" anchor="dc 1a a5 24 0a 80 01 3c 21 08 22 00 80 a8 24 90 80 10 02 00 0a 80 01 3c 21 08 22 00 84 a8 23 8c 80 20 04 00 21 20 85 00 00 11 03 00 23 10 43 00 00 00 83 8c 40 10 02 00" offset="52" width="1" value="128"></site>
+  <site file="/DNG.BIN" anchor="e8 1a a5 24 0a 80 01 3c 21 08 22 00 80 a8 24 90 80 10 02 00 0a 80 01 3c 21 08 22 00 84 a8 23 8c 80 20 04 00 21 20 85 00 00 11 03 00 23 10 43 00 00 00 83 8c 40 10 02 00" offset="52" width="1" value="128"></site>
+  <site file="/DNG.BIN" anchor="09 00 22 2a f4 ff 40 14" offset="0" width="2" value="5"></site>
+  <site file="/DNG.BIN" anchor="40 91 02 00 ac 15 73 8c" offset="0" width="1" value="128"></site>
+</code-patch>

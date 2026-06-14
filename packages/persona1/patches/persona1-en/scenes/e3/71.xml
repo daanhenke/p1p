@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="71">
+  <message offset="1158">
+Agastya Tree: Ho ho.{nl}
+Young one, you seem{nl}
+quite weary.{waitkey}{clearbox}You may end your journey{nl}
+here for a time and rest.{waitkey}{clearbox}However, I cannot inscribe{nl}
+a record of your journey.{waitkey}{clearbox}I merely keep it safe until{nl}
+you next set forth...{waitkey}Do not forget that...{waitkey}{ret}
+</message>
+  <message offset="11fc">
+Agastya Tree: Will you{nl}
+suspend your journey{nl}
+for a while?{waitkey}{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1228">
+Agastya Tree: Young one...{nl}
+I shall keep the memories{nl}
+of your journey.{waitkey}{ret}
+</message>
+  <message offset="1258">
+Agastya Tree: Young one...{nl}
+Go forth with care.{waitkey}{ret}
+</message>
+</scene>

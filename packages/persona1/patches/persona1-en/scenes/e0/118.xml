@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="118">
+  <message offset="23fc">
+White Girl: Wh-who are you?{waitkey}{ret}
+</message>
+  <message offset="2414">
+Mark: This kid! Isn't she{nl}
+the ghost from the museum?{nl}
+One of that brat's friends?!{waitkey}{ret}
+</message>
+  <message offset="2454">
+White Girl: ...{wait_fr:60}wh{waitkey}{ret}
+</message>
+  <message offset="246c">
+White Girl: Waaaaaah!{waitkey}{ret}
+</message>
+  <message offset="2484">
+Maki: Hey, don't cry.{nl}
+You're Mai-chan, aren't you?{waitkey}{ret}
+</message>
+  <message offset="24a8">
+White Girl: Hic...{nl}
+{wait_fr:94}mm-hm...{waitkey}{ret}
+</message>
+  <message offset="24c8">
+Maki: ...! {wait_fr:60}She's got a{nl}
+half-moon compact!{waitkey}It looks just like mine...{waitkey}{ret}
+</message>
+  <message offset="2508">
+Nanjo: So that's the key{nl}
+to the castle... But who{nl}
+on earth are these children?{waitkey}{ret}
+</message>
+  <message offset="253c">
+Maki: Hey, Mai-chan,{nl}
+you know a girl named "Aki,"{nl}
+right? Is she your friend?{waitkey}{ret}
+</message>
+  <message offset="2570">
+Mai: No she's not!{nl}
+She's not my friend at all!{nl}
+She's a Mai-chan too...{waitkey}{clearbox}A bad Mai-chan...{nl}
+Waaaaaaaaaah!!{waitkey}{ret}
+</message>
+  <message offset="25c4">
+Maki: What do you mean?!{waitkey}{ret}
+</message>
+  <message offset="25dc">
+Mai: Sob... Mai-chan{nl}
+was so lonely...{nl}
+then Kandori came...{waitkey}{clearbox}And then she came out{nl}
+of Mai-chan and went{nl}
+off with Kandori...{waitkey}{clearbox}Even though she knows{nl}
+Kandori isn't papa...{waitkey}{ret}
+</message>
+  <message offset="2654">
+Nanjo: A separate self split{nl}
+from one person, I see...{nl}
+What is that compact?{waitkey}{ret}
+</message>
+  <message offset="2694">
+Mai: It's Mai-chan's{nl}
+treasure... it grants{nl}
+any wish.{waitkey}Mai-chan made this whole{nl}
+town with it.{waitkey}{ret}
+</message>
+  <message offset="26d0">
+Maki: No way!{wait_fr:94}{nl}
+That can't be...{waitkey}{ret}
+</message>
+  <message offset="26f0">
+Elly: It can't be...{nl}
+that such a tiny child is{nl}
+this world's Creator...{waitkey}{ret}
+</message>
+  <message offset="272c">
+Nanjo: The creator of a{nl}
+world, a child this small...{waitkey}{ret}
+</message>
+  <message offset="2754">
+Brown: Awesome~!{nl}
+She's like a little witch!{nl}
+I want one of those.{waitkey}{ret}
+</message>
+  <message offset="2784">
+Ayase: Seriously?!{nl}
+Gimme that, Ayase wants it!{waitkey}{ret}
+</message>
+  <message offset="27a8">
+Maki: Using that compact,{nl}
+could you catch Aki and{nl}
+Kandori, or send everyone{waitkey}back to their world somehow?{waitkey}{ret}
+</message>
+  <message offset="27f4">
+Mai: I can't...{nl}
+Aki took half of it{nl}
+away from me...{waitkey}{clearbox}I know Aki uses her half{nl}
+to do bad things, but my{nl}
+wishes get cancelled out.{waitkey}{clearbox}So I'm hiding here.{waitkey}{ret}
+</message>
+  <message offset="285c">
+Mark: But without it,{nl}
+we can't reach Kandori.{nl}
+Could you lend it a sec?{waitkey}{ret}
+</message>
+  <message offset="2894">
+Mai: No way!{nl}
+This is the very thing{nl}
+Kandori wants!{waitkey}{ret}
+</message>
+  <message offset="28c0">
+Maki: Mai-chan...{nl}
+you mustn't run away.{waitkey}{ret}
+</message>
+  <message offset="28dc">
+Mai: Sniff... sob...{nl}
+why not?{waitkey}{ret}
+</message>
+  <message offset="28fc">
+Isn't it safe if I hide?{nl}
+{ctl0e:13}{ret}
+</message>
+  <message offset="2914">
+Maki: That's right.{nl}
+{ctl07:1} is right.{nl}
+Running solves nothing.{waitkey}You have to fight!{waitkey}{ret}
+</message>
+  <message offset="2950">
+Maki: Honestly, {ctl07:1}!{nl}
+Don't joke around.{nl}
+Running solves nothing.{waitkey}That's why you fight.{waitkey}{ret}
+</message>
+  <message offset="298c">
+Mai: Sob... why?{waitkey}{ret}
+</message>
+  <message offset="29a4">
+Why do you fight, mister?{nl}
+{ctl0e:14}{ret}
+</message>
+  <message offset="29bc">
+Mark: Argh!{nl}
+No time to dawdle! We've{nl}
+gotta get back fast{waitkey}{clearbox}- there's someone we have{nl}
+to save! Please! Lend it{nl}
+to us!{waitkey}The way she looked, she's...{waitkey}{ret}
+</message>
+  <message offset="2a28">
+Mai: Already...{wait_fr:88} dead?{waitkey}{ret}
+</message>
+  <message offset="2a40">
+Mark: D-don't be stupid!{nl}
+She's definitely alive!{nl}
+Anyway, look...{waitkey}{ret}
+</message>
+  <message offset="2a70">
+Mai: Mister, all of you...{nl}
+why do you live?{nl}
+Isn't living... painful?{waitkey}{ret}
+</message>
+  <message offset="2aa4">
+Maki: Why, you ask...{waitkey}{ret}
+</message>
+  <message offset="2ab4">
+Mark: Uh...{waitkey}{ret}
+</message>
+  <message offset="2ac4">
+Nanjo: ...{waitkey}{ret}
+</message>
+  <message offset="2ad0">
+Elly: Why...{waitkey}{ret}
+</message>
+  <message offset="2ae4">
+Brown: ...That's heavy.{waitkey}{ret}
+</message>
+  <message offset="2afc">
+Ayase: ...What a downer.{waitkey}{ret}
+</message>
+  <message offset="2b0c">
+Reiji: ...{waitkey}{ret}
+</message>
+  <message offset="2b18">
+Mai: Why, mister?{waitkey}{ret}
+</message>
+  <message offset="2b30">
+Why do you live?{nl}
+{ctl0e:15}{ret}
+</message>
+  <message offset="2b44">
+Elly: ...That's true.{nl}
+{ctl07:1} is right.{nl}
+Besides, if you're alive,{waitkey}there are joys to be had.{waitkey}{ret}
+</message>
+  <message offset="2b84">
+Brown: ...Yeah, that's it!{nl}
+{ctl08:6401}He's right.{nl}
+If you live, there's fun{waitkey}to be had too.{waitkey}{ret}
+</message>
+  <message offset="2bbc">
+Ayase: ...Yeah,{nl}
+{ctl0f:1} might be right.{nl}
+Live, and there's fun too.{waitkey}{ret}
+</message>
+  <message offset="2bec">
+Elly: It's been a while{nl}
+since I thought about this...{nl}
+but there are joys, too...{waitkey}{ret}
+</message>
+  <message offset="2c1c">
+Brown: Been a while since{nl}
+I thought about stuff like{nl}
+this... but there's fun too...{waitkey}{ret}
+</message>
+  <message offset="2c50">
+Ayase: It's been a while{nl}
+since I thought about this...{nl}
+there's fun too, but...{waitkey}{ret}
+</message>
+  <message offset="2c80">
+Nanjo: {ctl0f:1} is right.{nl}
+Live, and good things{nl}
+happen too.{waitkey}{ret}
+</message>
+  <message offset="2ca8">
+Nanjo: How unreliable...{nl}
+Well, it's a hard question,{nl}
+but live and good comes too.{waitkey}{ret}
+</message>
+  <message offset="2cdc">
+Mai: I see...{wait_fr:60}{nl}
+Mai-chan will stay here{nl}
+after all. I can't lend{waitkey}the compact. I'm sorry.{waitkey}{ret}
+</message>
+  <message offset="2d18">
+Mark: This is going nowhere!!{nl}
+C'mon, please lend it!{waitkey}{ret}
+</message>
+  <message offset="2d40">
+Mark: Still say no, and I'll{nl}
+spank your butt?{waitkey}{ret}
+</message>
+  <message offset="2d60">
+Mai: Sniff...{wait_fr:60}{nl}
+No way!{wait_fr:88}{nl}
+Nomoraka Tanomama!{waitkey}{ret}
+</message>
+  <message offset="2d90">
+Mai: Mr. Bear, help me!{waitkey}{ret}
+</message>
+  <message offset="2da8">
+Mai: I see...{wait_fr:60}{nl}
+If it's you, mister...{nl}
+I'll lend you the compact.{waitkey}{ret}
+</message>
+  <message offset="2dd8">
+Mark: Alright!{nl}
+Thanks, Mai-chan!{waitkey}Let's make a wish and have{nl}
+it carry us to Kandori!{waitkey}{ret}
+</message>
+  <message offset="2e20">
+Elly: Thanks!{nl}
+Let's wish at once and have{nl}
+it carry us to Kandori.{waitkey}{ret}
+</message>
+  <message offset="2e5c">
+Brown: Yahoo!{nl}
+Now, what should I wish for?{waitkey}{ret}
+</message>
+  <message offset="2e80">
+Ayase: Now you're talking!{nl}
+Um, what should I wish for!{waitkey}{ret}
+</message>
+  <message offset="2eac">
+Nanjo: Fools.{nl}
+This is no time for greed.{nl}
+Have it take us to Kandori.{waitkey}{ret}
+</message>
+  <message offset="2ee0">
+Mai: It's no good.{nl}
+Only Mai-chan can{nl}
+use it.{waitkey}{clearbox}And the castle is Aki's{nl}
+house, so it won't grant{nl}
+Mai-chan's wishes there.{waitkey}{ret}
+</message>
+  <message offset="2f2c">
+Mark: ...slump...{nl}
+Guess it never is that easy.{waitkey}{ret}
+</message>
+  <message offset="2f4c">
+Mark: Nothing for it.{nl}
+Let's head back to the castle.{waitkey}{ret}
+</message>
+  <message offset="2f68">
+Brown: Boo hoo~{nl}
+And I had so many wishes...{waitkey}{ret}
+</message>
+  <message offset="2f8c">
+Ayase: No way!{nl}
+And I had so many wishes~{nl}
+The worst!{waitkey}{ret}
+</message>
+  <message offset="2fb8">
+Maki: {ctl07:1},{nl}
+show me that compact.{waitkey}{clearbox}Huh - it's only half, but{nl}
+it's the same as mine...{waitkey}Mine has no mirror, but{nl}
+this one's still got it.{waitkey}{ret}
+</message>
+  <message offset="301c">
+Mark: Well, wishes are{nl}
+something you make come{nl}
+true yourself.{waitkey}If everything went your way,{nl}
+the world'd be boring.{waitkey}{ret}
+</message>
+  <message offset="3068">
+Nanjo: That Kandori...{nl}
+What does he mean to do{nl}
+once he has the compact...?{waitkey}{ret}
+</message>
+  <message offset="309c">
+Reiji: ...{wait_fr:60}You've got{nl}
+quite a mouth on you...{waitkey}{ret}
+</message>
+  <message offset="30c0">
+Elly: When I was little, I'd{nl}
+pretend the mirror at home{nl}
+was a magic mirror and wish.{waitkey}{clearbox}"Let me become a pretty{nl}
+girl everyone likes"...{nl}
+something like that...{waitkey}{ret}
+</message>
+  <message offset="3128">
+Brown: Aw~ what a shame.{nl}
+And I had so many wishes...{waitkey}{ret}
+</message>
+  <message offset="3150">
+Ayase: Aww~{nl}
+I've got so many things I{nl}
+want! {ctl0f:1}, buy 'em? Hm?{waitkey}{ret}
+</message>
+  <message offset="3180">
+Mai: Please don't let{nl}
+Kandori take the{nl}
+compact.
+</message>
+  <message offset="31a8">
+{ret}
+</message>
+  <message offset="31b8">
+It's locked.{waitkey}
+</message>
+</scene>

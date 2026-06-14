@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="109">
+  <message offset="11f4">
+Maki: Everyone's talking{nl}
+about my mother, but...{wait_fr:32}{nl}
+who do they mean?{waitkey}{ret}
+</message>
+  <message offset="1230">
+Nanjo: I'd rather hold off on{nl}
+seeing a doctor for a{nl}
+while...{waitkey}{ret}
+</message>
+  <message offset="125c">
+Mark: I wonder if Sonomura{nl}
+still can't recall her mom.{nl}
+Seems there's a story there.{waitkey}{ret}
+</message>
+  <message offset="1298">
+Elly: Once we've healed up,{nl}
+let's hurry to the abandoned{nl}
+factory.{waitkey}But can we really get into{nl}
+SEBEC from a place like that?{waitkey}{ret}
+</message>
+  <message offset="12ec">
+Elly: We must go after{nl}
+Mr. Kandori, quickly...!{waitkey}{ret}
+</message>
+  <message offset="1314">
+Brown: Get this — in that{nl}
+last fight, I nearly got a{nl}
+scar on my face!{waitkey}{clearbox}Ahh, I came this close{waitkey}to breaking the hearts of{nl}
+500,000 Brown fans across{nl}
+the land!{waitkey}{clearbox}Honestly, I'm so {wait_fr:21}care{wait_fr:16}-{wait_fr:16}less♥{waitkey}{ret}
+</message>
+  <message offset="13ac">
+Ayase: I won't get a shot,{nl}
+right? Ayase really hates{nl}
+shots...{waitkey}{ret}
+</message>
+  <message offset="13d8">
+Nurse: An injured woman walked{nl}
+by here a moment ago. I{nl}
+wonder if a demon got her...{waitkey}{ret}
+</message>
+  <message offset="17dc">
+Doctor: Oh, hello. Your{nl}
+friends are as full of{nl}
+character as ever.{waitkey}{ret}
+</message>
+  <message offset="180c">
+Doctor: Now then, what'll{nl}
+it be?{nl}
+{ctl0e:17}{ret}
+</message>
+  <message offset="1824">
+Doctor: All right then,{nl}
+all of you...{waitkey}
+</message>
+  <message offset="1840">
+Doctor: It'll cost 800 yen.{nl}
+Is that all right?{waitkey}{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1868">
+Doctor
+</message>
+  <message offset="1884">
+: Hm. Let's get you{nl}
+treated, then.{waitkey}{ret}
+</message>
+  <message offset="18b8">
+Doctor: Mm, that should do it.{waitkey}{ret}
+</message>
+  <message offset="18f8">
+Doctor: Anything else you{nl}
+need?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1928">
+Doctor: A shame, but I can't{nl}
+treat you with no money...{nl}
+Come back with the fee.{waitkey}{ret}
+</message>
+  <message offset="194c">
+Doctor: Skimp on treatment{nl}
+now, and I hope it won't{nl}
+come back to bite you.{waitkey}{ret}
+</message>
+</scene>

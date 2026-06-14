@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="145">
+  <message offset="27d8">
+Yukino: {ctl0f:1}!{nl}
+Hold up the mirror!!{waitkey}{ret}
+</message>
+  <message offset="27f4">
+Ayase: N-{wait_fr:30}no way...{waitkey}{ret}
+</message>
+  <message offset="2808">
+Elly: Why...?{waitkey}{nl}
+What's happening?{waitkey}{ret}
+</message>
+  <message offset="2830">
+Brown: ...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...?{waitkey}{nl}
+What? It just glowed?{waitkey}{ret}
+</message>
+  <message offset="286c">
+Ayase: That can't be!{nl}
+We all worked so hard to{nl}
+gather them - the "Mirror{waitkey}Shards"!{waitkey}{clearbox}H-hey, let's hold it{nl}
+up once more!{waitkey}{ret}
+</message>
+  <message offset="28c4">
+Yukino: No way...{waitkey}{nl}
+O-once more!!{waitkey}{ret}
+</message>
+  <message offset="28e4">
+Snow Queen's Voice: Hffff...{nl}
+It's useless. Thrusting a{nl}
+patchwork mirror like that{waitkey}at me - you lose.{waitkey}{ret}
+</message>
+  <message offset="2928">
+Nanjo: What did you say?!{waitkey}{ret}
+</message>
+  <message offset="293c">
+Brown: Damn it!{waitkey}{ret}
+</message>
+  <message offset="2950">
+Snow Queen: Hffff...{waitkey}{nl}
+Gathering the shards was{nl}
+well done, but it seems{waitkey}you were a few short.{waitkey}{clearbox}Now, come to me!{waitkey}{clearbox}Taste an endless nightmare,{wait_fr:30}{nl}
+the despair of a dark night,{wait_fr:30}{nl}
+together with Saeko!!{waitkey}{ret}
+</message>
+  <message offset="29d4">
+Snow Queen: Gu... ah......{waitkey}{ret}
+</message>
+  <message offset="29ec">
+Yukino: Did we get her!?{waitkey}{ret}
+</message>
+  <message offset="2a00">
+Snow Queen: Gyaaaaaah!{waitkey}{nl}
+My face!{wait_fr:30} It's buuurning!!{waitkey}{ret}
+</message>
+  <message offset="2a34">
+???: Cuuurse yooou{waitkey}{nl}
+whyyy{waitkey}{clearbox}whyyy{wait_fr:30}{nl}
+everyooone{wait_fr:30} Saekooo{wait_fr:30}{nl}
+all of yoooou{waitkey}{ret}
+</message>
+  <message offset="2a8c">
+Ayase: Kyaaaaaa!!{waitkey}{ret}
+</message>
+  <message offset="2aa8">
+Brown: Dehyaaaah!?{waitkey}{nl}
+I-i-i-i-i-i-{wait_fr:15}it came out!!{waitkey}{ret}
+</message>
+  <message offset="2ad8">
+Elly: Oh my...{waitkey}{ret}
+</message>
+  <message offset="2af0">
+Ms. Saeko: You've all grown{nl}
+so much in this short time.{waitkey}{clearbox}You've got the faces of{nl}
+people who can do anything.{waitkey}{clearbox}As you are now, I feel like{nl}
+you can pull something off.{waitkey}{clearbox}Sever the karma of the mask{nl}
+that tormented so many{nl}
+students! I'm counting on you.{waitkey}{ret}
+</message>
+  <message offset="2b80">
+Yukino: The Night Queen...{nl}
+{waitkey}{clearbox}That thing said something{nl}
+like "I'll rain snow of{nl}
+despair from the{nl}
+castle's peak."{waitkey}{clearbox}There may be a passage or{nl}
+something the Queen climbed{nl}
+up. Let's go look!{waitkey}{ret}
+</message>
+  <message offset="2bec">
+Yukino: Just a little more...{nl}
+A little more and the{nl}
+school's ours again.{waitkey}Let's set out anew!!{waitkey}{ret}
+</message>
+  <message offset="2c28">
+Ayase: Don't you feel like{nl}
+it got a little warmer?{nl}
+Maybe the Queen's power{nl}
+weakened?{waitkey}{clearbox}Oh yeah!!{waitkey}{nl}
+Maybe the doors that were{nl}
+frozen shut are fixed now!?{waitkey}{ret}
+</message>
+  <message offset="2c94">
+Ayase: Hey, let's hurry up{nl}
+to the upper floor.{waitkey}{clearbox}If my tummy gets cold before{nl}
+we beat the Queen, I won't{nl}
+be in any state to fight!{waitkey}{ret}
+</message>
+  <message offset="2ce0">
+Nanjo: It's been quite a{nl}
+while since Inaba and{nl}
+Sonomura went outside.{waitkey}{clearbox}We must settle this soon -{nl}
+I'm worried about them.{waitkey}{ret}
+</message>
+  <message offset="2d24">
+Brown: The Night Queen~?{nl}
+Like a Ginza bar madam.{nl}
+Doesn't seem all that tough.{waitkey}{clearbox}You'd be fine without{nl}
+me, right?{waitkey}{nl}
+...{wait_fr:30}...{wait_fr:30}Just kidding.{nl}
+C'mon, let's go!{waitkey}{ret}
+</message>
+  <message offset="2d94">
+Elly: To sever the mask's{nl}
+karma, we must defeat the{nl}
+Night Queen no matter what.{waitkey}{ret}
+</message>
+</scene>

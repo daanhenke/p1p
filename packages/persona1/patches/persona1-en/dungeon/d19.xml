@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages floor="d19">
+  <message index="95">
+The door is firmly shut.{waitkey}{ret}
+</message>
+</messages>

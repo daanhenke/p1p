@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="174">
+  <message offset="1350">
+Maki: It really does seem like{nl}
+we're the only ones with this{nl}
+kind of power.{waitkey}{ret}
+</message>
+  <message offset="1380">
+Nanjo: I can't imagine Kandori{nl}
+will stay quiet like this.{nl}
+What will he pull next...{waitkey}{ret}
+</message>
+  <message offset="13b8">
+Nanjo: That girl seems to{nl}
+hold considerable power...{waitkey}If someone were misusing it,{nl}
+that would be a problem.{waitkey}{ret}
+</message>
+  <message offset="1400">
+Mark: Yeah, there's no hole{nl}
+here either.{waitkey}{ret}
+</message>
+  <message offset="141c">
+Mark: One thing's clear —{nl}
+she's no ordinary girl.{waitkey}{ret}
+</message>
+  <message offset="1448">
+Elly: No matter what Demons{nl}
+show up, we'll be fine!{waitkey}{clearbox}We just have to handle it{nl}
+ourselves.{waitkey}{ret}
+</message>
+  <message offset="148c">
+Elly: Even if someone looks{nl}
+as sweet as an angel, that{nl}
+doesn't mean the inside{nl}
+matches.{waitkey}{ret}
+</message>
+  <message offset="14c8">
+Brown: Everywhere we go, it's{nl}
+demons, demons~{waitkey}Isn't there anything more{nl}
+fun to talk about?{waitkey}{ret}
+</message>
+  <message offset="1508">
+Brown: A kid who's too{nl}
+naughty gets a spanking from{nl}
+big brother here!{waitkey}{ret}
+</message>
+  <message offset="153c">
+Ayase: There's something off{nl}
+about this school. It's got{nl}
+a weirdly fake smell to it.{waitkey}{ret}
+</message>
+  <message offset="1570">
+Ayase: This really is{nl}
+different from our school.{waitkey}No wonder it feels so fake{nl}
+to me!{waitkey}{ret}
+</message>
+  <message offset="15b8">
+Reiji: Lucky fools. Lazing{nl}
+about without even knowing{nl}
+what's happening.{waitkey}{ret}
+</message>
+  <message offset="15ec">
+Student: Why is the girl in{nl}
+black after this school? Has{nl}
+she got some grudge or{nl}
+something?{waitkey}{ret}
+</message>
+  <message offset="1628">
+Student: Nothing could shock{nl}
+me anymore!{waitkey}Like, even if I heard that{nl}
+you could actually command{nl}
+demons too!{waitkey}...Huh?{wait_fr:32} You really can?{wait_fr:48}{nl}
+...Oh, come off it~! No way{nl}
+that's true, right~?{waitkey}{ret}
+</message>
+  <message offset="16b0">
+Student: That girl in black,{nl}
+doesn't she look like someone?{waitkey}{ret}
+</message>
+  <message offset="16d8">
+Student: I just remembered — I{nl}
+once met a girl in white.{waitkey}A girl dressed in white...{wait_fr:32}{nl}
+but that's got nothing to do{nl}
+with it, right?{waitkey}{ret}
+</message>
+</scene>

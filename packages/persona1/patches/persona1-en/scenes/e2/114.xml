@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="114">
+  <message offset="1650">
+Maki: Huh, they don't stock{nl}
+weapons here? That's weird.{waitkey}{ret}
+</message>
+  <message offset="167c">
+Brown: You know, I really{nl}
+like the bread here~{wait_fr:32}{nl}
+Ah, no time for that?{waitkey}{ret}
+</message>
+  <message offset="16b4">
+Nanjo: Heh, true — a corner{nl}
+store stocks all the{nl}
+necessities of daily life.{waitkey}{ret}
+</message>
+  <message offset="16e8">
+Mark: Huh, isn't this where{nl}
+Yukino works? Ah, no, that's{nl}
+a different store.{waitkey}{ret}
+</message>
+  <message offset="1718">
+Elly: Even without buying,{nl}
+things lying around can{nl}
+become weapons, you know.{waitkey}{ret}
+</message>
+  <message offset="1748">
+Ayase: But y'know, if they{nl}
+sold guns and stuff at the{nl}
+convenience store, that'd be{nl}
+scary, right?{waitkey}{ret}
+</message>
+  <message offset="1778">
+Customer: Convenience stores{nl}
+stock everything these days!{waitkey}{clearbox}Don't you think it's odd{nl}
+there are no weapons, kid?!{waitkey}{ret}
+</message>
+  <message offset="17c4">
+Customer: Yes, exactly!{nl}
+Answer the consumer's needs!{waitkey}{ret}
+</message>
+  <message offset="17f4">
+Customer: Convenience stores{nl}
+stock everything these days!{waitkey}{clearbox}It's odd there are no{nl}
+weapons! Don't you think{nl}
+so too?!{waitkey}{ret}
+</message>
+  <message offset="1848">
+Customer: Yes, just so!{nl}
+Shouldn't they
+</message>
+  <message offset="1880">
+{nl}
+{nl}
+answer the consumer's needs?!{waitkey}{ret}
+</message>
+</scene>

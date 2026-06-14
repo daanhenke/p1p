@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="128">
+  <message offset="1308">
+Yukino: So this seems to be{nl}
+Yuriko's room.{waitkey}{clearbox}For someone so prissy and{nl}
+cutesy, this is a room in{nl}
+unimaginably bad taste.{waitkey}{clearbox}You know we've come,{nl}
+don't you? Then come out!{waitkey}{clearbox}Or are you plotting{nl}
+something again?{waitkey}{ret}
+</message>
+  <message offset="13a0">
+Yuriko: Geez! This is Yuriko's{nl}
+room, so you don't have to{nl}
+yell that loud - I can hear{waitkey}you just fine!!{waitkey}{clearbox}More importantly, you?{nl}
+You've got such a pretty face!{nl}
+To make that beauty eternal,{waitkey}why not die here!?{waitkey}{clearbox}Keep living and aging and{nl}
+you'll just become a dirty{nl}
+old hag!!{waitkey}{clearbox}So! Like Yuriko, die at the{nl}
+cutest moment of your life!{nl}
+While you're still beautiful~{waitkey}{clearbox}Let's live in this tower!!{nl}
+Hey, let's? Hm?{waitkey}{clearbox}It's fun! Surely!! Yuriko{nl}
+really thinks coming to this{nl}
+tower like the "Snow Queen's{waitkey}mask" said was the right call!{waitkey}{clearbox}Yuriko gets to stay cute,{nl}
+stay beautiful, forever{nl}
+and ever!{waitkey}{clearbox}But Yuriko's been a little{nl}
+bored all alone, and Yuriko{nl}
+doesn't wanna fight everyone.{waitkey}Hm? Hm??{waitkey}{ret}
+</message>
+  <message offset="15a4">
+Nanjo: You... do you{nl}
+understand what you're{nl}
+even saying?{waitkey}{clearbox}What you gained through{nl}
+"death," borrowing the{nl}
+"Snow Queen's mask's" power -{waitkey}{clearbox}is "the end of your own{nl}
+existence" and "a real world{nl}
+without you in it."{waitkey}{clearbox}And nothing more than{nl}
+"absolute solitude" in this{nl}
+tower. It is by no means{waitkey}any "eternal beauty"!{waitkey}{ret}
+</message>
+  <message offset="1684">
+Brown: Fuga? What're you{nl}
+saying, Yuriko-chan?{nl}
+That means, basically,{waitkey}{clearbox}you got killed by the{nl}
+"Snow Queen's mask" and{nl}
+became this tower's keeper?{waitkey}{clearbox}I mean, you're already dead,{nl}
+so... you might not age,{nl}
+maybe...{waitkey}{clearbox}but throwing away your{nl}
+"life" and "future" in{nl}
+reality{waitkey}{clearbox}- nah, the great me doesn't{nl}
+want "eternal beauty" like{nl}
+that. Sorry, but hard pass!!{waitkey}{ret}
+</message>
+  <message offset="1788">
+Yuriko: Sh-shut up! As if a{nl}
+man could understand a{nl}
+maiden's heart!!{waitkey}{clearbox}Hey, what about you? You look{nl}
+like the cutest one of this{nl}
+bunch.{waitkey}{clearbox}Right? You understand what{nl}
+Yuriko-chan's saying, don't{nl}
+you? Let's gain "eternal{waitkey}beauty" here together!{waitkey}{clearbox}And stay beautiful...{waitkey}{ret}
+</message>
+  <message offset="184c">
+Ayase: Hard pass.{nl}
+Don't mock me!{nl}
+Don't lump Ayase in with a{waitkey}{clearbox}super-lame woman like you!!{nl}
+So super MMC!!{waitkey}{clearbox}Ayase! Doesn't wanna stay{nl}
+beautiful even "in death"!{waitkey}{clearbox}What! You just gave up on{nl}
+"dying"! And "aging"!!{nl}
+And "living"!!!{waitkey}{clearbox}Everything, everything,{nl}
+everything! Eeeverything!!{waitkey}{clearbox}You gave up! Ran away!!{nl}
+Threw it all out!!!{nl}
+You're the worst woman ever!{waitkey}{ret}
+</message>
+  <message offset="1978">
+Nanjo: Hmph. Well said, Ayase!{waitkey}{clearbox}Truly, "even a one-inch worm{nl}
+has a half-inch soul,"{nl}
+as they say.{waitkey}{clearbox}Yuriko, give it up. When even{nl}
+Ayase, the one here most{nl}
+likely to get along with you,{waitkey}is like this,{waitkey}{clearbox}there's not a single one left{nl}
+to lend an ear to your{nl}
+nonsense.{waitkey}{ret}
+</message>
+  <message offset="1a20">
+Elly: Yeah!! Ayase, So Cool!{nl}
+Well said! I've gained new{nl}
+respect for you!{waitkey}{clearbox}Now, Yuriko. When even Ayase,{nl}
+the one most likely to get{nl}
+along with you, is like this,{waitkey}{clearbox}there's no one here left to{nl}
+lend an ear to your words!{nl}
+So, what will you do!!{waitkey}{ret}
+</message>
+  <message offset="1ae8">
+Yuriko: Ngh............{nl}
+Y-Yuriko-chan went to all{nl}
+the trouble, all the trouble,{waitkey}{clearbox}to try and help everyone!!{nl}
+To have fun with everyone,{nl}
+with everyone!{waitkey}{clearbox}Why, why won't you{nl}
+understand?? You blockheads!!{waitkey}{clearbox}Fine!! That's it!!!{nl}
+I won't forgive you anymore!!{waitkey}{clearbox}Yuriko-chan is stroong!!{nl}
+Even if you cry and apologize{nl}
+later, I won't forgive you!{waitkey}{clearbox}I'll beat you so hard even{nl}
+your souls after death{nl}
+disappear!{waitkey}{ret}
+</message>
+  <message offset="1c18">
+Yukino: Heh...!{nl}
+As Nanjo would put it,{nl}
+you're a case of "a fool{waitkey}can't be cured but by death"!{waitkey}{clearbox}No, in your case, even dying{nl}
+once didn't cure you, it{nl}
+seems!{waitkey}{clearbox}Now, come at us! Die once{nl}
+more! And cure that{nl}
+foolishness! Here we go!{waitkey}{ret}
+</message>
+</scene>

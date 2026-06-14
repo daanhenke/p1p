@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="148">
+  <message offset="1314">
+{nl}
+
+</message>
+  <message offset="1354">
+Saeko: Congrats on the Snow{nl}
+Queen role.{waitkey}{nl}
+In our last year of school,{nl}
+I finally lost to you, Tomomi.{waitkey}{ret}
+</message>
+  <message offset="13b8">
+Tomomi: Thank you.{nl}
+I'll do my best for your{nl}
+sake too, Saeko.{waitkey}{clearbox}But I'm nervous{wait_fr:30}...{nl}
+that mask...
+</message>
+  <message offset="1440">
+{nl}
+Is it true everyone who's{nl}
+played the Queen so far{nl}
+got cursed?{waitkey}{ret}
+</message>
+  <message offset="1460">
+Saeko: What are you saying!{nl}
+That's obviously just{nl}
+superstition!{waitkey}{clearbox}Keep a bright heart always,{nl}
+and even a curse will feel{nl}
+unwelcome and flee!{waitkey}{clearbox}You always get swept up in
+</message>
+  <message offset="14b8">
+people's rumors.{waitkey}{nl}
+That's your bad habit, Tomomi!
+</message>
+  <message offset="14cc">
+{ret}
+</message>
+  <message offset="1500">
+Tomomi: I envy you, Saeko...{waitkey}{nl}
+You're so strong...{waitkey}{ret}
+</message>
+  <message offset="151c">
+Saeko: Get a grip!{waitkey}{nl}
+You beat me and won the{nl}
+lead role!{waitkey}{clearbox}You ought to be happier, or{nl}
+I've got no leg to stand on!!{waitkey}{ret}
+</message>
+  <message offset="15a8">
+Tomomi: Y-{wait_fr:30}you're right.{waitkey}{ret}
+</message>
+  <message offset="1634">
+Drama Member: Whaaat?!{nl}
+Senpai, you're being{nl}
+fooled by Saeko!{waitkey}{ret}
+</message>
+  <message offset="16c0">
+Tomomi: Eh!?
+</message>
+  <message offset="16d0">
+Fooled, you say?{waitkey}{ret}
+</message>
+  <message offset="1728">
+Drama Member: You don't know!?{nl}
+Saeko withdrew her own{nl}
+candidacy for the Snow Queen{waitkey}role!{waitkey}{clearbox}Everyone's saying it.{waitkey}{clearbox}That she was scared of the{nl}
+mask's curse, so she pushed{nl}
+the Snow Queen role onto you,{waitkey}Senpai Tomomi.{waitkey}{ret}
+</message>
+  <message offset="1758">
+Tomomi: Withdrew...{wait_fr:30}{nl}
+because she was scared of{nl}
+the curse...{waitkey}A lie!{wait_fr:30}?{waitkey}{clearbox}Even if she really did{nl}
+withdraw, surely she was just{nl}
+being considerate of me!{waitkey}{clearbox}I'm in the same year as{nl}
+Saeko, yet...{wait_fr:30} I've never{nl}
+gotten a better role{nl}
+than her...{waitkey}{ret}
+</message>
+  <message offset="1774">
+Drama Member: So she let you{nl}
+have the spotlight, at least{nl}
+for the last one?{waitkey}What a pushover you are,{nl}
+Senpai Tomomi.{waitkey}{clearbox}The Snow Queen's the most{nl}
+eye-catching role, you know.{waitkey}{clearbox}There's no way anyone'd give{nl}
+it to someone else with no{nl}
+reason at all.{waitkey}
+</message>
+  <message offset="17cc">
+Tomomi: ......{waitkey}{ret}
+</message>
+  <message offset="17fc">
+Saeko: What's wrong, Tomomi?{nl}
+Calling me out and then{waitkey}hiding? What's up?{waitkey}{clearbox}Do your best at tomorrow's{nl}
+show, my share too.{nl}
+I'm counting on you.{waitkey}{ret}
+</message>
+  <message offset="182c">
+Tomomi: ......uh...{wait_fr:30} you...{nl}
+{wait_fr:30}...are...
+</message>
+  <message offset="1858">
+...{waitkey}{ret}
+</message>
+  <message offset="18f0">
+Saeko: What?{nl}
+I can't hear you!{waitkey}{ret}
+</message>
+  <message offset="1904">
+Tomomi: You
+</message>
+</scene>

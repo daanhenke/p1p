@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="205">
+  <message offset="2224">
+Ms. Saeko: You're really{nl}
+going, then.{waitkey}{ret}
+</message>
+  <message offset="2240">
+Nanjo: Yes.{nl}
+I'm worried about Inaba{nl}
+and Sonomura.{waitkey}{clearbox}And there's something{nl}
+that troubles me.{waitkey}That student in the white{nl}
+mask looked a lot{nl}
+like Sonomura...{waitkey}{ret}
+</message>
+  <message offset="2298">
+Elly: Yes!{nl}
+I'm worried about{nl}
+Mark and Maki.{waitkey}{clearbox}And something troubles{nl}
+me too...{waitkey}That person in the white{nl}
+mask looked just like Maki.{waitkey}{ret}
+</message>
+  <message offset="2300">
+Yukino: Yeah.{waitkey}{clearbox}There's still something{nl}
+we have to do.{waitkey}{ret}
+</message>
+  <message offset="2330">
+Right, {ctl0f:1}?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="2344">
+Yukino: We have to find{nl}
+Sonomura.{waitkey}She seemed to be{nl}
+suffering somehow.{waitkey}{ret}
+</message>
+  <message offset="236c">
+Yukino: Can't be helped.{nl}
+Well, we'll figure it out{nl}
+eventually.{waitkey}{ret}
+</message>
+  <message offset="2390">
+Ms. Saeko: ...I see.{waitkey}{nl}
+Then go give it your all,{nl}
+with no regrets!{waitkey}{clearbox}You're all adults now.{nl}
+I won't stop adults from{nl}
+leaving the nest by choice.{waitkey}{clearbox}But in exchange{wait_fr:30}...{wait_fr:30}...{waitkey}{ret}
+</message>
+  <message offset="2408">
+Ayase: In exchange?{waitkey}{ret}
+</message>
+  <message offset="2418">
+Ms. Saeko: Come back before{nl}
+you turn into old men!{waitkey}{clearbox}And report to me in person{nl}
+that everyone's safe!{waitkey}{ret}
+</message>
+  <message offset="2460">
+Yukino: Yeah,{nl}
+no need to worry!{waitkey}{clearbox}After all, we're{nl}
+Ms. Saeko's{nl}
+star pupils!{waitkey}{ret}
+</message>
+  <message offset="24a4">
+Ms. Saeko: Star pupils indeed.{waitkey}{nl}
+Every last one of you{nl}
+dressed against the rules!{waitkey}{clearbox}Once in a while, try{nl}
+putting yourself in your{nl}
+homeroom teacher's shoes!!{waitkey}{clearbox}Day after day,{nl}
+the vice principal chews{nl}
+me out...{waitkey}{ret}
+</message>
+  <message offset="2520">
+Ms. Saeko: Heh...{nl}
+Though it seems even the{nl}
+vice principal had a change{nl}
+of heart over all this.{waitkey}{clearbox}He asked me to tell{nl}
+you all "thank you."{waitkey}{clearbox}For a while he might even{nl}
+turn a blind eye to your{nl}
+dress code violations.{waitkey}{ret}
+</message>
+  <message offset="2598">
+Ayase: Huh?{nl}
+That bald geezer?{waitkey}{ret}
+</message>
+  <message offset="25b4">
+Ms. Saeko: He's got his{nl}
+good points, you know.{waitkey}{clearbox}Now! This is no time{nl}
+to stand around{nl}
+chatting!!{waitkey}{clearbox}If you don't get going soon,{nl}
+the sun'll set!!{waitkey}{ret}
+</message>
+  <message offset="2618">
+Yukino: Yeah,{nl}
+we're off!{waitkey}{ret}
+</message>
+  <message offset="2630">
+Brown: Well, you've got me{nl}
+along, so there's{nl}
+nothing to worry about.{waitkey}{clearbox}...{wait_fr:15}...{wait_fr:15}Whoops!{nl}
+Tears don't suit a pretty{nl}
+face, now.{wait_fr:30} Honey{color:3}♥{color:0}{waitkey}Dehyahyahyahyahyahya{waitkey}{ret}
+</message>
+  <message offset="26a4">
+Elly: And so the school{nl}
+returns to normal...{waitkey}{clearbox}But this is only{nl}
+the beginning, isn't it.{waitkey}{clearbox}Take back the town,{nl}
+take back our peaceful days,{nl}
+the real battle comes after.{waitkey}{clearbox}To fight through this long,{nl}
+long life{wait_fr:30} Do my best!{waitkey}I'll give it my all,{nl}
+with no regrets.{waitkey}{ret}
+</message>
+  <message offset="2754">
+Nanjo: Where there's a will,{nl}
+there's a way{wait_fr:30}, hm.{waitkey}With this lot around,{nl}
+I'm starting to truly{nl}
+believe it.{waitkey}{clearbox}Ms. Saeko!{nl}
+We'll find Inaba and{nl}
+Sonomura without fail!{waitkey}{clearbox}{ctl0f:1}!{nl}
+Let's go!!{waitkey}{ret}
+</message>
+  <message offset="27c8">
+Ayase: Up till now I've{nl}
+just sort of drifted{nl}
+through life, but{waitkey}{clearbox}Watching {ctl0f:1} and{nl}
+Mayuzumi push themselves so{nl}
+hard made me feel I{nl}
+should try harder too.{waitkey}{clearbox}As for what to work toward,{nl}
+I'll decide that after we{nl}
+fix the town for now.{waitkey}{clearbox}See ya, teach!{waitkey}{ret}
+</message>
+  <message offset="2854">
+Yukino: Once the town's back{nl}
+to normal, I'll study{nl}
+for real.{waitkey}{clearbox}I'll study{wait_fr:30}{nl}
+and someday become a fine{nl}
+teacher like you, Ms. Saeko!{waitkey}{clearbox}Heh...{wait_fr:30}{nl}
+I won't say goodbye,{wait_fr:30} teach!{waitkey}{ret}
+</message>
+  <message offset="28cc">
+Ms. Saeko: {ctl0f:1}!{nl}
+Thank you for everything.{waitkey}{clearbox}Everyone seems to have{nl}
+found something to think{nl}
+about for their future.{waitkey}What about you?{waitkey}{ret}
+</message>
+  <message offset="2924">
+Do you have a dream?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="2938">
+Ms. Saeko: That's the spirit!{waitkey}{clearbox}Don't forget how you feel{nl}
+now that you've accomplished{nl}
+something great, and{nl}
+give it your all!!{waitkey}{ret}
+</message>
+  <message offset="297c">
+Ms. Saeko: I see.{waitkey}{nl}
+Well, you're young,{nl}
+so no need to rush.{waitkey}In any case, I'm counting{nl}
+on you to look after{nl}
+everyone!{waitkey}{ret}
+</message>
+  <message offset="29bc">
+Ms. Saeko: Now then{wait_fr:30}...{waitkey}{ret}
+</message>
+  <message offset="29d4">
+Ms. Saeko: Oh my,{nl}
+where did you slip in from?{waitkey}{clearbox}Heh...{nl}
+You celebrate these kids'{nl}
+send-off too, won't you.{waitkey}{ret}
+</message>
+</scene>

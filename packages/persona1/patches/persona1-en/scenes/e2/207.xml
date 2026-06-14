@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="207">
+  <message offset="16f0">
+Shopkeeper: Oh ho ho, welcome~{waitkey}{ret}
+</message>
+  <message offset="170c">
+Clerk: Heey~! Why you little{nl}
+brat~!!{waitkey}{clearbox}The safe's back there! That's{nl}
+not a place for you to go!{nl}
+I'll kill you, you hear!!{waitkey}{ret}
+</message>
+  <message offset="1768">
+Young Man: The place that had{nl}
+become wasteland is gone{nl}
+clean without a trace.{waitkey}What on earth is happening!?{waitkey}{ret}
+</message>
+  <message offset="17a8">
+Townsperson: I wonder what{nl}
+became of the girl who played{nl}
+in the flower field?{waitkey}{ret}
+</message>
+  <message offset="17d0">
+Maki: Did you find a good{nl}
+weapon?{waitkey}{ret}
+</message>
+  <message offset="17ec">
+Mark: The demons are getting{nl}
+stronger. If we don't arm up{nl}
+properly, we'll be the ones{nl}
+done in.{waitkey}{ret}
+</message>
+  <message offset="1820">
+Nanjo: So even the weapons{nl}
+here are products of{nl}
+Sonomura's imagination... how{nl}
+strange.{waitkey}{ret}
+</message>
+  <message offset="185c">
+Ayase: Aren't there any guns{nl}
+with a cute floral pattern?{waitkey}{ret}
+</message>
+  <message offset="187c">
+Brown: If even real corner{nl}
+stores start selling weapons,{nl}
+then Japan
+</message>
+  <message offset="18b4">
+ is done for, huh.{waitkey}{ret}
+</message>
+  <message offset="18dc">
+Elly: No matter how often I{nl}
+come, I can't get used to{nl}
+this shop's atmosphere.{waitkey}
+</message>
+  <message offset="1904">
+!
+</message>
+</scene>

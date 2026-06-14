@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="40">
+  <message offset="2834">
+
+</message>
+  <message offset="285c">
+A box sealed with{nl}
+paper charms.{waitkey}{clearbox}Open the box?{nl}
+{ctl0e:10}{ret}
+</message>
+  <message offset="287c">
+Obtained the{nl}
+"Snow Queen Mask"!{waitkey}{ret}
+</message>
+  <message offset="2890">
+There's nothing inside...{waitkey}{ret}
+</message>
+  <message offset="28a4">
+Nothing here...{waitkey}{ret}
+</message>
+</scene>

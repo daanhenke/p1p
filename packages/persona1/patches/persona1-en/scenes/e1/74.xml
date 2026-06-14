@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="74">
+  <message offset="1560">
+...
+</message>
+  <message offset="15d8">
+Yukino: You've lost.{waitkey}{clearbox}Your precious prince...{waitkey}{clearbox}no... the "Persona" born{nl}
+from your heart{nl}
+is gone now.{waitkey}{clearbox}Still want to fight?{waitkey}{clearbox}I don't mind{nl}
+either way...{waitkey}{ret}
+</message>
+  <message offset="1640">
+Kumi: ...In the end...{waitkey}{clearbox}in the end, there's no place{nl}
+for me anywhere, is there...{waitkey}{clearbox}Not in reality...{nl}
+not in dreams.{waitkey}{clearbox}Aha... I have to run away{nl}
+from dreams too...{nl}
+ahaha...{waitkey}{ret}
+</message>
+  <message offset="1748">
+Nanjo: A person without{nl}
+dreams is, by and large,{nl}
+shallow and dull.{waitkey}{clearbox}A person who only chases{nl}
+dreams is, by and large,{nl}
+empty inside.{waitkey}{clearbox}Live without losing your{nl}
+dreams, yet without being{nl}
+ruled by them.{waitkey}{clearbox}A dream is not something{nl}
+merely to chase...{waitkey}{clearbox}nor a place to run to...{waitkey}{clearbox}A dream is nourishment for{nl}
+the heart. But a dream you{nl}
+only wait for never becomes{waitkey}{clearbox}your own. A dream is not{nl}
+given, but something you{nl}
+seize with your own{nl}
+hands...!{waitkey}Yamaoka often used to say so.{waitkey}{ret}
+</message>
+  <message offset="1794">
+Brown: A grand victory{nl}
+by my own might... but...{waitkey}{clearbox}somehow it leaves a{nl}
+bad taste...{nl}
+This feeling...{waitkey}{ret}
+</message>
+  <message offset="17f0">
+Ayase: We did it!{nl}
+We won!{waitkey}{clearbox}See that{wait_fr:30}, see that!{nl}
+Ayase and friends' skill!{nl}
+How's that{wait_fr:30}, how's that!{waitkey}Had enough?!{waitkey}{ret}
+</message>
+  <message offset="18c8">
+Kumi: You're all really{nl}
+such strong people...{nl}
+If I'd had even a little...{waitkey}of that strength...{waitkey}{clearbox}maybe I could have lived{nl}
+without giving in to the{nl}
+"Snow Queen's mask"...{waitkey}{clearbox}All I did was blame others,{nl}
+keep myself in the safety{nl}
+zone, and grumble resentments.{waitkey}{clearbox}I was... just the same as the{nl}
+others who blamed me...{nl}
+wasn't I.{waitkey}{ret}
+</message>
+  <message offset="192c">
+Nanjo: Hmph...{nl}
+Just understanding that{nl}
+is good enough.{waitkey}Reflect deeply on it.{waitkey}{clearbox}A dream is indeed nourishment{nl}
+for the heart... but fleeing{nl}
+into dreams won't{nl}
+change reality.{waitkey}{ret}
+</message>
+  <message offset="1a4c">
+Elly: Kumi, having realized{nl}
+that, you are no longer{nl}
+a weak person.{waitkey}{clearbox}Dreams are like an Oasis{nl}
+for our human hearts...{waitkey}{clearbox}quenching the thirst of a{nl}
+traveler weary from walking{nl}
+the desert of life... yes.{waitkey}{clearbox}But no matter how comfortable{nl}
+the Oasis,{waitkey}{clearbox}the traveler must eventually{nl}
+set out into the desert{nl}
+once more.{waitkey}{clearbox}For however hard it is, so{nl}
+long as we live, we humans{nl}
+are travelers crossing the{waitkey}desert called "reality"...{waitkey}{ret}
+</message>
+  <message offset="1ac8">
+Kumi: Thank you...{nl}
+everyone...{waitkey}{clearbox}If only even one friend{nl}
+like you had been{nl}
+by my side...{waitkey}things might've been better...{waitkey}{clearbox}I won't forget{nl}
+any of you...{waitkey}{clearbox}Thank you{wait_fr:30}... farewell.{waitkey}{ret}
+</message>
+  <message offset="1ae0">
+Obtained a "Mirror Shard"!{waitkey}{ret}
+</message>
+  <message offset="1b00">
+Obtained 1 "Ambrosia"!{waitkey}{ret}
+</message>
+  <message offset="1b84">
+Yukino: "Kumi Hirose"...{waitkey}{clearbox}She wasn't such a{nl}
+bad person...{waitkey}{clearbox}She too was a victim whose{nl}
+life was twisted{nl}
+by the "mask."{waitkey}{clearbox}Now, let's head back!{nl}
+We've got to save Ms. Saeko{nl}
+quickly!!{waitkey}{ret}
+</message>
+</scene>

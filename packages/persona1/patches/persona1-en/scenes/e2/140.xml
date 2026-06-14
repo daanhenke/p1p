@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="140">
+  <message offset="1408">
+Student: This is definitely a{nl}
+curse, right?! The curse of{nl}
+the haunted house!{waitkey}It should've just stuck to{nl}
+SEBEC, but it dragged us into{nl}
+it too. Ugh, what a total{nl}
+pain!{waitkey}{ret}
+</message>
+  <message offset="1474">
+Student: Even with demons{nl}
+out, a guy gets hungry...{wait_fr:32}{nl}
+Via the secret shortcut, I{nl}
+might slip out for food, sir.{waitkey}...{wait_fr:21}But it's still scary, sir!{waitkey}{ret}
+</message>
+</scene>

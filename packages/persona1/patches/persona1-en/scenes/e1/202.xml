@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="202">
+  <message offset="1194">
+Night Queen: I've been{nl}
+waiting for you.{waitkey}{ret}
+</message>
+  <message offset="11ac">
+Masked Girl: A school{nl}
+like this should just{nl}
+disappear!{waitkey}{ret}
+</message>
+  <message offset="11d8">
+Masked Boy: Let us see{nl}
+what you're capable of.{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="83">
+  <message offset="149c">
+Shopkeeper: ...WELCOME...{waitkey}{ret}
+</message>
+  <message offset="14b8">
+Yukino: This tower has no time{nl}
+limit. Let's take our time{nl}
+choosing.{waitkey}{ret}
+</message>
+  <message offset="14e8">
+Ayase: Hey~ this is super{nl}
+cute~{color:3}♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="150c">
+Nanjo: Buying good armor is{nl}
+like taking out insurance on{nl}
+your own life.{waitkey}{ret}
+</message>
+  <message offset="1540">
+Brown: Oh ho, this one's{nl}
+practically begging me to{nl}
+wear it.{waitkey}{clearbox}There really are clothes{nl}
+befitting a fine man, yep.{nl}
+Nyahahaha.{waitkey}{ret}
+</message>
+  <message offset="159c">
+Elly: Why do the armor shop{nl}
+owners all wear Masks, I{nl}
+wonder?{waitkey}{ret}
+</message>
+</scene>

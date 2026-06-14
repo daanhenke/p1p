@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="13">
+  <message offset="2058">
+Butterfly: I've been waiting.{waitkey}{clearbox}By saving the boy called Toro{nl}
+from a Persona's power, the{nl}
+Snow Queen's power has waned.{waitkey}{clearbox}The door sealed fast in ice{nl}
+should open now.{waitkey}{clearbox}It is the entrance to one of{nl}
+the three towers - the{nl}
+Tower of Thanatos.{waitkey}{clearbox}This tower is perilous in{nl}
+the extreme, brimming with{nl}
+demons of immense power.{waitkey}{clearbox}Gathering the "Mirror Shards"{nl}
+here will be quite the trial.{waitkey}{clearbox}Oh, yes - let me give you{nl}
+a warning about the towers.{waitkey}{clearbox}Once you set foot in any{nl}
+tower, you cannot leave until{nl}
+its master falls. Think first.{waitkey}{ret}
+</message>
+  <message offset="21ac">
+Butterfly: Welcome.{nl}
+This is the entrance to the{nl}
+Tower of Thanatos.{waitkey}{clearbox}Of the three masters, Thanatos{nl}
+holds the strongest will.{nl}
+Steel yourselves.{waitkey}{clearbox}Well, for you as you are now,{nl}
+such a warning may be{nl}
+needless.{waitkey}{clearbox}Once you set foot in any{nl}
+tower, you cannot leave until{nl}
+its master falls. Think first.{waitkey}{ret}
+</message>
+  <message offset="2260">
+Butterfly: Welcome.{nl}
+This is the entrance to the{nl}
+Tower of Thanatos.{waitkey}{clearbox}This tower is perilous in{nl}
+the extreme, brimming with{nl}
+demons of immense power.{waitkey}{clearbox}Your odds are slim as you{nl}
+are. If you insist on going,{nl}
+I won't stop you.{waitkey}{clearbox}Once you set foot in any{nl}
+tower, you cannot leave until{nl}
+its master falls. Think first.{waitkey}{ret}
+</message>
+  <message offset="23a0">
+A heavy, cold air drifts{nl}
+from beyond the door.{waitkey}{clearbox}The door is frozen solid{nl}
+and won't budge.{waitkey}{ret}
+</message>
+  <message offset="23e0">
+A heavy, cold air drifts{nl}
+from beyond the door.{waitkey}{ret}
+</message>
+  <message offset="2408">
+Enter the Tower of Thanatos?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="2420">
+Yukino: Bad feeling here.{nl}
+The air's heavy, like the{nl}
+hospital basement.{waitkey}{ret}
+</message>
+  <message offset="2450">
+Yukino: Yuriko's gone now,{nl}
+yet this room still feels{nl}
+cold somehow.{waitkey}{ret}
+</message>
+  <message offset="2480">
+Ayase: So cold~{nl}
+It's getting to my back~{waitkey}{ret}
+</message>
+  <message offset="249c">
+Ayase: I'm hungry~{nl}
+How long does this{nl}
+life go on?{waitkey}{ret}
+</message>
+  <message offset="24c4">
+Nanjo: I'd like a better{nl}
+weapon.{waitkey}{ret}
+</message>
+  <message offset="24e0">
+Nanjo: The god who governs{nl}
+death... Thanatos is the one{nl}
+Persona I'd rather not wear.{waitkey}{ret}
+</message>
+  <message offset="2510">
+Brown: Whoa~{nl}
+cold~ cold~{waitkey}{clearbox}It's colder here than the{nl}
+other rooms, seriously.{waitkey}{ret}
+</message>
+  <message offset="254c">
+Brown: Ah{wait_fr:30}-choooo!!{nl}
+Dang it~!{waitkey}I wanna get the school back{nl}
+without all this ice, fast.{waitkey}{ret}
+</message>
+  <message offset="258c">
+Elly: "The Tower of Thanatos"?{nl}
+Thanatos is the god of the{nl}
+underworld. I'd not want him{waitkey}as a friend.{waitkey}{ret}
+</message>
+  <message offset="25c4">
+Elly: Wanting to stay{nl}
+beautiful... I can't say I{nl}
+don't understand Yuriko.{waitkey}{ret}
+</message>
+</scene>

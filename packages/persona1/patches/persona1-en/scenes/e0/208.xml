@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="208">
+  <message offset="2480">
+Maki: Chisato! Yosuke!{nl}
+Thank goodness{nl}
+you're safe!{waitkey}{ret}
+</message>
+  <message offset="24ac">
+Chisato: Maki!{nl}
+You're all right!{waitkey}{ret}
+</message>
+  <message offset="24c8">
+Mark: Hey, Naito.{nl}
+What happened to the school?{nl}
+There's nobody but you guys.{waitkey}{ret}
+</message>
+  <message offset="2500">
+Yosuke: I don't know.{nl}
+When we came back,{nl}
+there was no one left.{waitkey}{clearbox}The east half of town{nl}
+vanished too. I'm the one{nl}
+who wants to know what's{nl}
+going on.{waitkey}{ret}
+</message>
+  <message offset="2560">
+Nanjo: This is Pandora's{nl}
+doing...{waitkey}{ret}
+</message>
+  <message offset="257c">
+Chisato: Pandora?{waitkey}{ret}
+</message>
+  <message offset="2590">
+Maki: I'm sorry... Chisato,{nl}
+Yosuke. It's all my fault...{nl}
+This is what it all was...{waitkey}{ret}
+</message>
+  <message offset="25d0">
+Chisato: ...{waitkey}{ret}
+</message>
+  <message offset="25dc">
+Yosuke: ...So that's{nl}
+how it was.{waitkey}{ret}
+</message>
+  <message offset="25f0">
+Maki: I promise I'll send{nl}
+everyone back to the{nl}
+original world for sure.{waitkey}{clearbox}No amount of apology{nl}
+can make up for it, but...{nl}
+I'm truly sorry.{waitkey}Hit me till you feel{nl}
+better, Chisato.{waitkey}{ret}
+</message>
+  <message offset="2658">
+Chisato: You dummy, Maki!{nl}
+You really are so clumsy.{nl}
+You always were...{waitkey}{ret}
+</message>
+  <message offset="268c">
+Yosuke: Hey, Chisato...{waitkey}{ret}
+</message>
+  <message offset="26a0">
+Chisato: I'm the one who{nl}
+should apologize...{waitkey}{clearbox}You called me here because{nl}
+you thought of me as{nl}
+your best friend, right?{waitkey}{clearbox}And I betrayed a Maki{nl}
+like that. I'm the one who{nl}
+needs forgiveness...{waitkey}It's the other way around.{waitkey}{ret}
+</message>
+  <message offset="272c">
+Maki: Chisato...{nl}
+thank you...{waitkey}{ret}
+</message>
+  <message offset="2744">
+Chisato: Now, off you go.{nl}
+I'll wait here so I won't{nl}
+be a burden.{waitkey}{clearbox}When it's all settled...{nl}
+let's all go to the{nl}
+amusement park, okay Maki?{waitkey}{ret}
+</message>
+  <message offset="27a4">
+Maki: ...Yeah.{waitkey}{ret}
+</message>
+  <message offset="27b4">
+Mark: Heh... amusement park.{nl}
+Being a kid again ain't bad.{nl}
+C'mon, let's wrap this up!{waitkey}{ret}
+</message>
+  <message offset="27f0">
+Nanjo: Sonomura,{nl}
+open the door.{waitkey}{ret}
+</message>
+  <message offset="2808">
+Maki: Okay.{waitkey}{ret}
+</message>
+  <message offset="2814">
+Maki: Nomoraka tanomama...{waitkey}{ret}
+</message>
+  <message offset="282c">
+Reiji: All right, let's go!{waitkey}{ret}
+</message>
+  <message offset="2840">
+Elly: It's open!{nl}
+Everyone, let's go!{waitkey}{ret}
+</message>
+  <message offset="2868">
+Brown: All right!{nl}
+Let's go, everyone!{waitkey}{ret}
+</message>
+  <message offset="2888">
+Ayase: Yes!{nl}
+Let's hurry and go!{waitkey}{ret}
+</message>
+  <message offset="28a4">
+Maki: Beyond this door is{nl}
+the worst version of me...{nl}
+I can't lose. Not ever!{waitkey}{ret}
+</message>
+  <message offset="28d8">
+Mark: ...This is the{nl}
+home stretch.{nl}
+Let's bring it, {ctl0f:1}!{waitkey}{ret}
+</message>
+  <message offset="2908">
+Nanjo: Come to think of it,{nl}
+that compact... may symbolize{nl}
+the three primary colors{nl}
+of light.{waitkey}The human heart can{nl}
+become any color.{waitkey}{clearbox}Which color it takes is{nl}
+up to oneself... Perhaps{nl}
+that's what it means.{waitkey}{ret}
+</message>
+  <message offset="2970">
+Reiji: Get going.{nl}
+I'll deal with all the{nl}
+small fry myself.{waitkey}{ret}
+</message>
+  <message offset="2998">
+Elly: This is it at last...{nl}
+Let's finish quickly and{nl}
+go to the park together.{waitkey}{ret}
+</message>
+  <message offset="29cc">
+Elly: This is it.{nl}
+Let's finish quickly and{nl}
+go to the park together!{waitkey}{clearbox}I'd love to ride the{nl}
+ferris wheel with you,{nl}
+{ctl07:1}.{waitkey}{ret}
+</message>
+  <message offset="2a14">
+Brown: My blood's pumping!{waitkey}Anyone who gets in my way{nl}
+gets a taste of my Persona{nl}
+Wonderful Bomber!{waitkey}{ret}
+</message>
+  <message offset="2a60">
+Ayase: Amusement park, huh.{nl}
+Ayase wants the Free Fall!{nl}
+I did five in a row before.{waitkey}{clearbox}Next is ten in a row!{nl}
+And of course you're{nl}
+coming with me, {ctl0f:1}!{waitkey}{ret}
+</message>
+  <message offset="2ac8">
+Ayase: Amusement park, huh.{nl}
+Ayase wants the Free Fall!{nl}
+I did five in a row before.{waitkey}{clearbox}Next is ten in a row!{nl}
+And of course {ctl08:8961}{nl}
+is coming with me!{waitkey}{ret}
+</message>
+  <message offset="2b30">
+Chisato: Take care.{nl}
+But... you're quite the{nl}
+sly one too, {ctl0f:1}.{waitkey}{clearbox}One look at Maki's face{nl}
+and I can tell at once{nl}
+who she likes now.{waitkey}{ret}
+</message>
+  <message offset="2b80">
+Chisato: Take care.{nl}
+But... you're quite the{nl}
+sly one too, {ctl0f:1}.{waitkey}{clearbox}One look at Maki's face{nl}
+and I can tell at once{nl}
+who she likes now.{waitkey}And what's more...{waitkey}{clearbox}it doesn't seem to be{nl}
+just Maki... You may be in{nl}
+for a rough time, {ctl0f:1}.{waitkey}{ret}
+</message>
+  <message offset="2c00">
+Yosuke: Do your best.{nl}
+I can't be of any help,{nl}
+but I'm rooting for you.{waitkey}{ret}
+</message>
+</scene>

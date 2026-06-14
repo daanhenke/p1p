@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="7">
+  <message offset="13a0">
+Nanjo: He can't even make{nl}
+proper use of a petty post{nl}
+like student council pres.{nl}
+Truly a small man.{waitkey}{ret}
+</message>
+  <message offset="13e0">
+Mark: I dunno, that student{nl}
+council pres bugs me...{waitkey}Ahhh, I just wanna{nl}
+go to the pa...{wait_fr:64}{nl}
+I mean, the hospital!{waitkey}{ret}
+</message>
+  <message offset="1434">
+Yukino: Honestly, any of the{nl}
+council officers would make{nl}
+a better pres than him.{waitkey}{ret}
+</message>
+  <message offset="146c">
+Student Council Pres: Sorting{nl}
+through old records isn't a{nl}
+student council pres's job!{waitkey}{clearbox}Senpai Kamitori would've{nl}
+refused this on principle...{waitkey}{clearbox}Right — to follow in his{nl}
+footsteps, I refuse too!{waitkey}{ret}
+</message>
+  <message offset="14fc">
+{color:2}Student Council Pres.{nl}
+Head of the St. Hermelin{nl}
+student council.{nl}
+Apparently not very diligent.{color:0}{waitkey}{ret}
+</message>
+  <message offset="1544">
+Council Officer: Our pres just{nl}
+gives orders and does nothing{nl}
+himself. Who voted for him?{waitkey}{clearbox}If I were pres, I'd work{nl}
+that guy to the bone!{waitkey}{ret}
+</message>
+  <message offset="15ac">
+Council Officer: He's really{nl}
+something, that guy — somehow{nl}
+teachers love him anyway...{waitkey}{clearbox}He's never once been{nl}
+lectured. Life really{nl}
+isn't fair!{waitkey}{ret}
+</message>
+  <message offset="160c">
+Council Officer: Our pres{nl}
+wants to be like Kamitori,{nl}
+the 18th council pres.{waitkey}{clearbox}You don't know him?{nl}
+He's an alumnus who became{nl}
+branch director at Sebek{waitkey}{nl}
+at a young age. Quite{nl}
+the impressive guy.{waitkey}{ret}
+</message>
+</scene>

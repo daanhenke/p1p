@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="15">
+  <message offset="12a4">
+Nanjo: There was something{nl}
+striking, almost lifelike,{nl}
+in Sonomura's painting that{nl}
+I saw.{waitkey}{ret}
+</message>
+  <message offset="12d0">
+Mark: Oh yeah, she was good{nl}
+at painting, huh...{wait_fr:32} {ctl0f:1}!{nl}
+C'mon, let's get to the{nl}
+hospital!{waitkey}{ret}
+</message>
+  <message offset="1308">
+Yukino: I've seen Sonomura's{nl}
+painting too.{wait_fr:32} It won a prize,{nl}
+titled "Gate of Paradise."{waitkey}{ret}
+</message>
+  <message offset="1348">
+Student: We're short on{nl}
+members, it's a real pain.{nl}
+Sonomura's hospitalized, and{nl}
+Kozai won't come to school.{waitkey}{ret}
+</message>
+  <message offset="1388">
+Student: Do you know about{nl}
+those two?{waitkey}{nl}
+{ctl0e:2}{ret}
+</message>
+  <message offset="13ac">
+Student: Sonomura's paintings{nl}
+are amazing. She's won lots{nl}
+of prizes.{waitkey}Her best friend Kozai was{nl}
+hopeless at painting, but{nl}
+when it came to boyfriends,{nl}
+she seemed to win out.{waitkey}{ret}
+</message>
+  <message offset="140c">
+Student: Oh, you don't know.{nl}
+Yeah, the art club's just had{nl}
+one hardship after another.{nl}
+Maybe we're even cursed.{waitkey}{ret}
+</message>
+</scene>

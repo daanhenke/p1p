@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="70">
+  <message offset="245c">
+Kurouri: So you're the new{nl}
+visitors. Naito told me{nl}
+about you.{waitkey}You seem to be having a{nl}
+rare experience.{nl}
+I'm quite envious.{waitkey}{ret}
+</message>
+  <message offset="24ac">
+Mark: ...That's really{nl}
+Kurouri? He's talking{nl}
+normally, hey!{waitkey}{ret}
+</message>
+  <message offset="24d8">
+Elly: He's speaking{nl}
+normally... Are you really{nl}
+our demon friend?{waitkey}{ret}
+</message>
+  <message offset="2504">
+Brown: Hey, where's the{nl}
+usual 'hee-hee-hee'?{nl}
+That's not like you, demon!{waitkey}{ret}
+</message>
+  <message offset="2538">
+Ayase: Hey, don't talk{nl}
+all normal with{nl}
+a face like that!{waitkey}It's even creepier!{waitkey}{ret}
+</message>
+  <message offset="2570">
+Kurouri: Hmm...{nl}
+The me on the other side{nl}
+must be quite the oddball.{waitkey}I'd like to meet him{nl}
+someday.{waitkey}{ret}
+</message>
+  <message offset="25bc">
+Kurouri: Hmm, shall we get{nl}
+to the point,{nl}
+my visitors?{waitkey}{ret}
+</message>
+  <message offset="25e0">
+Nanjo: I hear you've been{nl}
+studying the two worlds.{nl}
+What do you make of it?{waitkey}{ret}
+</message>
+  <message offset="2618">
+Kurouri: Every event in{nl}
+this world, though it seems{nl}
+unrelated, is bound by{nl}
+threads of cause and effect.{waitkey}{clearbox}This black door that{nl}
+appeared so suddenly is no{nl}
+exception. Only one who{nl}
+follows the thread sees truth.{waitkey}{clearbox}And sadly...{nl}
+that does not seem to{nl}
+be my role to play.{waitkey}{ret}
+</message>
+  <message offset="26b8">
+Nanjo: So our coming here{nl}
+was inevitable, and we're{nl}
+the ones to uncover it all...{waitkey}is that it?{waitkey}{ret}
+</message>
+  <message offset="26ec">
+Kurouri: I know not who{nl}
+spun the thread, but yes,{nl}
+think of it that way.{waitkey}{clearbox}Now then, the name of the{nl}
+one who holds the thread's{nl}
+end you must follow?{waitkey}{ret}
+</message>
+  <message offset="2734">
+Maki: Kandori...{wait_fr:88}{nl}
+Takahisa...{waitkey}{ret}
+</message>
+  <message offset="2750">
+Kurouri: Hmm, the name{nl}
+I was told. In truth, I knew{nl}
+beforehand this would happen.{waitkey}{clearbox}From the prophecy of{nl}
+a certain seer I met{nl}
+at the shrine...{waitkey}{ret}
+</message>
+  <message offset="27ac">
+Mark: A 'monkey' seer?!{nl}
+Whoever heard of a{nl}
+monkey being a seer!!{waitkey}{ret}
+</message>
+  <message offset="27d8">
+Nanjo: Enough!{nl}
+Someone shut that{nl}
+monkey up!{waitkey}{ret}
+</message>
+  <message offset="27fc">
+Mark: Ah! Why you~{nl}
+You drooling-bib man!{waitkey}{ret}
+</message>
+  <message offset="2820">
+Reiji: .........{wait_fr:88}{nl}
+What a noisy bunch...{waitkey}{ret}
+</message>
+  <message offset="2844">
+Elly: Shut up!{nl}
+Stop it, both of you!{waitkey}{ret}
+</message>
+  <message offset="2870">
+Ayase: Ha-ha!{nl}
+Monkey, monkey!{waitkey}{ret}
+</message>
+  <message offset="2888">
+Brown: A monkey seer, huh -{nl}
+probably Mark's uncle{nl}
+or something!{waitkey}{ret}
+</message>
+  <message offset="28b0">
+Maki: Hey, hey, Kurouri,{nl}
+was that the masked man?{waitkey}{ret}
+</message>
+  <message offset="28d8">
+Kurouri: Ah, yes...{nl}
+He called himself Philemon...{nl}
+But more to the point,{waitkey}is this all right?{waitkey}{ret}
+</message>
+  <message offset="290c">
+Maki: It's fine, it's fine.{nl}
+Happens all the time!{waitkey}{clearbox}{ctl07:1},{nl}
+let's try the Araya Shrine.{waitkey}{clearbox}I've met him before too -{nl}
+if it's that man, he might{nl}
+know where Kandori is!{waitkey}{ret}
+</message>
+  <message offset="2978">
+Maki: This door...{nl}
+it gives off a{nl}
+bad feeling...{waitkey}{ret}
+</message>
+  <message offset="2998">
+Mark: Damn!{nl}
+I'll settle this{nl}
+someday!{waitkey}{ret}
+</message>
+  <message offset="29b4">
+Nanjo: Honestly! Thanks to{nl}
+that fool, I forgot what{nl}
+I meant to ask.{waitkey}{ret}
+</message>
+  <message offset="29dc">
+Reiji: ...{wait_fr:60}I told you{nl}
+not to bother with me.{waitkey}{ret}
+</message>
+  <message offset="29fc">
+Elly: The demon of this{nl}
+world seems dependable.{nl}
+His looks aside, that is.{waitkey}{ret}
+</message>
+  <message offset="2a34">
+Brown: The demon, huh...{nl}
+It's funny in its own way,{nl}
+but it throws me off somehow.{waitkey}{ret}
+</message>
+  <message offset="2a6c">
+Ayase: Ehh? Leaving already?{nl}
+You're the first guy to drag{nl}
+Ayase around this much.{waitkey}{ret}
+</message>
+  <message offset="2aa8">
+Kurouri: With your vitality,{nl}
+you'll be fine no matter{nl}
+what hardship you meet.{waitkey}A bit noisy, though...{waitkey}{ret}
+</message>
+  <message offset="2af0">
+Yosuke: The Araya Shrine{nl}
+is in the same place as{nl}
+in our world. Please find{nl}
+a way back somehow.{waitkey}{clearbox}And...{wait_fr:60}{nl}
+if you meet Chisato,{nl}
+please help her. I'm counting{nl}
+on you.{waitkey}{ret}
+</message>
+  <message offset="2b5c">
+From beyond the door comes{nl}
+an eerie pulsing...{waitkey}{ret}
+</message>
+  <message offset="2b80">
+Kurouri: It catches your eye?{nl}
+This door appeared all at once{nl}
+with the upheaval a month ago.{waitkey}{clearbox}I've tried all sorts of{nl}
+things, but it won't{nl}
+budge an inch.{waitkey}{clearbox}Well, if the threads of fate{nl}
+lead you, the door will{nl}
+open in time.{waitkey}{ret}
+</message>
+  <message offset="2bf8">
+{color:2}Tsutomu Kurouri.{nl}
+An occult nut who's wrong{nl}
+about everything...{nl}
+or so he should be...{color:0}{waitkey}{ret}
+</message>
+</scene>

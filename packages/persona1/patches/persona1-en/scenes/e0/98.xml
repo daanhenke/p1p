@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="98">
+  <message offset="1814">
+{nl}
+
+</message>
+  <message offset="1844">
+Queen: It's been a while,{nl}
+Maki. Welcome to my{nl}
+palace, {ctl0f:1} and friends.{waitkey}{ret}
+</message>
+  <message offset="187c">
+Maki: Ch-Chisato...!!{nl}
+So it really was you...?!{nl}
+How could this be...!{waitkey}{ret}
+</message>
+  <message offset="18e0">
+Mark: So it was her after all.{waitkey}{clearbox}Hey {ctl0f:1},{nl}
+did Kasai's face have{nl}
+that many moles?{waitkey}{clearbox}She always bragged her{nl}
+skin was flawless, right...?{waitkey}{ret}
+</message>
+  <message offset="1940">
+Maki: Chisato!{nl}
+There's a reason, right?{nl}
+Is the real Queen forcing you?{waitkey}{clearbox}You being our enemy{wait_fr:32}...{nl}
+that's a lie, right?{waitkey}{ret}
+</message>
+  <message offset="19d0">
+Queen: You're such a fool!{nl}
+Me, being threatened?{nl}
+Don't be ridiculous.{waitkey}{clearbox}I'm here of my own will!{nl}
+Isn't the palace, this{nl}
+room, lovely?{waitkey}{clearbox}An angel in black lent me{nl}
+a mirror that grants any{nl}
+wish - I made all this.{waitkey}{ret}
+</message>
+  <message offset="19e4">
+Mark: An angel in black...{waitkey}{ret}
+</message>
+  <message offset="1a28">
+Mark: You mean Aki!{nl}
+Kasai, that thing{nl}
+is no angel!{waitkey}Weren't you kidnapped,{nl}
+anyway?{waitkey}{ret}
+</message>
+  <message offset="1a84">
+Queen: I thought so too{nl}
+at first, but I was wrong.{waitkey}{clearbox}She was searching for a{nl}
+human who could master{nl}
+the mirror - and that was me.{waitkey}{ret}
+</message>
+  <message offset="1afc">
+Maki: ...{wait_fr:32}I get that you're{nl}
+the Queen, Chisato{wait_fr:32}...{nl}
+so isn't that enough?{waitkey}{clearbox}Let's go home together!{nl}
+Naito got hurt{wait_fr:32},{nl}
+you have to be with him...{waitkey}{ret}
+</message>
+  <message offset="1b1c">
+Queen: Got hurt{wait_fr:37}... Yosuke did?{waitkey}{ret}
+</message>
+  <message offset="1b64">
+Queen: ...Maki{wait_fr:32}, you know{waitkey}{clearbox}I don't need Yosuke{nl}
+anymore. It's not like{nl}
+I even like him.{waitkey}{ret}
+</message>
+  <message offset="1b74">
+Maki: Huh?{waitkey}{ret}
+</message>
+  <message offset="1b8c">
+Maki: What did you{nl}
+just say?{waitkey}{ret}
+</message>
+  <message offset="1bb8">
+Queen: I never liked{nl}
+Yosuke. Not from{nl}
+the very start.{waitkey}{ret}
+</message>
+  <message offset="1bec">
+Maki: Liar!{nl}
+You bragged about him so{nl}
+much - what a great guy...{waitkey}{ret}
+</message>
+  <message offset="1ce4">
+Queen: Still don't get it?{nl}
+You really are a fool!{waitkey}{clearbox}I went out with Yosuke{nl}
+because I knew that you{nl}
+liked him!{waitkey}{clearbox}At first, Yosuke was the{nl}
+one who liked you.{waitkey}{clearbox}But I couldn't allow that.{waitkey}After all, I'm the{nl}
+prettier one - he should{nl}
+have liked me, right?{waitkey}{clearbox}So I seduced Yosuke, and{nl}
+that simple fool fell{nl}
+head over heels for me.{waitkey}{ret}
+</message>
+  <message offset="1d0c">
+Maki: That's a lie...{wait_fr:32}{nl}
+Chisato, what a cruel joke...{waitkey}{ret}
+</message>
+  <message offset="1dc4">
+Queen: It's no joke!{nl}
+Every word is true!{waitkey}{clearbox}My paintings are better,{nl}
+yet everyone fawns{nl}
+over you!{waitkey}{clearbox}Honestly, I never liked{nl}
+you to begin with!{waitkey}{clearbox}I'm prettier, and I've got{nl}
+the talent for art too!{waitkey}{clearbox}So why is it always you{nl}
+who gets the good life?{waitkey}{ret}
+</message>
+  <message offset="1e4c">
+Nanjo: So that's why you{nl}
+stole Naito from Sonomura.{waitkey}And made the townsfolk{nl}
+praise your paintings...{waitkey}{clearbox}?{wait_fr:48} Wait, Kasai.{nl}
+This Sonomura is not the{nl}
+same person as the{nl}
+Sonomura we know.{waitkey}{ret}
+</message>
+  <message offset="1f18">
+Queen: Be quiet!{nl}
+Outsiders should hold{nl}
+their tongues!{waitkey}{clearbox}Hey Maki, deep down{nl}
+you were laughing{nl}
+at me, weren't you?{waitkey}{clearbox}Wearing that "I'm so{nl}
+kind" face, while behind{nl}
+my back, really{waitkey}you mocked me, didn't you!{waitkey}{clearbox}But I won't allow that{nl}
+anymore! The me now is{nl}
+better than you every way!{waitkey}{ret}
+</message>
+  <message offset="1f4c">
+Mark: With the power of{nl}
+the mirror Aki{wait_fr:32}, that{nl}
+girl in black, gave you,{nl}
+right?{waitkey}{ret}
+</message>
+  <message offset="1fb0">
+Queen: I said be quiet!{wait_fr:32}{nl}
+...Say, {ctl0f:1},{nl}
+aren't my paintings lovely?{waitkey}{clearbox}Everyone praises them.{nl}
+Far better, they say, than{nl}
+Maki's clumsy paintings!{waitkey}{ret}
+</message>
+  <message offset="1fe8">
+Maki: Chisato, you hated{nl}
+me that much...{nl}
+I never knew...{waitkey}{ret}
+</message>
+  <message offset="204c">
+Mark: Now I get why your{nl}
+paintings are so lousy!{waitkey}{clearbox}Your spirit's rotten -{nl}
+someone like that can't{nl}
+paint anything good!{waitkey}Don't take art lightly!{waitkey}{ret}
+</message>
+  <message offset="2070">
+Queen: ...{wait_fr:21}Wh...{wait_fr:21}{nl}
+what did you say...?{waitkey}{ret}
+</message>
+  <message offset="2120">
+Nanjo: Only envying Sonomura,{nl}
+making no effort, and in the{nl}
+end forcing others to obey{waitkey}{clearbox}through power - and you{nl}
+think you've become your{nl}
+ideal self?{waitkey}You're a naked emperor!{waitkey}{clearbox}No one means what they say.{waitkey}{clearbox}They only flatter you out{nl}
+of fear of you!{waitkey}{ret}
+</message>
+  <message offset="2144">
+Queen: ...{wait_fr:32}A naked emperor,{nl}
+you say? Me?{waitkey}{ret}
+</message>
+  <message offset="21b8">
+Mark: That's right, Kasai!{waitkey}Hurting Sonomura over some{nl}
+stupid inferiority complex -{nl}
+I won't forgive you!{waitkey}{clearbox}Listen, I'll say it as{nl}
+many times as it takes:{nl}
+your paintings are LOUSY!{waitkey}{ret}
+</message>
+  <message offset="2200">
+Queen: Then go and look{nl}
+at them once more!{waitkey}{clearbox}If you can't appreciate my{nl}
+paintings, that's your{nl}
+own fault!{waitkey}{ret}
+</message>
+</scene>

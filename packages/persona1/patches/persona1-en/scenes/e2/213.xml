@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="213">
+  <message offset="5324">
+Igor: Welcome{nl}
+to the Velvet Room...{waitkey}{clearbox}This room awakens the{nl}
+ancient forms that dwell{nl}
+in the human heart.{waitkey}{clearbox}Won't you show me{nl}
+your Persona?{waitkey}{ret}
+</message>
+  <message offset="5388">
+Igor: Welcome{nl}
+to the Velvet Room...{waitkey}{ret}
+</message>
+  <message offset="53ac">
+Igor: What do you wish?{nl}
+{ctl0e:12}{ret}
+</message>
+  <message offset="53c8">
+Igor: Well then,{nl}
+what shall we discuss?{waitkey}{nl}
+{ctl0e:23}{ret}
+</message>
+  <message offset="53f4">
+Igor: You haven't enough{nl}
+Spell Cards.{waitkey}{ret}
+</message>
+  <message offset="5414">
+Igor: I can hold no more{nl}
+Personas for you.{waitkey}{ret}
+</message>
+  <message offset="5438">
+Igor: What will you do?{nl}
+{ctl0e:21}{ret}
+</message>
+  <message offset="5450">
+Igor: Farewell, then...{waitkey}{ret}
+</message>
+  <message offset="5468">
+Igor: When you wish for a{nl}
+new Persona, I shall fuse{nl}
+one and make it for you.{waitkey}{clearbox}To make a Persona, I must{nl}
+fuse demons summoned{nl}
+from the demon realm.{waitkey}{clearbox}But to summon a demon,{nl}
+a certain card is needed.{waitkey}{clearbox}On that card is written{nl}
+the spell to call{nl}
+forth a demon.{waitkey}{clearbox}We call it a Summon Spell{nl}
+Card, and each demon{nl}
+holds but one.{waitkey}{clearbox}And so, to fuse you must{nl}
+first gather Spell Cards.{waitkey}{clearbox}You must negotiate with{nl}
+demons and obtain the{nl}
+cards yourselves.{waitkey}{clearbox}When you meet a demon,{nl}
+fighting isn't everything.{waitkey}{clearbox}Do you understand?{waitkey}{clearbox}They do not always{nl}
+wish to fight...{waitkey}{ret}
+</message>
+  <message offset="5614">
+Igor: To wield a newly{nl}
+fused Persona as your{nl}
+own power...{waitkey}{clearbox}fusing alone is not enough.{waitkey}{clearbox}Only by incarnating the{nl}
+Persona into your body{nl}
+can you master its power.{waitkey}{clearbox}You may incarnate up to{nl}
+three Personas in one{nl}
+person.{waitkey}{clearbox}A newly fused Persona{nl}
+I keep in safe care.{waitkey}{clearbox}When you have need,{nl}
+call on me to incarnate.{waitkey}{clearbox}I can hold up to sixteen{nl}
+Personas, so swap them{nl}
+as the need arises.{waitkey}{clearbox}Personas, like human{nl}
+natures, are myriad - each{nl}
+differs in form and heart.{waitkey}{clearbox}Discern them, and use each{nl}
+as the moment demands.{waitkey}{clearbox}Master them so, and you'll{nl}
+become a fine Persona{nl}
+user indeed.{waitkey}{ret}
+</message>
+  <message offset="57e0">
+Igor: You may incarnate{nl}
+up to three Personas{nl}
+per person.{waitkey}{clearbox}One of them is "active" -{nl}
+ready to be summoned{nl}
+during battle.{waitkey}{clearbox}To summon is to call your{nl}
+Persona forth in combat.{waitkey}{clearbox}The other two remain{nl}
+in a charged state.{waitkey}{clearbox}In battle, a Persona Change{nl}
+can make one of them{nl}
+active.{waitkey}{clearbox}An active Persona bolsters{nl}
+your many abilities.{waitkey}{clearbox}Without a Persona's power,{nl}
+you are no different{nl}
+from ordinary humans.{waitkey}{clearbox}You'd have no strength to{nl}
+endure a demon's magic.{waitkey}{clearbox}Take one head-on, and{nl}
+you'd likely not survive{nl}
+at all.{waitkey}{clearbox}But incarnate a Persona,{nl}
+and your defense against{nl}
+magic rises sharply.{waitkey}{clearbox}Some find their strength{nl}
+rises, others their luck.{waitkey}{clearbox}This too is a Persona's{nl}
+power - though all of it{nl}
+is a hidden side of you.{waitkey}{clearbox}Once incarnated, study{nl}
+your own status well.{waitkey}{clearbox}You'll see just how{nl}
+you have changed.{waitkey}{clearbox}At first, no one can draw{nl}
+a Persona's full power.{waitkey}{clearbox}But the more you summon it,{nl}
+the more of its ability{nl}
+you draw forth.{waitkey}{clearbox}As your summoning skill{nl}
+grows, more attacks open{nl}
+up in battle.{waitkey}{clearbox}Yet even with stronger{nl}
+attacks to choose, the SP{nl}
+to summon stays the same.{waitkey}{clearbox}You grow through battle -{nl}
+but never forget, your{nl}
+Persona grows too...{waitkey}{ret}
+</message>
+  <message offset="5b78">
+Igor: This is merely{nl}
+my meddling, but...{waitkey}{clearbox}A Persona grows in eight{nl}
+stages, so now and then{nl}
+try raising one to the end.{waitkey}{clearbox}Surely something good{nl}
+will come of it...{waitkey}{clearbox}Also, fusion involves many{nl}
+factors, from the subtle{nl}
+to the great.{waitkey}{clearbox}For instance, even when{nl}
+making the same Persona...{waitkey}{clearbox}which Spell Cards you{nl}
+combined to begin with...{waitkey}{clearbox}the order of summoning...{waitkey}{clearbox}the affinity of the{nl}
+demons' elements...{waitkey}{clearbox}the place of Terra and{nl}
+Luna at fusion...{waitkey}{clearbox}whether you added some{nl}
+other essence...{waitkey}{clearbox}I nearly forgot...{waitkey}{clearbox}During fusion, adding{nl}
+items can bring about{nl}
+changes as well.{waitkey}{clearbox}With some items the result{nl}
+can be foreseen,{waitkey}{clearbox}but at times even I cannot{nl}
+predict it - forgive me{nl}
+when that happens.{waitkey}{clearbox}Still, it's worth a try...{waitkey}{clearbox}By the way, jewels can{nl}
+change the class within{nl}
+the same race of result.{waitkey}{clearbox}As for other items, I{nl}
+recommend you try them{nl}
+yourself.{waitkey}{ret}
+</message>
+</scene>

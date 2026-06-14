@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="32">
+  <message offset="142c">
+Takeda: What do you brats{nl}
+want? This is no place for{nl}
+kids. Hey, throw those brats{nl}
+out!{waitkey}{ret}
+</message>
+  <message offset="146c">
+Man's Voice: Takeda, what's{nl}
+all the commotion?{waitkey}{ret}
+</message>
+  <message offset="1488">
+Nanjo: Kandori...!{waitkey}{ret}
+</message>
+  <message offset="149c">
+Kandori: Well now, how rare.{nl}
+What business brings the{nl}
+Nanjo family's young heir{nl}
+to our humble company?{waitkey}{ret}
+</message>
+  <message offset="14d4">
+Nanjo: I didn't come because{nl}
+I have business with you.{nl}
+I'm merely tagging along.{waitkey}{ret}
+</message>
+  <message offset="1504">
+Kandori: Oho... Then these I{nl}
+see here must be the young{nl}
+master's schoolmates?{waitkey}To accompany your friends all{nl}
+the way to a dreary place{nl}
+like this...{wait_fr:21} ah, beautiful{nl}
+friendship indeed.{waitkey}{ret}
+</message>
+  <message offset="1574">
+Nanjo: I'll thank you to stop{nl}
+calling me "young master."{waitkey}I don't recall granting you{nl}
+permission to address me{nl}
+that way.{waitkey}{ret}
+</message>
+  <message offset="15b4">
+Takeda: Why you little...!{waitkey}{ret}
+</message>
+  <message offset="15c8">
+Kandori: Stand down, Takeda!{nl}
+...{wait_fr:32}It seems the Nanjo{nl}
+family's upbringing leaves{nl}
+something to be desired.{waitkey}No matter. Nanjo, in time{nl}
+I'll teach you how to speak{nl}
+to your betters.{waitkey}{ret}
+</message>
+  <message offset="1640">
+Mark: Nanjo's a jerk too, but{nl}
+you're a way, way worse{nl}
+jerk...!{waitkey}{ret}
+</message>
+  <message offset="1678">
+Takeda: Tch...{wait_fr:37} Master{nl}
+Kandori, it's about time...{waitkey}{ret}
+</message>
+  <message offset="16a0">
+Kandori: Understood, I'll{nl}
+come shortly.{waitkey}Now then, I'll ask you all{nl}
+to see yourselves out.{waitkey}{ret}
+</message>
+  <message offset="16d0">
+Mark: Tch! Let's go, {ctl0f:1}!{waitkey}{ret}
+</message>
+  <message offset="16ec">
+Man: Sir, do you have an{nl}
+appointment for a meeting?{waitkey}I'm afraid we must ask{nl}
+those without appointments{nl}
+to leave.{waitkey}{ret}
+</message>
+  <message offset="1738">
+{color:2}Takeda{nl}
+Kandori's right-hand man, who{nl}
+handles SEBEC's illegal{nl}
+operations.{color:0}{waitkey}{ret}
+</message>
+  <message offset="1770">
+{color:2}Takahisa Kandori{nl}
+The ambitious branch manager{nl}
+of SEBEC. Dark rumors forever{nl}
+swirl around him.{color:0}{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="207">
+  <message offset="15b0">
+
+</message>
+  <message offset="15c4">
+Nanjo: Inaba!!{waitkey}{ret}
+</message>
+  <message offset="15e0">
+Brown: M-{wait_fr:30}Mark!?{waitkey}{ret}
+</message>
+  <message offset="15f8">
+Ayase: Huh?{nl}
+Where's Sonomura?{waitkey}{ret}
+</message>
+  <message offset="161c">
+Mark: We're in big trouble!{nl}
+Lend me your strength!!{waitkey}{ret}
+</message>
+  <message offset="1638">
+Yukino: Did something{nl}
+happen to Sonomura?{waitkey}{ret}
+</message>
+  <message offset="16ac">
+Mark: I'm sorry!{nl}
+I was right there with her{waitkey}{clearbox}We made it into SEBEC fine,{nl}
+but the demons inside{nl}
+caught her...{waitkey}{clearbox}They're armed.{nl}
+There's no way I can{nl}
+take them on alone.{waitkey}{ret}
+</message>
+  <message offset="16c0">
+Yukino: What did you say!?{waitkey}{ret}
+</message>
+  <message offset="16dc">
+Elly: We have to rescue{nl}
+her quickly!!{waitkey}{ret}
+</message>
+  <message offset="1704">
+Brown: Looks like it's already{nl}
+time for me and the{nl}
+rest of the gang to shine!{waitkey}{ret}
+</message>
+  <message offset="1714">
+Yukino: All right!{waitkey}{ret}
+</message>
+</scene>

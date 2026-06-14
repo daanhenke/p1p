@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="186">
+  <message offset="1414">
+Maki: The demons in town{nl}
+suddenly increased — that was{nl}
+just recently.{waitkey}{clearbox}But even though they've{nl}
+increased, you don't hear{nl}
+much about people getting{nl}
+attacked.{waitkey}{ret}
+</message>
+  <message offset="1464">
+Nanjo: Demons that don't{nl}
+attack people... yet we're{nl}
+being attacked, in fact.{waitkey}{clearbox}Are the demons choosing their{nl}
+targets? {wait_fr:32}Surely not...{waitkey}{ret}
+</message>
+  <message offset="14c0">
+Mark: Yoo-hoo, I'm Froggy,{nl}
+ribbit~!{wait_fr:48} ...Just kidding!{waitkey}{ret}
+</message>
+  <message offset="14f0">
+Mark: Quit making such a{nl}
+grim face all the time and{nl}
+lighten up! That's what I'm{nl}
+saying!{waitkey}{ret}
+</message>
+  <message offset="1524">
+Elly: My skin's been a bit{nl}
+rough lately...{waitkey}{clearbox}Fighting Demons is rather{nl}
+Hard work, after all.{waitkey}{ret}
+</message>
+  <message offset="1574">
+Brown: Lately the fatigue just{nl}
+won't go away. Even I can't{nl}
+beat getting older, huh.{waitkey}{ret}
+</message>
+  <message offset="15a8">
+Ayase: N-no way, that tonic{nl}
+drink had pit viper in it?!{waitkey}Ayase already drank it~!{waitkey}{ret}
+</message>
+  <message offset="15ec">
+Reiji: No, it's not like I'm{nl}
+tired. Let's get moving.{waitkey}{ret}
+</message>
+  <message offset="1614">
+Townsperson: Until recently,{nl}
+you only had to watch for{nl}
+demons when the girl in black{nl}
+appeared.{waitkey}{clearbox}But now demons prowl around{nl}
+even without the girl there.{nl}
+It's unsettling.{waitkey}{ret}
+</message>
+  <message offset="1680">
+Townsperson: Everyone fears{nl}
+the demons, but I don't think{nl}
+there's any need to worry.{waitkey}{clearbox}I'm sure we won't be attacked.{nl}
+I just have that feeling.{waitkey}{ret}
+</message>
+  <message offset="16d4">
+Shopkeeper: Do you know my{nl}
+fool of a son?{waitkey}{clearbox}A cute girl transferred into{nl}
+his very class, and yet{waitkey}{clearbox}they don't get along, and he{nl}
+won't even speak to her.{wait_fr:32}{nl}
+Ah, medicine? Right, right.{waitkey}{ret}
+</message>
+  <message offset="1750">
+Shopkeeper: Whoa, open that{nl}
+and my pet frogs'll come{nl}
+hopping out!{waitkey}Ha~ Gotcha!{waitkey}{ret}
+</message>
+</scene>

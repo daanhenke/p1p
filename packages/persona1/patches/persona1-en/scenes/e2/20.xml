@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="20">
+  <message offset="1414">
+Nanjo: As if dreams have any{nl}
+meaning. A dream is nothing{nl}
+more than a dream.{waitkey}{ret}
+</message>
+  <message offset="143c">
+Mark: A blue room... Now that{nl}
+you mention it, I feel like{nl}
+I've had a dream like that{nl}
+too, somehow.{waitkey}{ret}
+</message>
+  <message offset="1474">
+Yukino: Don't forget there's{nl}
+someone at the hospital{nl}
+waiting for us to hear{nl}
+them out.{waitkey}{ret}
+</message>
+  <message offset="14a8">
+Student: I had a strange{nl}
+dream... and it's really{nl}
+been bugging me.{waitkey}{ret}
+</message>
+  <message offset="14d4">
+Student: Want to hear about{nl}
+my dream?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="14f4">
+Student: It was a blue room.{waitkey}{clearbox}I could hear a piano and{nl}
+singing, and a strange old{nl}
+man was sitting in a chair...{waitkey}Hey, what do you think{nl}
+it means?{waitkey}{ret}
+</message>
+  <message offset="1550">
+Student: It was such a{nl}
+strange dream. As if it were{nl}
+hinting at something{nl}
+about to happen...{waitkey}{ret}
+</message>
+</scene>

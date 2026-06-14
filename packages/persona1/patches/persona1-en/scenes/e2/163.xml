@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="163">
+  <message offset="124c">
+Maki: That scientist says he{nl}
+knows my mother...{waitkey}{clearbox}But I really don't have any{nl}
+mother at all, you hear me!{waitkey}{ret}
+</message>
+  <message offset="12a4">
+Nanjo: Those people...{wait_fr:48}{nl}
+what kind of research are{nl}
+they doing?{waitkey}{ret}
+</message>
+  <message offset="12cc">
+Mark: What a shady room.{wait_fr:32}{nl}
+I see — so the rumors about{nl}
+SEBEC weren't just lies!{waitkey}{ret}
+</message>
+  <message offset="1308">
+Elly: Whatever research they{nl}
+were doing, it surely wasn't{nl}
+something they could do out{nl}
+in the open.{waitkey}{ret}
+</message>
+  <message offset="1340">
+Brown: What a dreary room!{nl}
+Isn't there anything useful{nl}
+lying around?{waitkey}{ret}
+</message>
+  <message offset="137c">
+Ayase: Hmm, there's a real{nl}
+suspicious-looking box here.{waitkey}{ret}
+</message>
+  <message offset="139c">
+Scientist: Isn't this the{nl}
+basement?{waitkey}Why is this room above{nl}
+ground?!{waitkey}{ret}
+</message>
+  <message offset="13d8">
+Scientist: On your way here,{nl}
+did you meet a woman?{wait_fr:21}{nl}
+Short hair, wearing glasses...{waitkey}{wait_fr:32}{nl}
+Ah, Sonomura, please, be{nl}
+safe!{waitkey}{ret}
+</message>
+  <message offset="143c">
+Scientist: So Kandori used{nl}
+that machine...{waitkey}{ret}
+</message>
+  <message offset="1460">
+Scientist: Good heavens! To{nl}
+think it would alter the very{nl}
+structure of the building...{nl}
+this was unforeseen!{waitkey}{ret}
+</message>
+  <message offset="149c">
+This door doesn't look like{nl}
+it'll open...{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="103">
+  <message offset="178c">
+Yukino: It's an odd thing to{nl}
+say in the afterlife, but...{nl}
+I hope everyone gets home{nl}
+safe.{waitkey}{ret}
+</message>
+  <message offset="17c4">
+Ayase: Hey, hey, maybe there{nl}
+are chests with "Mirror{nl}
+Shards" in them too!!{waitkey}{ret}
+</message>
+  <message offset="17f8">
+Nanjo: Still, the enemies here{nl}
+are strong. Without proper{nl}
+equipment{waitkey}we won't beat Yuriko.{waitkey}
+</message>
+  <message offset="183c">
+Brown: Just like Cerberus{nl}
+said, this Tartarus is{nl}
+rough...{waitkey}{ret}
+</message>
+  <message offset="1870">
+Elly: Checking every chest{nl}
+would be hard on our time, I{nl}
+fear.{waitkey}Open this chest?{nl}
+{ctl0e:0}{ret}Got a "Mirror Shard"!{waitkey}{ret}
+</message>
+  <message offset="189c">
+Decided not to open the{nl}
+chest.{waitkey}{ret}
+</message>
+  <message offset="18b0">
+The chest is already empty.{waitkey}{ret}
+</message>
+</scene>

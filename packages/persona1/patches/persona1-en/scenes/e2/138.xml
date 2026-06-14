@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="138">
+  <message offset="1250">
+Student: This whole mess'll be{nl}
+over by the school festival,{nl}
+right?{waitkey}I'd hate it if the festival{nl}
+got canceled in all the{nl}
+confusion!{waitkey}{ret}
+</message>
+  <message offset="12a8">
+The door to the storeroom{nl}
+has been locked...{waitkey}{ret}
+</message>
+  <message offset="12cc">
+Teacher: Oh, {ctl0f:1}! You're{nl}
+still hanging around here?!{waitkey}{clearbox}We're closing the gym, so{nl}
+head over to the main{nl}
+building.{waitkey}{clearbox}No word yet of demons getting{nl}
+into the school, but they{nl}
+could break in any moment.{waitkey}{clearbox}...{wait_fr:32}You{wait_fr:48}, what's with that{nl}
+mask...?{wait_fr:48} Ah, no, that can't{nl}
+be. Anyway, hurry up and go.{waitkey}{ret}
+</message>
+</scene>

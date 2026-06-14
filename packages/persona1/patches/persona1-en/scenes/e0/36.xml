@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="36">
+  <message offset="132c">
+Kuroori: Oh, {ctl0f:1}!{nl}
+This is quite an{nl}
+interesting incident.{waitkey}{clearbox}Could be the work of{nl}
+aliens...!{wait_fr:32}{nl}
+Heh heh heh...{waitkey}{clearbox}No really, this time{nl}
+I mean it.{nl}
+You can trust me!{waitkey}{ret}
+</message>
+  <message offset="13a4">
+{color:2}Kuroori Tsutomu.{nl}
+Known as "Devil Boy."{nl}
+Occult expert, though he's{nl}
+often off the mark.{waitkey}{ret}
+</message>
+  <message offset="13e8">
+Kuroori: You know "The{nl}
+Snow Queen," right?{nl}
+The fairy tale?{waitkey}{clearbox}It's a traditional play{nl}
+here at St. Hermelin...{nl}
+Heh heh... just listen.{waitkey}{clearbox}In the play, the Snow{nl}
+Queen always wears a mask.{nl}
+Here's where it gets good.{waitkey}{clearbox}That mask is cursed.{nl}
+Students who played the{nl}
+Snow Queen kept dying.{waitkey}Interesting, right?{waitkey}{clearbox}But apparently one girl{nl}
+escaped the curse{nl}
+entirely.{waitkey}{clearbox}No one knows who she was.{nl}
+If we found out,{nl}
+it'd be a clue...{nl}
+Heh heh heh...{waitkey}{ret}
+</message>
+  <message offset="1548">
+Student: Hey, you!{nl}
+I know you know something.{nl}
+Please, help me out!{waitkey}{ret}
+</message>
+  <message offset="1578">
+Student: Don't push people{nl}
+too hard — who knows{nl}
+what they'll do!{waitkey}Probably true for{nl}
+demons too.{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="167">
+  <message offset="1618">
+Himeno: Father's going to{nl}
+assign me a bodyguard this{nl}
+time, so I won't be attacked{nl}
+by demons.{waitkey}You should all get one too...{nl}
+{wait_fr:48} ...Oh, but that's{nl}
+impossible for you, isn't it.{nl}
+Right, it costs money.{waitkey}So sorry.{waitkey}{ret}
+</message>
+  <message offset="16a0">
+{color:3}Yuko Himeno
+</message>
+  <message offset="16e4">
+She was supposed to be an{nl}
+admirable girl working a job{nl}
+for her family's sake, but...{color:0}{waitkey}{ret}
+</message>
+  <message offset="171c">
+Mark: ...Huh, that's Himeno,{nl}
+right?
+</message>
+  <message offset="174c">
+Am I seeing things?{nl}
+Was she always... like that?{waitkey}{ret}
+</message>
+  <message offset="1770">
+Himeno: Oh, Nanjo. Are you{nl}
+still associating with{nl}
+people like that?
+</message>
+  <message offset="17ac">
+{ret}
+</message>
+  <message offset="17d4">
+Nanjo: ...It's not as if I{nl}
+keep their company by choice.{waitkey}{ret}
+</message>
+  <message offset="1804">
+Mark: "People like that"...?{wait_fr:32}{nl}
+And just who d'you mean by{nl}
+"people like that"...
+</message>
+  <message offset="1858">
+{nl}
+You mean us, huh?!{waitkey}{ret}
+</message>
+  <message offset="18c0">
+Brown: At least it's for{nl}
+certain she doesn't mean me!{waitkey}{ret}
+</message>
+  <message offset="18f0">
+Ayase: No way! Was Himeno{nl}
+always this nasty?!{waitkey}{ret}
+</message>
+  <message offset="1910">
+Elly: ...{wait_fr:21}"People like{nl}
+that"...?{wait_fr:32} Did I just hear{nl}
+"people like that"...?{waitkey}I must have misheard,{nl}
+surely?{waitkey}{ret}
+</message>
+  <message offset="1944">
+Nanjo: True, these fools are{nl}
+a hopeless lot, and may well{nl}
+be "people like that"...{waitkey}{clearbox}...{wait_fr:21}Yet why does it anger me{nl}
+to hear someone else say it?{waitkey}{ret}
+</message>
+  <message offset="1980">
+Nanjo: What on earth...{wait_fr:32}{nl}
+Himeno, did you eat something{nl}
+that disagreed with you?{waitkey}{ret}
+</message>
+  <message offset="19a8">
+Mark: What's that supposed to{nl}
+mean, "people like that"!{waitkey}{ret}
+</message>
+  <message offset="19d0">
+Brown: I always figure I{nl}
+oughta choose my friends{nl}
+more carefully too!{waitkey}Elly: Having too little{nl}
+confidence is a problem,{nl}
+but...{wait_fr:32} that was going a{nl}
+bit far.{waitkey}{ret}
+</message>
+  <message offset="1a08">
+Ayase: That's not Himeno!{nl}
+She was never like that!{waitkey}{ret}
+</message>
+</scene>

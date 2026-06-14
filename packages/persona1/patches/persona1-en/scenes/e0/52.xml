@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="52">
+  <message offset="261c">
+
+</message>
+  <message offset="264c">
+Maki: Whoa, look at this!{nl}
+What is this place?{nl}
+So exciting!{waitkey}{ret}
+</message>
+  <message offset="2680">
+Elly: A cutting-edge company{nl}
+through and through —{nl}
+what an elaborate setup.{waitkey}{ret}
+</message>
+  <message offset="26b0">
+Brown: Whew...{nl}
+And what do they even{nl}
+need all this for?{waitkey}{ret}
+</message>
+  <message offset="26dc">
+Ayase: Ayase is here?!{nl}
+Oh no, this is{nl}
+super dangerous!{waitkey}{ret}
+</message>
+  <message offset="2700">
+Nanjo: Inaba!{nl}
+Are you trying to{nl}
+kill me?!{waitkey}{ret}
+</message>
+  <message offset="2734">
+Mark: Wahahahaha!{nl}
+Sorry, sorry!{nl}
+{wait_fr:88}Tch, that thing's tough...{waitkey}{ret}
+</message>
+</scene>

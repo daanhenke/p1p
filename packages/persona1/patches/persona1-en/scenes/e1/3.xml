@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="3">
+  <message offset="1a0c">
+Obtained the{nl}
+"Mirror Frame"!{waitkey}{ret}
+</message>
+  <message offset="1a24">
+Yukino: Okay. So we just{nl}
+find the "Mirror Shards"{nl}
+and set them in the frame.{waitkey}{ret}
+</message>
+  <message offset="1a54">
+Ayase: Hey, Mayuzumi.{nl}
+The tower's guarded by{nl}
+demons, right?{waitkey}{clearbox}With this crew, aren't{nl}
+we a bit shorthanded?{waitkey}{ret}
+</message>
+  <message offset="1a98">
+Yukino: If you don't like{nl}
+it, wait here.{waitkey}{clearbox}We don't know what dangers{nl}
+lie ahead - no need to{nl}
+force yourself to come.{waitkey}{ret}
+</message>
+  <message offset="1adc">
+Ayase: N-no, that's not it.{nl}
+It's just...{waitkey}{ret}
+</message>
+  <message offset="1af8">
+Yukino: Me, no matter what{nl}
+happens, I want to save{nl}
+Ms. Saeko.{waitkey}{clearbox}A delinquent screwup even{nl}
+my parents gave up on -{nl}
+she alone tried to save me.{waitkey}Always.{waitkey}{clearbox}Now it's my turn to save{nl}
+her. My way - the way{nl}
+I'm good at!{waitkey}{ret}
+</message>
+  <message offset="1b8c">
+Ayase: Mayuzumi...{nl}
+I doubt it, but...{waitkey}{clearbox}you wouldn't think of{nl}
+leaving Ayase all alone{nl}
+in a place like this{wait_fr:30}, right?{waitkey}{clearbox}Ayase's coming too!!{nl}
+I feel safer with Mayuzumi{nl}
+and {ctl0f:1} around{color:3}♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="1c08">
+Yukino: Heh... Fine,{nl}
+suit yourself.{waitkey}{clearbox}When things get rough,{nl}
+having you around{nl}
+lightens the mood.{waitkey}{ret}
+</message>
+  <message offset="1c48">
+Yukino: Hey, Yuka!!{nl}
+Why do you have{nl}
+a gun?!{waitkey}{ret}
+</message>
+  <message offset="1c78">
+Ayase: Nanjo gave it to me{nl}
+to hold.{waitkey}Inaba and Nanjo went to{nl}
+the police for weapons.{waitkey}{clearbox}Nanjo got hurt there and{nl}
+came back to school,{waitkey}{clearbox}and said "hold these while{nl}
+I get treated," and handed{nl}
+me a few.{waitkey}{clearbox}I snagged one in the{nl}
+confusion. Ehehe{color:3}♥{color:0}{waitkey}I wanted to fire one once.{waitkey}{ret}
+</message>
+  <message offset="1d40">
+Yukino: ......{waitkey}{ret}
+</message>
+  <message offset="1d50">
+Ayase: Whoa, the wind's{nl}
+picking up~ So cold~{nl}
+my ears hurt~{waitkey}Let's get inside quick~!{waitkey}{ret}
+</message>
+  <message offset="1d94">
+Yukino: Yeah.{waitkey}Standing here won't{nl}
+get us anywhere.{waitkey}{clearbox}Even to gather the{nl}
+"Mirror Shards," three of{nl}
+us against demons is iffy...{waitkey}{clearbox}Like Yuka says, we'd best{nl}
+round up a few more{nl}
+people first.{waitkey}{ret}
+</message>
+  <message offset="1e20">
+Ayase: Then it's settled!{nl}
+Let's get inside quick!{nl}
+We'll freeze to death!{waitkey}{ret}
+</message>
+  <message offset="1e50">
+Yukino: Ms. Saeko,{wait_fr:30} hold on.{waitkey}{ret}
+</message>
+</scene>

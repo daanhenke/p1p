@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="37">
+  <message offset="1174">
+Club Pres: This is hardly{nl}
+the time for a culture{nl}
+festival, is it.{waitkey}{ret}
+</message>
+  <message offset="1194">
+Club Pres: I have no idea{nl}
+what "Snow Queen" play{nl}
+you mean! Stop asking!{waitkey}{ret}
+</message>
+  <message offset="11cc">
+Student: Only the club{nl}
+president knows about{nl}
+that play.{waitkey}{clearbox}What play, you ask?{nl}
+That's a secret.{waitkey}{ret}
+</message>
+  <message offset="1210">
+Student: What a mess this{nl}
+is... what is going{nl}
+on anyway?{waitkey}{ret}
+</message>
+  <message offset="1238">
+Student: The Snow Queen{nl}
+role? Hmm... not sure.{nl}
+Old records might help,{waitkey}but the president just{nl}
+snaps at you when{nl}
+you ask...{waitkey}{ret}
+</message>
+</scene>

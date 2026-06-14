@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="196">
+  <message offset="15ac">
+Black Girl: This is no time{nl}
+for doing this!{waitkey}{clearbox}Hey, have you seen my papa?{waitkey}{ret}
+</message>
+  <message offset="15e4">
+Ayase: Papa~?{nl}
+Is this kid lost?{waitkey}{clearbox}Hey there, little miss,{nl}
+why are you in a place{nl}
+like this? It's dangerous,{nl}
+go on home now.{waitkey}{ret}
+</message>
+  <message offset="1638">
+Nanjo: Hey,{nl}
+you think a lost child{nl}
+would be in a place{nl}
+like this!?{waitkey}{clearbox}Be careful!{nl}
+There's no telling what{nl}
+she might do!!{waitkey}{ret}
+</message>
+  <message offset="1680">
+Elly: Miss Ayase! Could you{nl}
+be a bit more careful?{waitkey}{clearbox}Your carelessness has{nl}
+dragged us into so much{nl}
+Trouble!!{waitkey}{clearbox}Could you perhaps{nl}
+learn from it a little?{waitkey}{ret}
+</message>
+  <message offset="1708">
+Ayase: Oh, shut up already!{nl}
+Nitpicking everything{waitkey}{clearbox}What if she really were lost?!{nl}
+Would you just leave her{nl}
+to die!?{waitkey}{ret}
+</message>
+  <message offset="1758">
+Black Girl: Hey~!{nl}
+Can't you understand me?{waitkey}{clearbox}I'm asking whether{nl}
+you've seen my papa!!{waitkey}{clearbox}He's wearing the same{nl}
+clothes as you big brothers{nl}
+and a black mask.{waitkey}{ret}
+</message>
+  <message offset="17c0">
+Yukino: Sorry, but I don't{nl}
+know any man wearing{nl}
+a mask.{waitkey}{ret}
+</message>
+  <message offset="17ec">
+Black Girl: Oh, okay.{waitkey}{ret}
+</message>
+  <message offset="1800">
+Yukino: I saw him.{waitkey}{ret}
+</message>
+  <message offset="1810">
+Black Girl: Huh!?{nl}
+Where was he?{nl}
+Tell me!!{waitkey}{ret}
+</message>
+  <message offset="1838">
+Yukino: One floor down.{nl}
+He was in the student{nl}
+council room.{waitkey}{ret}
+</message>
+  <message offset="1858">
+Black Girl: Oh, okay.{waitkey}{ret}
+</message>
+  <message offset="186c">
+Yukino: One floor up.{nl}
+He's at a stage-like spot.{waitkey}{ret}
+</message>
+  <message offset="1890">
+Yukino: Who on earth{nl}
+was that girl...{waitkey}{ret}
+</message>
+  <message offset="18a4">
+Ayase: Why is there{nl}
+a little girl here?{waitkey}{ret}
+</message>
+  <message offset="18c0">
+Nanjo: That girl...{nl}
+I feel like I've seen her{nl}
+somewhere.{waitkey}{nl}
+But who was she...{waitkey}{ret}
+</message>
+  <message offset="18f0">
+Brown: I've got a weakness{nl}
+for fierce-looking girls{nl}
+like that.{waitkey}{ret}
+</message>
+  <message offset="1914">
+Elly: It must be{nl}
+a Monster!{waitkey}{ret}
+</message>
+</scene>

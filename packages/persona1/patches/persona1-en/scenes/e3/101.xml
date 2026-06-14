@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="101">
+  <message offset="178c">
+Yukino: "Mirror Shards" can{nl}
+be in treasure chests too,{nl}
+you know!!
+</message>
+  <message offset="17d8">
+{clearbox}As far as time allows, let's{nl}
+check the chests.{waitkey}{ret}
+</message>
+  <message offset="180c">
+Ayase: Same as always, but{nl}
+opening a treasure chest is{nl}
+always a thrill, right!
+</message>
+  <message offset="1870">
+{ret}
+</message>
+  <message offset="192c">
+Nanjo: Somehow, the sight of{nl}
+rummaging through chests{nl}
+isn't a becoming one for a{nl}
+human.{waitkey}{clearbox}No, I'm not talking about you{nl}
+in particular. It's purely a{nl}
+general observation. Mm.{waitkey}{ret}
+</message>
+  <message offset="19a4">
+Brown: Hey, you, you're{nl}
+always so quiet, so honestly{nl}
+I thought you were a weird{waitkey}guy...{waitkey}{clearbox}But after fighting alongside{nl}
+you, I get it now!! You're{nl}
+amazing!!{waitkey}{clearbox}You're about the second{nl}
+strongest after me, and about{nl}
+the second most reliable!{waitkey}I've got new respect for you!!{nl}
+Really.{waitkey}{ret}
+</message>
+  <message offset="19b8">
+Elly: I've gained a little{nl}
+new respect for you. Even in{nl}
+a situation like this,{waitkey}{clearbox}without a single complaint{nl}
+you hold everyone together...{nl}
+To think you possessed such a{nl}
+strong BraveHeart{waitkey}all along.{waitkey}{ret}
+</message>
+  <message offset="19d0">
+Open this chest?{nl}
+{ctl0e:0}{ret}Got a "Mirror Shard"!{waitkey}{ret}
+</message>
+  <message offset="19e4">
+Decided not to open the{nl}
+chest.{waitkey}{ret}
+</message>
+</scene>

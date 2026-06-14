@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="72">
+  <message offset="118c">
+Yukino: We've come quite high{nl}
+up. The finale's getting{nl}
+close. We've got to psych{nl}
+ourselves up again!{waitkey}{ret}
+</message>
+  <message offset="11c8">
+Ayase: Uugh, I'm beeat~ Come{nl}
+on! Isn't there an elevator{nl}
+or something?!{waitkey}{ret}
+</message>
+  <message offset="11fc">
+Nanjo: Getting fine weapons{nl}
+and armor is pointless if you{nl}
+don't equip them — a waste of{nl}
+a treasure.{waitkey}We must check now and then.{waitkey}{ret}
+</message>
+  <message offset="1250">
+Brown: Fugah! I'm bushed!{nl}
+Let's take a little breather.{waitkey}{ret}
+</message>
+  <message offset="1288">
+Elly: We managed to avoid{nl}
+falling asleep.{waitkey}Let's press on without{nl}
+letting our guard down.{waitkey}{ret}
+</message>
+</scene>

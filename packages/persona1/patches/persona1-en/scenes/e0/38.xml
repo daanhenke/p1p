@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="38">
+  <message offset="1348">
+S.C. President: If I get{nl}
+through this, I'll go down{nl}
+as a great S.C. president...{waitkey}If you want to help{nl}
+the school, go solve{nl}
+this incident.{waitkey}{ret}
+</message>
+  <message offset="13c0">
+S.C. President: Old records?{nl}
+I sorted those out ages ago.{nl}
+What a job that was!{waitkey}What, you want to see{nl}
+them?! No way!{nl}
+It was a lot of work!{waitkey}Go ask someone who{nl}
+knows about{nl}
+old stuff!{waitkey}{ret}
+</message>
+  <message offset="1450">
+Council Member: While we{nl}
+run around keeping{nl}
+everyone safe,{waitkey}{clearbox}the president just sits{nl}
+here doing nothing...{waitkey}{clearbox}He really shouldn't{nl}
+have been made{nl}
+president!{waitkey}{ret}
+</message>
+  <message offset="14c8">
+{color:2}Student Council President.{nl}
+Heads St. Hermelin's{nl}
+student council.{nl}
+Not very hardworking.{waitkey}{ret}
+</message>
+</scene>

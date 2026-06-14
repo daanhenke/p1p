@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="191">
+  <message offset="1778">
+Maki: We're going to meet this{nl}
+"Queen" person, right?{wait_fr:21}{nl}
+...I hope she's not scary.{waitkey}{ret}
+</message>
+  <message offset="17b8">
+Maki: I think Chisato's{nl}
+paintings aren't bad,{nl}
+though...{waitkey}{ret}
+</message>
+  <message offset="17dc">
+Maki: Chisato and Naito made{nl}
+such a lovely couple.{waitkey}{ret}
+</message>
+  <message offset="1804">
+Nanjo: The Queen, hm...{waitkey}{nl}
+Come to think of it, Aki was{nl}
+saying something about a{nl}
+"cute girl."{waitkey}{ret}
+</message>
+  <message offset="1844">
+Nanjo: To think Kozai is the{nl}
+Harem Queen. Well, I suppose{nl}
+it does suit her.{waitkey}{ret}
+</message>
+  <message offset="1878">
+Nanjo: So now we've finally{nl}
+pinned down Kandori's{nl}
+whereabouts. But a "castle,"{nl}
+of all things...{waitkey}{ret}
+</message>
+  <message offset="18b4">
+Nanjo: I never imagined I'd be{nl}
+exploring a "haunted house"{nl}
+at this age.{waitkey}{clearbox}It wasn't permitted when I{nl}
+was a child, after all...{waitkey}{ret}
+</message>
+  <message offset="1914">
+Mark: Even the armor shop's{nl}
+got an atmosphere that fits{nl}
+this town perfectly.{waitkey}{ret}
+</message>
+  <message offset="1940">
+Mark: ......{wait_fr:32}{nl}
+Go easy on Sonomura,{nl}
+would you.{waitkey}{ret}
+</message>
+  <message offset="196c">
+Mark: You know, don't you get{nl}
+the feeling we did something{nl}
+uncalled-for?{waitkey}{ret}
+</message>
+  <message offset="199c">
+Elly: Afros are in fashion,{nl}
+are they... Maybe I'll try an{nl}
+afro too.{waitkey}{ret}
+</message>
+  <message offset="19cc">
+Elly: I can't say I don't{nl}
+understand how Kozai feels.{waitkey}{ret}
+</message>
+  <message offset="19f4">
+Elly: Kozai and I are a little{nl}
+alike.{wait_fr:32} ...Does that surprise{nl}
+you?{waitkey}{ret}
+</message>
+  <message offset="1a28">
+Brown: They say if the Queen{nl}
+takes a liking to you, you{nl}
+get to live easy~!{waitkey}{clearbox}Just leave it to me! Any girl{nl}
+will go down for my charms,{nl}
+for sure!{waitkey}{ret}
+</message>
+  <message offset="1a94">
+Brown: Kozai had this kinda{nl}
+blue around her eyes...{wait_fr:32}{nl}
+...It was scary~!{waitkey}{ret}
+</message>
+  <message offset="1acc">
+Brown: A cheeky little brat{nl}
+like that lives in a castle?{nl}
+You've got to be kidding!{waitkey}{clearbox}A castle suits a sophisticated{nl}
+man like me, and me alone!{waitkey}{ret}
+</message>
+  <message offset="1b44">
+Ayase: A queen, huh... Ayase{nl}
+would love to be one once~♥{waitkey}{ret}
+</message>
+  <message offset="1b6c">
+Ayase: Kozai doesn't even{nl}
+know the real Sonomura is{nl}
+suffering...{waitkey}{ret}
+</message>
+  <message offset="1b9c">
+Ayase: She's so pretty, so{nl}
+what's Kozai got to complain{nl}
+about? Ayase's fine as she is.{waitkey}{clearbox}Not that I'm a beauty, but{nl}
+freckles are cute too. A{nl}
+"funny face," you could say?{waitkey}{ret}
+</message>
+  <message offset="1c0c">
+Reiji: In any case, unless we{nl}
+find a way out of here, we{nl}
+can't move forward, is that{nl}
+it?{waitkey}{ret}
+</message>
+  <message offset="1c40">
+Reiji: Honestly, you and{nl}
+Sonomura are both hopeless{nl}
+softies.{waitkey}{ret}
+</message>
+  <message offset="1c68">
+Reiji: At times like this,{nl}
+nothing anyone says helps...{nl}
+you've just got to sort it{nl}
+out yourself.{waitkey}{ret}
+</message>
+  <message offset="1ca4">
+Clerk: Why not become strong{nl}
+and beautiful like the Queen,{nl}
+with our shop's armor?{waitkey}{ret}
+</message>
+  <message offset="1ce0">
+Clerk: Absolutely essential{nl}
+for surviving this world! For{nl}
+all your armor needs, leave{nl}
+it to us.{waitkey}{ret}
+</message>
+  <message offset="1d20">
+Customer: We're stuck in this{nl}
+market anyway, the lot of us!{waitkey}{clearbox}Might as well keep the Queen{nl}
+happy and live it up while{nl}
+we can!{waitkey}{ret}
+</message>
+  <message offset="1d7c">
+Customer: We don't have to{nl}
+keep the Queen happy anymore,{nl}
+right? But somehow it's a{nl}
+little lonely!{waitkey}{ret}
+</message>
+</scene>

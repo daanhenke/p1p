@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="189">
+  <message offset="167c">
+Maki: That mask is cute! I'd{nl}
+love to decorate my room{nl}
+with it.{waitkey}{ret}
+</message>
+  <message offset="16a4">
+Nanjo: {ctl0f:1}, don't let{nl}
+yourself be fooled into{nl}
+buying something dubious.{waitkey}{ret}
+</message>
+  <message offset="16cc">
+Mark: These days, I find{nl}
+myself wondering about those{nl}
+two's relationship...{waitkey}{ret}
+</message>
+  <message offset="16f4">
+Elly: So Pretty! This is one{nl}
+of those Japanese good-luck{nl}
+figurines, isn't it?{waitkey}{ret}
+</message>
+  <message offset="1734">
+Brown: Is this a dog? A{nl}
+beckoning dog? Something seems{nl}
+off...{waitkey}{ret}
+</message>
+  <message offset="1760">
+Ayase: Ayase wants this! Hey,{nl}
+buy it for me!{waitkey}{ret}
+</message>
+  <message offset="1784">
+Reiji: If the shopkeeper's{nl}
+shady, even the figurines{nl}
+look shady.{waitkey}{ret}
+</message>
+  <message offset="17a8">
+Townsperson: Demons have{nl}
+increased lately. But they{nl}
+feel different from the ones{nl}
+that girl in black brought.{waitkey}{ret}
+</message>
+  <message offset="17e8">
+Tsurunkamen: Ho ho ho ho...{nl}
+Well come, indeed. What sort{nl}
+of wares do you require?{waitkey}{ret}
+</message>
+  <message offset="1820">
+Kamentsurun: Ho ho ho ho...{nl}
+Gemstones I love above all{nl}
+else.{waitkey}{clearbox}I'm running a blowout trade —{nl}
+your gems for my treasured{nl}
+wares.{waitkey}Care to give it a try?{waitkey}{ret}
+</message>
+</scene>

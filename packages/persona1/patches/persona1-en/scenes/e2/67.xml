@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="67">
+  <message offset="1284">
+Nanjo: As expected, there are{nl}
+few here who'd make good{nl}
+company for Sonomura.{waitkey}{clearbox}Little wonder she's in no{nl}
+mood to leave her room...{waitkey}{ret}
+</message>
+  <message offset="12d8">
+Mark: Sonomura's room is the{nl}
+second one straight ahead{nl}
+from here.{waitkey}{ret}
+</message>
+  <message offset="1308">
+Yukino: Coming to visit was{nl}
+the right call. Sonomura's{nl}
+sure to be glad.{waitkey}{ret}
+</message>
+  <message offset="1398">
+Patient: There's a girl about{nl}
+high-school age on my floor,{nl}
+you see...{waitkey}{clearbox}Now and then, I hear the{nl}
+voice of a little girl coming{nl}
+from there.{waitkey}{clearbox}It's supposed to be a private{nl}
+room, so maybe a little{nl}
+sister's visiting?{waitkey}{ret}
+</message>
+</scene>

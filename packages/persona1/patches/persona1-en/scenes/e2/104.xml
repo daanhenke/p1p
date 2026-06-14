@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="104">
+  <message offset="1234">
+Maki: You've got business with{nl}
+the doctor?{wait_fr:32} Hey, let's get{nl}
+out of a place like this...{waitkey}{ret}
+</message>
+  <message offset="1268">
+Brown: Do we really have to{nl}
+go to the abandoned factory?{waitkey}A grimy place like that just{nl}
+doesn't suit a guy like me!{waitkey}{ret}
+</message>
+  <message offset="12b8">
+Brown: Do we really have to{nl}
+beat Kandori?{waitkey}{clearbox}He already ran off, so isn't{nl}
+that good enough?!{waitkey}{ret}
+</message>
+  <message offset="1300">
+Nanjo: ......{wait_fr:16}{nl}
+Ah, sorry, {ctl0f:1}.{nl}
+I was lost in thought.{waitkey}{ret}
+</message>
+  <message offset="1330">
+Mark: Kandori was pulling the{nl}
+strings behind it all, huh.{wait_fr:32}{nl}
+So, we're going to the{nl}
+abandoned factory, right?{waitkey}{ret}
+</message>
+  <message offset="1374">
+Mark: We've gotta go after{nl}
+Kandori, quick...!!{waitkey}{ret}
+</message>
+  <message offset="139c">
+Elly: This hospital has{nl}
+such a bright atmosphere.{nl}
+It's a relief.{waitkey}{ret}
+</message>
+  <message offset="13c4">
+Ayase: Why does SEBEC have to{nl}
+be under such tight security,{nl}
+anyway?{waitkey}{ret}
+</message>
+  <message offset="13f4">
+Ayase: SEBEC really was an{nl}
+outrageous place, huh...{waitkey}{ret}
+</message>
+  <message offset="1418">
+Nurse: I hear things are in{nl}
+an uproar outside?{waitkey}If I weren't on duty, I'd go{nl}
+have a look myself!{waitkey}{ret}
+</message>
+  <message offset="1828">
+Doctor: My nurse is such a{nl}
+busybody, it's no good.{waitkey}{ret}
+</message>
+  <message offset="184c">
+Doctor: Now then, what'll{nl}
+it be?{nl}
+{ctl0e:17}{ret}
+</message>
+  <message offset="1864">
+Doctor: All right then,{nl}
+all of you...{waitkey}{ret}
+</message>
+  <message offset="1880">
+Doctor: It'll cost 800 yen.{nl}
+Is that all right?{waitkey}{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="18a8">
+Doctor: Hm. Let's get you{nl}
+treated, then.{waitkey}{ret}
+</message>
+  <message offset="18c4">
+Doctor: Mm, that should do it.{waitkey}{ret}
+</message>
+  <message offset="18f8">
+Doctor: A shame, but I can't{nl}
+treat you with no money...{nl}
+Come back with the fee.{waitkey}{ret}
+</message>
+  <message offset="1938">
+Doctor: Skimp on treatment{nl}
+now, and I hope it won't{nl}
+come back to bite you.{waitkey}{ret}
+</message>
+  <message offset="1968">
+Doctor: Good. Come straight{nl}
+back if anything comes up.{waitkey}{ret}
+</message>
+  <message offset="198c">
+Doctor: I'm a busy man. If{nl}
+you've no business here,{nl}
+off you go.{waitkey}{ret}
+</message>
+</scene>

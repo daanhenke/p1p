@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="22">
+  <message offset="11bc">
+Nanjo: Indeed, it's prettier{nl}
+now than when I gave the{nl}
+freshman rep's speech at{nl}
+the entrance ceremony.{waitkey}{ret}
+</message>
+  <message offset="11fc">
+Mark: Wish this place were{nl}
+bigger~ It's way too cramped{nl}
+for my stage!{waitkey}{ret}
+</message>
+  <message offset="1230">
+Yukino: What're you trying{nl}
+to do, coming all the way{nl}
+to the stage? We're supposed{nl}
+to go get checked out, right?{waitkey}{ret}
+</message>
+  <message offset="1268">
+Student: All kinds of things{nl}
+happened on this old stage.{waitkey}Over its long history, sweat{nl}
+and tears — and blood — have{nl}
+all been shed upon it.{waitkey}Even if the stage is gone,{nl}
+the feelings of those who{nl}
+stood on it won't vanish{nl}
+so easily...{waitkey}So, how's my line? It's long,{nl}
+so it was a pain to memorize.{waitkey}{ret}
+</message>
+  <message offset="1318">
+Student: At last, the time{nl}
+has come. The time when the{nl}
+old feelings within this{nl}
+stage are set free...{waitkey}Just kidding{wait_fr:32}{nl}
+Good line, huh? I wrote the{nl}
+script myself.{waitkey}{ret}
+</message>
+</scene>

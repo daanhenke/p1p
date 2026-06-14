@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="175">
+  <message offset="1370">
+!
+</message>
+  <message offset="13a8">
+!
+</message>
+  <message offset="13d8">
+!
+</message>
+  <message offset="1428">
+!
+</message>
+  <message offset="1460">
+Maki: Your school's gym is{nl}
+new, right? Does it have{nl}
+club rooms and all?{waitkey}{ret}
+</message>
+  <message offset="1494">
+Nanjo: Honestly, how{nl}
+antiquated. It wouldn't{nl}
+surprise me if it collapsed{nl}
+any moment.{waitkey}{ret}
+</message>
+  <message offset="14b4">
+Mark: The curtains are full of{nl}
+holes — heh, you could peep{nl}
+easy in here{wait_fr:48}... I'm kidding!{waitkey}I wouldn't peep, not me!{waitkey}{ret}
+</message>
+  <message offset="14d8">
+Elly: The more I look at this{nl}
+town, the stranger it is.{nl}
+It's truly like a world of{nl}
+the past.{waitkey}{ret}
+</message>
+  <message offset="1508">
+Brown: Tch, what a dump. They{nl}
+should just tear this place{nl}
+down too, and quick!{waitkey}{ret}
+</message>
+  <message offset="152c">
+Ayase: Ayase's never been{nl}
+anywhere like this before.{waitkey}{ret}
+</message>
+  <message offset="1584">
+Reiji: I haven't got time to{nl}
+tag along on your little{nl}
+stroll.{waitkey}{ret}
+</message>
+  <message offset="15b8">
+Student: Ah! You're not here{nl}
+to peep, are you?!{waitkey}{ret}
+</message>
+  <message offset="15dc">
+Mark: D-don't be stupid! As{nl}
+if I'd peep at you lot...{waitkey}{ret}
+</message>
+  <message offset="160c">
+Student: Captain~!{wait_fr:21} I want a{nl}
+club room for the ballet{nl}
+club~!{waitkey}With a club room, we wouldn't{nl}
+get peeped on while changing!{waitkey}{ret}
+</message>
+  <message offset="164c">
+Mark: {wait_fr:32}I'm tel-ling-you{wait_fr:21}{nl}
+it's not peeping, I said!!{waitkey}{ret}
+</message>
+</scene>

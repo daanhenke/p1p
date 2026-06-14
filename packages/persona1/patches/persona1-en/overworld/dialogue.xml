@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dialogues>
+  <dialogue index="0">
+Nanjo:  Now what?{nl}
+{ctl0f:01}, do you still want{nl}
+to look around the museum?{waitkey}
+</dialogue>
+  <dialogue index="1">
+Yukino:  Here's the Shrine.{clearbox}It says, "Come into the{nl}
+Shrine to find rest in your{nl}
+soul in this busy world."{waitkey}
+</dialogue>
+  <dialogue index="2">
+Maki:...{wait_fr:2000}{nl}
+This Shrine looks cool!{nl}
+We should come more often!{waitkey}
+</dialogue>
+  <dialogue index="4">
+Maki:  Oh?  Since when{nl}
+couldn't we go in?{waitkey}
+</dialogue>
+  <dialogue index="5">
+Elly:  This place is part of{nl}
+history and we can't get in?{clearbox}I wouldn't care if there were{nl}
+only rocks to see.{nl}
+It's a shame we can't visit.{waitkey}
+</dialogue>
+  <dialogue index="6">
+Yukino:  Wait up, {ctl0f:01}!{nl}
+Are you planning to run away?{clearbox}Ms. Smith won't be happy{nl}
+when she finds out!{waitkey}
+</dialogue>
+  <dialogue index="7">
+Nanjo:  {ctl0f:01}...{wait_fr:2000}{nl}
+You're running away?{nl}
+Running won't solve anything.{waitkey}
+</dialogue>
+  <dialogue index="10">
+Elly:  Everyone's gone{nl}
+crazy!  I feel sad for them.{waitkey}
+</dialogue>
+  <dialogue index="11">
+Nanjo:  This is what I was{nl}
+afraid of...{nl}
+Nobody can leave this town!{waitkey}
+</dialogue>
+  <dialogue index="14">
+Elly:  You can't do that,{nl}
+{ctl07:01}!{clearbox}We have to take Nancy to{nl}
+the school!  Quickly!{waitkey}
+</dialogue>
+  <dialogue index="18">
+Nanjo:  {ctl0f:01}{nl}
+This is the police station?{nl}
+Your face is joke enough!{waitkey}
+</dialogue>
+  <dialogue index="19">
+Nanjo:  {ctl0f:01}{nl}
+We can't have any business{nl}
+in a filthy place like this.{waitkey}
+</dialogue>
+  <dialogue index="20">
+Mark:  Nanjo, you little...{waitkey}
+</dialogue>
+  <dialogue index="21">
+Yukino:  {ctl0f:01}!{nl}
+You really love to wander off, don't you?{waitkey}{clearbox}But pick your time and place!{nl}
+Honestly...{waitkey}
+</dialogue>
+  <dialogue index="22">
+Man in black:  Beyond here is{nl}
+under Sebec's control!{nl}
+Passage is forbidden!{waitkey}
+</dialogue>
+  <dialogue index="23">
+Maki:  What, so high and mighty!{nl}
+Ugh, he really ticks me off!{nl}
+Come on, everyone!  Hmph!{waitkey}
+</dialogue>
+  <dialogue index="24">
+Maki:  ...Wasn't this{wait_fr:3c00}{nl}
+place a temple...?{waitkey}
+</dialogue>
+  <dialogue index="25">
+Mark:  What are you saying, Sonomura~  This is the hospital you were admitted to.  You really have amnesia?{waitkey}
+</dialogue>
+  <dialogue index="26">
+Maki:  ...{wait_fr:3c00}Aha!  Yeah,{nl}
+I'm starting to feel that way!{nl}
+Come on, let's hurry!{waitkey}
+</dialogue>
+  <dialogue index="27">
+Nanjo:  ...{waitkey}
+</dialogue>
+  <dialogue index="28">
+Mark:  We've no more business in this dreary place, right?{clearbox}Hurry, let's go beat Kandori senseless!
+</dialogue>
+  <dialogue index="29">
+Nanjo:  Hey  {ctl0f:01}!  This{nl}
+isn't the Police Station.{nl}
+Stop fooling around!{waitkey}
+</dialogue>
+  <dialogue index="30">
+Maki:  Huh?{nl}
+I thought this was a castle.{waitkey}
+</dialogue>
+  <dialogue index="31">
+Nanjo:  Hey {ctl0f:01}!{nl}
+You don't have any business{nl}
+in a dump like this, do you?{waitkey}
+</dialogue>
+  <dialogue index="32">
+Mark:  Nanjo..you little...{waitkey}
+</dialogue>
+  <dialogue index="33">
+Maki:  {ctl07:01}, did the{nl}
+Police Station ever look{nl}
+like this?{waitkey}
+</dialogue>
+  <dialogue index="35">
+Yukino:  Who the heck do they{nl}
+think they are, {ctl0f:01}?{nl}
+Come on, I'm leaving!{waitkey}
+</dialogue>
+  <dialogue index="36">
+Maki:  What?  Just who do{nl}
+they think they are?{nl}
+Let's get out of here!{waitkey}
+</dialogue>
+  <dialogue index="37">
+Maki:  This is strange...{nl}
+Wasn't this the castle?{clearbox}We're not supposed to be able{nl}
+to come here.{waitkey}
+</dialogue>
+  <dialogue index="39">
+Maki:...{wait_fr:3c00}Maybe you're right!{nl}
+Yes, you've got to be!{nl}
+Let's go, let's go!{waitkey}
+</dialogue>
+  <dialogue index="40">
+Nanjo:...{waitkey}
+</dialogue>
+  <dialogue index="42">
+Maki:  Do you want to go to{nl}
+a different place?{nl}
+Wait till we're all reunited.{waitkey}
+</dialogue>
+  <dialogue index="43">
+Nanjo:  Only you and Maki can{nl}
+go in here, right?{waitkey}
+</dialogue>
+  <dialogue index="44">
+Maki:  This used to be a{nl}
+flower garden.{clearbox}Since it became a forest,{nl}
+no one can enter here.{waitkey}
+</dialogue>
+  <dialogue index="46">
+Maki:  It's been like this{nl}
+all along in this world.{waitkey}
+</dialogue>
+  <dialogue index="47">
+Nanjo:........{waitkey}
+</dialogue>
+  <dialogue index="49">
+Maki:  That little girl is{nl}
+going to be all right.{nl}
+Come on, let's go!{waitkey}
+</dialogue>
+  <dialogue index="51">
+Nanjo: What're you going to do{nl}
+when we get out of town?{nl}
+We must go to the hospital!{waitkey}
+</dialogue>
+  <dialogue index="52">
+Yukino:  {ctl0f:01}〔d7〕{nl}
+You're irritating me!{nl}
+What's with you?{waitkey}{nl}
+Why're we going out of town?{waitkey}
+</dialogue>
+  <dialogue index="53">
+Nanjo:  {ctl0f:01}...{nl}
+What're we doing at school?{clearbox}Guido is on the east side{nl}
+of town!{waitkey}
+</dialogue>
+  <dialogue index="56">
+Maki:  What's happening?  The{nl}
+whole school has disappeared!{nl}
+What about T.J. and everybody?
+</dialogue>
+  <dialogue index="57">
+Nanjo:  This, too, is caused{nl}
+by the Deva System....{nl}
+That Guido, I'll get him!{waitkey}
+</dialogue>
+  <dialogue index="58">
+Maki:  That's right!{nl}
+The school is gone!{waitkey}
+</dialogue>
+  <dialogue index="59">
+Nanjo:  Deva System...{wait_fr:5800}{nl}
+But, is this what Guido{nl}
+really wants to happen?{clearbox}For what reason?{nl}
+This is becoming more than{nl}
+what we can handle.{waitkey}
+</dialogue>
+  <dialogue index="61">
+Nanjo:  {ctl0f:01}!{nl}
+I was wondering...{nl}
+You're not afraid, are you?{clearbox}If we don't stop Guido soon,{nl}
+things will only get worse!{nl}
+Now, let's go to Sebec!{waitkey}
+</dialogue>
+</dialogues>

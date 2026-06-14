@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="41">
+  <message offset="15e0">
+Yukino: Hey, Inaba!{nl}
+Wait up!{waitkey}{ret}
+</message>
+  <message offset="15fc">
+Ayase: How do we even know{nl}
+that's really Sonoda?!{waitkey}{ret}
+</message>
+  <message offset="1620">
+Ayase: {ctl0f:1}!{nl}
+Listen, Inaba just{nl}
+freaked out!{waitkey}{ret}
+</message>
+  <message offset="164c">
+Yukino: Inaba, Uesugi,{nl}
+and Himeno brought back{nl}
+an injured Nanjo,{nl}
+and that's when...{waitkey}{nl}
+And so...{nl}
+{nl}
+
+</message>
+  <message offset="1690">
+{ret}
+</message>
+  <message offset="16d0">
+Ayase: Sonoda walked right{nl}
+out of the school building,{nl}
+and she's supposed{nl}
+to be hospitalized!{waitkey}{nl}
+Totally bizarre!{nl}
+{nl}
+
+</message>
+  <message offset="16f4">
+{ret}
+</message>
+  <message offset="1704">
+Ms. Saeko: Inaba{nl}
+came back?!{nl}
+{waitkey}{ret}
+</message>
+  <message offset="1740">
+Yukino: Well,{nl}
+...{waitkey}{ret}
+</message>
+  <message offset="178c">
+Ms. Saeko: ...Anyway,{nl}
+Sonoda came out with them?{nl}
+We have to get her back!{waitkey}
+</message>
+  <message offset="17b0">
+Yukino: Wait, teacher!{nl}
+If something happens to you,{nl}
+what about the others?{waitkey}We'll go!{waitkey}{ret}
+</message>
+  <message offset="181c">
+Ms. Saeko: Thanks,{nl}
+Yukino!{wait_fr:32}{nl}
+I owe you one.{waitkey}{ret}
+</message>
+  <message offset="188c">
+Ms. Saeko: Oh? {ctl0f:1},{wait_fr:32}{nl}
+what are you carrying...{waitkey}{clearbox}That's...{wait_fr:32} that mask...!!{wait_fr:80}{nl}
+So{wait_fr:32} it{wait_fr:16} still exists...{wait_fr:32}{nl}
+a thing like that...{waitkey}{ret}
+</message>
+  <message offset="18a4">
+Ms. Saeko: When I see{nl}
+this...{wait_fr:48}{nl}
+it takes me back to{nl}
+high school...{waitkey}{clearbox}...It was when I{nl}
+played "The Snow Queen"...{nl}
+This is the mask I wore.{waitkey}{ret}
+</message>
+  <message offset="18fc">
+Ayase: It's a pretty mask,{nl}
+isn't it?{waitkey}{ret}
+</message>
+  <message offset="1948">
+Ms. Saeko: But this mask{nl}
+is said to be cursed.{waitkey}{clearbox}...I know that sounds far-{nl}
+fetched.{wait_fr:32}{nl}
+But because of it,{nl}
+my friend...{waitkey}{ret}
+</message>
+  <message offset="19e0">
+Ayase: D-don't scare me{nl}
+like that at a time{nl}
+like this!{waitkey}{clearbox}That mask creeps me out.{nl}
+Just throw it away!{waitkey}{ret}
+</message>
+  <message offset="1a2c">
+Ms. Saeko: Ah...{waitkey}{nl}
+Oh,{wait_fr:21} sorry, sorry!{nl}
+It's just an old wives'{nl}
+tale — "wear it and die."{waitkey}{clearbox}But I wore it myself{nl}
+and I'm totally fine,{nl}
+see?{waitkey}{clearbox}So I'd be safer going{nl}
+to get her back{nl}
+than you would!{waitkey}{ret}
+</message>
+  <message offset="1a44">
+Ms. Saeko: See, I've got{nl}
+lady luck on my side!{wait_fr:32}{nl}
+...{wait_fr:8}...{wait_fr:8}?{waitkey}{nl}
+{wait_fr:16}Oh...{waitkey}{ret}
+</message>
+  <message offset="1a64">
+Ms. Saeko: AAAHHH!{waitkey}{ret}
+</message>
+  <message offset="1a7c">
+Yukino: ...Teacher!{nl}
+What's wrong?!{waitkey}{ret}
+</message>
+  <message offset="1b84">
+Ayase: W-what is it?!{waitkey}{ret}
+</message>
+  <message offset="1c58">
+Once upon a time, there{nl}
+was a very wicked demon.{waitkey}{clearbox}One day the demon made{nl}
+a "mirror" — a mirror where{nl}
+beautiful things looked ugly,{waitkey}and ugly things showed{nl}
+up clearly.{waitkey}{clearbox}The demon tried to carry{nl}
+this "devil's mirror" up{nl}
+to the heavens to mock God,{waitkey}but the mirror{nl}
+shattered on the way.{waitkey}{clearbox}Countless shards of the{nl}
+"devil's mirror" scattered{nl}
+across the earth.{wait_fr:32}{nl}
+That was the beginning.{waitkey}{ret}
+</message>
+  <message offset="1d44">
+Once there was a boy named{nl}
+Kai and a girl named Gerda{nl}
+who were dear friends.{waitkey}{clearbox}One day a shard of the{nl}
+"devil's mirror" entered{nl}
+Kai's heart and eye.{waitkey}{clearbox}The shard made his heart{nl}
+grow cold, and his eyes{nl}
+could only see the bad,{waitkey}{clearbox}until even Gerda, who{nl}
+loved him dearly, became{nl}
+someone he only mocked.{waitkey}{ret}
+</message>
+  <message offset="1e00">
+On a snowy winter's day,{nl}
+{waitkey}as Kai was sledding{nl}
+in the square, a large{nl}
+white sled appeared.{waitkey}{clearbox}Kai was carried away by{nl}
+a beautiful woman{nl}
+riding the white sled.{waitkey}{clearbox}That woman was none{nl}
+other than the{nl}
+"Snow Queen" herself!{waitkey}{clearbox}And so Kai was taken far{nl}
+away to the north — to the{nl}
+"Snow Queen's" ice palace.{waitkey}{ret}
+</message>
+</scene>

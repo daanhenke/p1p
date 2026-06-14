@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="130">
+  <message offset="1440">
+Toro: Demons are scary, but I{nl}
+think this is a chance.{waitkey}{clearbox}If I show Ayase a good side{nl}
+of me, she might just{wait_fr:32}{nl}
+f-fall for {wait_fr:21}me{wait_fr:21}, right?{waitkey}{ret}
+</message>
+  <message offset="14a4">
+{color:2}Kenta Yokouchi{nl}
+Nicknamed Toro. Loves to eat.{nl}
+Strong, but timid at heart.{color:0}{waitkey}{ret}
+</message>
+  <message offset="14e4">
+Student: Toro's kinda scary{nl}
+right now. His eyes have{nl}
+gone all funny.{waitkey}{clearbox}Word is he's still hanging{nl}
+around Ayase like always.{waitkey}{clearbox}Guys like that get scary{nl}
+when they brood too much.{waitkey}{ret}
+</message>
+  <message offset="154c">
+The cafeteria lady seems to{nl}
+have gone home.{waitkey}{ret}
+</message>
+</scene>

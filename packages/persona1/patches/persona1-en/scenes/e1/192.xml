@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="192">
+  <message offset="1628">
+Masked Girl: Like this, I'm{nl}
+painting your futures over{nl}
+in black.{waitkey}{clearbox}Do you know why?{wait_fr:30}{nl}
+Why do you get in my way?{wait_fr:30}{nl}
+How can you bear the pain?{waitkey}{clearbox}You all might have{nl}
+each other, Ms. Saeko,{nl}
+families...{wait_fr:30} people to lean on.{waitkey}{clearbox}But I was always alone,{nl}
+only able to watch everyone{nl}
+look so happy together.{waitkey}{ret}
+</message>
+  <message offset="1708">
+Yukino: Wait, could you be...{waitkey}{ret}
+</message>
+  <message offset="1720">
+Masked Girl: As if any of you{nl}
+could ever understand how{nl}
+I feel!!{waitkey}{clearbox}I'll destroy it...{wait_fr:30}{nl}
+I'll destroy this school!!{waitkey}{ret}
+</message>
+  <message offset="177c">
+Yukino: Wait, Sonomura!!{waitkey}{ret}
+</message>
+  <message offset="1794">
+Yukino: ......{waitkey}{ret}
+</message>
+  <message offset="17a4">
+There's nothing here.{waitkey}{ret}
+</message>
+  <message offset="17b0">
+Yukino: Sonomura...?{waitkey}{ret}
+</message>
+  <message offset="17c4">
+Yukino: Sonomura...{waitkey}{ret}
+</message>
+  <message offset="17d4">
+Yukino: The paint on this{nl}
+canvas isn't dry yet.{waitkey}{ret}
+</message>
+  <message offset="17f0">
+Ayase: Look at that painting.{waitkey}{nl}
+Pitch black and...{nl}
+somehow really creepy.{waitkey}{ret}
+</message>
+  <message offset="181c">
+Ayase: Look at that painting.{waitkey}{nl}
+Pitch black and...{nl}
+somehow really creepy.{waitkey}{ret}
+</message>
+  <message offset="1848">
+Nanjo: An illusion?{waitkey}{ret}
+</message>
+  <message offset="185c">
+Nanjo: That can't be.{nl}
+Sonomura should be{nl}
+outside the school.{waitkey}{ret}
+</message>
+  <message offset="1884">
+Nanjo: Was someone here{nl}
+just a moment ago?{waitkey}{ret}
+</message>
+  <message offset="18a0">
+Brown: Huh?{nl}
+Isn't that Maki?{waitkey}{ret}
+</message>
+  <message offset="18c0">
+Brown: Maki's got some{nl}
+serious style, wearing{nl}
+a mask like that so boldly...{waitkey}{ret}
+</message>
+  <message offset="18f0">
+Brown: Don't you kids{nl}
+get art?{waitkey}{clearbox}Isn't it a maaarvelous{nl}
+piece of work?{waitkey}{ret}
+</message>
+  <message offset="1930">
+Elly: It could be a trap{nl}
+set by the Queen.{nl}
+Be careful!{waitkey}{ret}
+</message>
+  <message offset="1958">
+Elly: There's no way Maki{nl}
+would be here.{nl}
+A Demon, perhaps...?{waitkey}{ret}
+</message>
+  <message offset="1990">
+Elly: So someone unfrozen{nl}
+was here until just now.{waitkey}{ret}
+</message>
+</scene>

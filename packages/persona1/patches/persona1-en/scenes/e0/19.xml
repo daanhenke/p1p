@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="19">
+  <message offset="1684">
+Nanjo: We have quite some{nl}
+time before the exam.{nl}
+Let's visit Sonohara first.{nl}
+Waste not.{waitkey}{ret}
+</message>
+  <message offset="16c4">
+Mark: Tch, cold as always...{nl}
+...Sonohara's in{nl}
+room 302.{waitkey}{ret}
+</message>
+  <message offset="16f4">
+Yukino: Huh, Inaba,{nl}
+you sure know{nl}
+your way around.{waitkey}{ret}
+</message>
+  <message offset="170c">
+Mark: ...Shut it.{nl}
+A friend told me, okay?{nl}
+Come on, {ctl0f:1}, let's go.{waitkey}{ret}
+</message>
+  <message offset="173c">
+Nanjo: Hospitals really do{nl}
+make you wait.{nl}
+It seems they've never{nl}
+heard "time is money."{waitkey}{ret}
+</message>
+  <message offset="1774">
+Mark: ...What is it.{nl}
+Quit staring at me{nl}
+and get moving.{waitkey}{ret}
+</message>
+  <message offset="17a0">
+Yukino: Huh...{nl}
+Inaba knowing Sonohara's{nl}
+room number — who'd have{nl}
+thought it.{waitkey}{ret}
+</message>
+  <message offset="17d4">
+Nurse: Hm? Sonohara Maki?{nl}
+Oh, her...{nl}
+Maki's in room 302.{waitkey}{ret}
+</message>
+  <message offset="1810">
+Yamaoka: Oh no, you found{nl}
+me!{waitkey}Please don't tell{nl}
+the young master{nl}
+I was here...{waitkey}{ret}
+</message>
+  <message offset="1858">
+College Girl: This is bad...{nl}
+Hey, do you know{nl}
+where the police station is?{nl}
+My friend crashed his bike...{waitkey}{ret}
+</message>
+  <message offset="1898">
+Mark: Hey, what's going on?{nl}
+Police? You mean that{nl}
+knucklehead's place?{nl}
+Head west on Mikage Blvd.{waitkey}{ret}
+</message>
+  <message offset="18d8">
+College Girl: The main road —{nl}
+you mean the one south{nl}
+of here? Thanks a lot.{waitkey}{ret}
+</message>
+  <message offset="190c">
+Pregnant Woman: I wonder if{nl}
+my husband is okay...{nl}
+Having hallucinations at{nl}
+work — early burnout?{waitkey}{ret}
+</message>
+  <message offset="194c">
+Salaryman: I'm going to work!{nl}
+So what if the hall and{nl}
+stairs are illusions!{nl}
+So what if there's a ghost{waitkey}{clearbox}of a dark girl!{nl}
+A SEBEC employee{nl}
+can't let that stop them!{nl}
+For real!{waitkey}{ret}
+</message>
+  <message offset="19bc">
+Injured Man: Ow ow ow...{nl}
+Getting an accident report{nl}
+is such a hassle...{nl}
+just my luck.{waitkey}{ret}
+</message>
+  <message offset="19f8">
+Mark: Hey, hey...{nl}
+you gonna visit{nl}
+Sonohara or what?{nl}
+Cold-hearted jerk.{waitkey}{ret}
+</message>
+  <message offset="1a28">
+Nurse: Sorry about that,{nl}
+we're busy right now.Just wait a moment.{waitkey}{ret}
+</message>
+</scene>

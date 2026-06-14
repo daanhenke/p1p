@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="148">
+  <message offset="177c">
+Kandori: Heh...{nl}
+So even I can be defeated...{nl}
+You were right, Nanjo.{waitkey}{clearbox}I... could only ever{nl}
+live this way.{waitkey}{clearbox}Perhaps I invited you here{nl}
+because I wanted to hear{nl}
+someone say that...{waitkey}Heh... Pathetic, and yet{nl}
+it feels good...{waitkey}{ret}
+</message>
+  <message offset="180c">
+Nanjo: ...{wait_fr:60}Where is the{nl}
+real Sonomura?{waitkey}{ret}
+</message>
+  <message offset="1830">
+Kandori: So you've seen{nl}
+through the riddle of the{nl}
+two worlds as well...{waitkey}Impressive.{waitkey}{ret}
+</message>
+  <message offset="1860">
+Maki: ...What do you mean,{nl}
+Nanjo?{waitkey}{ret}
+</message>
+  <message offset="187c">
+Kandori: It means that you,{nl}
+and the world you came{nl}
+from, are nothing but{waitkey}the figment of a certain{nl}
+person's imagination,{nl}
+Maki Sonomura...{waitkey}{ret}
+</message>
+  <message offset="18c0">
+Maki: Wh-what are you{nl}
+saying?! What do you mean?!{waitkey}{ret}
+</message>
+  <message offset="18e4">
+Nanjo: ...You are most likely{nl}
+the ideal self of the{nl}
+Maki Sonomura we know.{waitkey}{clearbox}And that town where you{nl}
+live is the world inside{nl}
+Maki Sonomura's heart...{waitkey}Isn't that right, Kandori?{waitkey}{ret}
+</message>
+  <message offset="1958">
+Kandori: Exactly...{nl}
+Not just you. Mai and Aki{nl}
+too are shadows within{waitkey}Maki Sonomura's heart...{nl}
+mere reflections of her.{waitkey}{ret}
+</message>
+  <message offset="19a8">
+Maki: That can't...{wait_fr:88}{nl}
+That's ridiculous!!{waitkey}{ret}
+</message>
+  <message offset="19cc">
+Nanjo: MAKI.{nl}
+MAI, AKI...{nl}
+A simple rearrangement{nl}
+of the letters.{waitkey}{clearbox}Sonomura must have imagined{nl}
+a paradise all her own,{nl}
+deep within her heart...{waitkey}{clearbox}Modeled on the town as it{nl}
+was right up until she was{nl}
+hospitalized...{waitkey}{ret}
+</message>
+  <message offset="1a58">
+Mark: That's nuts...{nl}
+So the police station being{nl}
+gone, and the hospital{waitkey}turning into a castle{nl}
+and all that...{waitkey}{ret}
+</message>
+  <message offset="1a90">
+Nanjo: Because a paradise{nl}
+has no need of them...{nl}
+Only what suits oneself{waitkey}need exist. Anyone would{nl}
+think that way.{waitkey}{clearbox}Kozai and Naito being summoned{nl}
+must also be Sonomura's{nl}
+unconscious wish.{waitkey}The boy she admired and her{nl}
+best friend - those alone{nl}
+she wanted to be real...{waitkey}{ret}
+</message>
+  <message offset="1b2c">
+Kandori: It was a month ago{nl}
+that the Deva System's{nl}
+startup test succeeded.{waitkey}{clearbox}But... even before that,{nl}
+she and the system were{nl}
+linked.{waitkey}{clearbox}Her wavelength and the{nl}
+system's must have synced{nl}
+on a spiritual level...{waitkey}{clearbox}Fused with the power to{nl}
+affect dimensions, her inner{nl}
+paradise became something{nl}
+beyond imagination...{waitkey}{ret}
+</message>
+  <message offset="1bf0">
+Nanjo: And then you made{nl}
+contact with Mai, the{nl}
+keeper of that paradise...{waitkey}{ret}
+</message>
+  <message offset="1c1c">
+Kandori: Mai... no,{nl}
+that Maki was lonely...{waitkey}{clearbox}Her role was to provide{nl}
+the ideal Maki - you -{nl}
+a world that suited you,{waitkey}as comfort for the real{nl}
+Maki. The rest you{nl}
+already know...{waitkey}{ret}
+</message>
+  <message offset="1ca0">
+Maki: Lies! It's all{nl}
+nonsense!!{waitkey}{ret}
+</message>
+  <message offset="1cbc">
+Kandori: Then go and meet{nl}
+your true self...{nl}
+She is here within{waitkey}this castle...{waitkey}{ret}
+</message>
+  <message offset="1cf4">
+Maki: I am me!{nl}
+That's... that's just{nl}
+too cruel!{waitkey}{ret}
+</message>
+  <message offset="1d20">
+Mark: Sonomura!{waitkey}{ret}
+</message>
+  <message offset="1d30">
+Elly: {ctl07:1}!{nl}
+Let's go after her!{waitkey}{ret}
+</message>
+  <message offset="1d4c">
+Ayase: This is bad, {ctl0f:1}!{nl}
+Aren't you going after her?!{waitkey}{ret}
+</message>
+  <message offset="1d6c">
+Reiji: You're not going after{nl}
+her? You're the only one{nl}
+who can save her.{waitkey}{ret}
+</message>
+  <message offset="1d8c">
+Kandori: Maki Sonomura...{nl}
+must come to know her own{nl}
+true heart. If she doesn't,{waitkey}she'll repeat my mistake...{waitkey}{clearbox}Go to her...{wait_fr:88} The same{nl}
+road I walked...{waitkey}{ret}
+</message>
+  <message offset="1dbc">
+Nanjo: ...{wait_fr:88}{nl}
+A pitiful man...{waitkey}{ret}
+</message>
+  <message offset="1e1c">
+Mark: {ctl0f:1}!{nl}
+We've gotta find Sonomura!{waitkey}{ret}
+</message>
+  <message offset="1e38">
+Mark: This has to be a lie!{nl}
+It's too cruel for Sonomura!{waitkey}{ret}
+</message>
+  <message offset="1e58">
+Nanjo: I'd been thinking{nl}
+about it all along.{nl}
+When I reached the answer,{waitkey}even I was shaken, though.{waitkey}{ret}
+</message>
+  <message offset="1e80">
+Reiji: ...{wait_fr:88}I finally killed{nl}
+the bastard, and yet...{wait_fr:88}{nl}
+What is this emptiness...{waitkey}{ret}
+</message>
+  <message offset="1eb4">
+Elly: Poor Maki...{nl}
+We have to save her...{waitkey}{ret}
+</message>
+  <message offset="1eec">
+Brown: Are you serious...{nl}
+What's going to happen{nl}
+to Maki?{waitkey}{ret}
+</message>
+  <message offset="1f14">
+Ayase: I can't believe it...{nl}
+What happens to Sonomura?{nl}
+Hey?!{waitkey}{ret}
+</message>
+  <message offset="1f38">
+Kandori's face in death{nl}
+is peaceful...{waitkey}{ret}
+</message>
+  <message offset="1f60">
+'The life of man is fifty{nl}
+years. Set against the lowest{nl}
+heaven, it is but{waitkey}a fleeting dream.'{nl}
+So it is written...{waitkey}{ret}
+</message>
+</scene>

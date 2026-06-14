@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="98">
+  <message offset="1e08">
+Yukino: A blatantly suspicious{nl}
+room. Just two chests in{nl}
+the back.{waitkey}{clearbox}It's surely a trap, just like{nl}
+the candle room.{waitkey}{clearbox}Best let sleeping dogs lie.{nl}
+Let's not touch them.{waitkey}{ret}
+</message>
+  <message offset="1e78">
+Yuriko: Aww, mean, mean!{nl}
+Yuriko went to the trouble{nl}
+of preparing a present for{waitkey}you hardworking folks!{waitkey}{clearbox}And you're just gonna ignore{nl}
+it and leave? No, no!{waitkey}{ret}
+</message>
+  <message offset="1edc">
+Nanjo: Hmph. How transparent.{nl}
+It's a trap, no doubt.{nl}
+Mayuzumi, don't humor her.{waitkey}{ret}
+</message>
+  <message offset="1f0c">
+Brown: A p-present?{nl}
+Y-Yukino, let's take it!{waitkey}{clearbox}They've said it since old{nl}
+times - "no villain is fair{nl}
+of face"! Let's trust Yuriko!{waitkey}{ret}
+</message>
+  <message offset="1f7c">
+Ayase: Hmm, it's trap-ish,{nl}
+but it looks fun.{waitkey}{clearbox}Running away here would{nl}
+feel kinda lame...{waitkey}{clearbox}I'll at least hear her out!{waitkey}{ret}
+</message>
+  <message offset="1fcc">
+Yuriko: Yippee! As expected{nl}
+of the girl I get along with{nl}
+best - you get it!{waitkey}{clearbox}Yuriko's so happy!{waitkey}{ret}
+</message>
+  <message offset="2014">
+Nanjo: Enough prattle.{nl}
+State your business.{nl}
+Your way of talking grates.{waitkey}{ret}
+</message>
+  <message offset="2044">
+Elly: It's surely not a proper{nl}
+Gift anyway, right?{nl}
+Hearing you out is a waste.{waitkey}{ret}
+</message>
+  <message offset="207c">
+Yuriko: Geez! Nothing but{nl}
+stubborn people! You're happy{nl}
+and you know it!{waitkey}{clearbox}Well, fine. Here comes the{nl}
+preeeesent explanation!{nl}
+Listen up!{waitkey}{clearbox}In one of these two chests,{waitkey}{clearbox}everyone's beloved "Mirror{nl}
+Shard" is iiinside!{waitkey}{clearbox}And Yuriko-chan, being{nl}
+generous, gives you a chance{nl}
+to get it for free!{waitkey}{clearbox}Buut! The chance is only{nl}
+ooone! Open the wrong chest{nl}
+and there's a penalty!{waitkey}{clearbox}Well? Well? Isn't it fun?{nl}
+Do your best!{nl}
+Ahahahaha!{waitkey}{ret}
+</message>
+  <message offset="21cc">
+Ayase: So it's a trap after{nl}
+all? But it's a chance!{nl}
+C'mon, let's just try it,{waitkey}everyone!{waitkey}{clearbox}Ayase kinda feels like that{nl}
+girl isn't lying, at least.{waitkey}{clearbox}Nothing to lose! Ayase'll{nl}
+take responsibility!{nl}
+Let's open it!{waitkey}{ret}
+</message>
+  <message offset="2264">
+Yukino: That Yuriko woman!{nl}
+She's toying with our lives{nl}
+in the palm of her hand!!{waitkey}{clearbox}What an unpleasant woman,{nl}
+honestly.{waitkey}{ret}
+</message>
+  <message offset="22b4">
+Ayase: I wonder why? That{nl}
+Yuriko girl seems like she's{nl}
+forcing herself really hard.{waitkey}Ayase gets that feeling.{waitkey}{ret}
+</message>
+  <message offset="22f4">
+Ayase: Kiii! That Yuriko{nl}
+girl's a super coward!{nl}
+Ayase's super ticked off!!{waitkey}{ret}
+</message>
+  <message offset="2334">
+Nanjo: There are two kinds{nl}
+of traps. One is meant to{nl}
+kill the target for certain.{waitkey}{clearbox}The other is meant only to{nl}
+toy with the target and{nl}
+slowly{waitkey}instill terror.{waitkey}{clearbox}Yuriko's trap is surely{nl}
+the latter.{waitkey}{ret}
+</message>
+  <message offset="23b0">
+Brown: Honestly, this tower's{nl}
+traps are nasty and no good!{waitkey}{clearbox}For an honest guy like me,{nl}
+it's full of danger!{nl}
+No, really, seriously.{waitkey}{ret}
+</message>
+  <message offset="2404">
+Elly: To that Yuriko, this{nl}
+tower's Traps are a Game.{waitkey}{clearbox}Each time we advance, she{nl}
+hurts us just shy of death,{nl}
+sometimes even preparing{waitkey}a Gift, you see.{waitkey}{clearbox}That way, Yuriko means to{nl}
+Genocide us at the Last of{nl}
+her own Game.{waitkey}{ret}
+</message>
+  <message offset="24d8">
+Open this chest?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="24ec">
+Ayase: Kyaaa?!{nl}
+S-something's draining{nl}
+from my body{waitkey}{clearbox}it's going away!{waitkey}{ret}
+</message>
+  <message offset="2520">
+Yuriko: Ahahahaha!{nl}
+Toooo bad!{waitkey}{clearbox}So, as a penalty, I'll take{nl}
+another one of you!{waitkey}{clearbox}Buh-byeee!{nl}
+Bye-bye!{waitkey}{ret}
+</message>
+  <message offset="2584">
+Ayase: Kiiii!{nl}
+What the, what the!{nl}
+Super coward!{waitkey}{clearbox}So frustrating! Ayase{nl}
+can't use her Persona{nl}
+anymore! What do I do!?{waitkey}{ret}
+</message>
+  <message offset="25ec">
+Open this chest?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="2600">
+Ayase: Yay! Bingo!!{nl}
+Jackpot!{waitkey}{clearbox}See, see? Just like Ayase{nl}
+said, opening the box first{nl}
+was the right call, right?{waitkey}{ret}
+</message>
+  <message offset="2660">
+Yuriko: Hmm, seems you've got{nl}
+pretty good bad luck at least!{nl}
+OK! You win this game!{waitkey}Congrats!{waitkey}{clearbox}My room's just a little{nl}
+further now, so do your best!{waitkey}{clearbox}I'll present you with a truly{nl}
+lovely "death." So, I'll be{nl}
+waiting!{waitkey}{ret}
+</message>
+  <message offset="2704">
+Obtained a "Mirror Shard"!{waitkey}{ret}
+</message>
+  <message offset="271c">
+You stopped opening{nl}
+the chest.{waitkey}{ret}
+</message>
+  <message offset="2730">
+The chest is empty.{waitkey}{ret}
+</message>
+  <message offset="273c">
+Some force is at work,{nl}
+and you can't open the chest.{waitkey}{ret}
+</message>
+  <message offset="2760">
+Ufufufu... Too bad. Time's{nl}
+up...{waitkey}{clearbox}Your desperate struggling was{nl}
+the perfect entertainment to{nl}
+make the "Eternal Night"{waitkey}all the more splendid.{waitkey}{clearbox}But the opening act ends here.{waitkey}{clearbox}Now, the climax called the{nl}
+"Eternal Night"{nl}
+raises its curtain.{waitkey}{ret}
+</message>
+  <message offset="2808">
+Yukino: H...{wait_fr:30}hey, hey!{nl}
+What's started happening?!{nl}
+Don't tell me, Yuriko!{waitkey}{clearbox}Did she cut the tower's time{nl}
+limit short as a "penalty"?{waitkey}{clearbox}What do we do, Ayase!!{nl}
+You... when you opened that{nl}
+chest, you said it!!{waitkey}"I'll take responsibility"!{waitkey}{clearbox}What now! That's why I said{nl}
+"better not touch it"!{waitkey}{ret}
+</message>
+  <message offset="28f8">
+Ayase: Ehh? Ayase?{wait_fr:30} Ayase's{nl}
+fault? No way?? Hold on!{waitkey}{clearbox}No way...{wait_fr:30} Ayase didn't think{nl}
+it'd turn into such{nl}
+a big deal...{waitkey}{clearbox}Ehehe... I said "I'll take{nl}
+responsibility" in the heat{nl}
+of the moment, but...{waitkey}{clearbox}truth is, Ayase wasn't{nl}
+thinking anything at all...{waitkey}{clearbox}It's Yuriko who's bad...{nl}
+Ayase's not bad...{waitkey}{ret}
+</message>
+  <message offset="29e0">
+Yuriko: ...kyaha...{nl}
+kyahahahaha{nl}
+kyaaahahahahaha...{waitkey}{clearbox}Tiiime uuup!{nl}
+Game oooveeer!{nl}
+...or so I'd say!{waitkey}{clearbox}Well?{wait_fr:30} Well?{nl}
+Surprised, huh??{waitkey}{clearbox}Yuriko-chan's "Snow Queen"{nl}
+impression is Academy Award{nl}
+material, right?{waitkey}Kyahahahaha!{waitkey}{clearbox}Gotcha!{wait_fr:30} Gotchaaa!{nl}
+It was a joooke!{nl}
+Ahh! Sooo fun!!{waitkey}{clearbox}You thought it was all over,{nl}
+didn't you?{waitkey}{clearbox}Too baaad!! The "Mirror Shard"{nl}
+isn't in this box{wait_fr:30}, nope!{waitkey}{clearbox}Buh-byeee!{nl}
+Bye-byeee!{waitkey}{ret}
+</message>
+  <message offset="2b74">
+Ayase: Ayase's, like, super{nl}
+frustrated!! Ahh, geez!!{nl}
+Feels like I got super{nl}
+tricked?!{waitkey}{clearbox}{ctl0f:1}!! Why didn't you open{nl}
+the left box?! Take{nl}
+responsibility!{waitkey}{clearbox}It's your fault, you know!{nl}
+Ayase's not at fault!{waitkey}{ret}
+</message>
+</scene>

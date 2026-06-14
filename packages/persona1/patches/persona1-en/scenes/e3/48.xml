@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="48">
+  <message offset="19cc">
+
+</message>
+  <message offset="19ec">
+Elly: W-{wait_fr:30}What?!{waitkey}{ret}
+</message>
+  <message offset="1a00">
+Brown: Hey hey hey hey!{waitkey}{ret}
+</message>
+  <message offset="1a24">
+Ayase: N-{wait_fr:30}no!! What is{nl}
+this?!{waitkey}{ret}
+</message>
+  <message offset="1a88">
+Yukino: The "Eternal Night,"{nl}
+you say?! Don't mess with us!{waitkey}{clearbox}You called yourself the{nl}
+"Night Queen," right? Quit{nl}
+hiding and come out! Fight{nl}
+us fair and square!!{waitkey}{ret}
+</message>
+  <message offset="1adc">
+Night Queen's Voice: Hmhmhm...{nl}
+You too shall become an ice{nl}
+statue.{waitkey}{clearbox}Kuroori's Voice: Hihii~ S-{wait_fr:30}stop{nl}
+it...{wait_fr:30} gah......{waitkey}{ret}
+</message>
+  <message offset="1afc">
+Elly: !! It's coming from{nl}
+inside the school building!{waitkey}{ret}
+</message>
+  <message offset="1b24">
+Nanjo: That fiend! What's she{nl}
+doing inside the school?!{waitkey}{ret}
+</message>
+  <message offset="1bc4">
+Night Queen's Voice:{nl}
+Ahahaha... Come now, run{nl}
+about or you'll freeze solid.{waitkey}{clearbox}Toro's Voice: Waah, stop{nl}
+stop stop{wait_fr:30} stop it!{waitkey}{clearbox}Ms. Natsumi's Voice: Hey! Who{nl}
+are you{wait_fr:30}?!{wait_fr:30}{nl}
+Gyaaaaaah...{wait_fr:30}aagh{wait_fr:30}......{waitkey}{ret}
+</message>
+  <message offset="1bf4">
+Ayase: Toro? Ms. Natsumi?!{waitkey}No...{wait_fr:30} this can't be......{waitkey}{ret}
+</message>
+  <message offset="1c0c">
+Yukino: Ms. Saeko?!{waitkey}{ret}
+</message>
+  <message offset="1c5c">
+Ms. Saeko: Nearly everyone in{nl}
+the building has been frozen.{waitkey}{clearbox}Before the Queen returns, you{nl}
+all must get away, at least...{waitkey}{ret}
+</message>
+  <message offset="1c80">
+Student's Spirit: At least you{nl}
+all, escape with your lives!!{waitkey}{ret}
+</message>
+  <message offset="1ca4">
+Ayase: E-{wait_fr:30}escape, you say,{nl}
+but how are we supposed to?{waitkey}{ret}
+</message>
+  <message offset="1cdc">
+Student's Spirit: With the{nl}
+last of our remaining power,{nl}
+we'll send you outside the{nl}
+building.{waitkey}{ret}
+</message>
+  <message offset="1d0c">
+Yukino: For us alone to flee{nl}
+with our tails between our{nl}
+legs! We can't...{waitkey}{ret}
+</message>
+  <message offset="1d68">
+Ms. Saeko: She's coming back!{nl}
+There's no time!! Now, you{nl}
+understand?{waitkey}{clearbox}{ctl0f:1}! I'm counting on you{nl}
+to look after everyone!!{waitkey}All of you{wait_fr:30}, survive...{waitkey}{ret}
+</message>
+</scene>

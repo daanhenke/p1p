@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="193">
+  <message offset="1698">
+Maki: Is this town's{nl}
+Sennen-Mannen Hall really{nl}
+that strange?{waitkey}{ret}
+</message>
+  <message offset="16c0">
+Nanjo: This market doesn't{nl}
+seem to have a single decent{nl}
+shop.{waitkey}{ret}
+</message>
+  <message offset="16e8">
+Mark: So in this town you{nl}
+can't get Sennen-Mannen{nl}
+Hall's sweets, huh.{waitkey}{ret}
+</message>
+  <message offset="1718">
+Elly: How exotic! What a{nl}
+lovely shop!{waitkey}{ret}
+</message>
+  <message offset="1744">
+Brown: This pot's nice~{nl}
+{ctl08:2817}, hey, why don't you{nl}
+gift this to me?{waitkey}{ret}
+</message>
+  <message offset="1778">
+Ayase: Did you try talking to{nl}
+the shopkeeper? Such a weird{nl}
+face of makeup~!{waitkey}{ret}
+</message>
+  <message offset="17a8">
+Reiji: ...Is this a haunted{nl}
+house?{waitkey}{ret}
+</message>
+  <message offset="17c4">
+Tsurunkamen: Ho ho ho ho...{nl}
+Well come, indeed. What sort{nl}
+of wares do you require?{waitkey}{ret}
+</message>
+  <message offset="17fc">
+Kamentsurun: Ho ho ho ho...{nl}
+Gemstones I love above all{nl}
+else.{waitkey}{clearbox}I'm running a blowout trade —{nl}
+your gems for my treasured{nl}
+wares.{waitkey}Care to give it a try?{waitkey}{ret}
+</message>
+  <message offset="1868">
+Customer: If only I'd been{waitkey}a pretty boy like a puppy{nl}
+caught in the rain, the Queen{nl}
+might've taken to me~!{waitkey}{clearbox}Then I could've lived it easy{nl}
+in the palace instead of a{nl}
+dump like this~{waitkey}{ret}
+</message>
+  <message offset="18e0">
+Customer: The men in the{nl}
+harem palace were submitting{nl}
+to the Queen, weren't they.{waitkey}{clearbox}That's just pathetic, huh. Me,{nl}
+I'm gonna live without{nl}
+bowing to anyone.{waitkey}{ret}
+</message>
+</scene>

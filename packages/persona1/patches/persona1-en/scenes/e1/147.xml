@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="147">
+  <message offset="1378">
+{nl}
+
+</message>
+  <message offset="1394">
+Ayase: We did iiit♥{waitkey}{ret}
+</message>
+  <message offset="13ac">
+Yukino: Ms. Saeko!!{waitkey}{ret}
+</message>
+  <message offset="13d8">
+Yukino: Are you okay, Ms.{nl}
+Saeko? You must've been cold.{nl}
+Any injuries?{waitkey}{ret}
+</message>
+  <message offset="1408">
+Ms. Saeko: Thank you,{nl}
+I'm fine.{waitkey}{nl}
+More importantly,{wait_fr:30} where's{nl}
+Tomomi?{waitkey}{ret}
+</message>
+  <message offset="1424">
+Brown: Tomomi?{nl}
+Who's that?{waitkey}{ret}
+</message>
+  <message offset="1438">
+Nanjo: Tomomi...?{waitkey}{ret}
+</message>
+  <message offset="14a4">
+Ms. Saeko: Tomomi is...{wait_fr:30}{nl}
+the spirit that possessed{nl}
+the mask.{waitkey}One of the students the Snow{nl}
+Queen entranced.{waitkey}And...{wait_fr:30}{nl}
+my best friend from my{nl}
+drama club days.{waitkey}{ret}
+</message>
+  <message offset="14e0">
+Yukino: So...{wait_fr:30} so the Snow{nl}
+Queen who possessed Ms. Saeko{nl}
+was Ms. Saeko's best friend...{waitkey}{ret}
+</message>
+  <message offset="1540">
+Elly: So that's why the Queen{nl}
+called you{wait_fr:30} "Saeko"{wait_fr:30}...{waitkey}{clearbox}But why would a best friend{nl}
+possess you, I wonder?{waitkey}{ret}
+</message>
+  <message offset="1594">
+Nanjo: Hm.{waitkey}{nl}
+No wonder she addressed you{nl}
+so familiarly.{waitkey}{clearbox}But why would a best friend{nl}
+try to make you a sacrifice...{waitkey}{ret}
+</message>
+</scene>

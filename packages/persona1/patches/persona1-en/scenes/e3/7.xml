@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="7">
+  <message offset="1538">
+Female Student: What do we do,{nl}
+there's no exit anywhere.{nl}
+We're trapped in here!!{waitkey}{clearbox}Before long, demons will come.{waitkey}Hordes of demons will come{nl}
+and torment us to death!!{waitkey}{ret}
+</message>
+  <message offset="15b0">
+Female Student: Even if you{nl}
+beat the Snow Queen, there{nl}
+are still other strong{nl}
+demons left, right!?{waitkey}{clearbox}It's all over...{waitkey}{ret}
+</message>
+  <message offset="15f8">
+Female Student: Who was it{nl}
+that said "the school is{nl}
+safe"?{waitkey}I want to go home...{waitkey}{ret}
+</message>
+  <message offset="1630">
+Female Student: Why can't we{nl}
+get outside yet?{waitkey}{clearbox}Don't tell me all we can do{nl}
+is wait here to freeze to{nl}
+death?{waitkey}{clearbox}I won't have it! There's so{nl}
+much I still want to do!{waitkey}{ret}
+</message>
+  <message offset="169c">
+Satori: It's all over now.{waitkey}We're all going to die someday{nl}
+anyway... this just moves it{nl}
+up a little.{waitkey}{clearbox}We get to end our lives still{nl}
+beautiful, so we ought to{nl}
+thank the Snow Queen.{waitkey}{ret}
+</message>
+  <message offset="1704">
+Satori: Keeping my eyes{nl}
+closed like this, it's as if{nl}
+everything has stopped{nl}
+breathing.{waitkey}{clearbox}So very quiet.{waitkey}Somehow... I'm getting{nl}
+sleepy... it... seems......{waitkey}{ret}
+</message>
+  <message offset="1764">
+Yukino: What gloomy people.{nl}
+Let's hurry on. They're{nl}
+bringing me down too.{waitkey}{ret}
+</message>
+  <message offset="1798">
+Yukino: Still going on like{nl}
+that. It's depressing — let's{nl}
+get out, quick.{waitkey}{ret}
+</message>
+  <message offset="17c8">
+Ayase: Honestly, Ayase's{nl}
+anxious too. I crack jokes{nl}
+and all, but...{waitkey}{clearbox}I keep wondering if we can{nl}
+really save Ms. Saeko.{waitkey}{clearbox}I mean, we're still just high{nl}
+schoolers! What can we even{nl}
+do!?{waitkey}{ret}
+</message>
+  <message offset="1844">
+Ayase: {ctl07:0}, you're really{nl}
+strong, huh. You don't{nl}
+complain even once.{waitkey}{clearbox}That side of you — Ayase's{nl}
+impressed.{waitkey}{ret}
+</message>
+  <message offset="188c">
+Nanjo: To admit defeat before{nl}
+even acting...{waitkey}{clearbox}I'll fight to the very end!{nl}
+For my own future, too.{waitkey}{ret}
+</message>
+  <message offset="18d4">
+Nanjo: Nothing will start by{nl}
+staying here.{waitkey}{ret}
+</message>
+  <message offset="18f0">
+Brown: Don't worry.{waitkey}{clearbox}I'll melt the Queen's icy{nl}
+heart with my smoldering{nl}
+gaze, you'll see.{waitkey}{ret}
+</message>
+  <message offset="1930">
+Brown: Don't worry.{waitkey}{clearbox}I'll melt the Queen's icy{nl}
+heart with my smoldering{nl}
+gaze, you'll see.{waitkey}{ret}
+</message>
+  <message offset="1970">
+Elly: In extreme situations,{nl}
+you catch a glimpse of human{nl}
+nature, don't you.{waitkey}Heh...{waitkey}{ret}
+</message>
+  <message offset="19a4">
+Elly: In extreme situations,{nl}
+you catch a glimpse of human{nl}
+nature, don't you.{waitkey}Heh...{waitkey}{ret}
+</message>
+</scene>

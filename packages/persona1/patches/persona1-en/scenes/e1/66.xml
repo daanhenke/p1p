@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="66">
+  <message offset="146c">
+Yukino: Finally awake,{nl}
+teachers!!{waitkey}{clearbox}You feeling all right?{waitkey}{ret}
+</message>
+  <message offset="14a4">
+V.P. Hannya: M-{wait_fr:30}Mayuzumi!!{nl}
+What is the meaning of this!?{nl}
+Where are we?!{waitkey}Don't tell me...{wait_fr:30} this is{nl}
+your doing!{waitkey}{clearbox}You delinquents!{nl}
+Trapping us in a place like{nl}
+this - what's your aim?!{waitkey}{clearbox}Damn it! Damn it!!{nl}
+I don't remember, but I was{nl}
+having such a good dream!{waitkey}{clearbox}Ahh! What on earth is{nl}
+going on here?! Somebody{nl}
+explain!{waitkey}{clearbox}Huff huff huff...{nl}
+P-Principal, say something{nl}
+to these delinquents too!{waitkey}{ret}
+</message>
+  <message offset="15b8">
+Principal Oishi: Have you{nl}
+calmed down, Vice Principal?{nl}
+Now then...{wait_fr:30} Mayuzumi,{nl}
+everyone,{waitkey}{clearbox}are any of you hurt?{nl}
+...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}Good if not.{nl}
+By the way, where...{waitkey}{clearbox}are we, I wonder?{nl}
+I was having a very{nl}
+unpleasant dream...{waitkey}{ret}
+</message>
+  <message offset="165c">
+Nanjo: This may be hard for{nl}
+you teachers to grasp, but{nl}
+in the end, you were saved{waitkey}{clearbox}by us. I won't ask you to{nl}
+"thank us," but complaining{nl}
+is misplaced as well.{waitkey}{clearbox}I'd appreciate it if you{nl}
+kept that in mind.{waitkey}{clearbox}More to the point, teachers,{nl}
+do you know anything about{nl}
+a "Mirror Shard"?{waitkey}{clearbox}It's important to us.{waitkey}{ret}
+</message>
+  <message offset="1728">
+Brown: V.P., sir,{nl}
+the delinquents are awful!{nl}
+"The great me" and my pals,{waitkey}{clearbox}we worked SO hard to save{nl}
+the two of{wait_fr:30} y{wait_fr:30}o{wait_fr:30}u!{waitkey}{clearbox}A word of thanks...{wait_fr:30}{nl}
+would be nice, y'know.{nl}
+Well{wait_fr:30}, whatever{wait_fr:30}, it's fine!{waitkey}It's all in the past!{waitkey}{clearbox}Anyway! Teachers, you know{nl}
+of a "Mirror Shard"?{waitkey}{clearbox}"The great me" and my pals{nl}
+absolutely need it to become{nl}
+the heroes who save{waitkey}{clearbox}the school. It's that item.{nl}
+So, you don't know of it?{waitkey}{ret}
+</message>
+  <message offset="186c">
+V.P. Hannya: "Mirror Shard"???{wait_fr:30}{nl}
+Ah, you mean this?{nl}
+It was in my suit pocket{waitkey}{clearbox}before I knew it.{nl}
+Honestly! Thanks to this,{nl}
+the bottom of my pocket tore!{waitkey}{clearbox}My daughter's job-hunting{nl}
+this year, and I can't very{nl}
+well ask her to mend this...{waitkey}{clearbox}Gefu!{wait_fr:30} Gefufun!!{nl}
+Ah...{wait_fr:30} well, none of that{nl}
+matters, I suppose.{waitkey}Yep...{wait_fr:30} doesn't matter!!{waitkey}{clearbox}But! What do you brats mean{nl}
+to do with a thing like this?!{nl}
+No good will come of it.{waitkey}{clearbox}No{wait_fr:30} no{wait_fr:30} no{wait_fr:30} no!{nl}
+Hand you a "Mirror Shard" and{nl}
+things will only get worse.{waitkey}{ret}
+</message>
+  <message offset="19e8">
+Ayase: Eeek!!{nl}
+What{wait_fr:30} what{wait_fr:30} what{wait_fr:30} what!{nl}
+This bald Hannya!!{waitkey}{clearbox}Won't even hear Ayase out{nl}
+and just says no!{nl}
+So annoying!!{waitkey}{clearbox}That's why YOU, unlike the{nl}
+Principal, are hated by all!{waitkey}{clearbox}Just hand over the shard!{nl}
+You baldy{wait_fr:30} baldy{wait_fr:30} baldy{wait_fr:30} baldy!{nl}
+You jerk! Hand it over!{waitkey}Hand it over!{waitkey}{ret}
+</message>
+  <message offset="1adc">
+Principal Oishi: Now, now,{nl}
+Ayase, that won't do.{nl}
+A young lady{waitkey}{clearbox}shouldn't use such foul words.{nl}
+Vice Principal, before you{nl}
+scold the students outright,{waitkey}{clearbox}please first try to see things{nl}
+at the same eye level{nl}
+as them.{waitkey}{clearbox}Then you'll know at once{nl}
+whether a child is lying{nl}
+or not.{waitkey}{clearbox}Scolding can come after that.{nl}
+Vice Principal, I ask you{nl}
+as well.{waitkey}{clearbox}Please give these children{nl}
+the "Mirror Shard."{nl}
+Children about to do wrong{waitkey}{clearbox}couldn't possibly have{nl}
+eyes this honest and{nl}
+straightforward.{waitkey}{ret}
+</message>
+  <message offset="1c0c">
+V.P. Hannya: ...{wait_fr:30}...{wait_fr:30}...{nl}
+Take it and go.{waitkey}{ret}
+</message>
+  <message offset="1c3c">
+Obtained a "Mirror Shard"!{waitkey}{ret}
+</message>
+  <message offset="1c54">
+Nanjo: Hmph. You should have{nl}
+just handed it over from{nl}
+the start.{waitkey}{clearbox}For right now, we are the{nl}
+only ones in this school{nl}
+walking the truly right path.{waitkey}{ret}
+</message>
+  <message offset="1ca4">
+Elly: Sorry. But this is{nl}
+important to us - no,{nl}
+for saving the school too -{waitkey}{clearbox}a precious thing.{waitkey}{ret}
+</message>
+  <message offset="1cec">
+Principal Oishi: I won't ask{nl}
+your reasons now.{nl}
+I can tell you're doing{waitkey}{clearbox}what's right, nothing to{nl}
+be ashamed of before{nl}
+your own pride.{waitkey}{clearbox}But please, no recklessness.{nl}
+Don't ever do anything that{nl}
+would sadden those who{waitkey}{clearbox}worry about you.{nl}
+Now, off you go.{waitkey}{clearbox}Good luck.{waitkey}{ret}
+</message>
+  <message offset="1da4">
+V.P. Hannya: Hmph! I won't{nl}
+stop you. Go as you please!{nl}
+...{wait_fr:30}...{wait_fr:30}...Hey, you lot!{waitkey}{clearbox}If... if the school goes{nl}
+back to normal...{nl}
+assemble in the office!{waitkey}{clearbox}I'll lecture you personally.{nl}
+And then you'll give me a{nl}
+full explanation of all this!{waitkey}{clearbox}Be ready for it!!{nl}
+I'll be waiting, together{nl}
+with the Principal!{waitkey}{clearbox}Be sure...{wait_fr:30} to come!{nl}
+All of you!{waitkey}{ret}
+</message>
+  <message offset="1e98">
+Yukino: P...{nl}
+Principal...{wait_fr:30} Vice Principal...{waitkey}{clearbox}Heh...{wait_fr:30} leave it to us!{nl}
+We'll keep our promise!{nl}
+Yeah!{wait_fr:30} "For sure"!{waitkey}{ret}
+</message>
+  <message offset="1ef8">
+Yukino: There's nothing left{nl}
+to do in this room, is there?{nl}
+We should hurry on, probably.{waitkey}{ret}
+</message>
+  <message offset="1f30">
+Ayase: Heh-heh!{nl}
+Now the V.P.'ll totally{nl}
+think better of us, right!{waitkey}{ret}
+</message>
+  <message offset="1f64">
+Nanjo: Hardly men worthy of{nl}
+respect, but our teachers{nl}
+all the same.{waitkey}{clearbox}Well, better safe than not.{waitkey}{ret}
+</message>
+  <message offset="1fac">
+Brown: Alriiight!{nl}
+Now V.P. Hannya owes the{nl}
+great me a big one!{waitkey}{clearbox}Kekeke! No more acting{nl}
+high and mighty around me!!{waitkey}{clearbox}...{wait_fr:30}...{wait_fr:30}...is what I'd say, but{nl}
+I can't... not to Hannya...{nl}
+Scary after all... the V.P.!{waitkey}{ret}
+</message>
+  <message offset="2060">
+Elly: In any case, I'm just{nl}
+glad the teachers are{nl}
+safe and sound.{waitkey}{ret}
+</message>
+  <message offset="2088">
+V.P. Hannya: Hmm,{nl}
+still, what a good dream...{waitkey}{clearbox}Argh, I can almost remember{nl}
+it!! What kind of dream{nl}
+was it...?{waitkey}{ret}
+</message>
+  <message offset="20dc">
+Principal Oishi: Still, that{nl}
+was an unpleasant dream.{nl}
+I'd rather not recall it.{waitkey}{ret}
+</message>
+</scene>

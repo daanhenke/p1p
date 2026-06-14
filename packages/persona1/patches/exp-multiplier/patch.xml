@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Multiplies EXP gained per battle. -->
+<patch id="exp-multiplier" version="0.1.0" game="persona1" priority="10">
+  <name>EXP Multiplier</name>
+  <description>Multiplies the experience points awarded after battle (e.g. 2× or 3×).</description>
+</patch>

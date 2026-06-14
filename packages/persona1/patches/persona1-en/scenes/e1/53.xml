@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="53">
+  <message offset="1324">
+{nl}
+
+</message>
+  <message offset="1370">
+Yukino: What?! This room{nl}
+feels different from the{nl}
+others. Someone's dream too?{waitkey}{clearbox}Hm? Someone's in the back!{waitkey}{ret}
+</message>
+  <message offset="1398">
+???: ...Oh my...{nl}
+guests... how{nl}
+unusual.{waitkey}{ret}
+</message>
+  <message offset="13c0">
+???: Indeed...{nl}
+shall we show them{nl}
+some hospitality?{waitkey}{ret}
+</message>
+  <message offset="13fc">
+Nanjo: What? She's wearing{nl}
+our school's uniform.{nl}
+Is this her dream?{waitkey}{ret}
+</message>
+  <message offset="147c">
+Brown: Whoa-ho!{nl}
+She's a pretty cute girl!{nl}
+Huh huh?!{waitkey}{clearbox}Hey! Hey!!{nl}
+She's wearing our{nl}
+school's uniform!!{waitkey}{clearbox}How did I, of all people,{nl}
+fail to notice her?!{waitkey}{ret}
+</message>
+  <message offset="14b4">
+Ayase: Hey, you,{nl}
+which class are you from?{nl}
+Are you trapped in{waitkey}here too?{waitkey}{ret}
+</message>
+  <message offset="157c">
+???: Heehee.{nl}
+It's you who should say{nl}
+why you're here.{waitkey}{clearbox}This is a dream of mine,{nl}
+by mine,{nl}
+for mine alone.{waitkey}{clearbox}Yes - this is the dream of{nl}
+"Kumi Hirose," entrusted by{nl}
+the Snow Queen to guard this{waitkey}"Tower of Hypnos."{waitkey}{clearbox}Barging into another's dream{nl}
+with muddy feet - how{nl}
+rude you all are.{waitkey}Right, Lord Hypnos?{waitkey}{ret}
+</message>
+  <message offset="15fc">
+Hypnos: Indeed, Kumi.{nl}
+Another's dream is one thing,{nl}
+but to enter Kumi's dream -{waitkey}they don't know their place.{waitkey}{clearbox}What say you, Kumi?{nl}
+If it's all right with you,{nl}
+I could punish{waitkey}them a little.{waitkey}{ret}
+</message>
+  <message offset="169c">
+Nanjo: The tower's master?{nl}
+So you're the ones putting{nl}
+the school's people to sleep{waitkey}{clearbox}and trapping them in the{nl}
+"Anti-Dream World."{waitkey}{clearbox}Why not kill them outright{nl}
+than this roundabout way?{waitkey}{clearbox}Sealing human souls in the{nl}
+"Anti-Dream World" -{nl}
+what are you plotting?!{waitkey}{ret}
+</message>
+  <message offset="1738">
+Elly: The tower's master?{nl}
+So you're the ones putting{nl}
+the school's people to sleep{waitkey}and sealing them in the{nl}
+"Anti-Dream World."{waitkey}{clearbox}Surely you could slaughter{nl}
+them all with ease.{waitkey}{clearbox}For what purpose do you seal{nl}
+people's souls in the{nl}
+"Anti-Dream World"?!{waitkey}{ret}
+</message>
+  <message offset="1828">
+Kumi: ...heh... heehee...{nl}
+I wondered what you'd ask,{nl}
+and it's that...{waitkey}{clearbox}I suppose it can't be helped.{nl}
+You too are unfortunate{nl}
+souls forced to live in{waitkey}the real world.{waitkey}{clearbox}Isn't it obvious? Because{nl}
+people are happiest living{nl}
+within a dream.{waitkey}{clearbox}In the real world, people{nl}
+can never find happiness...{waitkey}{clearbox}I'm merely teaching{nl}
+that to everyone.{nl}
+Right, Lord Hypnos?{waitkey}{ret}
+</message>
+  <message offset="193c">
+Hypnos: Indeed, Kumi.{nl}
+Kumi's not at fault at all.{nl}
+The ones to blame are... them.{waitkey}{clearbox}But it can't be helped that{nl}
+they can't understand{nl}
+Kumi.{waitkey}{clearbox}They know nothing of how{nl}
+cruelly Kumi was treated{nl}
+in the real world...{waitkey}{clearbox}nor with what feelings she{nl}
+came to this dream world...{nl}
+nothing at all.{waitkey}{clearbox}Come, let us show them{nl}
+what Kumi went through{nl}
+in the real world.{waitkey}{clearbox}And let us teach them{nl}
+the wonder of the{nl}
+dream world!!{waitkey}{ret}
+</message>
+</scene>

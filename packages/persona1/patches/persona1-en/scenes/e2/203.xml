@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="203">
+  <message offset="1400">
+Scientist: Uhyahyahyahyahya!{waitkey}{clearbox}The hammer of judgment shall{nl}
+fall upon foolish mankind!{waitkey}Uhyahyahyahyahya!{waitkey}{ret}
+</message>
+  <message offset="1448">
+Scientist: I feel like I was{nl}
+thinking something utterly,{nl}
+absurdly foolish...{waitkey}{ret}
+</message>
+  <message offset="147c">
+Scientist: Mankind has no{nl}
+need of a future!!{waitkey}{ret}
+</message>
+  <message offset="14a0">
+Scientist: We must not crush{nl}
+mankind's future!{waitkey}Isn't that right, everyone!!{waitkey}{ret}
+</message>
+  <message offset="14d4">
+Scientist: What on earth was{nl}
+mankind even born for?{waitkey}{ret}
+</message>
+  <message offset="14fc">
+Scientist: What on earth was{nl}
+mankind born for?{waitkey}{clearbox}I haven't pondered such a{nl}
+thing since I was a child.{waitkey}I never had the leisure for{nl}
+it, after all...{waitkey}{ret}
+</message>
+  <message offset="1558">
+Maki: Are they all{nl}
+brainwashed?{waitkey}{ret}
+</message>
+  <message offset="1574">
+Maki: Good thing those weird{nl}
+signals stopped.{waitkey}{ret}
+</message>
+  <message offset="1594">
+Mark: These guys have lost{nl}
+it.{waitkey}{ret}
+</message>
+  <message offset="15ac">
+Mark: Finally came to their{nl}
+senses, huh.{waitkey}{ret}
+</message>
+  <message offset="15c4">
+Nanjo: We must stop Kandori{nl}
+as soon as we possibly can!{waitkey}{ret}
+</message>
+  <message offset="15e8">
+Nanjo: What were we born{nl}
+for...{wait_fr:30}...{wait_fr:30} hm.{waitkey}{ret}
+</message>
+  <message offset="1610">
+Ayase: Hey! Their eyes have{nl}
+gone all wild~!!{waitkey}{ret}
+</message>
+  <message offset="1634">
+Ayase: Oh good~{waitkey}Everyone's eyes are back to{nl}
+normal.{waitkey}{ret}
+</message>
+  <message offset="1658">
+Brown: Wa-wa-wa-wah!{waitkey}{ret}
+</message>
+  <message offset="1668">
+Brown: Those signals are{nl}
+scary, huh.{waitkey}{ret}
+</message>
+  <message offset="167c">
+Elly: There's no use staying{nl}
+here.{waitkey}Let's hurry on ahead.{waitkey}{ret}
+</message>
+  <message offset="16a8">
+Elly: There's no use staying{nl}
+here.{waitkey}Let's hurry on ahead.{waitkey}{ret}
+</message>
+  <message offset="16d4">
+Reiji: ...{waitkey}{ret}
+</message>
+  <message offset="16e0">
+Reiji: ...{waitkey}{ret}
+</message>
+</scene>

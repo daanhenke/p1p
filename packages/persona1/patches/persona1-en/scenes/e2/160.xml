@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="160">
+  <message offset="1244">
+Maki: Somehow this is{nl}
+thrilling!{waitkey}{ret}
+</message>
+  <message offset="1260">
+Nanjo: It seems we can enter{nl}
+the SEBEC building soon.{waitkey}{ret}
+</message>
+  <message offset="1284">
+Nanjo: {ctl0f:1}, if you've{nl}
+gotten scared, you're free{nl}
+to go home.{waitkey}I'll defeat him even on{nl}
+my own!{waitkey}{ret}
+</message>
+  <message offset="12c4">
+Mark: Sonomura feels like{nl}
+her personality's changed{nl}
+somehow...{waitkey}{ret}
+</message>
+  <message offset="12f0">
+Elly: Kandori is at SEBEC,{nl}
+isn't he.{waitkey}{ret}
+</message>
+  <message offset="1318">
+Elly: We've stuck our necks{nl}
+into something tremendous,{nl}
+haven't we.{wait_fr:32} It's getting{nl}
+interesting!{waitkey}{ret}
+</message>
+  <message offset="1358">
+Brown: My arms are itching{nl}
+for action! Hurry up and let{nl}
+me cut loose!{waitkey}{ret}
+</message>
+  <message offset="1388">
+Ayase: Hey, hey, we're just{nl}
+high schoolers, right?{waitkey}They wouldn't, like, go bang!{nl}
+with guns at us...{wait_fr:32} not even{nl}
+SEBEC would, right?{waitkey}{ret}
+</message>
+  <message offset="13e4">
+Ayase: {ctl0f:1}, you liar!{waitkey}Kandori was dead serious,{nl}
+wasn't he!{waitkey}{ret}
+</message>
+</scene>

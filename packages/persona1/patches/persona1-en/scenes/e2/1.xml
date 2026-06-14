@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="1">
+  <message offset="1484">
+Himeno: U-um...{nl}
+{ctl0f:1}, you're going{nl}
+to Mikage Hospital, right...?{waitkey}{ret}
+</message>
+  <message offset="14b4">
+{color:3}Yuko Himeno{nl}
+Maki's friend. A devoted girl{nl}
+working part-time to help{nl}
+support her family.{waitkey}{ret}
+</message>
+  <message offset="14f8">
+Himeno: Um, sorry to ask,{wait_fr:32}{nl}
+but could you tell Sonomura{nl}
+I'll return the book I{waitkey}{nl}
+borrowed next time I visit?{nl}
+{ctl0e:1}{ret}
+</message>
+  <message offset="1554">
+Himeno: U-um...{nl}
+thank you.{nl}
+Sorry to trouble you...{waitkey}{ret}
+</message>
+  <message offset="1580">
+Himeno: U-um... well...{nl}
+I asked something weird...{nl}
+sorry, just forget it...!{waitkey}{ret}
+</message>
+  <message offset="15b8">
+Yukino: {ctl0f:1}!{nl}
+Don't be such a{nl}
+cheapskate!{waitkey}{ret}
+</message>
+  <message offset="15e0">
+Himeno: Um, that book,{nl}
+it was so good I'm{nl}
+reading it again...{waitkey}{ret}
+</message>
+  <message offset="1610">
+Mark: What's it called?{waitkey}{ret}
+</message>
+  <message offset="1624">
+Himeno: U-um...{nl}
+"The Gate of Paradise"...{waitkey}{ret}
+</message>
+  <message offset="1648">
+Mark: Whoa, that's deep!{nl}
+You read stuff like that,{nl}
+Sonomura...{waitkey}{ret}
+</message>
+  <message offset="1674">
+Nanjo: If you like it that{nl}
+much, why not just buy{nl}
+your own copy?{waitkey}{ret}
+</message>
+  <message offset="169c">
+Himeno: U-um... it's a bit{nl}
+pricey, I can't afford it...{wait_fr:48}{nl}
+And I want to buy my brother{waitkey}new clothes too...{waitkey}{ret}
+</message>
+  <message offset="16e0">
+Yukino: Nanjo, you idiot!{nl}
+She works part-time to{nl}
+help her family!{waitkey}{ret}
+</message>
+  <message offset="1714">
+Mark: Well, we're in a{nl}
+hurry, so!{nl}
+We'll be sure to tell her!{waitkey}{ret}
+</message>
+  <message offset="1740">
+Himeno: U-um...{nl}
+did you tell Sonomura,{nl}
+I wonder...{waitkey}{ret}
+</message>
+  <message offset="1768">
+Yukino: Sorry, not yet.{nl}
+But we'll go soon.{waitkey}{nl}
+...Hey, {ctl0f:1}!{nl}
+Let's get to the hospital!{waitkey}{ret}
+</message>
+</scene>

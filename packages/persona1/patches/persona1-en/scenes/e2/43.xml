@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="43">
+  <message offset="1350">
+Nanjo: A card game? Hm,{nl}
+that's fine, I suppose. A{nl}
+grown-up's pastime indeed.{waitkey}{clearbox}Inaba, grown as he is, still{nl}
+gets all worked up over{nl}
+computer games.{waitkey}{clearbox}...Don't tell me you're fond{nl}
+of computer games{waitkey}too, are you?{waitkey}{ret}
+</message>
+  <message offset="13f4">
+Mark: Aw man, my bad. I don't{nl}
+have any money on me right{nl}
+now! Yikes, this is awkward~{waitkey}{clearbox}Wahahaha! Sorry, sorry. The{nl}
+all-you-can-eat'll have to{nl}
+wait for next time!{waitkey}{ret}
+</message>
+  <message offset="1458">
+Mark: Uesugi's not here,{nl}
+right?{wait_fr:21}...Nope, not here.{nl}
+What a relief.{waitkey}{clearbox}...Dammit, I shouldn't have{nl}
+said anything about{nl}
+all-you-can-eat!{waitkey}{ret}
+</message>
+  <message offset="14b8">
+Yukino: Demons...{wait_fr:32} you know,{waitkey}if something like that became{nl}
+real, I don't think you'd be{nl}
+laughing about it.{waitkey}{ret}
+</message>
+  <message offset="14f8">
+Man: This card game I've been{nl}
+hooked on lately is called{nl}
+"Persona."{waitkey}{clearbox}With cards called "Spell{nl}
+Cards," you can summon{nl}
+demons and stuff.{waitkey}{clearbox}If you could really do that,{nl}
+it'd be so cool.{waitkey}{ret}
+</message>
+  <message offset="157c">
+Clerk: ...{wait_fr:32}Welcome...{wait_fr:32}{nl}
+Gah, the register won't{nl}
+work!{waitkey}{clearbox}What am I supposed to do{nl}
+about this? I dunno!{waitkey}{ret}
+</message>
+</scene>

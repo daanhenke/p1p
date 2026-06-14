@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="43">
+  <message offset="12d8">
+Maki: We gotta hurry!{nl}
+{wait_fr:60}...Hey, what's a{nl}
+"police" again?{waitkey}{ret}
+</message>
+  <message offset="1308">
+Nanjo: ...This is no{nl}
+time for jokes.{waitkey}{ret}
+</message>
+  <message offset="1320">
+Maki: I'm not joking!{nl}
+I'm being serious.{waitkey}{ret}
+</message>
+  <message offset="1340">
+Nanjo: ...It's a public{nl}
+institution that maintains{nl}
+social order. In this{nl}
+case, the building.{waitkey}{ret}
+</message>
+  <message offset="1384">
+Maki: Ah...{nl}
+I think I remember{nl}
+now... maybe?{waitkey}{ret}
+</message>
+  <message offset="13a8">
+Maki: Whoa!{nl}
+What's that gym out back?!{nl}
+When did that get built?!{waitkey}{ret}
+</message>
+  <message offset="13dc">
+Nanjo: ...While you were{nl}
+in hospital. It's been{nl}
+done about half a year.{nl}
+Can't blame you.{waitkey}{ret}
+</message>
+  <message offset="141c">
+Maki: I keep saying{nl}
+I'm not hospitalized!{nl}
+You're the joker here!{waitkey}{ret}
+</message>
+  <message offset="144c">
+Nanjo: ...{wait_fr:80}Hey {ctl0f:1},{nl}
+is she amnesiac?{nl}
+She'd just slow us down.{waitkey}{ret}
+</message>
+  <message offset="148c">
+Maki: What are you two{nl}
+mumbling about?! Hurry up,{nl}
+Inaba's in danger!{waitkey}{ret}
+</message>
+  <message offset="14bc">
+Demon: Bwa ha ha!{nl}
+You're the ones in danger!{nl}
+I'll eat you up!{waitkey}{ret}
+</message>
+  <message offset="14ec">
+Maki: Here they come!{nl}
+Let's do this!{waitkey}{ret}
+</message>
+</scene>

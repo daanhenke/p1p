@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="42">
+  <message offset="1d34">
+{nl}
+
+</message>
+  <message offset="1da8">
+{nl}
+
+</message>
+  <message offset="1dd8">
+Ayase: Hey,{nl}
+{ctl0f:1}!{nl}
+Elly went and{nl}
+took off again!{waitkey}{clearbox}I tried to{nl}
+stop her but she{nl}
+just wouldn't listen!{nl}
+Is there even a way out?{waitkey}{ret}
+</message>
+  <message offset="1e10">
+Ayase: Wait, seriously?!{nl}
+You three — what can{nl}
+three people even do?{waitkey}{ret}
+</message>
+  <message offset="1e58">
+Himeno: Um...{nl}
+I think Yukino is{nl}
+somewhere in school.{waitkey}She said she'd look for{nl}
+something to patch{nl}
+the wall...{waitkey}{ret}
+</message>
+  <message offset="1ea4">
+{color:3}Himeno Yuko.{nl}
+Maki's friend. Works part-{nl}
+time to support her family.{nl}
+A gentle, earnest girl.{color:0}{waitkey}{ret}
+</message>
+  <message offset="1ec0">
+Ayase: Wait, we're sealing{nl}
+this up for real —{nl}
+is it even safe here?{waitkey}Is it really okay to{nl}
+leave it open?{waitkey}{ret}
+</message>
+  <message offset="1ee0">
+Himeno: Um...{nl}
+Please be careful...{waitkey}{ret}
+</message>
+  <message offset="1ef8">
+Ayase: Wait,{nl}
+{ctl0f:1}'s leaving too?{waitkey}{ret}
+</message>
+  <message offset="1f10">
+You're going to take{nl}
+down SEBEC, aren't you?{ctl0e:26}{ret}
+</message>
+  <message offset="1f48">
+Ayase: That's crazy,{nl}
+stop it!{waitkey}{ret}
+</message>
+  <message offset="1f70">
+Ayase: Oh, not that?{nl}
+Well I guess we do{nl}
+need to protect school.{waitkey}{ret}
+</message>
+  <message offset="1f90">
+Maki: Oh!{nl}
+Hey, {ctl07:1}!{nl}
+What's everyone doing?{waitkey}{ret}
+</message>
+  <message offset="1fb8">
+Himeno: Ah...{wait_fr:60} Maki{wait_fr:60} -chan...?{waitkey}{ret}
+</message>
+  <message offset="2000">
+Ayase: Eh?{wait_fr:60} ...Could{nl}
+that be... So...{wait_fr:60}noda?{waitkey}{ret}
+</message>
+  <message offset="203c">
+Maki: Of course it's me —{nl}
+isn't it obvious?{nl}
+It's your idol, Maki!{waitkey}What's up, Yuka?{waitkey}{ret}
+</message>
+  <message offset="2080">
+Ayase: Ahhh! {ctl0f:1}!{nl}
+Something's wrong with her!{nl}
+Sonoda wouldn't be this{nl}
+cheerful!{waitkey}{ret}
+</message>
+  <message offset="20b4">
+Maki: Yuka, what's up?{wait_fr:88}{nl}
+Huh? When did that hole{nl}
+get there? {ctl07:1}'s fault!{waitkey}{ret}
+</message>
+  <message offset="20ec">
+Ayase: See?! Something's{nl}
+off! Weren't you supposed{nl}
+to be in the hospital?!{waitkey}{ret}
+</message>
+  <message offset="2118">
+Maki: Yuka, cut it out —{nl}
+I'll get mad!{nl}
+You want me hospitalized{nl}
+that badly?{waitkey}{ret}
+</message>
+  <message offset="214c">
+Himeno: Um...{nl}
+I think she really is{nl}
+the real Maki-chan...{waitkey}{ret}
+</message>
+  <message offset="2188">
+Ayase: How can you say{nl}
+that?! She must be{nl}
+a demon or something!{waitkey}{ret}
+</message>
+  <message offset="21c4">
+Himeno: Ah... sorry.{nl}
+But Maki-chan has the{nl}
+compact she treasured...{waitkey}{ret}
+</message>
+  <message offset="21ec">
+Maki: Hey Yuka,{nl}
+stop picking on Yuko!{nl}
+But Yuko... you seem{nl}
+different somehow?{waitkey}{ret}
+</message>
+  <message offset="2220">
+Nanjo: {ctl0f:1}!{nl}
+What?! Why is Sonoda here?{waitkey}{ret}
+</message>
+  <message offset="22dc">
+Maki: Oh come on,{nl}
+Nanjo too?! Knock it off!{nl}
+So what's going on?{waitkey}{ret}
+</message>
+  <message offset="2310">
+Nanjo: How rude — I'm{nl}
+perfectly calm!{wait_fr:80}{nl}
+Actually, that idiot Inaba{nl}
+got captured by demons.{waitkey}{clearbox}I went with him to get{nl}
+weapons and this is{nl}
+what happens...{waitkey}{clearbox}I'd normally leave him,{nl}
+but he has that{nl}
+"Security Card."{waitkey}{nl}
+Help me rescue him.{waitkey}{ret}
+</message>
+  <message offset="237c">
+Maki: Inaba got caught{nl}
+by demons?! {ctl07:1}!{nl}
+We have to help him!{waitkey}{ret}
+</message>
+  <message offset="23a8">
+Nanjo: This is a gun.{nl}
+Summoning a Persona{nl}
+drains your strength fast.{waitkey}{clearbox}Inaba wore himself out{nl}
+doing that and got caught.{nl}
+Better safe than sorry —{nl}
+equip it.{waitkey}{ret}
+</message>
+  <message offset="23e0">
+Maki: Persona...?{nl}
+I dunno what that is,{nl}
+but let's go!{waitkey}{ret}
+</message>
+  <message offset="2418">
+Maki: That creepy girl{nl}
+again... Let's get her!{nl}
+{ctl07:1}, let's go!{waitkey}{ret}
+</message>
+</scene>

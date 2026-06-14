@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="3">
+  <message offset="179c">
+Male Student: Oh, you came{nl}
+too, {ctl0f:1}.{waitkey}{clearbox}Look at this! With these, we{nl}
+can stand up to demons{nl}
+whenever they come!!{waitkey}{ret}
+</message>
+  <message offset="17e8">
+Male Student: Huh? The stock{nl}
+here's different from last{nl}
+time. Even more dangerous{nl}
+somehow...{waitkey}{ret}
+</message>
+  <message offset="1820">
+Teacher: Who is that child?!{waitkey}This is a school!! Don't go{nl}
+opening a shop without{nl}
+permission!!{waitkey}{ret}
+</message>
+  <message offset="185c">
+Shopkeeper: Welcome~ Me come{nl}
+from Demon Mountain. Me bring{nl}
+very good things~{waitkey}{clearbox}Mister, you need this. Me{nl}
+give good price. You buy,{nl}
+yes!{waitkey}{ret}
+</message>
+  <message offset="18bc">
+Shopkeeper: Been waiting!{nl}
+Mister, you lucky~{waitkey}{clearbox}Shop close very soon. Last{nl}
+sale — you no buy, you lose!{waitkey}{ret}
+</message>
+  <message offset="1904">
+Yukino: Came from Demon{nl}
+Mountain? Then is that kid{nl}
+a demon too?{waitkey}{ret}
+</message>
+  <message offset="1934">
+Yukino: Making humans and{nl}
+demons fight for profit. What{nl}
+an outrageous kid, honestly!{waitkey}{ret}
+</message>
+  <message offset="196c">
+Ayase: Hey~ is this stuff{nl}
+for real?{waitkey}{ret}
+</message>
+  <message offset="1988">
+Ayase: I wonder what country{nl}
+that kid's from.{waitkey}{ret}
+</message>
+  <message offset="19a4">
+Nanjo: Impressive!! Every one{nl}
+of these looks usable.{waitkey}{ret}
+</message>
+  <message offset="19c8">
+Nanjo: How many times has{nl}
+that kid saved our lives.{waitkey}{clearbox}Even if we're overcharged a{nl}
+bit, we ought to be grateful.{waitkey}{ret}
+</message>
+  <message offset="1a08">
+Brown: Dehya~ What's with this{nl}
+kid, selling dangerous stuff{nl}
+at school?{waitkey}{clearbox}Ah well, no use sweating the{nl}
+small stuff.{waitkey}{ret}
+</message>
+  <message offset="1a4c">
+Brown: Dehyaa~~! Hasn't it{nl}
+gotten even more amazing?{waitkey}{ret}
+</message>
+  <message offset="1a74">
+Elly: That kid is apparently{nl}
+a merchant of death from the{nl}
+Demon world.{waitkey}{ret}
+</message>
+  <message offset="1aa8">
+Elly: Whether we or the Queen{nl}
+wins, I suppose it makes no{nl}
+difference to that child?{waitkey}{ret}
+</message>
+</scene>

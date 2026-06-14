@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="101">
+  <message offset="202c">
+Maki: So Chisato was troubled{nl}
+too. Somehow I feel{nl}
+a lot better now.{waitkey}{ret}
+</message>
+  <message offset="2058">
+Nanjo: To be petrified at{nl}
+such a crucial moment -{nl}
+the blunder of a lifetime!{waitkey}{ret}
+</message>
+  <message offset="2084">
+Nanjo: Back together again,{nl}
+are they? Well, if the two{nl}
+of them are happy, so be it.{waitkey}{ret}
+</message>
+  <message offset="20b4">
+Mark: Were they maybe having{nl}
+some really big talk?{nl}
+Argh, now I'm curious!{waitkey}{ret}
+</message>
+  <message offset="20ec">
+Mark: Don't think I'm{nl}
+happy about this!{waitkey}{clearbox}Sure, she's not the Sonomura{nl}
+from our world, but I'm not{nl}
+so low I'd enjoy watching{nl}
+someone get their heart broke.{waitkey}{ret}
+</message>
+  <message offset="2144">
+Elly: Wasn't Maki in love{nl}
+with Naito, I wonder?{waitkey}{ret}
+</message>
+  <message offset="2174">
+Elly: So there's someone who{nl}
+loves you as you are,{nl}
+with no need to pretend...{waitkey}{ret}
+</message>
+  <message offset="21a8">
+Brown: Kozai, hasn't her vibe{nl}
+changed? How do I put it -{nl}
+she's softened up?{waitkey}{ret}
+</message>
+  <message offset="21dc">
+Brown: I jotted down Naito's{nl}
+lines! Now then, who{nl}
+should I use 'em on~{waitkey}{ret}
+</message>
+  <message offset="220c">
+Ayase: Hey, hey, what{nl}
+happened while Ayase was{nl}
+stuck in stone?!{waitkey}{ret}
+</message>
+  <message offset="223c">
+Ayase: Wh-what is it?!{nl}
+Ayase isn't crying{nl}
+or anything!{waitkey}{ret}
+</message>
+  <message offset="22ac">
+Young Men: Um, excuse me-{nl}
+we'd really like to be{nl}
+turned back, please...{waitkey}{ret}
+</message>
+  <message offset="22e8">
+Naito: I caused you all{nl}
+trouble. This happened{nl}
+'cause I wasn't strong enough.{waitkey}I'm sorry.{waitkey}{ret}
+</message>
+  <message offset="2368">
+Kozai: The real Maki is{nl}
+shut away in a hospital...{waitkey}{clearbox}Maki's suffering, and yet{nl}
+is it all right for{nl}
+only me to find happiness?{waitkey}{ret}
+</message>
+  <message offset="23e4">
+Aki: Hey, come on~!{nl}
+Losing to people like these -{nl}
+you're way too weak!{waitkey}{clearbox}Since you lost, I won't{nl}
+fix your face for you!{wait_fr:48}{waitkey}{clearbox}Though, you know, I never{nl}
+meant to fix it for you{nl}
+in the first place~!{waitkey}{ret}
+</message>
+  <message offset="2410">
+Kozai: Huh, wait a sec...{wait_fr:21}{nl}
+What do you mean?!{waitkey}{ret}
+</message>
+  <message offset="2494">
+Aki: Papa said you're just{nl}
+a 'test subject' and a{nl}
+'throwaway pawn'!{waitkey}{clearbox}Win or lose, he said{nl}
+to just leave you be!{waitkey}{clearbox}So why don't you stay{nl}
+like that forever?{wait_fr:32}{nl}
+See ya, bye-bye!{waitkey}{ret}
+</message>
+  <message offset="24ac">
+Aki: Nomoraka tanomamaa~!{waitkey}{ret}
+</message>
+  <message offset="24e4">
+Kozai: W-wait...!{nl}
+Am I stuck like this{nl}
+forever?!{wait_fr:32} ...No...!!{waitkey}{ret}
+</message>
+  <message offset="2538">
+Maki: Chisato...!{wait_fr:48}{nl}
+Just hold on, we'll catch{nl}
+that girl soon.{waitkey}{clearbox}Then we'll make her put{nl}
+your face back the way{nl}
+it was!{waitkey}{ret}
+</message>
+  <message offset="2578">
+Kozai: Maki...{wait_fr:48}{nl}
+You're lying! Don't talk{nl}
+nonsense!{wait_fr:16} You think{nl}
+I got what I deserved, right?{waitkey}{ret}
+</message>
+  <message offset="25a0">
+Maki: It's not a lie.{nl}
+I love you, Chisato.{waitkey}{ret}
+</message>
+  <message offset="25bc">
+Kozai: You... {wait_fr:48}love me?{waitkey}{ret}
+</message>
+  <message offset="260c">
+Maki: Yeah!{wait_fr:32}{nl}
+You're cheerful, pretty,{nl}
+stylish, and so sure{nl}
+of yourself.{waitkey}{clearbox}I can see why Naito{nl}
+fell for you.{waitkey}{ret}
+</message>
+  <message offset="26f0">
+Kozai: That's a lie! Yosuke{nl}
+surely{wait_fr:48} still loves Maki{nl}
+even now.{wait_fr:69}{nl}
+...Maki, I'm sorry.{waitkey}{clearbox}I was jealous of you, Maki.{nl}
+Being sure of myself -{nl}
+I just made it look{nl}
+that way.{waitkey}{clearbox}The real me can't do{nl}
+anything. Unless I'm always{nl}
+pretty and put-together,{nl}
+no one looks my way.{waitkey}{clearbox}So I envied you so much,{nl}
+Maki - loved by everyone{nl}
+just as you are.{waitkey}{ret}
+</message>
+  <message offset="2700">
+Maki: Chisato...{waitkey}{ret}
+</message>
+  <message offset="2750">
+Kozai: After this, Yosuke's{nl}
+sure to give up on me.{nl}
+Then, Maki, you and{nl}
+Yosuke can finally-{waitkey}{clearbox}...{wait_fr:48}Yosuke...{waitkey}{ret}
+</message>
+  <message offset="27ac">
+Maki: You stubborn thing,{nl}
+Chisato! You really do{nl}
+love Yosuke.{waitkey}{clearbox}But you don't have to{nl}
+worry about me...{wait_fr:48}{nl}
+Because...{waitkey}{ret}
+</message>
+  <message offset="27c0">
+Kozai: Eep, what...?{waitkey}{ret}
+</message>
+  <message offset="2818">
+Naito: Chisato...!!{wait_fr:48}{nl}
+I finally found you!{nl}
+I've been searching all over!{waitkey}{clearbox}...{wait_fr:48}What happened to{nl}
+your face! Are you hurt?!{waitkey}{ret}
+</message>
+  <message offset="2838">
+Kozai: It's not that!{nl}
+Don't look, Yosuke!{waitkey}{ret}
+</message>
+  <message offset="285c">
+Maki: Um, actually,{nl}
+Aki put a curse on her...{waitkey}{ret}
+</message>
+  <message offset="2894">
+Kozai: Maki!{nl}
+You're covering for me?{wait_fr:80}{nl}
+No... {wait_fr:48}it's fine now!{waitkey}{ret}
+</message>
+  <message offset="28f4">
+Kozai: Yosuke, look at this!{nl}
+This is my face now!{waitkey}{clearbox}I did all sorts of awful{nl}
+things, said cruel words{nl}
+to Maki.{wait_fr:48}{nl}
+This is my punishment!{waitkey}{ret}
+</message>
+  <message offset="2908">
+Naito: Chisato...!{waitkey}{ret}
+</message>
+  <message offset="29b8">
+Kozai: I have no right to{nl}
+be loved by you, Yosuke!{waitkey}{clearbox}My personality's awful, and{nl}
+even the face I was proud{nl}
+of has changed...{waitkey}{clearbox}If people saw you with{nl}
+someone like me, you'd{nl}
+be laughed at too, right?{waitkey}{clearbox}So it's fine now.{nl}
+Go to Maki!{nl}
+You always loved her, right?{waitkey}{ret}
+</message>
+  <message offset="2a44">
+Naito: Hey, don't get the{nl}
+wrong idea!{wait_fr:32}{waitkey}It's true I liked Sonomura{nl}
+once, but that's ancient{nl}
+history. Now I love only you,{nl}
+Chisato!{waitkey}{clearbox}...{wait_fr:48}Geez, look what you're{nl}
+making me say. It's{nl}
+embarrassing!{waitkey}Now come on, let's go home!{waitkey}{ret}
+</message>
+  <message offset="2a90">
+Kozai: But...{wait_fr:80}{nl}
+this mole of mine{nl}
+will never come off...{waitkey}Are you sure? Even if your{nl}
+friends laugh at you...{waitkey}{ret}
+</message>
+  <message offset="2b64">
+Naito: That doesn't matter!{nl}
+Let them laugh if they want!{waitkey}{clearbox}You called yourself awful,{nl}
+but I've got my ugly sides{nl}
+too. You don't always{nl}
+have to act prim.{waitkey}{clearbox}Just tell me how you feel{nl}
+honestly, like you did{nl}
+just now. I'm your boyfriend.{waitkey}{clearbox}Whatever you look like,{nl}
+I don't care. Just be{nl}
+yourself. I love you,{nl}
+Chisato!!{waitkey}{ret}
+</message>
+  <message offset="2b78">
+Maki: Ah, the mirror...!{waitkey}{ret}
+</message>
+  <message offset="2ba0">
+Naito: Chisato!{wait_fr:48}{nl}
+Your face{wait_fr:48} - it's back{nl}
+to normal!{waitkey}{ret}
+</message>
+  <message offset="2c10">
+Kozai: You're right!{wait_fr:64}{nl}
+I'm so happy...{wait_fr:80}{nl}
+No, not about my face.{waitkey}{clearbox}I always thought Yosuke{nl}
+really loved Maki{nl}
+deep down...{waitkey}{clearbox}...Thank you...{waitkey}{ret}
+</message>
+  <message offset="2c54">
+Mark: Ahh, that was cramped!{wait_fr:48}{nl}
+Gah, Naito!{wait_fr:48}{nl}
+...Kozai, your mole's{nl}
+gone?{waitkey}{ret}
+</message>
+  <message offset="2c88">
+Nanjo: Hmm...{wait_fr:48}{nl}
+Seems things took a sudden{nl}
+turn while I wasn't looking.{waitkey}{ret}
+</message>
+  <message offset="2cc0">
+Elly: What's happened?{nl}
+Why is Naito here?{waitkey}{ret}
+</message>
+  <message offset="2d00">
+Brown: Huh, Naito!{nl}
+Why are you here?{wait_fr:48}{nl}
+Oh, Kozai's mole's{nl}
+gone too!{waitkey}{ret}
+</message>
+  <message offset="2d44">
+Ayase: Why's Naito here?{wait_fr:48}{nl}
+Oh, Kozai's normal again too!{nl}
+Argh, I don't get it!{waitkey}{ret}
+</message>
+  <message offset="2d6c">
+Reiji: Naito...?{wait_fr:48}{nl}
+So Kozai's back to{nl}
+normal too.{waitkey}{ret}
+</message>
+  <message offset="2dfc">
+Kozai: I'm sorry, Maki.{wait_fr:64}{nl}
+I told a lie.{waitkey}{clearbox}Just like you said,{nl}
+I really do love Yosuke.{waitkey}{clearbox}I wanted you to forgive me,{waitkey}...{wait_fr:48}but I guess you can't{nl}
+anymore. I'd hoped we could{nl}
+be best friends again...{waitkey}{ret}
+</message>
+  <message offset="2e4c">
+Maki: Silly!{nl}
+There's nothing to forgive!{waitkey}{clearbox}Chisato, you're still my{nl}
+best friend.{wait_fr:48} I'm so glad{nl}
+for you, Chisato...!{waitkey}{ret}
+</message>
+  <message offset="2ea0">
+Nanjo: So Aki got away.{waitkey}{clearbox}Kozai, do you know{nl}
+anything about a man{nl}
+named Kandori?{waitkey}{clearbox}He should be acting{nl}
+together with Aki.{waitkey}{ret}
+</message>
+  <message offset="2ee8">
+Kozai: I don't know anyone{nl}
+named Kandori, but...{waitkey}{clearbox}Come to think of it, that{nl}
+girl said she lives{nl}
+in a castle.{waitkey}{ret}
+</message>
+  <message offset="2f04">
+Mark: A castle?{nl}
+What's that about!{waitkey}{ret}
+</message>
+  <message offset="2f44">
+Nanjo: No need to be{nl}
+surprised. Child or not,{nl}
+Aki's power is immense.{waitkey}Building a castle would{nl}
+be easy for her.{waitkey}{ret}
+</message>
+  <message offset="2f68">
+Maki: All right, let's go!{nl}
+Let's find the castle!{waitkey}{ret}
+</message>
+  <message offset="2fa4">
+Naito: Chisato, I forgot{nl}
+to mention - that Sonomura{nl}
+isn't the one we know.{waitkey}{ret}
+</message>
+</scene>

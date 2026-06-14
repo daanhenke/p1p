@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="42">
+  <message offset="140c">
+Yukino: The Night Queen called{nl}
+this ice-encased school the{nl}
+"Ice Castle," didn't she.{waitkey}{clearbox}It's a castle, all right.{nl}
+Storming up it is a real{nl}
+chore.{waitkey}{ret}
+</message>
+  <message offset="1458">
+Ayase: I've never been good{nl}
+with mazes and mirror houses.{waitkey}{clearbox}Augh! So frustrating!!{waitkey}{ret}
+</message>
+  <message offset="1494">
+Nanjo: I'm thinking of working{nl}
+a labyrinth into my home's{nl}
+security, as well.{waitkey}What do you think?{waitkey}{ret}
+</message>
+  <message offset="14cc">
+Brown: Why is this place so{nl}
+huge!!{waitkey}Is there really an end to{nl}
+it...{waitkey}{ret}
+</message>
+  <message offset="1500">
+Elly: There's no turning back{nl}
+now.{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="203">
+  <message offset="1170">
+Night Queen's Voice: Grr...{wait_fr:30}{nl}
+To be beaten by brats{nl}
+like these{wait_fr:30}{nl}
+how vexing...{waitkey}{clearbox}But know this well.{waitkey}{clearbox}So long as the human heart{nl}
+can turn hope into despair,{nl}
+the "Eternal Night" will come{nl}
+again and again...{waitkey}{ret}
+</message>
+  <message offset="1200">
+Masked Girl: No...{wait_fr:30}{nl}
+Why?{wait_fr:30}{nl}
+This is my world, and yet...{waitkey}{ret}
+</message>
+  <message offset="123c">
+Masked Boy: Just as I thought.{nl}
+A hastily borrowed edge{nl}
+won't cut it after all.{waitkey}{clearbox}We'll have to handle{nl}
+things ourselves.{waitkey}{clearbox}{ctl0f:1}{wait_fr:30}, was it?{nl}
+It seems you and I{nl}
+will meet again.{waitkey}{ret}
+</message>
+</scene>

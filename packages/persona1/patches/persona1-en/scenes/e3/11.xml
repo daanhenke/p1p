@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="11">
+  <message offset="1fe8">
+Ms. Natsumi: Is everyone all{nl}
+right? Here now, let me have{nl}
+a look at you{color:3}♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="2024">
+Ms. Natsumi: There, all{nl}
+better. Don't go doing{nl}
+anything reckless!!{waitkey}{ret}
+</message>
+  <message offset="2054">
+Ms. Natsumi: What? Staring at{nl}
+my face like that... don't{nl}
+tell me you've fallen for me?{waitkey}{clearbox}Speaking of falling for{nl}
+someone — Ayase!{waitkey}{ret}
+</message>
+  <message offset="20a0">
+Ms. Natsumi: I hear Yokouchi{nl}
+confessed to you?{waitkey}{clearbox}How on earth did you turn him{nl}
+down! He's been off lately.{waitkey}{clearbox}You've got to put yourself in{nl}
+the other person's shoes when{nl}
+you speak!{waitkey}{ret}
+</message>
+  <message offset="2110">
+Ayase: Impressive! Words from{nl}
+a pro at getting dumped sure{nl}
+carry weight.{waitkey}{ret}
+</message>
+  <message offset="2138">
+Ms. Natsumi: ......{waitkey}Now, back to work, back to{nl}
+work.{waitkey}{clearbox}Is everyone all right? Here{nl}
+now, let me have a look at{nl}
+you{color:3}♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="218c">
+Ms. Natsumi: Sigh~ Isn't{nl}
+there a good man somewhere...{waitkey}{clearbox}......{waitkey}Now, back to work, back to{nl}
+work.{waitkey}{clearbox}Is everyone all right? Here{nl}
+now, let me look at you{color:3}♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="21f8">
+Maki's Mother: To think even{nl}
+the school would end up like{nl}
+this.{waitkey}{ret}
+</message>
+  <message offset="221c">
+Maki's Mother: Maki... please,{nl}
+be safe.{waitkey}{ret}
+</message>
+  <message offset="2240">
+Maki's Mother: If only Maki{nl}
+were a cheerful, driven child{nl}
+like you all...{waitkey}{ret}
+</message>
+  <message offset="2278">
+Maki's Mother: Nanjo left the{nl}
+room just a moment ago.{waitkey}{clearbox}He was saying something about{nl}
+a classroom with a frozen{nl}
+door he couldn't get into.{waitkey}{ret}
+</message>
+  <message offset="22d0">
+Student: Owowow... I fell and{nl}
+bumped my behind.{waitkey}Why is the hallway so{nl}
+slippery!{waitkey}{ret}
+</message>
+  <message offset="2308">
+Student: Something seems to{nl}
+have happened at the{nl}
+cafeteria.{waitkey}{clearbox}If I hadn't fallen and hurt{nl}
+myself, I'd go look too.{nl}
+Owowow...{waitkey}{ret}
+</message>
+  <message offset="2350">
+Student: Hey, did you hear?{waitkey}{clearbox}You know that flea market to{nl}
+the left out of the infirmary{nl}
+that sells cool clothes?{waitkey}{clearbox}Apparently the stock's changed{nl}
+completely.{waitkey}{ret}
+</message>
+  <message offset="23f4">
+Nanjo: I'm worried about{nl}
+Inaba and Sonomura outside{nl}
+the school. We must beat the{nl}
+Snow Queen soon.{waitkey}{ret}
+</message>
+  <message offset="2430">
+Nanjo: Hold on, Inaba,{nl}
+Sonomura. Once we beat the{nl}
+Night Queen, we head straight{nl}
+for SEBEC!{waitkey}{ret}
+</message>
+  <message offset="246c">
+Nanjo: What, do you need{nl}
+something else?{waitkey}{ret}
+</message>
+  <message offset="248c">
+So you need my strength after{nl}
+all?{nl}
+{ctl0e:7}{ret}
+</message>
+  <message offset="24a4">
+Nanjo: Can't be helped.{waitkey}{clearbox}If you insist that much, I{nl}
+suppose I could lend a hand.{waitkey}Going after Sonomura and the{nl}
+rest can come after.{waitkey}{ret}
+</message>
+  <message offset="24ec">
+Nanjo: Can't be helped.{waitkey}{clearbox}If you insist that much, I{nl}
+suppose I could lend a hand.{waitkey}Going after Sonomura can come{nl}
+after.{waitkey}{clearbox}Come to think of it, there{nl}
+was a commotion at the{nl}
+cafeteria. There may be a{nl}
+clue there.{waitkey}{ret}
+</message>
+  <message offset="2564">
+Nanjo: I see.{waitkey}Then I'll go look for a way{nl}
+out of here on my own.{waitkey}{ret}
+</message>
+  <message offset="2590">
+Nanjo: I'll search for a way{nl}
+out on my own. You all go beat{nl}
+the Snow Queen.{waitkey}{ret}
+</message>
+  <message offset="25c8">
+Yukino: I hate doctors, but...{waitkey}{clearbox}When you're hurt or feeling{nl}
+unwell, don't push it — let{nl}
+Ms. Natsumi take a look.{waitkey}{ret}
+</message>
+  <message offset="2614">
+Yukino: Is everyone feeling{nl}
+all right?{waitkey}{ret}
+</message>
+  <message offset="2634">
+Ayase: This is the Agastia{nl}
+thing, right?{waitkey}They say it has mysterious{nl}
+powers.{waitkey}{ret}
+</message>
+  <message offset="266c">
+Ayase: It's chilly here too~{waitkey}I'd really like to say{nl}
+goodbye to the cold already.{waitkey}{ret}
+</message>
+  <message offset="269c">
+Brown: Wonder if they've got{nl}
+a love potion or something.{waitkey}{ret}
+</message>
+  <message offset="26b4">
+Brown: Wonder if they've got{nl}
+medicine that makes you{nl}
+smarter.{waitkey}{ret}
+</message>
+  <message offset="26d4">
+Elly: I'm glad the infirmary{nl}
+didn't disappear.{waitkey}{ret}
+</message>
+  <message offset="26f8">
+Elly: To find Maki, too, we{nl}
+must restore the school soon.{waitkey}{ret}
+</message>
+  <message offset="2728">
+Agastya Tree: Young one...{nl}
+You have come before me.{waitkey}{ret}
+</message>
+  <message offset="2754">
+Shall I inscribe{nl}
+your record within me?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="27ac">
+Agastya Tree: Young one...{nl}
+Go forth with care.{waitkey}{ret}
+</message>
+</scene>

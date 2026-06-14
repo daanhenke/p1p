@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code-patch id="exp-share-even" name="Even EXP split for all party members">
+  <description>Splits each battle's EXP evenly across the party instead of weighting it by how much each member acted - everyone gets the same slice, even those who did nothing.</description>
+  <site file="/BTLP.BIN" anchor="cb 58 00 0c 21 38 e0 02 21 20 40 00 03 5b 00 0c 21 28 60 00" offset="20" width="4" value="873463809"></site>
+</code-patch>

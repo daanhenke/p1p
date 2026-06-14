@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="46">
+  <message offset="1620">
+Nanjo: I've never had penny{nl}
+candy. Yamaoka wouldn't{nl}
+allow it.{waitkey}{ret}
+</message>
+  <message offset="1658">
+Nanjo: That shopkeeper seems{nl}
+to suspect us.{waitkey}But with these strange powers{nl}
+of ours, are we still truly{nl}
+human, I wonder?{waitkey}What do you think?{waitkey}{ret}
+</message>
+  <message offset="16b8">
+Mark: Do kids these days even{nl}
+eat penny candy?{waitkey}{clearbox}Me, I came here every day,{nl}
+drawing raffles and stuff!{waitkey}{ret}
+</message>
+  <message offset="1700">
+Mark: {ctl0f:1}, you've got it{nl}
+easy, so carefree~{waitkey}{ret}
+</message>
+  <message offset="171c">
+Yukino: A shop like this is{nl}
+nice once in a while, but{nl}
+aren't you forgetting we{nl}
+have to go to the hospital?{waitkey}{ret}
+</message>
+  <message offset="1754">
+Yukino: I'm worried about{nl}
+the school too. I just have{nl}
+a bad feeling.{waitkey}{ret}
+</message>
+  <message offset="1780">
+Elly: There are some{nl}
+surprisingly calm people{nl}
+around. I'm impressed.{waitkey}{ret}
+</message>
+  <message offset="17b0">
+Shopkeeper: One bite buys a{nl}
+thousand years; two, ten{nl}
+thousand. The life-extending{nl}
+taste of Sennen-Mannen Hall!{waitkey}Now, how about one?{waitkey}{ret}
+</message>
+  <message offset="17fc">
+Shopkeeper: ...{wait_fr:16}Are you a{nl}
+real human?{wait_fr:32} Well, if you're a{nl}
+customer, you're welcome.{waitkey}{ret}
+</message>
+</scene>

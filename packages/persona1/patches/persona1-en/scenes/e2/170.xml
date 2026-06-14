@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="170">
+  <message offset="13d4">
+Brown: Huh? Back in my world,{nl}
+wasn't that guy the student{nl}
+council president?{waitkey}{ret}
+</message>
+  <message offset="1408">
+Nanjo: A different person{nl}
+became council president? A{nl}
+wise choice.{waitkey}...Though there was no sign{nl}
+an election was held...?{waitkey}{ret}
+</message>
+  <message offset="145c">
+Mark: Heh, serves him right,{nl}
+is what I say!{waitkey}The old council president was{nl}
+all slick talk and apparently{nl}
+never actually did a thing.{waitkey}{ret}
+</message>
+  <message offset="14ac">
+Elly: This is how a student{nl}
+council ought to be.{waitkey}{ret}
+</message>
+  <message offset="14d0">
+Ayase: I didn't like the old{nl}
+council president either. All{nl}
+talk and so full of himself!{waitkey}{ret}
+</message>
+  <message offset="150c">
+Officer: Not making me the{nl}
+president — what are the{nl}
+people at this school{nl}
+thinking?!{waitkey}It was my dream to leave my{nl}
+name in school history as a{nl}
+great council president...!{waitkey}{ret}
+</message>
+  <message offset="1570">
+President: Now that I'm{nl}
+president, I'll make this a{nl}
+fine, hardworking student{nl}
+council!{waitkey}{ret}
+</message>
+  <message offset="15a8">
+Officer: The president's so{nl}
+dedicated, it makes the rest{nl}
+of us want to work hard too.{waitkey}{ret}
+</message>
+  <message offset="15d8">
+Officer: The president looks{nl}
+up to a past council{nl}
+president, apparently.{waitkey}Yamada, or some name like{nl}
+that, I think it was.{waitkey}{ret}
+</message>
+</scene>

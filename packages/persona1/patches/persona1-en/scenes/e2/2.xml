@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="2">
+  <message offset="13d0">
+Nanjo: Kido... Reiji Kido,{nl}
+was it...{waitkey}{nl}
+He seems unremarkable at a{nl}
+glance, but I suspect he{nl}
+does it on purpose.{waitkey}{ret}
+</message>
+  <message offset="1418">
+Mark: That girl's a Reiji{nl}
+fan, apparently...{waitkey}{clearbox}N-not that I'm jealous{nl}
+or anything!{waitkey}{ret}
+</message>
+  <message offset="1454">
+Yukino: No time to waste on{nl}
+this dumb chatter!{nl}
+Let's hurry to the hospital.{waitkey}{ret}
+</message>
+  <message offset="1488">
+Student: Senpai, "Kido" is in{nl}
+your class, right?{waitkey}I never catch him in the room{nl}
+at break or after school. I{nl}
+want to talk to him, but I{nl}
+never get the chance!{waitkey}That mysterious profile is{nl}
+just so dreamy!{wait_fr:48}{nl}
+...is what I mean...{waitkey}{ret}
+</message>
+</scene>

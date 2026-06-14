@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="5">
+  <message offset="11bc">
+Student: Club Pres, we still{nl}
+haven't picked what we're{nl}
+doing for the festival.{waitkey}{ret}
+</message>
+  <message offset="11e8">
+Student: I heard the school{nl}
+used to have a traditional{nl}
+play. Are you doing that?{waitkey}{nl}
+Something about snow...{waitkey}{ret}
+</message>
+  <message offset="1230">
+Club Pres: No! That's{nl}
+forbidden!{wait_fr:80} ...I'll decide{nl}
+on the program soon.{nl}
+Just wait a little longer.{waitkey}{ret}
+</message>
+  <message offset="1270">
+Nanjo: "Something about{nl}
+snow"... You mean{nl}
+"The Snow Queen"?{waitkey}{ret}
+</message>
+  <message offset="129c">
+Mark: Forget the play —{nl}
+let me get up there{nl}
+and dance!{waitkey}{ret}
+</message>
+  <message offset="12c0">
+Yukino: I had no idea this{nl}
+school had a traditional{nl}
+play. News to me.{waitkey}{ret}
+</message>
+  <message offset="12ec">
+Student: One trophy from{nl}
+nine years ago is missing.{nl}
+They won the competition{nl}
+that year, but the trophy...{waitkey}{nl}
+it's just not there.{nl}
+Seriously bugs me.{nl}
+Like, for real.{waitkey}{ret}
+</message>
+  <message offset="134c">
+Student: Wasn't the Club Pres{nl}
+acting a little strange?{nl}
+Why did she get so{nl}
+upset like that?{waitkey}{ret}
+</message>
+  <message offset="1380">
+Club Pres: What, are you{nl}
+here to join? If not,{nl}
+you're in the way.{nl}
+Please leave.{waitkey}{ret}
+</message>
+</scene>

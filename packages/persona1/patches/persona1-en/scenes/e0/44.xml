@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="44">
+  <message offset="1320">
+Maki: So that was a{nl}
+Persona? "Persona"...{nl}
+the power of the mind...{nl}
+another self... huh...{waitkey}{ret}
+</message>
+  <message offset="135c">
+Nanjo: The word comes from{nl}
+the Latin for "mask," the{nl}
+root of "personal."{waitkey}{ret}
+</message>
+  <message offset="1390">
+Maki: So the human mind{nl}
+holds demons and angels{nl}
+both... is that it?{waitkey}{ret}
+</message>
+  <message offset="13c0">
+Nanjo: Poetically speaking.{nl}
+But: an eye for an eye,{nl}
+a tooth for a tooth —{nl}
+fight demons with demons.{waitkey}The how doesn't matter.{nl}
+It works.{waitkey}{ret}
+</message>
+  <message offset="1410">
+Maki: ...I can do it!{nl}
+Let's beat whatever made{nl}
+the demons overflow and{nl}
+take our town back!{waitkey}{ret}
+</message>
+  <message offset="1450">
+Nanjo: Yes. And to do that{nl}
+we need to rescue that{nl}
+idiot first.{nl}
+Let's go, {ctl0f:1}.{waitkey}{ret}
+</message>
+  <message offset="1480">
+Maki: I won't let that{nl}
+girl have her way anymore!{nl}
+Right, {ctl07:1}?{waitkey}{ret}
+</message>
+  <message offset="14b0">
+Nanjo: {ctl0f:1},{nl}
+in a way Kamitori is{nl}
+more dangerous than demons.{waitkey}She's the one staging{nl}
+all this. Don't{nl}
+forget that.{waitkey}{ret}
+</message>
+  <message offset="14fc">
+Maki: {ctl07:1}!{nl}
+Where are you going?{nl}
+We need to rescue Inaba!{waitkey}{ret}
+</message>
+</scene>

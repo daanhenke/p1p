@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="134">
+  <message offset="1408">
+Student: Lucky~!{wait_fr:32} Now I don't{nl}
+have to go to cram school!{waitkey}Ah, but I can't go home{nl}
+either, huh...{waitkey}If there were an exit with no{nl}
+guard, I could slip outside~{waitkey}{ret}
+</message>
+  <message offset="147c">
+Student: That idiot doesn't{nl}
+grasp the gravity of the{nl}
+situation at all!{waitkey}Forget taking entrance exams{nl}
+— our lives might just end{nl}
+right here!{waitkey}{ret}
+</message>
+</scene>

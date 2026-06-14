@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="26">
+  <message offset="14f0">
+Reiji: You really won't{nl}
+let us through?{wait_fr:86}{nl}
+...You'll die.{waitkey}{ret}
+</message>
+  <message offset="1518">
+Man in Black: Don't make{nl}
+me say it again.{nl}
+Beyond here is under{nl}
+SEBEC control.{waitkey}{nl}
+Resist, and you'll{nl}
+be shot.{waitkey}{ret}
+</message>
+  <message offset="1558">
+Mark: That idiot!{nl}
+He's gonna get{nl}
+himself killed!{waitkey}{ret}
+</message>
+  <message offset="1578">
+Mark: Heh heh, sorry 'bout{nl}
+him — he's a little off.{nl}
+C'mon, move it, blockhead.{waitkey}{ret}
+</message>
+  <message offset="15ac">
+Reiji: Tch...{nl}
+You guys again.{waitkey}{ret}
+</message>
+  <message offset="15c4">
+Nanjo: Oh?...{nl}
+Even you help people?{nl}
+Now that truly is{nl}
+a bolt from the blue.{waitkey}{ret}
+</message>
+  <message offset="15f4">
+Mark: Idiot.{nl}
+Even a guy like that's got{nl}
+a mom who'd cry{nl}
+if he died.{waitkey}{ret}
+</message>
+  <message offset="1624">
+Man in Black: You cannot{nl}
+pass this point.{nl}
+This area is{nl}
+off-limits.{waitkey}{ret}
+</message>
+  <message offset="1648">
+Man in Black: This is no{nl}
+place for children.{nl}
+Get somewhere safe.{nl}
+Now.{waitkey}{ret}
+</message>
+  <message offset="1674">
+Mark: Sheesh, that guy...{nl}
+What the heck is{nl}
+going on?{waitkey}{ret}
+</message>
+  <message offset="1698">
+Nanjo: SEBEC...{nl}
+What are you plotting,{nl}
+Kandori?{waitkey}{ret}
+</message>
+  <message offset="16bc">
+Yukino: Doesn't sit right...{nl}
+So they're more than{nl}
+just a company, huh.{waitkey}{ret}
+</message>
+  <message offset="16e4">
+Elly: What on earth?{nl}
+I had heard SEBEC was{nl}
+a first-rate company...{waitkey}{nl}
+They're no different{nl}
+from the Mafia.{waitkey}{ret}
+</message>
+  <message offset="1738">
+Elly: Oh?{nl}
+Isn't that the{nl}
+transfer student?{waitkey}{ret}
+</message>
+  <message offset="1758">
+Mark: Huh?{nl}
+Wait, that's Kido!{nl}
+What's he doing{nl}
+out here?{waitkey}{ret}
+</message>
+  <message offset="1788">
+{color:2}Kido Reiji.{nl}
+A student who transferred{nl}
+here six months ago.{nl}
+Quiet; always acts alone.{color:0}{waitkey}{ret}
+</message>
+  <message offset="17d4">
+Man in Black: Who are you?{nl}
+Beyond this point is{nl}
+under SEBEC control.{nl}
+Entry is prohibited.{waitkey}{ret}
+</message>
+  <message offset="1814">
+Mark: Hey — SEBEC.{nl}
+That's Maki's mom's{nl}
+company, right?{nl}
+What the heck's going on?{waitkey}{ret}
+</message>
+</scene>

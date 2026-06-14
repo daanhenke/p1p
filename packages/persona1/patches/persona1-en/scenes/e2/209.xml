@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="209">
+  <message offset="140c">
+Shopkeeper: Well now~ Things{nl}
+have gotten dire, haven't{nl}
+they~ But I'll still do{nl}
+business~{waitkey}{ret}
+</message>
+  <message offset="1440">
+Townsperson: I get the feeling{nl}
+someone's going around{nl}
+wrecking this town...{waitkey}{ret}
+</message>
+  <message offset="146c">
+Maki: Tadashi's father...{nl}
+I'm sorry.{waitkey}{ret}
+</message>
+  <message offset="148c">
+Mark: It's this same tune{nl}
+every time I come~ It's gonna{nl}
+drive me nuts.{waitkey}{ret}
+</message>
+  <message offset="14b0">
+Nanjo: Heh, I'm used to it{nl}
+now! Trying to brainwash me{nl}
+is a waste of effort.{waitkey}{ret}
+</message>
+  <message offset="14e0">
+Ayase: Kyaa~! These diapers{nl}
+have a froggy pattern! So{nl}
+pretty~~~~{color:3}♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="1518">
+Brown: Hey, hey, you think{nl}
+they've got a love potion or{nl}
+something!{waitkey}{ret}
+</message>
+  <message offset="1538">
+Elly: Don't they have any{nl}
+decent medicine for everyday{nl}
+life?{waitkey}{ret}
+</message>
+  <message offset="155c">
+Elly: I wonder if they have{nl}
+any decent medicine for{nl}
+everyday life.{waitkey}{ret}
+</message>
+  <message offset="1584">
+Reiji: What? Something wrong{nl}
+with me looking at baby{nl}
+goods?{waitkey}{ret}
+</message>
+</scene>

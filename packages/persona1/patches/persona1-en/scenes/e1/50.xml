@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="50">
+  <message offset="1448">
+Yukino: This is... the{nl}
+fencing club room...{nl}
+which mea{wait_fr:30}ns{wait_fr:30}...{waitkey}{ret}
+</message>
+  <message offset="1480">
+Tadashi: T-T-T-T-T-Tamaki-{nl}
+chaaan! I love you!{waitkey}{clearbox}I love you soooo much!!{waitkey}{ret}
+</message>
+  <message offset="14bc">
+Tamaki: Tadashi...{nl}
+I love you...{waitkey}{ret}
+</message>
+  <message offset="14d8">
+Nanjo: These two's dream...{nl}
+In reality they only fought,{waitkey}{clearbox}but I see - a fine example{nl}
+of "the more they quarrel,{nl}
+the closer they are."{waitkey}{ret}
+</message>
+  <message offset="1530">
+Brown: Gah! I'm in total{nl}
+shock!{waitkey}{clearbox}Tamaki actually liked that{nl}
+Tadashi guy?! Somebody{nl}
+tell me it's a dream!!{waitkey}{clearbox}Wait, this IS a dream??{nl}
+Huh? Is this real and{nl}
+that a dream, or...?{waitkey}{ret}
+</message>
+  <message offset="15b4">
+Ayase: No way!{nl}
+So these two really were{nl}
+that kind of couple after all.{waitkey}{ret}
+</message>
+  <message offset="15e8">
+Tadashi: Now,{nl}
+look into my eyes, my honey♥{waitkey}{ret}
+</message>
+  <message offset="160c">
+Tamaki: Mm♥{nl}
+All right, my darling...{waitkey}{ret}
+</message>
+  <message offset="1630">
+Nanjo: I've no intention of{nl}
+speaking ill of these two,{nl}
+but I can't bear to watch...{waitkey}in various senses...{waitkey}{ret}
+</message>
+  <message offset="1678">
+Elly: Th-they look so{nl}
+very happy... It feels{nl}
+almost wrong to{waitkey}call out to them.{waitkey}{ret}
+</message>
+  <message offset="16ac">
+Tadashi: See,{nl}
+you can see yourself{nl}
+in my eyes, right?{waitkey}{clearbox}And in your eyes,{nl}
+I can see myself...{nl}
+Ahh, we are one!{waitkey}{ret}
+</message>
+  <message offset="1704">
+Tamaki: Ahh,{nl}
+Tadashi is there{nl}
+in my eyes♥{waitkey}{clearbox}Ahh, in Tadashi's eyes{nl}
+I can see myself...{nl}
+We've become one!{waitkey}{ret}
+</message>
+  <message offset="1758">
+Yukino: ...............{nl}
+Phew... let's have them{nl}
+continue after they wake.{waitkey}Let's just wake them up.{waitkey}{ret}
+</message>
+  <message offset="1798">
+Yukino: Being in someone{nl}
+else's dream really is{nl}
+uncomfortable, no matter what.{waitkey}{ret}
+</message>
+  <message offset="17c8">
+Ayase: So those two had a{nl}
+flavonoid kind of thing{nl}
+going. So enviable~{waitkey}{ret}
+</message>
+  <message offset="17f8">
+Nanjo: "A 'no, no' can still{nl}
+mean 'yes,'" hm.{nl}
+Curious things, men and women.{waitkey}{ret}
+</message>
+  <message offset="182c">
+Brown: Kuhh...{nl}
+Please! Leave heartbroken,{nl}
+dumped me alone{waitkey}{clearbox}for a while, would you...{nl}
+Ahh... Tamaki...{waitkey}{ret}
+</message>
+  <message offset="1888">
+Elly: Looking at this club{nl}
+room, you'd never imagine this{nl}
+is the "Anti-Dream World."{waitkey}{clearbox}Unthinkable, really.{waitkey}{ret}
+</message>
+  <message offset="18c4">
+Tadashi: Ahh! Ahh!{nl}
+So noisy! And it was just{nl}
+getting good!{waitkey}{clearbox}What a rude person{nl}
+you are!{waitkey}{ret}
+</message>
+  <message offset="1908">
+Pinch Tadashi?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1920">
+Tamaki: How noisy.{nl}
+Interrupt us and I won't{nl}
+forgive you!{waitkey}{ret}
+</message>
+  <message offset="1944">
+Pinch Tamaki?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="195c">
+Tadashi: Uh, huh, huh?{waitkey}{ret}
+</message>
+  <message offset="1970">
+Tamaki: Eh, wh-why?{waitkey}{ret}
+</message>
+  <message offset="1984">
+Tadashi: Could you just{nl}
+leave us be?{waitkey}{ret}
+</message>
+  <message offset="19a8">
+Tamaki: Go away or{nl}
+I'll get angry.{waitkey}{ret}
+</message>
+</scene>

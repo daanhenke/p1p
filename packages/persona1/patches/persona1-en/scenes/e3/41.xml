@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="41">
+  <message offset="14b4">
+!
+</message>
+  <message offset="14d8">
+Hihoko-chan: Hiho!! Fifth{nl}
+floor, here we are~{waitkey}{ret}
+</message>
+  <message offset="14f0">
+Heeho-kun: Heeho!{waitkey}{ret}
+</message>
+  <message offset="151c">
+Shall I take you to the{nl}
+floor below?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="154c">
+Heeho-kun: Heeho! Okay then,{nl}
+close your eyes for just a{nl}
+moment...{waitkey}{ret}
+</message>
+  <message offset="155c">
+Hihoko-chan: Tch.{waitkey}{ret}
+</message>
+  <message offset="157c">
+Yukino: What kind of trick{nl}
+did they pull, these snowmen?{waitkey}{ret}
+</message>
+  <message offset="1598">
+Ayase: Whoa~ kinda creepy...{waitkey}{ret}
+</message>
+  <message offset="15cc">
+Nanjo: It's gone wooden. Did{nl}
+the Night Queen haggle down{nl}
+the castle's construction{nl}
+costs?{waitkey}{ret}
+</message>
+  <message offset="15f0">
+Brown: Give me a break~ It's{nl}
+even colder in here.{waitkey}{ret}
+</message>
+</scene>

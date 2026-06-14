@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="106">
+  <message offset="118c">
+Yukino: Not that it matters,{nl}
+but the chests in this tower{nl}
+sure have an odd shape.{waitkey}{ret}
+</message>
+  <message offset="11bc">
+Ayase: Somehow Ayase's gotten{nl}
+hungry. Aren't there any{nl}
+chests with food in them?{waitkey}
+</message>
+  <message offset="11f0">
+Nanjo: Medicines and items{nl}
+only have meaning when used.{nl}
+We mustn't let them go to{waitkey}waste.
+</message>
+  <message offset="1230">
+{ret}
+</message>
+  <message offset="1298">
+Brown: No matter how much{nl}
+time we've got, it's never{nl}
+enough, really.{waitkey}{clearbox}Even as we stand here, that{nl}
+"Eternal Night" or whatever{nl}
+might
+</message>
+</scene>

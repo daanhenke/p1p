@@ -1,0 +1,34 @@
+{
+  "name": "persona1",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Megami Ibunroku Persona (US/JP): build profile, all format codecs (text, script VM, datatypes), authored patches, and the persona1 CLI binary. Depends on @p1p/cli to ship app + patch sets.",
+  "exports": { ".": "./src/index.ts" },
+  "bin": { "persona1": "./src/cli.ts" },
+  "scripts": {
+    "build": "tsc -b",
+    "persona1": "tsx src/cli.ts",
+    "wizard:packs": "tsx wizard/scripts/compilePacks.ts",
+    "wizard:dev": "pnpm wizard:packs && vite --config wizard/vite.config.ts",
+    "wizard:build": "pnpm wizard:packs && vite build --config wizard/vite.config.ts",
+    "wizard:typecheck": "vue-tsc --noEmit -p wizard/tsconfig.json"
+  },
+  "dependencies": {
+    "@p1p/core": "workspace:*",
+    "@p1p/atlus": "workspace:*",
+    "@p1p/ps1": "workspace:*",
+    "@p1p/cli": "workspace:*",
+    "@p1p/wizard": "workspace:*"
+  },
+  "devDependencies": {
+    "98.css": "^0.1.21",
+    "7.css": "^0.21.1",
+    "xp.css": "^0.2.6",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "tsx": "^4.19.2",
+    "vite": "^6.4.3",
+    "vue": "^3.5.35",
+    "vue-tsc": "^2.2.12"
+  }
+}

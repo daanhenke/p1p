@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patch id="exp-share-even" version="0.1.0" game="persona1" priority="10">
+  <name>Even EXP split for all party members</name>
+  <description>Splits each battle's EXP evenly across the party instead of weighting it by how much each member acted - everyone gets the same slice, even those who did nothing.</description>
+</patch>

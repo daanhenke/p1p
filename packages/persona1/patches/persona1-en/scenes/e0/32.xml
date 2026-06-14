@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="32">
+  <message offset="15a4">
+
+</message>
+  <message offset="15dc">
+Elly: We need to get{nl}
+Maki's mom...{nl}
+She should still be{nl}
+at the shrine.{waitkey}{ret}
+</message>
+  <message offset="1618">
+Elly: I'm Eri Kirishima.{nl}
+I have someone injured.{nl}
+Please open the gate.{waitkey}{ret}
+</message>
+  <message offset="164c">
+Guard: No way! You can't{nl}
+get in without{nl}
+the password!{waitkey}{ret}
+</message>
+  <message offset="1690">
+Elly: ...{wait_fr:16}I know.{nl}
+"Walls have ears —{nl}
+I am Mary."...{wait_fr:32}{nl}
+Will that do?{waitkey}{ret}
+</message>
+  <message offset="16a4">
+Guard: OK, go on through!{waitkey}{ret}
+</message>
+  <message offset="16ec">
+Guard: There's no way!{nl}
+Nobody's getting in!{waitkey}What if you're demons?!{waitkey}{ret}
+</message>
+  <message offset="1710">
+Elly: The shrine is just{nl}
+nearby — let's hurry!{waitkey}{ret}
+</message>
+  <message offset="1738">
+Yukino: {ctl0f:1},{nl}
+you're going to leave{nl}
+Sonoda's mom alone?{waitkey}{ret}
+</message>
+  <message offset="1758">
+Mark: Doesn't look like{nl}
+they're letting{nl}
+anyone through.{waitkey}{ret}
+</message>
+  <message offset="1794">
+Nanjo: {ctl0f:1},{nl}
+Sonoda's mother worked{nl}
+at SEBEC, right?{waitkey}Something smells off.{waitkey}{ret}
+</message>
+</scene>

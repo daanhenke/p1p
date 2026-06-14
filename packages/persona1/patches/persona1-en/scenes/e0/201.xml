@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="201">
+  <message offset="1538">
+Maki: I finally found you!{nl}
+The real me!{waitkey}{ret}
+</message>
+  <message offset="155c">
+Maki: ......{waitkey}{ret}
+</message>
+  <message offset="156c">
+Maki: Wait!{nl}
+Where do you think you're{nl}
+running? There's nowhere left!{waitkey}{ret}
+</message>
+  <message offset="15a8">
+Maki: ......{wait_fr:88}{nl}
+Those countless bubbles are{nl}
+the minds of many people...{waitkey}{clearbox}A human mind is nothing{nl}
+but a fragile bubble{nl}
+born from this sea...{waitkey}{clearbox}I was a mind that was{nl}
+never meant to be born...{waitkey}Had you been born from{nl}
+the start, my life would{nl}
+have been so different...{waitkey}{ret}
+</message>
+  <message offset="165c">
+Maki: Stop it!!{nl}
+I don't want to hear{nl}
+such words from your mouth!!{waitkey}{clearbox}Did you ever try to change{nl}
+yourself? What have you{nl}
+even done? Just cried in bed!?{waitkey}{clearbox}I want to change, like you!{wait_fr:88}{nl}
+Inaba, Nanjo, Kido...{nl}
+and {ctl07:1}...{waitkey}{clearbox}Don't you see, watching them?{nl}
+There's nothing you can't do.{waitkey}It's your own heart{nl}
+that's ruining everything!{waitkey}{ret}
+</message>
+  <message offset="1748">
+Maki: Stop it!!{nl}
+I don't want to hear{nl}
+such words from your mouth!!{waitkey}{clearbox}Did you ever try to change{nl}
+yourself? What have you{nl}
+even done? Just cried in bed!?{waitkey}{clearbox}I want to change, like you!{wait_fr:88}{nl}
+Inaba, Nanjo, Elly...{nl}
+and {ctl07:1}...{waitkey}{clearbox}Don't you see, watching them?{nl}
+There's nothing you can't do.{waitkey}It's your own heart{nl}
+that's ruining everything!{waitkey}{ret}
+</message>
+  <message offset="1834">
+Maki: Stop it!!{nl}
+I don't want to hear{nl}
+such words from your mouth!!{waitkey}{clearbox}Did you ever try to change{nl}
+yourself? What have you{nl}
+even done? Just cried in bed!?{waitkey}{clearbox}I want to change, like you!{wait_fr:88}{nl}
+Inaba, Nanjo, Uesugi...{nl}
+and {ctl07:1}...{waitkey}{clearbox}Don't you see, watching them?{nl}
+There's nothing you can't do.{waitkey}It's your own heart{nl}
+that's ruining everything!{waitkey}{ret}
+</message>
+  <message offset="1920">
+Maki: Stop it!!{nl}
+I don't want to hear{nl}
+such words from your mouth!!{waitkey}{clearbox}Did you ever try to change{nl}
+yourself? What have you{nl}
+even done? Just cried in bed!?{waitkey}{clearbox}I want to change, like you!{wait_fr:88}{nl}
+Inaba, Nanjo, Yuka...{nl}
+and {ctl07:1}...{waitkey}{clearbox}Don't you see, watching them?{nl}
+There's nothing you can't do.{waitkey}It's your own heart{nl}
+that's ruining everything!{waitkey}{ret}
+</message>
+  <message offset="1a0c">
+Maki: ......{waitkey}{ret}
+</message>
+  <message offset="1a1c">
+Maki: I won't run anymore...{nl}
+I'll settle my own{nl}
+account myself!{waitkey}{ret}
+</message>
+  <message offset="1a50">
+Maki: ......{wait_fr:88}{nl}
+Take this...{waitkey}It'll let you enter the{nl}
+Avidya World, where{nl}
+Pandora is.{waitkey}{clearbox}I...{wait_fr:88} of all people,{nl}
+I didn't want {ctl07:1}{nl}
+to see me like this...{waitkey}{ret}
+</message>
+  <message offset="1ac0">
+Maki: I wonder if I said{nl}
+that right...{nl}
+But{waitkey}all I can do now is{nl}
+believe in myself...{nl}
+Let's get back to everyone!{waitkey}{ret}
+</message>
+  <message offset="1b08">
+Obtained the{nl}
+"Blue Compact"!{waitkey}{ret}
+</message>
+</scene>

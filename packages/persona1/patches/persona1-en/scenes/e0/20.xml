@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="20">
+  <message offset="1610">
+{nl}
+
+</message>
+  <message offset="164c">
+Doctor: Well, I'll be off...{nl}
+Make sure you get{nl}
+some fresh air sometimes.{nl}
+Rehab is important.{waitkey}{ret}
+</message>
+  <message offset="1678">
+Nurse: That's right, Maki.{nl}
+Let's go for a little{nl}
+walk tomorrow.{waitkey}{ret}
+</message>
+  <message offset="1688">
+Maki: ........{waitkey}{ret}
+</message>
+  <message offset="16d4">
+{color:3}Sonohara Maki{nl}
+A classmate hospitalized{nl}
+for nearly a year.{nl}
+Has been ill since childhood.{color:0}{waitkey}{ret}
+</message>
+  <message offset="1704">
+Doctor: Hmm?{nl}
+Looks like the best{nl}
+medicine just arrived.{nl}
+We'll take our leave.{waitkey}{ret}
+</message>
+  <message offset="1744">
+Maki: {ctl0f:1}...{nl}
+You all came...{nl}
+thank you.{waitkey}{nl}
+Inaba, you arranged this,{nl}
+didn't you?{waitkey}{ret}
+</message>
+  <message offset="1758">
+Nanjo: What do you mean?{waitkey}{ret}
+</message>
+  <message offset="1798">
+Maki: The last time Inaba{nl}
+visited, I said I wanted{nl}
+to see everyone...{wait_fr:94}{nl}
+Wasn't that why?{waitkey}{ret}
+</message>
+  <message offset="17bc">
+Yukino: ...It sure was.{nl}
+{wait_fr:88}How are you doing?{waitkey}{ret}
+</message>
+  <message offset="17fc">
+Yukino: ...It sure was.{nl}
+{wait_fr:88}Oh, and Himeno's{nl}
+coming to return a book —{nl}
+"The Gate of Paradise."{waitkey}{ret}
+</message>
+  <message offset="1828">
+Maki: I see... she didn't{nl}
+have to bother.{nl}
+I've read it so many{nl}
+times I know it by heart.{waitkey}{ret}
+</message>
+  <message offset="1854">
+Yukino: Got it, I'll{nl}
+let her know.{wait_fr:88}{nl}
+But more importantly —{nl}
+how are you doing?{waitkey}{ret}
+</message>
+  <message offset="18b4">
+Maki: Better than before,{nl}
+actually. Maybe because{nl}
+I've been having nice{nl}
+dreams lately...{waitkey}{clearbox}I can't remember them{nl}
+well, but there's this very{nl}
+gentle man in them...{nl}
+Like a father figure...{waitkey}{ret}
+</message>
+  <message offset="18dc">
+Yukino: Like that doctor?{nl}
+He seems like a good one.{waitkey}{ret}
+</message>
+  <message offset="18f8">
+Maki: ...{wait_fr:48}I don't like him.{waitkey}{ret}
+</message>
+  <message offset="1910">
+Mark: Did he do something!?{waitkey}{ret}
+</message>
+  <message offset="1938">
+Maki: It's not that...{nl}
+I just don't like{nl}
+doctors.{waitkey}{ret}
+</message>
+  <message offset="1970">
+Mark: Well, forget about{nl}
+that for now!{nl}
+So — what about{nl}
+your mom?{waitkey}{ret}
+</message>
+  <message offset="19b4">
+Maki: She's not my mom!{nl}
+She cares more about{nl}
+her job than me!{wait_fr:94}{nl}
+I don't matter to her...{waitkey}{ret}
+</message>
+  <message offset="19c8">
+Mark: Oh... my bad...{waitkey}{ret}
+</message>
+  <message offset="19e8">
+Maki: Ah... I'm sorry...{nl}
+{wait_fr:94}Huh?{waitkey}{ret}
+</message>
+  <message offset="1a04">
+Maki: N-{wait_fr:60}NOOOOOO!{waitkey}{ret}
+</message>
+  <message offset="1a24">
+Mark: What's wrong!Sonohara!{nl}
+Hey!{waitkey}{ret}
+</message>
+  <message offset="1a3c">
+Yukino: This is bad!{nl}
+Get a doctor!{waitkey}{ret}
+</message>
+  <message offset="1a4c">
+Nanjo: ...Yamaoka.{waitkey}{ret}
+</message>
+  <message offset="1a84">
+Mark: This place...{nl}
+smells like Sonohara...{nl}
+{wait_fr:88}Sonohara... I'm gonna{nl}
+find you, I swear.{waitkey}{ret}
+</message>
+  <message offset="1abc">
+Yukino: I'm worried about{nl}
+Sonohara, but... let's{nl}
+get out to the streets.{nl}
+Something feels wrong.{waitkey}{ret}
+</message>
+  <message offset="1af0">
+Yukino: {ctl0f:1}{nl}
+What about Sonohara's{nl}
+mother? We'd better hurry{nl}
+or it'll be too late.{waitkey}{ret}
+</message>
+  <message offset="1b24">
+Elly: ...{nl}
+Is this Maki's room?{nl}
+It feels... so lonely.{waitkey}{ret}
+</message>
+</scene>

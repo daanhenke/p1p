@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="172">
+  <message offset="16f8">
+Principal Oishi: Oh, {ctl0f:1}.{waitkey}...{wait_fr:32}Did something happen?{nl}
+Don't tell me the girl in{nl}
+black appeared again?!{waitkey}{ret}
+</message>
+  <message offset="1748">
+Nanjo: No, that's not it,{nl}
+Principal. But this girl in{nl}
+black...?{waitkey}{ret}
+</message>
+  <message offset="1778">
+Vice Principal Hannya: News{nl}
+to you, Nanjo? Lately a girl{nl}
+in black's been showing up{nl}
+at this school...{waitkey}And they say she commands{nl}
+demons.{waitkey}{ret}
+</message>
+  <message offset="17d4">
+Elly: Demons here too...?{waitkey}{ret}
+</message>
+  <message offset="17f4">
+Brown: Demons here too...?{waitkey}{ret}
+</message>
+  <message offset="1810">
+Ayase: Demons here too...?{waitkey}{ret}
+</message>
+  <message offset="1828">
+Mark: Demons here too...?{waitkey}{ret}
+</message>
+  <message offset="1840">
+Vice Principal Hannya: But{nl}
+there's no need to worry.{waitkey}{clearbox}Principal Oishi and I will{nl}
+protect you students, you'll{nl}
+see!{waitkey}{ret}
+</message>
+  <message offset="1888">
+Mark: Wh-what's with that?{nl}
+Creeps me out!{waitkey}{clearbox}Why's old Hannya being so{nl}
+nice?! A-anyway, let's get{nl}
+out of here!{waitkey}{ret}
+</message>
+  <message offset="18dc">
+Principal Oishi: {ctl0f:1} and{nl}
+all of you! You're safe...{waitkey}{ret}
+</message>
+  <message offset="1900">
+Vice Principal Hannya: Oh,{nl}
+thank goodness...{waitkey}But what in the world was{nl}
+that? The whole school seemed{nl}
+to fall into utter chaos...{waitkey}{ret}
+</message>
+  <message offset="1950">
+Maki: It's okay, teacher!{nl}
+We'll protect you!{waitkey}{ret}
+</message>
+  <message offset="1980">
+Vice Principal Hannya: Did you{nl}
+hear that, Principal? What{nl}
+compassion...{waitkey}{clearbox}Principal, this too is the{nl}
+fruit of your wonderful{nl}
+education!{waitkey}{ret}
+</message>
+  <message offset="19d4">
+Principal Oishi: No, no, Vice{nl}
+Principal. It's thanks to{nl}
+your guidance!{waitkey}{ret}
+</message>
+  <message offset="1a04">
+Nanjo: ...{wait_fr:48}I can't deal with{nl}
+this. {ctl0f:1}, let's go!{waitkey}{ret}
+</message>
+  <message offset="1a2c">
+{color:3}Principal Oishi{nl}
+The principal of St. Hermelin{nl}
+Academy. A woman who loves{nl}
+children and flowers.{color:0}{waitkey}{ret}
+</message>
+  <message offset="1a70">
+{color:2}Vice Principal Hannya{nl}
+Known as "Hannya." His strict{nl}
+discipline should make him{nl}
+disliked by students, but...{color:0}{waitkey}{ret}
+</message>
+</scene>

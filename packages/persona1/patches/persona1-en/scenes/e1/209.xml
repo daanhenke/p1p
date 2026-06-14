@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="209">
+  <message offset="1a74">
+
+</message>
+  <message offset="1a8c">
+Ayase: Did we...{wait_fr:30}win?{waitkey}{ret}
+</message>
+  <message offset="1aa4">
+Yukino: Where's Ms. Saeko!?{waitkey}{ret}
+</message>
+  <message offset="1ac0">
+Voice: Hmhmhm...{waitkey}{nl}
+Ahahaha...{waitkey}{ret}
+</message>
+  <message offset="1ad8">
+Ayase: Wh-{wait_fr:30}who's there!?{waitkey}{ret}
+</message>
+  <message offset="1bd8">
+Queen: Your symbol of hope,{nl}
+Saeko,{wait_fr:30} has been sacrificed,{nl}
+along with Tomomi.{waitkey}{clearbox}I am the Persona that{nl}
+dwelt within Tomomi{wait_fr:30}{nl}
+the Night Queen.{waitkey}For this, I thank you.{waitkey}{clearbox}Free of my host Tomomi,{nl}
+free of the vessel mask,{nl}
+I'm finally free.{waitkey}{clearbox}The "Eternal Night" has come,{nl}
+and now I shall be complete.{waitkey}{clearbox}In nothingness and despair,{nl}
+in white and black, I'll{nl}
+blanket this whole world.{waitkey}{nl}
+Ahahahahahahaha{waitkey}{ret}
+</message>
+  <message offset="1bec">
+Yukino: What did you say!?{waitkey}{ret}
+</message>
+  <message offset="1c68">
+Night Queen: You fools.{waitkey}Behold with your own eyes{nl}
+the coming of the{nl}
+"Eternal Night."{waitkey}{clearbox}From this Ice Castle,{nl}
+from the castle's peak,
+</message>
+</scene>

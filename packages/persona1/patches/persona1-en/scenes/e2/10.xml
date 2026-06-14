@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="10">
+  <message offset="1498">
+Nanjo: We'll all be exam{nl}
+students soon enough.{waitkey}I, of course, intend to pass{nl}
+into my first-choice school{nl}
+at the top of the class.{waitkey}{ret}
+</message>
+  <message offset="14e8">
+Mark: Hey, let's just hurry{nl}
+up and get to the hospital.{nl}
+No detours allowed, y'know.{waitkey}{ret}
+</message>
+  <message offset="151c">
+Yukino: You thinking about{nl}
+your future at all? Me, I'm{nl}
+not planning to take any{nl}
+entrance exams, though.{waitkey}{ret}
+</message>
+  <message offset="1550">
+Student: I don't wanna go to{nl}
+cram school~ I just wanna{nl}
+sleep at home all day~{waitkey}{ret}
+</message>
+  <message offset="157c">
+Student: No way, you gotta{nl}
+study. Let's meet up{wait_fr:21}, 'kay?{nl}
+The subway ticket gate?{waitkey}{ret}
+</message>
+  <message offset="15c0">
+Student: The subway...{wait_fr:21} you go{nl}
+north through Sun Mall, then{nl}
+straight right, right?{waitkey}{ret}
+</message>
+  <message offset="15fc">
+Student: They say the{nl}
+"Persona Game" lets you see{nl}
+what you'll look like in{nl}
+the future.{waitkey}Maybe I'll try it and take a{nl}
+peek at my future self too~{waitkey}Wonder if I'll really be a{nl}
+college student by this time{nl}
+next year...{waitkey}{ret}
+</message>
+  <message offset="1678">
+Student: Ugh, how pathetic!{nl}
+If you've got time for the{nl}
+"Persona Game," you should{nl}
+be studying!{waitkey}We promised we'd go to the{nl}
+same college together...{wait_fr:32}{nl}
+Idiot!{waitkey}{ret}
+</message>
+</scene>

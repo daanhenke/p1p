@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="21">
+  <message offset="1370">
+
+</message>
+  <message offset="1388">
+Yukino: I hope Sonoda's{nl}
+alright...{waitkey}{ret}
+</message>
+  <message offset="13a0">
+Mark: ...{wait_fr:80}Dammit!{waitkey}{ret}
+</message>
+  <message offset="13bc">
+Yukino: Wh-what!?{nl}
+An earthquake!?{waitkey}{ret}
+</message>
+  <message offset="13d0">
+Mark: Whoa!? That's huge!{waitkey}{ret}
+</message>
+  <message offset="13e8">
+Nanjo: ...It seems to have{nl}
+settled.{waitkey}{ret}
+</message>
+  <message offset="1418">
+Mark: Sonoda!{nl}
+Wh-what the hell!?{nl}
+H-her room's gone!?{waitkey}{ret}
+</message>
+  <message offset="144c">
+Nanjo: What!?{nl}
+What's the meaning of this!{nl}
+That was definitely the ICU!{waitkey}{ret}
+</message>
+  <message offset="1464">
+Woman's voice: Aaahh!!{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="83">
+  <message offset="15a8">
+Yukino: What the heck?!{nl}
+This chest?{waitkey}{clearbox}Is she making fun{nl}
+of us?{waitkey}{ret}
+</message>
+  <message offset="15e0">
+Nanjo: This is Michiko we're{nl}
+talking about. She'd pull{nl}
+something this pointless{waitkey}{clearbox}and snide. Still... the path{nl}
+from the torture room to this{nl}
+room... was grueling...{waitkey}{ret}
+</message>
+  <message offset="1648">
+Elly: Is this the chest with{nl}
+the "Mirror Shard" that{nl}
+Michiko mentioned?{waitkey}{clearbox}Still... the path from the{nl}
+torture room to this room...{nl}
+was Very hard...{waitkey}{ret}
+</message>
+  <message offset="16cc">
+Ayase: Ugh, I'm dying!{nl}
+I don't wanna move!{nl}
+Whose idea was this?{waitkey}{clearbox}Who said "let's go get{nl}
+the Mirror Shard"??{waitkey}{clearbox}If that shard's not in this{nl}
+box, Ayase and friends are{nl}
+worn out for nothing!{waitkey}Boo! Boooo!!{waitkey}{ret}
+</message>
+  <message offset="1770">
+Nanjo: Still, it's a clearly{nl}
+suspicious-looking chest.{nl}
+Who'll open it?{waitkey}{clearbox}The odds of a trap{nl}
+are enormous.{waitkey}{ret}
+</message>
+  <message offset="17b0">
+Brown: Doesn't this thing{nl}
+reek of a trap? Any way{nl}
+you look at it?{waitkey}{clearbox}Who's gonna open it?{nl}
+I'm the introverted type,{nl}
+not the sort to stand{waitkey}out front, so I'll pass.{waitkey}{ret}
+</message>
+  <message offset="181c">
+Yukino: No use grumbling{nl}
+about it! Let's just open it!!{waitkey}{ret}
+</message>
+  <message offset="184c">
+Yukino: No time limit or not,{nl}
+we've taken a bit{nl}
+too long.{waitkey}{ret}
+</message>
+  <message offset="1878">
+Ayase: I'm done!!{nl}
+I'm tired!{nl}
+I'm resting!!{waitkey}{ret}
+</message>
+  <message offset="18a0">
+Nanjo: Even I am fed up{nl}
+with this tower's{nl}
+nastiness.{waitkey}{clearbox}It's just like Michiko's{nl}
+very character.{waitkey}{ret}
+</message>
+  <message offset="18e4">
+Brown: Fugah!{nl}
+I'm beat!{waitkey}{clearbox}Thinking we gotta go all{nl}
+the way back to that torture{nl}
+room gives me the chills!{waitkey}{ret}
+</message>
+  <message offset="1934">
+Elly: So... Hard...{nl}
+Shall we take a little rest?{waitkey}{clearbox}Even I'm tired now.{waitkey}{ret}
+</message>
+  <message offset="1970">
+Obtained a "Mirror Shard"!{waitkey}{clearbox}...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...{nl}
+There's something like{nl}
+a paper in the corner{nl}
+of the box.{waitkey}{clearbox}...A letter from Michiko,{nl}
+it seems.{waitkey}{clearbox}You opened the letter.{waitkey}{ret}
+</message>
+  <message offset="1a14">
+"Ohohohohoho! To actually{nl}
+reach this chest - what{nl}
+greedy people you are!{waitkey}{clearbox}It must have been quite the{nl}
+ordeal. Ohohohohoho!{nl}
+Well? Was what you sought{waitkey}inside?{waitkey}{clearbox}Unlike you humans, I{nl}
+don't tell lies!{waitkey}{clearbox}So as promised, I'll tell you{nl}
+Michiko's weakness, clear{nl}
+as can be!{waitkey}{clearbox}I-{wait_fr:30}t-{wait_fr:30}'s-{wait_fr:30} this♥{wait_fr:30}{nl}
+Don't take too much time!{waitkey}{clearbox}Ohohohoho! Hurry to me!{nl}
+I'll be waiting, dearie♥{waitkey}{clearbox}Well? Was that helpful?{nl}
+Now then, good day."{nl}
+    From Michiko{waitkey}     For You{waitkey}{ret}
+</message>
+  <message offset="1ba4">
+The chest is empty now.{waitkey}{ret}
+</message>
+</scene>

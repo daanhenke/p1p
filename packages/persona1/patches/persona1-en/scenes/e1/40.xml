@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="40">
+  <message offset="1374">
+Yukino: What? Where's this?{waitkey}{ret}
+</message>
+  <message offset="1388">
+Nanjo: Ngh. The drowsiness{nl}
+seems to press in with{nl}
+a physical force.{waitkey}{ret}
+</message>
+  <message offset="13b4">
+Brown: Hm, hmm?{nl}
+I see! So this is the{nl}
+boss room?!{waitkey}{clearbox}Everyone, don't let your{nl}
+guard down! ...or whatever.{waitkey}{ret}
+</message>
+  <message offset="13fc">
+Ayase: Hey hey, there's a{nl}
+super weird door in the{nl}
+back~ Shall we go in?{waitkey}{ret}
+</message>
+  <message offset="142c">
+Nanjo: A clearly suspicious{nl}
+door. Best not approach it{nl}
+carelessly.{waitkey}{clearbox}But standing here thinking{nl}
+only wastes time...{nl}
+Now, what to do?{waitkey}{ret}
+</message>
+  <message offset="1490">
+Elly: It is a suspicious{nl}
+door, but I sense no{nl}
+evil presence from it.{waitkey}{clearbox}As Ayase says, going in{nl}
+might be one option.{waitkey}{ret}
+</message>
+  <message offset="14e8">
+Yukino: Alright! No use{nl}
+dawdling around here.{nl}
+Let's take a peek!!{waitkey}{ret}
+</message>
+  <message offset="1524">
+???: Hahaha!{nl}
+Spirited as ever,{nl}
+aren't you, children.{waitkey}{ret}
+</message>
+  <message offset="1550">
+A sweet wind blows in{nl}
+from beyond the door.{waitkey}{ret}
+</message>
+  <message offset="1570">
+Go to the dream world?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1588">
+Yukino: I don't much like{nl}
+peering into other people's{nl}
+dreams. Feels like spying.{waitkey}{ret}
+</message>
+  <message offset="15bc">
+Ayase: When Ayase dreams,{nl}
+does she come to this{nl}
+dream world too, I wonder?{waitkey}{ret}
+</message>
+  <message offset="15e8">
+Nanjo: We've no business{nl}
+here. Let's hurry on.{waitkey}{ret}
+</message>
+  <message offset="1608">
+Brown: Other people's dreams{nl}
+are intriguing and fun,{nl}
+y'know. Kekeke...{waitkey}{ret}
+</message>
+  <message offset="1638">
+Elly: ...The dream world.{nl}
+Elly in{nl}
+Dreamland.{waitkey}{clearbox}"Elly in Wonderland,"{nl}
+so to speak.{nl}
+Heehee...{waitkey}{ret}
+</message>
+</scene>

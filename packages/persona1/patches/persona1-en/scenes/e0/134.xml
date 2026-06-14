@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="134">
+  <message offset="1a98">
+Mark: Wh-what is that...{nl}
+No way... that's{nl}
+our city...!{waitkey}{ret}
+</message>
+  <message offset="1ac0">
+Kandori: Yes, your city.{nl}
+It is my new{nl}
+residence now...{waitkey}{clearbox}I think I'll call it{nl}
+'Deva Yuga.'{waitkey}{nl}
+A name fit to herald{nl}
+a shining new age...{waitkey}{ret}
+</message>
+  <message offset="1b34">
+Elly: Oh my God...{waitkey}{ret}
+</message>
+  <message offset="1b50">
+Brown: G-gulp...{nl}
+The city just{nl}
+vanished...{waitkey}{ret}
+</message>
+  <message offset="1b74">
+Ayase: No way...{nl}
+Everyone who was there...{nl}
+they all just died?{waitkey}{ret}
+</message>
+  <message offset="1ba0">
+Reiji: Ngh...{wait_fr:60}{nl}
+You...{waitkey}{ret}
+</message>
+  <message offset="1bbc">
+Nanjo: Kandori, you...{waitkey}{ret}
+</message>
+  <message offset="1bd4">
+Maki: ...How awful.{waitkey}{ret}
+</message>
+  <message offset="1be4">
+Kandori: Hmhm...{wait_fr:79}Ha-hahha!{nl}
+This 'Mirror of Chaos' is{nl}
+exactly what I sought!!{waitkey}{clearbox}Magnificent...{nl}
+Unlike that puny compact,{nl}
+its power is plain to see!{waitkey}{clearbox}Without the Deva System,{nl}
+I now hold the power to{nl}
+cross worlds and grant wishes!{waitkey}{ret}
+</message>
+  <message offset="1c94">
+Nanjo: I see... It's{nl}
+coming together now.{nl}
+The compact, the Deva System{nl}
+were all just stepping stones.{waitkey}And so...{waitkey}{ret}
+</message>
+  <message offset="1cdc">
+Kandori: I shall become the{nl}
+god of this world.{nl}
+A god has but one task...{waitkey}To bring the rod of judgment{nl}
+down upon foolish mankind!{waitkey}{ret}
+</message>
+  <message offset="1d24">
+Maki: I see... so you...{wait_fr:79}{nl}
+you mean to slaughter{nl}
+all of humanity...{waitkey}{ret}
+</message>
+  <message offset="1d54">
+Mark: Like hell we'll{nl}
+let you!{waitkey}{ret}
+</message>
+  <message offset="1d68">
+Nanjo: We won't allow it!{waitkey}{ret}
+</message>
+  <message offset="1d78">
+Kandori: How futile...{waitkey}{ret}
+</message>
+  <message offset="1d8c">
+Maki: Inaba! Nanjo!{waitkey}{ret}
+</message>
+  <message offset="1da8">
+Kandori: Now I return to{nl}
+the real world.{nl}
+Do you hate me?{nl}
+If so, then come after me...{waitkey}Once you've beaten this one!{waitkey}{ret}
+</message>
+  <message offset="1dec">
+Nanjo: Ngh...{waitkey}{ret}
+</message>
+  <message offset="1dfc">
+Mark: Y...{wait_fr:60}you bastard...{waitkey}{ret}
+</message>
+  <message offset="1e14">
+Kandori: What one desires{nl}
+is never easily won.{nl}
+And yet...{waitkey}{clearbox}The joy of grasping it{nl}
+after every obstacle{nl}
+is supreme...{nl}
+Take it as divine revelation!{waitkey}{ret}
+</message>
+  <message offset="1e74">
+Maki: Wait!{waitkey}{ret}
+</message>
+  <message offset="1e84">
+Demon: Now then, showtime.{nl}
+I'll make you dance...{nl}
+the dance of death!!{waitkey}{ret}
+</message>
+</scene>

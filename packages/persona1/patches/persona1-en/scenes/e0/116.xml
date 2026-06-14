@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="116">
+  <message offset="24fc">
+Maki: So this is your hideout!{nl}
+You're not getting away{nl}
+this time!{waitkey}{ret}
+</message>
+  <message offset="2524">
+Aki: Nyaah!{nl}
+You can't go any further!{nl}
+Well, except for that one{nl}
+in the forest, but...{waitkey}{clearbox}He hasn't got the guts,{nl}
+so nobody can get in the{nl}
+way of Aki and Papa!{waitkey}{ret}
+</message>
+  <message offset="2588">
+Maki: Ah!!{waitkey}{ret}
+</message>
+  <message offset="2598">
+Maki: Ahh, honestly!!{nl}
+She got away again.{waitkey}{ret}
+</message>
+  <message offset="25bc">
+Nanjo: .........{waitkey}{ret}
+</message>
+  <message offset="25cc">
+Mark: Damn it.{nl}
+It won't budge at all.{waitkey}{ret}
+</message>
+  <message offset="25e8">
+Mark: Hey, Nanjo!{nl}
+Don't just stand there{nl}
+spacing out. Got any ideas?{waitkey}{ret}
+</message>
+  <message offset="2618">
+Nanjo: That child set{nl}
+something into that stand.{waitkey}{ret}
+</message>
+  <message offset="263c">
+Nanjo: Without a key that{nl}
+fits this half-moon hollow,{nl}
+we won't get in.{waitkey}{ret}
+</message>
+  <message offset="2668">
+Elly: From the way she{nl}
+spoke, there must be{nl}
+someone else who holds it.{waitkey}{ret}
+</message>
+  <message offset="269c">
+Brown: Ugh~{nl}
+We've got more to look for~?{waitkey}{ret}
+</message>
+  <message offset="26bc">
+Ayase: Hey,{nl}
+open up already!{waitkey}{ret}
+</message>
+  <message offset="26d8">
+Maki: The forest...{nl}
+that must be the one on{nl}
+the west side.{waitkey}It used to be a lovely{nl}
+flower garden, but now{nl}
+they call it the Lost Forest.{waitkey}{ret}
+</message>
+  <message offset="2728">
+Elly: Then let's go back.{nl}
+We need to find whoever{nl}
+holds the key.{waitkey}{ret}
+</message>
+  <message offset="2750">
+Brown: Urgh~ We're going back?{nl}
+How about the leader stays{nl}
+here on lookout? No good?{waitkey}Oh, all right then.{waitkey}{ret}
+</message>
+  <message offset="278c">
+Ayase: Whaaat~{nl}
+We came all this way and{nl}
+now we go back? The worst!!{waitkey}{ret}
+</message>
+  <message offset="27bc">
+Mark: Nothing for it, let's{nl}
+go back. Gotta find this{nl}
+'him' the brat mentioned.{waitkey}{ret}
+</message>
+  <message offset="27ec">
+Maki: Back when the Lost{nl}
+Forest was a garden, a girl{nl}
+named Mai played there...{waitkey}Maybe she's the one{nl}
+they mean.{waitkey}{ret}
+</message>
+  <message offset="2838">
+Mark: That brat's gotta be{nl}
+Kandori's kid for sure.{nl}
+They're just alike in how{nl}
+irritating they are.{waitkey}{ret}
+</message>
+  <message offset="2870">
+Nanjo: ...{wait_fr:60}{ctl0f:1},{nl}
+that child's behavior...{nl}
+doesn't something bother you?{waitkey}I feel like we're being{nl}
+made to dance.{waitkey}{ret}
+</message>
+  <message offset="28b8">
+Elly: Still, that child...{nl}
+Kandori must mean so{nl}
+much to her...{wait_fr:94}{nl}
+A little enviable...{waitkey}{clearbox}Oh, I'm sorry, that was{nl}
+a strange thing to say...{waitkey}{ret}
+</message>
+  <message offset="2910">
+Brown: I get it, I get it.{nl}
+I'll go back properly.{nl}
+You'd be lost without your{nl}
+leader, after all.{waitkey}{ret}
+</message>
+  <message offset="2944">
+Ayase: Hey, {ctl0f:1}~{nl}
+carry me piggyback~{waitkey}C'mon, you get to feel{nl}
+Ayase's warmth, don't you?{nl}
+Right?{waitkey}{ret}
+</message>
+  <message offset="2984">
+Reiji: ...{wait_fr:60}So he's up{nl}
+above here...{nl}
+You won't escape me.{waitkey}Wash your neck and wait{nl}
+for me, bastard...{waitkey}{ret}
+</message>
+  <message offset="29c4">
+Reiji: ...{wait_fr:60}Out of my way.{nl}
+I'll smash it down.{waitkey}{ret}
+</message>
+  <message offset="29e8">
+Mark: Hold on, Reiji.{nl}
+This isn't something you{nl}
+can just smash.{waitkey}{clearbox}When it comes to Kandori,{nl}
+your whole look changes, man.{nl}
+I won't pry too deep, but...{waitkey}don't try to carry it{nl}
+all alone.{waitkey}{ret}
+</message>
+  <message offset="2a5c">
+Reiji: ...{waitkey}{ret}
+</message>
+  <message offset="2a68">
+Maki: ...Kido,{nl}
+Inaba's right.{nl}
+We're comrades, aren't we?{waitkey}{ret}
+</message>
+  <message offset="2a9c">
+Reiji: ...{wait_fr:60}I've no interest{nl}
+in chumming up with you.{nl}
+Comrades? Makes me sick.{waitkey}{clearbox}Especially you, Inaba...{nl}
+Just looking at you{nl}
+turns my stomach.{waitkey}{ret}
+</message>
+  <message offset="2af4">
+Maki: Kido!{nl}
+That's too harsh, isn't it?!{waitkey}{ret}
+</message>
+  <message offset="2b14">
+Mark: It's fine, Sonomura.{nl}
+Stomach-turning or not,{nl}
+for now we've got no choice{nl}
+but to head back together.{waitkey}{clearbox}Our goal's the same.{nl}
+Let's get going then, {ctl0f:1}.{waitkey}{ret}
+</message>
+  <message offset="2b70">
+Maki: I just don't get boys.{nl}
+Inaba, you seem to{nl}
+actually like Kido.{waitkey}{ret}
+</message>
+  <message offset="2ba8">
+Mark: What?{nl}
+'Have I got a fever'?{nl}
+What's that supposed to mean?{waitkey}{ret}
+</message>
+  <message offset="2bdc">
+Nanjo: For Inaba to take that{nl}
+much and stay quiet...{wait_fr:92}{nl}
+Heh...{waitkey}{clearbox}He probably catches the{nl}
+same scent. He's like{nl}
+a beast, after all.{waitkey}{ret}
+</message>
+  <message offset="2c2c">
+The door won't budge.{waitkey}{ret}
+</message>
+  <message offset="2c3c">
+There's a half-moon-shaped{nl}
+hollow.{waitkey}{ret}
+</message>
+</scene>

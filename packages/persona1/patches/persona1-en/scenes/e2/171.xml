@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="171">
+  <message offset="159c">
+Maki: Kido...{wait_fr:32} there's{nl}
+something scary about you...{waitkey}{ret}
+</message>
+  <message offset="15c4">
+Nanjo: How absurd!{waitkey}{ret}
+</message>
+  <message offset="15d8">
+Nanjo: Love is nothing more{nl}
+than a fixed notion, don't{nl}
+you think?{waitkey}{ret}
+</message>
+  <message offset="1600">
+Mark: I bet there's a girl{nl}
+out there secretly watching{nl}
+me from the shadows too,{nl}
+for sure...{waitkey}{ret}
+</message>
+  <message offset="1638">
+Mark: So that girl was a{nl}
+Reiji fan, huh...{waitkey}Ah{wait_fr:21}, it's not like I'm{nl}
+jealous or anything!{waitkey}{ret}
+</message>
+  <message offset="1680">
+Elly: ...{wait_fr:32}Can someone really{nl}
+fall for another at just{nl}
+one glance?{waitkey}{ret}
+</message>
+  <message offset="16ac">
+Elly: ...{wait_fr:32}I don't understand{nl}
+it. There's no need to get{nl}
+so desperate over it.{waitkey}{ret}
+</message>
+  <message offset="16e0">
+Brown: Hey hey hey hey, what's{nl}
+this? Isn't she a fan of{nl}
+mine~?{waitkey}{ret}
+</message>
+  <message offset="1714">
+Brown: Hey hey hey hey, why{nl}
+him and not me~?!{waitkey}{ret}
+</message>
+  <message offset="1748">
+Ayase: The boys at this school{nl}
+are all so childish~ Ayase{nl}
+isn't interested.{waitkey}{ret}
+</message>
+  <message offset="1780">
+Ayase: Sure, he seems grown-up{nl}
+and all, but... Kido's a bit{nl}
+off, isn't he.{waitkey}{ret}
+</message>
+  <message offset="17b0">
+Reiji: What? That woman's{nl}
+glaring at me...{wait_fr:32} did I do{nl}
+something?{waitkey}{ret}
+</message>
+  <message offset="17ec">
+Student: Oh, senpai. Um...{wait_fr:32}{nl}
+I saw a really cool guy just{nl}
+now.{waitkey}It was a face I'd never seen,{nl}
+so maybe he's a transfer{nl}
+student...{waitkey}Ahh, who could he be...{waitkey}{ret}
+</message>
+  <message offset="1854">
+Student: ...{wait_fr:21}Eek!{waitkey}Senpai, are you acquainted{nl}
+with that person?{waitkey}Come on, introduce me,{nl}
+please~{waitkey}{ret}
+</message>
+</scene>

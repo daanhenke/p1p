@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="24">
+  <message offset="17a4">
+Yukino: {ctl0f:1}!{nl}
+This person is still alive!{nl}
+Help me!{waitkey}{ret}
+</message>
+  <message offset="17cc">
+Nanjo: {ctl0f:1}!{nl}
+That nurse is beyond saving!{nl}
+If we drag our feet,{nl}
+we'll meet the same fate!{waitkey}{ret}
+</message>
+  <message offset="1804">
+Mark: Hey, {ctl0f:1}!{nl}
+The monsters are right{nl}
+on top of us!{waitkey}{ret}
+</message>
+  <message offset="182c">
+Nurse: I... I'm done for...{nl}
+You kids... just get{nl}
+out of here...{waitkey}{ret}
+</message>
+  <message offset="185c">
+Yukino: Don't give up!{waitkey}{ret}
+</message>
+  <message offset="1870">
+{ctl0f:1} Hurry, lend me{nl}
+a hand!{nl}
+{ctl0e:8}{ret}
+</message>
+  <message offset="1888">
+Yukino: Then grab that side!{waitkey}{ret}
+</message>
+  <message offset="18a0">
+Mark: No good! They're here!{waitkey}{ret}
+</message>
+  <message offset="18b8">
+Elly: Oh my, good day!{nl}
+My goodness!{nl}
+There are Demons here too?{waitkey}{ret}
+</message>
+  <message offset="18e8">
+Yukino: Are you serious!?{nl}
+This person is still alive!{nl}
+You're saying abandon her!?{waitkey}{ret}
+</message>
+  <message offset="1920">
+Nanjo: ...You think I wanted{nl}
+to leave Yamaoka behind!?{waitkey}{ret}
+</message>
+  <message offset="1948">
+It's an unavoidable choice!{nl}
+Let's go!{ctl0e:9}{ret}
+</message>
+  <message offset="1964">
+Nanjo: Mayuzumi! Inaba!{nl}
+Let's move!{waitkey}{ret}
+</message>
+  <message offset="1980">
+Nanjo: Honestly...{nl}
+Don't come crying to me when{nl}
+you end up like them.{waitkey}{ret}
+</message>
+  <message offset="19a8">
+Mark: What's the call?{nl}
+Decide now!{waitkey}{ret}
+</message>
+  <message offset="19c4">
+Yukino: We can't leave her!{nl}
+Help me{waitkey}{ret}
+</message>
+  <message offset="19e8">
+A demon's roar echoes{nl}
+from deep in the corridor!{waitkey}{ret}
+</message>
+</scene>

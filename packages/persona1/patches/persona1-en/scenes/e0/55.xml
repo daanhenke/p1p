@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="55">
+  <message offset="2434">
+
+</message>
+  <message offset="246c">
+Nanjo: So this is the place.{nl}
+The secret loading dock —{nl}
+very Kandori.{waitkey}{ret}
+</message>
+  <message offset="24a0">
+Maki: Hey, did Inaba{nl}
+draw this?{nl}
+He's actually talented!{waitkey}{ret}
+</message>
+  <message offset="24e8">
+Elly: Mark did{nl}
+graffiti art?{nl}
+He's quite the artist!{waitkey}{ret}
+</message>
+  <message offset="2528">
+Brown: Really?{nl}
+Looks totally lame{nl}
+to me.{waitkey}I could spray something{nl}
+way better.{waitkey}{ret}
+</message>
+  <message offset="2550">
+Mark: Heh.{nl}
+Good taste, Sonoda and{nl}
+Elly.{waitkey}{ret}
+</message>
+  <message offset="2574">
+Mark: Hey! Don't you dare{nl}
+diss my art!{waitkey}{ret}
+</message>
+  <message offset="25a4">
+Nanjo: Hold on.{wait_fr:88}{nl}
+You...{nl}
+used to come here a lot?{waitkey}{ret}
+</message>
+  <message offset="25e0">
+Mark: Oh yeah!{nl}
+This is me and my crew{nl}
+"Taylor's" studio!{waitkey}{ret}
+</message>
+  <message offset="261c">
+Nanjo: ...You used it as{nl}
+a hangout and never{nl}
+noticed SEBEC was using it?{waitkey}{ret}
+</message>
+  <message offset="2650">
+Elly: ...Unbelievable.{waitkey}{ret}
+</message>
+  <message offset="267c">
+Brown: No way!!{nl}
+Wow, Mark — you king{nl}
+of the idiots!{waitkey}{ret}
+</message>
+  <message offset="26b0">
+Mark: Shut up!!{nl}
+You know what this is?!{nl}
+It's called irony!{waitkey}{ret}
+</message>
+  <message offset="26d0">
+Nanjo: It's called{nl}
+"blind to what's under{nl}
+your nose!" Idiot!{waitkey}{ret}
+</message>
+  <message offset="26fc">
+Maki: Ha ha ha!{nl}
+Oh come on, it's fine —{nl}
+let's find the entrance!{waitkey}{ret}
+</message>
+  <message offset="2720">
+Elly: Quiet!{nl}
+Someone's there...{waitkey}{ret}
+</message>
+  <message offset="2758">
+Brown: Hey... hey...{nl}
+Is something there?{nl}
+Mark... go check.{waitkey}{ret}
+</message>
+  <message offset="277c">
+Mark: There's something!{nl}
+Who is it?! Come out!{waitkey}{ret}
+</message>
+  <message offset="27ac">
+Ayase: Wait... is that{nl}
+{ctl0f:1} and everyone...?{nl}
+You scared me half to death!{waitkey}{ret}
+</message>
+  <message offset="27cc">
+Nanjo: Ayase?{nl}
+What are you doing here?{waitkey}{ret}
+</message>
+  <message offset="280c">
+Elly: Ayase, wandering{nl}
+alone in this situation?{nl}
+Did something happen{nl}
+at school?{waitkey}{ret}
+</message>
+  <message offset="2844">
+Brown: Ayase, you're alone?!{nl}
+In all this craziness,{nl}
+how are you alone?!{waitkey}{ret}
+</message>
+  <message offset="2888">
+Ayase: What?! Ayase barely{nl}
+escaped with her life!{waitkey}Can't you at least say{nl}
+something nice?!{waitkey}{ret}
+</message>
+  <message offset="28b4">
+Maki: Barely escaped...{nl}
+Yuka, something happened{nl}
+at school?!{waitkey}{ret}
+</message>
+  <message offset="28f8">
+Ayase: It's the worst!{nl}
+Who said school was safe?!{nl}
+What a lie!{waitkey}School is GONE!{waitkey}{ret}
+</message>
+  <message offset="2934">
+Maki: What?!{nl}
+What happened to Yuko{nl}
+and everyone?! You just{nl}
+left them?! Yuka!!{waitkey}{ret}
+</message>
+  <message offset="2964">
+Ayase: How should I know?!{nl}
+I'm the one who wants{nl}
+answers here!{waitkey}{ret}
+</message>
+  <message offset="298c">
+Maki: {ctl07:1}!{nl}
+We have to go help{nl}
+everyone right now!{waitkey}{ret}
+</message>
+  <message offset="29e0">
+Nanjo: Calm down, Sonoda.{nl}
+The school vanishing is{nl}
+likely the DEVA System.{waitkey}{clearbox}If so, it's faster to{nl}
+make Kandori undo it.{waitkey}{ret}
+</message>
+  <message offset="2a10">
+Ayase: Ayase's coming too!{nl}
+I can't stay here{nl}
+alone — that's insane!{waitkey}{ret}
+</message>
+  <message offset="2a48">
+Elly: ...I'm against it.{nl}
+Hiding somewhere safe{nl}
+is better, Ayase.{waitkey}{ret}
+</message>
+  <message offset="2a84">
+Nanjo: Kirishima is right.{nl}
+Without a Persona,{nl}
+you'd just be in danger.{nl}
+Go hide somewhere.{waitkey}{ret}
+</message>
+  <message offset="2abc">
+Brown: Ayase being around{nl}
+always ends in trouble.{nl}
+As leader, I say no.{waitkey}{ret}
+</message>
+  <message offset="2af8">
+Nanjo: Ignore the idiot.{nl}
+No Persona means danger.{nl}
+Go somewhere safe.{waitkey}{ret}
+</message>
+  <message offset="2b34">
+Ayase: How dare you!{nl}
+You all think Ayase{nl}
+is useless, is that it?!{nl}
+Fine then — DROP DEAD!{waitkey}{ret}
+</message>
+  <message offset="2b44">
+Mark: Ayase...{waitkey}{ret}
+</message>
+  <message offset="2b6c">
+Ayase: Yes!{nl}
+Nice one, {ctl0f:1}!{nl}
+You're the only one who{nl}
+gets it!{waitkey}{ret}
+</message>
+  <message offset="2b90">
+Nanjo: Here's a gun.{nl}
+Don't become{nl}
+a burden.{waitkey}{ret}
+</message>
+  <message offset="2bdc">
+Maki: It's settled then!{nl}
+Let's split up and{nl}
+find the entrance!{waitkey}{ret}
+</message>
+  <message offset="2c1c">
+Ayase: I'm going, I'm going,{nl}
+I'm going! I said I'm going!{nl}
+I'm goooing!{waitkey}{ret}
+</message>
+  <message offset="2c40">
+Maki: Okay, okay, Yuka!{nl}
+Everyone agree?{waitkey}{ret}
+</message>
+  <message offset="2c58">
+Mark: Tch, fine.{waitkey}{ret}
+</message>
+  <message offset="2c9c">
+Nanjo: Somewhere around{nl}
+here, there should be{nl}
+a machine for the{nl}
+Security Card.{waitkey}Let's split up and{nl}
+find it.{waitkey}{ret}
+</message>
+  <message offset="2ce4">
+Mark: Heh heh.{nl}
+I painted this with spray.{nl}
+Graffiti art, yeah.{waitkey}The shout of my soul.{waitkey}{ret}
+</message>
+  <message offset="2d24">
+Maki: Something feels{nl}
+off about this town...{nl}
+Hm? What...? Never mind.{waitkey}That's not the{nl}
+right way.{waitkey}{ret}
+</message>
+  <message offset="2d58">
+Brown: {ctl08:65281}Hey, if anything{nl}
+comes up — let me know!{nl}
+I'm the leader here!{waitkey}{ret}
+</message>
+  <message offset="2d90">
+Elly: I can't see{nl}
+any card machine{nl}
+anywhere.{waitkey}{ret}
+</message>
+  <message offset="2dac">
+Maki: ...Poor Yuka.{waitkey}{ret}
+</message>
+  <message offset="2e00">
+Nanjo: Kandori... the first{nl}
+time I met him at a{nl}
+business party,I knew he was{nl}
+a snake...{waitkey}{nl}
+To think he'd go{nl}
+this far.{waitkey}{ret}
+</message>
+  <message offset="2e30">
+Nanjo: Ayase?{nl}
+What are you doing here?{nl}
+You being alone is odd.{waitkey}{ret}
+</message>
+  <message offset="2e64">
+Ayase: {ctl0f:1},{nl}
+Ayase is here to{nl}
+help, okay?{nl}
+You're so lucky!{waitkey}{ret}
+</message>
+  <message offset="2e8c">
+Maki: {ctl07:1}!{nl}
+Where are you going?{nl}
+Let's find the entrance!{waitkey}{ret}
+</message>
+  <message offset="2edc">
+Maki: Yuka?!{nl}
+What happened to school?!{nl}
+What about Yuko and everyone?{waitkey}You ran off alone?!{nl}
+Yuka!!{waitkey}{ret}
+</message>
+  <message offset="2f0c">
+Ayase: How should I know?!{nl}
+I'm the one who wants{nl}
+answers here!{waitkey}{ret}
+</message>
+  <message offset="2f60">
+Nanjo: Calm down, Sonoda.{nl}
+The school vanishing is{nl}
+likely the DEVA System.{waitkey}{clearbox}If so, it's faster to{nl}
+make Kandori undo it.{waitkey}{ret}
+</message>
+  <message offset="2f78">
+Take her along?{nl}
+{ctl0e:7}{ret}
+</message>
+  <message offset="2fa4">
+Found the Security{nl}
+Card machine!{waitkey}{ret}
+</message>
+  <message offset="2fc0">
+Mark: {ctl0f:1},{nl}
+find something?{waitkey}{ret}
+</message>
+  <message offset="2fe0">
+Mark: Oh! Hey!{nl}
+That's where it was!{waitkey}{ret}
+</message>
+  <message offset="2ff0">
+Nanjo: What is it?{waitkey}{ret}
+</message>
+  <message offset="302c">
+Mark: {ctl0f:1} found{nl}
+the card machine!{waitkey}{clearbox}{ctl0f:1} —{nl}
+go ahead and use it!{waitkey}{ret}
+</message>
+  <message offset="3058">
+Nanjo: Wait —{nl}
+we don't know what will{nl}
+happen, so think first...{waitkey}{ret}
+</message>
+  <message offset="3074">
+Mark: Who cares,{nl}
+let me try.{waitkey}{ret}
+</message>
+  <message offset="3088">
+Mark: Whooooaaa?{waitkey}{ret}
+</message>
+  <message offset="30a0">
+Nanjo: I said wait!{waitkey}{ret}
+</message>
+</scene>

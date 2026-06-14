@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="12">
+  <message offset="22b4">
+Butterfly: I've been waiting.{waitkey}{clearbox}By saving the boy called Toro{nl}
+from a Persona's power, the{nl}
+Snow Queen's power has waned.{waitkey}{clearbox}The door sealed fast in ice{nl}
+should open now.{waitkey}{clearbox}It is the entrance to one of{nl}
+the three towers - the{nl}
+Tower of Nemesis.{waitkey}{clearbox}Its structure aside, the{nl}
+tower's master is quite a{nl}
+rogue. Tough for you now.{waitkey}{clearbox}Still, if you insist on{nl}
+going, I won't stop you.{waitkey}{clearbox}Oh, yes - let me give you{nl}
+a warning about the towers.{waitkey}{clearbox}Once you set foot in any{nl}
+tower, you cannot leave until{nl}
+its master falls. Think first.{waitkey}{ret}
+</message>
+  <message offset="2404">
+Butterfly: Welcome.{nl}
+This is the entrance to the{nl}
+Tower of Nemesis.{waitkey}{clearbox}Its structure aside, the{nl}
+master is quite a rogue.{nl}
+Best brace yourselves.{waitkey}{clearbox}Once you set foot in any{nl}
+tower, you cannot leave until{nl}
+its master falls. Think first.{waitkey}{ret}
+</message>
+  <message offset="24a0">
+Butterfly: Welcome.{nl}
+This is the entrance to the{nl}
+Tower of Nemesis.{waitkey}{clearbox}Its structure aside, the{nl}
+master is quite a rogue.{nl}
+It may be harsh for you now.{waitkey}{clearbox}Still, if you insist on{nl}
+going, I won't stop you.{waitkey}{clearbox}Once you set foot in any{nl}
+tower, you cannot leave until{nl}
+its master falls. Think first.{waitkey}{ret}
+</message>
+  <message offset="25b8">
+From beyond the door comes{nl}
+a growl that resounds{nl}
+heavy in your gut.{waitkey}{clearbox}The door is frozen solid{nl}
+and won't budge.{waitkey}{ret}
+</message>
+  <message offset="25fc">
+From beyond the door comes{nl}
+a growl that resounds{nl}
+heavy in your gut.{waitkey}{ret}
+</message>
+  <message offset="2628">
+Enter the Tower of Nemesis?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="2640">
+Kuroori: Come to think of it,{nl}
+my uncle, a detective, said{nl}
+he saw demons too.{waitkey}{clearbox}I wonder if Yarai Ward's okay.{waitkey}Hehehe...{waitkey}{ret}
+</message>
+  <message offset="2690">
+Kuroori: Come to think of it,{nl}
+there's a commotion in the{nl}
+cafeteria, I hear.{waitkey}Hehehe...{waitkey}{ret}
+</message>
+  <message offset="26c0">
+Kuroori: Owowowow, my arm's{nl}
+so heavy I can't lift it.{waitkey}Hehehee~...{waitkey}{ret}
+</message>
+  <message offset="26f0">
+Kuroori: There was a classroom{nl}
+frozen shut, right? Hehehe...{waitkey}You know, the one off alone.{waitkey}{clearbox}Seems the door's opened{nl}
+up now.{waitkey}Hehehe...{waitkey}{ret}
+</message>
+  <message offset="2758">
+Kuroori: There was a classroom{nl}
+frozen shut, right? Hehehe...{waitkey}You know, the one off alone.{waitkey}{clearbox}Seems the door's opened{nl}
+up now.{waitkey}Hehehe...{waitkey}{clearbox}Just now, Kirishima dashed{nl}
+off saying she'd go check{nl}
+that room out. Hehehe...{waitkey}{ret}
+</message>
+  <message offset="27f8">
+Yukino: Lots of paper here.{nl}
+Should we build a fire?{waitkey}{ret}
+</message>
+  <message offset="2818">
+Yukino: Honestly! I can only{nl}
+pray Michiko doesn't show{nl}
+up again.{waitkey}{ret}
+</message>
+  <message offset="2844">
+Ayase: Not just the school -{nl}
+the hospital got all messed{nl}
+up inside too, right?{waitkey}{clearbox}I wonder if Ayase's house{nl}
+is okay?{waitkey}I'd hate it if a demon was{nl}
+lounging in the living room.{waitkey}{ret}
+</message>
+  <message offset="28a8">
+Ayase: She really left an{nl}
+impression, that Michiko.{waitkey}She might show up in my{nl}
+dreams...{waitkey}{ret}
+</message>
+  <message offset="28d4">
+Nanjo: Nothing but frozen{nl}
+books. A creepy room.{waitkey}{ret}
+</message>
+  <message offset="28f8">
+Nanjo: What? My scarf's{nl}
+crooked? Hm, my thanks.{waitkey}{ret}
+</message>
+  <message offset="2924">
+Brown: Just sit back and{nl}
+follow me - you're in{nl}
+good hands!{waitkey}{ret}
+</message>
+  <message offset="2950">
+Brown: Ugh, let's drop the{nl}
+talk about "the Tower{nl}
+of Nemesis."{waitkey}{ret}
+</message>
+  <message offset="2978">
+Elly: It's so cold.{nl}
+At this rate, we'll all{nl}
+freeze to death.{waitkey}{ret}
+</message>
+  <message offset="29a4">
+Someone must do something,{nl}
+and soon.{nl}
+{ctl0e:7}{ret}
+</message>
+  <message offset="29bc">
+Elly: OK!{waitkey}{clearbox}To save Ms. Saeko, let's{nl}
+search for the "Shards of{nl}
+the Devil's Mirror."{waitkey}{ret}
+</message>
+  <message offset="29fc">
+Elly: OK!{waitkey}{clearbox}To save Ms. Saeko, let's{nl}
+search for the "Shards of{nl}
+the Devil's Mirror."{waitkey}{clearbox}Come to think of it, I heard{nl}
+something happened in the{nl}
+cafeteria. Have you been?{waitkey}{ret}
+</message>
+  <message offset="2a68">
+Elly: If there's anything I{nl}
+can help with, don't{nl}
+hesitate to ask.{waitkey}{ret}
+</message>
+  <message offset="2a90">
+Elly: I'm looking into the{nl}
+play "The Snow Queen."{waitkey}{ret}
+</message>
+  <message offset="2b68">
+Elly: "The Tower of Nemesis"?{waitkey}Nemesis stands for revenge.{nl}
+An unpleasant feeling.{waitkey}{ret}
+</message>
+  <message offset="2ba4">
+Elly: "The Tower of Nemesis"?{waitkey}Nemesis stands for revenge.{nl}
+An unpleasant feeling.{waitkey}{ret}
+</message>
+  <message offset="2be0">
+Elly: I wonder if Toro is{nl}
+all right.{waitkey}{clearbox}He seemed to have been made{nl}
+to drink a great deal.{waitkey}{ret}
+</message>
+  <message offset="2c1c">
+Elly: Did you hear what{nl}
+Kuroori said?{waitkey}Let's go at once!!{waitkey}{ret}
+</message>
+  <message offset="2c5c">
+Elly: Quickly, let's go{nl}
+up to the next floor!{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="204">
+  <message offset="13a0">
+SP: Humans, who hate and kill{nl}
+one another, fouling even the{nl}
+planet they live on to sate{nl}
+their desires...{waitkey}{clearbox}As living things, they were{nl}
+a failure after all!!{waitkey}{ret}
+</message>
+  <message offset="1400">
+SP: I wonder if the family I{nl}
+left back home is well.{waitkey}I should quit a job like{nl}
+this.{waitkey}{ret}
+</message>
+  <message offset="1438">
+SP: Humans, in the end, think{nl}
+of nothing but themselves!{waitkey}{clearbox}They'd be better off wiped{nl}
+from the face of the earth!!{waitkey}{ret}
+</message>
+  <message offset="1484">
+SP: What was I even born{nl}
+for...{waitkey}{ret}
+</message>
+  <message offset="14a8">
+Maki: What's gotten into{nl}
+these people?{waitkey}{ret}
+</message>
+  <message offset="14c4">
+Maki: Good thing those weird{nl}
+signals stopped.{waitkey}{ret}
+</message>
+  <message offset="14e4">
+Mark: Every last one of them{nl}
+talking like Kandori!!{waitkey}{ret}
+</message>
+  <message offset="1510">
+Mark: Finally came to their{nl}
+senses, huh.{waitkey}{ret}
+</message>
+  <message offset="1528">
+Nanjo: We must stop Kandori{nl}
+as soon as we possibly can!{waitkey}{ret}
+</message>
+  <message offset="154c">
+Nanjo: What were we born{nl}
+for...{wait_fr:30}...{wait_fr:30} hm.{waitkey}{ret}
+</message>
+  <message offset="1574">
+Ayase: It's scary. Let's get{nl}
+out, quick.{waitkey}{ret}
+</message>
+  <message offset="158c">
+Ayase: Oh good~{waitkey}Everyone's eyes are back to{nl}
+normal.{waitkey}{ret}
+</message>
+  <message offset="15b0">
+Brown: Wa-wa-wa-wa-wah!{waitkey}{ret}
+</message>
+  <message offset="15c4">
+Brown: Those signals are{nl}
+scary, huh.{waitkey}Seriously.{waitkey}{ret}
+</message>
+  <message offset="15e0">
+Elly: There's no use staying{nl}
+here.{waitkey}Let's hurry on ahead.{waitkey}{ret}
+</message>
+  <message offset="160c">
+Elly: There's no use staying{nl}
+here.{waitkey}Let's hurry on ahead.{waitkey}{ret}
+</message>
+  <message offset="1638">
+Reiji: All of them spouting{nl}
+the same nonsense.{waitkey}{ret}
+</message>
+  <message offset="1658">
+Reiji: ...{waitkey}{ret}
+</message>
+</scene>

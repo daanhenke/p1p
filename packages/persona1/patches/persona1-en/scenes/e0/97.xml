@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="97">
+  <message offset="14b0">
+Maki: It's a pretty painting.{nl}
+But I'm not really{nl}
+all that fond of it...{waitkey}{ret}
+</message>
+  <message offset="14d4">
+Maki: ...{wait_fr:41}Chisato...{waitkey}{ret}
+</message>
+  <message offset="14ec">
+Maki: Was this really{nl}
+for the best, I wonder?{wait_fr:32}{nl}
+Hey, what do you think,{nl}
+{ctl07:1}...?{waitkey}{ret}
+</message>
+  <message offset="1518">
+Nanjo: I don't know much{nl}
+about paintings, but...{waitkey}{clearbox}Unlike Sonomura's painting,{nl}
+there's nothing in this one{nl}
+that stirs the heart.{waitkey}{ret}
+</message>
+  <message offset="1564">
+Nanjo: So it was Kozai...{nl}
+But how did she become{nl}
+the ruler of this market?{waitkey}{ret}
+</message>
+  <message offset="15a0">
+Nanjo: Fawning over Kozai{nl}
+one moment, and once she's{nl}
+gone, trashing her freely...{waitkey}How quickly they turn.{waitkey}{ret}
+</message>
+  <message offset="15ec">
+Mark: This painting looks{nl}
+good at a glance, right?{nl}
+But that's not enough.{waitkey}{clearbox}It's not technique. Cheesy{nl}
+as it sounds, a painting's{nl}
+all about heart!{waitkey}{clearbox}This one's all surface.{nl}
+There's not a shred of the{nl}
+painter's heart in it!{waitkey}{ret}
+</message>
+  <message offset="1678">
+Mark: Kozai, why are you{nl}
+lending Aki a hand?{nl}
+Ditching Naito and all...{waitkey}{ret}
+</message>
+  <message offset="16b0">
+Mark: Maybe Sonomura's not{nl}
+as down as we're worried{nl}
+she is. I hope that's so.{waitkey}{ret}
+</message>
+  <message offset="16e8">
+Elly: I like Maki's{nl}
+painting better!{waitkey}{ret}
+</message>
+  <message offset="1710">
+Elly: A harem, meaning a place{nl}
+where wonderful men are{nl}
+gathered, I suppose?{waitkey}{clearbox}But Miss Kozai already{nl}
+has a boyfriend, doesn't she.{waitkey}{ret}
+</message>
+  <message offset="1764">
+Elly: You never really know{nl}
+what people say behind{nl}
+your back, don't you think?{waitkey}{ret}
+</message>
+  <message offset="179c">
+Brown: Paintings are so{nl}
+boring~{wait_fr:32}{nl}
+...Yeah, this is a really{nl}
+boring painting.{waitkey}{ret}
+</message>
+  <message offset="17d0">
+Brown: Did Kozai have{nl}
+that many moles?{waitkey}{ret}
+</message>
+  <message offset="17f4">
+Brown: That Kozai just now{nl}
+was kinda cute, maybe...{waitkey}Just kidding! Kidding!{nl}
+And Naito, of all people!{waitkey}{ret}
+</message>
+  <message offset="183c">
+Ayase: Is that boy part of{nl}
+the Queen's harem too~?{nl}
+No way, so unfair!{waitkey}{ret}
+</message>
+  <message offset="1874">
+Ayase: Kozai must've been{nl}
+hurting too, y'know.{nl}
+Try to understand that.{waitkey}{ret}
+</message>
+  <message offset="18a4">
+Ayase: Ayase wants that{nl}
+mirror too, but I'd hate to{nl}
+get any more freckles.{waitkey}{ret}
+</message>
+  <message offset="18d8">
+Reiji: Whoever made such a{nl}
+worthless room must be{nl}
+awfully childish.{waitkey}{ret}
+</message>
+  <message offset="1910">
+Reiji: Believing in something{nl}
+like friendship is the{nl}
+strange part, isn't it?{nl}
+It's all just for show.{waitkey}{ret}
+</message>
+  <message offset="194c">
+Reiji: In any case, it's{nl}
+resolved, isn't it?{nl}
+No need to linger...{waitkey}{ret}
+</message>
+  <message offset="197c">
+Young Man: This is a painting{nl}
+by Lady Queen. Pretty{nl}
+amazing, right?{waitkey}{clearbox}Lady Queen's got a gift{nl}
+for painting, and she's{nl}
+beautiful too!{waitkey}{clearbox}She's got loads of moles,{nl}
+and boy is she gorgeous!{waitkey}{clearbox}She showed me a painting by{nl}
+an acquaintance of hers once,{nl}
+but that one was lousy!{waitkey}{ret}
+</message>
+  <message offset="1a2c">
+Young Man: How does she dare{nl}
+show people such a{nl}
+worthless painting!{waitkey}'Queen,' my foot!{waitkey}{ret}
+</message>
+  <message offset="1a64">
+There's a painting said to{nl}
+be by the Queen.{wait_fr:21}{nl}
+...The style looks like{nl}
+something I've seen before.{waitkey}{ret}
+</message>
+  <message offset="1a94">
+Maki: ...{wait_fr:32}This painting...!{wait_fr:48}{nl}
+This is one Chisato{nl}
+painted...!{waitkey}{ret}
+</message>
+  <message offset="1ac8">
+Mark: Chisato as in {wait_fr:21}Chisato{nl}
+Kozai? I heard she went{nl}
+missing!{waitkey}{clearbox}Kozai's painting is here,{nl}
+and you're saying it's{nl}
+the Queen's painting...?{waitkey}{ret}
+</message>
+  <message offset="1b34">
+Maki: Why?{wait_fr:48}{nl}
+So Chisato's been{nl}
+taken by the Harem{nl}
+Queen...?{wait_fr:32}{waitkey}{ret}
+</message>
+</scene>

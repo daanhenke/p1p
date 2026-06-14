@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="153">
+  <message offset="2d0c">
+Mark: H-hey...{nl}
+It vanished!!{waitkey}What do we do?!{nl}
+We can't get back like this!!{waitkey}{ret}
+</message>
+  <message offset="2d48">
+Nanjo: .........{wait_fr:88}{nl}
+Something must've happened{nl}
+in Sonomura's heart...{waitkey}{clearbox}With Kandori gone,{nl}
+only she could do{nl}
+something like this.{waitkey}{ret}
+</message>
+  <message offset="2da0">
+Reiji: ...{wait_fr:88}What about{nl}
+Kandori's mirror?{nl}
+Order it to send us back.{waitkey}{ret}
+</message>
+  <message offset="2dd4">
+Elly: Mark!{nl}
+If we ask Kandori's mirror,{nl}
+can't we reach that town?!{waitkey}{ret}
+</message>
+  <message offset="2e10">
+Brown: That's it!!{nl}
+We've still got Kandori's{nl}
+mirror!! Just ask it!{waitkey}Send us to that town, we say!!{waitkey}{ret}
+</message>
+  <message offset="2e60">
+Ayase: Hey, Kandori's mirror!{nl}
+Just ask it, right?{nl}
+Take us to that town, say!{waitkey}{ret}
+</message>
+  <message offset="2e9c">
+Mark: That could work!!{waitkey}{ret}
+</message>
+  <message offset="2eb4">
+Mark: Whoa?!{nl}
+A-are you serious?!{waitkey}{ret}
+</message>
+  <message offset="2ed4">
+Nanjo: ...{wait_fr:60}Is Sonomura{nl}
+refusing us?!{nl}
+I can't think otherwise.{waitkey}{ret}
+</message>
+  <message offset="2f04">
+Mark: Damn it!!{nl}
+What do we do... what...{wait_fr:104}{nl}
+Hm?{waitkey}{ret}
+</message>
+  <message offset="2f34">
+Mark: This is...{nl}
+did Sonomura drop it...{wait_fr:88}{nl}
+What good is just{nl}
+this left behind...{waitkey}{ret}
+</message>
+  <message offset="2f6c">
+Nanjo: What is it, Inaba?{waitkey}{ret}
+</message>
+  <message offset="2f84">
+Mark: It's Sonomura's{nl}
+compact...{waitkey}{ret}
+</message>
+  <message offset="2f9c">
+Nanjo: The mirror's{nl}
+not set in it...{waitkey}{ret}
+</message>
+  <message offset="2fb4">
+Reiji: Hey, this Sonomura{nl}
+has a compact{nl}
+on her too.{waitkey}{ret}
+</message>
+  <message offset="2fdc">
+Elly: Hey!{nl}
+The original Maki has{nl}
+a Compact too!{waitkey}{ret}
+</message>
+  <message offset="3024">
+Brown: Hey!{nl}
+The real Maki's got{nl}
+a compact too?!{waitkey}{ret}
+</message>
+  <message offset="3054">
+Ayase: Ah!!{nl}
+The real Sonomura's got{nl}
+a compact too!!{waitkey}{ret}
+</message>
+  <message offset="3084">
+Nanjo: Let me see...{wait_fr:88}{nl}
+The real Sonomura's compact{nl}
+and the ideal one...{waitkey}The real one has the{nl}
+mirror set in it, but...{waitkey}{ret}
+</message>
+  <message offset="30dc">
+Mark: Nanjo, hand it over!{waitkey}{ret}
+</message>
+  <message offset="30f0">
+Mark: Please!!{nl}
+Send us back into{nl}
+Sonomura's heart!{waitkey}{nl}
+...{wait_fr:30}{wait_fr:30}{wait_fr:30}{wait_fr:30}{wait_fr:30}{wait_fr:30}{wait_fr:30}...{wait_fr:30}{wait_fr:30}{wait_fr:30}{wait_fr:30}{wait_fr:30}{wait_fr:30}{wait_fr:30}...{waitkey}{ret}
+</message>
+  <message offset="3178">
+Nanjo: The real compact{nl}
+couldn't have such power...{nl}
+If only...{waitkey}If the ideal Sonomura's{nl}
+compact were complete,{nl}
+there'd have been a chance...{waitkey}{ret}
+</message>
+  <message offset="31dc">
+Mark: Maki...{nl}
+Everyone's waiting, y'know?{nl}
+You don't have to{nl}
+suffer alone.{waitkey}{clearbox}Please, call out to us...{nl}
+I'll go however far it{nl}
+takes...{waitkey}{ret}
+</message>
+  <message offset="3234">
+Nanjo: The ideal Sonomura{nl}
+is the form of her wish{nl}
+to change herself.{waitkey}But that ideal heart itself{nl}
+has come to deny{nl}
+her own existence...{waitkey}{clearbox}Sonomura...{nl}
+have you truly lost hope?{waitkey}{clearbox}If even a shard remains,{nl}
+then call out to us...{waitkey}{ret}
+</message>
+  <message offset="32d0">
+Reiji: Sonomura!!{nl}
+Don't run away!{nl}
+Running is the easy part...{waitkey}{clearbox}My mother was the woman{nl}
+of Kandori's old man...{nl}
+Tossed out like a dirty rag.{waitkey}{clearbox}She bore me knowing{nl}
+she'd be cast aside...{nl}
+You know why?{waitkey}{clearbox}She said a parent{nl}
+can't throw away{nl}
+their own child's life...{waitkey}{clearbox}You've got a mother too...{nl}
+No parent fails to love{nl}
+their child.{waitkey}Go home, to your mother.{nl}
+Now wake up, dammit!{waitkey}{ret}
+</message>
+  <message offset="33d4">
+Elly: Maki!{nl}
+Please wake up! Please...{waitkey}{clearbox}Maki's not the only one{nl}
+who suffers with many{nl}
+selves inside...{waitkey}{clearbox}Everyone says I'm refined,{nl}
+that I'm pretty,{nl}
+but it's not really true...{waitkey}{clearbox}I was always putting on{nl}
+a front. When a boy talks{nl}
+of another girl,{nl}
+I just can't bear it.{waitkey}{clearbox}So I always force a smile...{nl}
+It was so stifling...{nl}
+An awful girl, aren't I?{waitkey}{clearbox}But I've realized what{nl}
+matters are friends you can{nl}
+open your heart to-{nl}
+everyone here.{waitkey}{clearbox}There's someone I like now.{nl}
+Probably the same person{nl}
+as you, Maki...{nl}
+Please, wake up...{waitkey}{clearbox}Let's talk about him and{nl}
+all sorts of things, okay?{nl}
+Please...{waitkey}{ret}
+</message>
+  <message offset="3568">
+Brown: Maki, wake up!{nl}
+I'll tell you a funny{nl}
+story I've been saving!{waitkey}{clearbox}Me... they call me 'Brown,'{nl}
+right? It's a nickname{nl}
+from junior high...{waitkey}{clearbox}Everyone thinks it's 'cause{nl}
+of my brown hair...{nl}
+but really, {wait_fr:96}it's 'cause{nl}
+I pooped my pants.{waitkey}{clearbox}See? Funny, right? It's true.{nl}
+Pathetic, huh? In junior high?{nl}
+The whole school's joke...{waitkey}{clearbox}It was so humiliating...{nl}
+I came to Hermelin because{nl}
+I couldn't stay in{nl}
+my hometown.{waitkey}{clearbox}So in high school I made{nl}
+up a new self, struck poses,{nl}
+acted all cool, fooling{nl}
+myself the whole time...{waitkey}{clearbox}But I'm done with that.{nl}
+Watching you, Maki, made me{nl}
+see how dumb I was being...{waitkey}{clearbox}See? Laugh for me, won't you?{nl}
+I'm begging you...{waitkey}{ret}
+</message>
+  <message offset="36ec">
+Ayase: Wake up, Sonomura!{nl}
+You still haven't returned{nl}
+my handkerchief, y'know.{nl}
+Ayase'll hear you out...{waitkey}{clearbox}Ayase gets how you feel,{nl}
+Sonomura. Ayase's thought{nl}
+the same things too...{nl}
+'Let the future vanish'...{waitkey}{clearbox}I think I acted dumb all{nl}
+the time 'cause I'm scared{nl}
+of the future... Thinking{nl}
+about it gets you down, right?{waitkey}{clearbox}So I think I ran away,{nl}
+telling myself as long as{nl}
+now is good... But that's{nl}
+not right, is it...{waitkey}{clearbox}It's my own future.{nl}
+I've gotta decide it myself...{nl}
+Ayase's decided.{waitkey}{clearbox}Catch a nice guy and{nl}
+live easy! Sonomura...{nl}
+tell me your dream too...{nl}
+I'm begging you...{waitkey}{ret}
+</message>
+  <message offset="382c">
+There's a shard of the{nl}
+Mirror of Chaos!{waitkey}{ret}
+</message>
+  <message offset="3844">
+Pick it up?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="3854">
+Nanjo: What is it, {ctl0f:1}?{wait_fr:88}{nl}
+A shard of Kandori's mirror?!{waitkey}{clearbox}This size, this shape...{nl}
+it looks like it'd fit{nl}
+Sonomura's compact!{waitkey}{ret}
+</message>
+  <message offset="38a8">
+Mark: For real?!{nl}
+That might get us back!{nl}
+Hand it over, {ctl0f:1}!{waitkey}{ret}
+</message>
+  <message offset="38d8">
+Mark: Perfect fit!!{wait_fr:88}{nl}
+Whoa?!{waitkey}{ret}
+</message>
+  <message offset="38fc">
+Obtained the Mirror Shard!{waitkey}{ret}
+</message>
+  <message offset="3914">
+The real Maki won't wake...{nl}
+It's as if she's dead...{waitkey}{ret}
+</message>
+  <message offset="393c">
+Nanjo: Where are you going?{nl}
+Do you mean to leave{nl}
+Sonomura like this?{waitkey}{ret}
+</message>
+  <message offset="3968">
+Obtained the Green Compact.{waitkey}{ret}
+</message>
+  <message offset="3984">
+Obtained the{nl}
+Broken Compact.{waitkey}{ret}
+</message>
+  <message offset="39a0">
+The Mirror of Chaos is{nl}
+shattered... What could have{nl}
+happened in the town of{nl}
+Maki's heart...{waitkey}{ret}
+</message>
+  <message offset="39dc">
+It's the 'Door to Paradise'{nl}
+Maki painted... What feelings{nl}
+did she paint this{nl}
+picture with...{waitkey}{ret}
+</message>
+  <message offset="3a18">
+It's a hologram of the{nl}
+Deva System. It seems Maki{nl}
+is linked directly to{nl}
+the system.{waitkey}{ret}
+</message>
+</scene>

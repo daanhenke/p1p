@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="54">
+  <message offset="141c">
+Nanjo: "...cure what ails you,{nl}
+reach for Disick~"{waitkey}What is this jingle?!{nl}
+It'll brainwash you!{waitkey}{ret}
+</message>
+  <message offset="1458">
+Nanjo: The only thing you can{nl}
+trust is your own strength...{nl}
+A sound way of thinking.{waitkey}{ret}
+</message>
+  <message offset="1488">
+Mark: So this is Tadashi's{nl}
+uncle's shop, huh.{waitkey}{clearbox}He said his family runs a{nl}
+shop in Mikage Sun Mall,{nl}
+right?{waitkey}{ret}
+</message>
+  <message offset="14cc">
+Mark: Kids these days really{nl}
+have it together.{waitkey}{ret}
+</message>
+  <message offset="14ec">
+Yukino: A tree no one's ever{nl}
+seen... that's intriguing.{waitkey}{ret}
+</message>
+  <message offset="150c">
+Yukino: It's a wonder{nl}
+Sonomura's mom even made it{nl}
+to the shrine.{waitkey}If she'd collapsed on the{nl}
+way, she might've ended up{nl}
+demon prey...{wait_fr:32} I suppose.{waitkey}{ret}
+</message>
+  <message offset="1564">
+Elly: I, too, wish to unravel{nl}
+this mystery with my own{nl}
+hands.{waitkey}It's a chance to put all I've{nl}
+learned to good use, after{nl}
+all.{waitkey}{ret}
+</message>
+  <message offset="15bc">
+Shopkeeper: Are you all{nl}
+friends of my nephew Tadashi?{nl}
+If so, I'll give you a deal!{waitkey}{ret}
+</message>
+  <message offset="15f4">
+Shopkeeper: I'm not the least{nl}
+bit scared of demons, no~{waitkey}{clearbox}Those things are bound to be{nl}
+a trick of the eye or some{nl}
+kind of hoax!{waitkey}{ret}
+</message>
+  <message offset="164c">
+Customer: When I went to the{nl}
+park, there was a tree I'd{nl}
+never seen before. It's neat,{nl}
+why not go have a look?{waitkey}{ret}
+</message>
+  <message offset="1688">
+Shopkeeper: That's my private{nl}
+room over there~ So you're{nl}
+not allowed in, okay~{waitkey}{ret}
+</message>
+  <message offset="16c4">
+Customer: The TV and radio{nl}
+are both dead, and my parents{nl}
+are cowering under the{nl}
+covers...{waitkey}In the end, you've just got{nl}
+to sort things out yourself.{waitkey}{ret}
+</message>
+</scene>

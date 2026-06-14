@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="96">
+  <message offset="12bc">
+Kaneda: What are the police{nl}
+doing! I pay more taxes than{nl}
+most people!{waitkey}At a time like this, isn't it{nl}
+only right they come to me{nl}
+first of all?{waitkey}If anything happens to my{nl}
+fortune, I'll sue!{waitkey}{ret}
+</message>
+  <message offset="1340">
+Elly: Everyone pays taxes,{nl}
+surely.{waitkey}I don't think there's any{nl}
+need to boast about it,{nl}
+is there?{waitkey}{ret}
+</message>
+  <message offset="1380">
+Kaneda: The nerve of this{nl}
+stuck-up little girl!{waitkey}Now get off my property{nl}
+this instant!{waitkey}{ret}
+</message>
+  <message offset="13c8">
+Nanjo: Money but no class...{nl}
+is it. Good grief, what a{nl}
+trying woman.{waitkey}{ret}
+</message>
+  <message offset="13f4">
+Kaneda: Oh, the young Nanjo{nl}
+master!{waitkey}Listen, do have your father{nl}
+tell the police that Katsue{nl}
+Kaneda needs help, won't you.{waitkey}Please, I'm begging you!{waitkey}{ret}
+</message>
+</scene>

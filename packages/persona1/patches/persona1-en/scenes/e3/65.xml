@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="65">
+  <message offset="36dc">
+Trish: Hi! I'm Trish!{nl}
+This is the Fountain of{nl}
+Recovery!{waitkey}{clearbox}The world runs on give and{nl}
+take! For the right price,{nl}
+I'll Recover anything!{waitkey}{ret}
+</message>
+  <message offset="3750">
+What can I do for you?{nl}
+{ctl0e:17}{ret}
+</message>
+  <message offset="3764">
+Trish: OK!{waitkey}{ret}
+</message>
+  <message offset="3778">
+Trish: Let's see, the going{nl}
+rate for healing these days{nl}
+is about this much, so for{nl}
+everyone...{waitkey}{ret}
+</message>
+  <message offset="37b0">
+It'll cost 1000 yen, okay?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="37cc">
+Trish: Thanks! All right,{nl}
+I'll heal you up!
+</message>
+  <message offset="380c">
+{nl}
+{nl}
+Pain, pain, fly away~!
+</message>
+  <message offset="3858">
+{ret}
+</message>
+  <message offset="38c0">
+Trish: Phew... That's all!{nl}
+You're all better now!
+</message>
+  <message offset="38f8">
+{ret}
+</message>
+  <message offset="3924">
+Trish: Boo~! You don't have{nl}
+any money?! Trish doesn't{nl}
+like broke people!{waitkey}{clearbox}Come back after you've saved{nl}
+up some money. Bye-bye!{waitkey}{ret}
+</message>
+</scene>

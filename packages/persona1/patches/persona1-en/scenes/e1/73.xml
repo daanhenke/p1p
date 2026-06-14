@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="73">
+  <message offset="1564">
+Yukino: Whoa?!{nl}
+O-outer space?! What is up{nl}
+with this room???{waitkey}{clearbox}!?{nl}
+Who are you...?{waitkey}{ret}
+</message>
+  <message offset="15b4">
+???: Um...{nl}
+nice to meet you, everyone.{nl}
+I'm "Kumi Hirose," entrusted{waitkey}with guarding this tower{waitkey}{clearbox}by the Snow Queen.{waitkey}{clearbox}Um... and so, I've been{nl}
+ordered to kill you all,{nl}
+but...{waitkey}{clearbox}...how about it?{nl}
+I don't really feel like it,{waitkey}{clearbox}so why not surrender quietly{nl}
+and live happily with us{nl}
+in the dream world?{waitkey}{clearbox}...I'll at least spare{nl}
+your lives?{waitkey}{ret}
+</message>
+  <message offset="16a4">
+Nanjo: What's this?{nl}
+"I'm Kumi Hirose"?{waitkey}{clearbox}A girl like you, the guardian{nl}
+of this tower?? Don't be{nl}
+absurd. Don't make me laugh!{waitkey}{clearbox}You seem to be wearing{nl}
+our school's uniform...{waitkey}{clearbox}Are you our student?{nl}
+What year? If you're mocking{nl}
+us with a bad joke,{nl}
+I won't forgive it!{waitkey}{clearbox}Answer me! What are you{nl}
+doing here?!{waitkey}{ret}
+</message>
+  <message offset="1774">
+Brown: Hey hey hey...{nl}
+she's wearing our uniform,{nl}
+but who is she?{waitkey}{clearbox}A cute girl like you, the{nl}
+boss here? Quit joking...{waitkey}Am I dreaming?{waitkey}{ret}
+</message>
+  <message offset="17e4">
+Ayase: What are you saying?!{nl}
+This four-eyes!{nl}
+Don't mess with us!{waitkey}{clearbox}A gloomy, super-weak-looking{nl}
+girl like you couldn't be{nl}
+the enemy boss!!{waitkey}{ret}
+</message>
+  <message offset="1844">
+Kumi: Heeheehee...{nl}
+I'd rather you didn't judge{nl}
+people by looks alone...{waitkey}{clearbox}I'll kill you right now...{nl}
+you little fools?{waitkey}{clearbox}It's always been this way...{nl}
+No one ever tries to{nl}
+listen to me!{waitkey}{clearbox}Humans really are just{nl}
+a pack of fools...{waitkey}{clearbox}Enough. Vanish from{nl}
+before me, would you.{waitkey}{ret}
+</message>
+  <message offset="18fc">
+Nanjo: Wh-?! This bloodlust!!{nl}
+Don't tell me she's{nl}
+really...!? Is she{nl}
+going to... attack?{waitkey}{ret}
+</message>
+  <message offset="193c">
+Elly: Oh... My...{nl}
+What an ominous... aura...{nl}
+Is she really...!?{waitkey}{clearbox}Everyone!{nl}
+She's coming!!{waitkey}{ret}
+</message>
+  <message offset="1988">
+Kumi: Heehee...{nl}
+"Lord Hypnos"...{nl}
+"Lord Hypnos"...{waitkey}{clearbox}...my prince...{nl}
+"Lord Hypnos!"{nl}
+Beat them down for me!{waitkey}{clearbox}They're the bad ones who{nl}
+came to torment me!{waitkey}{ret}
+</message>
+  <message offset="1a08">
+Yukino: A-a Persona?!{waitkey}{clearbox}I see... so that's{nl}
+how it is...{nl}
+No holding back, everyone!{nl}
+Here we go!{waitkey}{ret}
+</message>
+  <message offset="1a4c">
+Yukino: ...Hmph!{nl}
+This looks like the goal.{waitkey}{clearbox}That's right, isn't it?!{nl}
+"Kumi Hirose," was it!{waitkey}{clearbox}Sorry to keep you waiting...{nl}
+Now... we'll teach you{nl}
+a lesson!{waitkey}{ret}
+</message>
+  <message offset="1aac">
+Kumi: So you finally{nl}
+made it this far...{waitkey}{clearbox}Bound by the dull frame{nl}
+of reality,{waitkey}{clearbox}not knowing - nor caring to{nl}
+believe - that a paradise{nl}
+called "dreams" exists{waitkey}in this world...{nl}
+foolish people...!{waitkey}{ret}
+</message>
+  <message offset="1b28">
+Nanjo: And who's the fool...?!{nl}
+You who've walked a life{nl}
+knowing only how to run,{waitkey}{clearbox}then fled from the very act{nl}
+of running itself -{nl}
+you loser!{waitkey}{clearbox}There's nothing left to say!{nl}
+Come at us!{waitkey}{ret}
+</message>
+  <message offset="1ba4">
+Brown: Kumi-chan...{nl}
+fighting a cute girl{nl}
+like you...{waitkey}{clearbox}it pains me!{nl}
+But it can't be helped...{waitkey}{clearbox}For the school!{waitkey}{clearbox}For justice!{waitkey}{clearbox}For my own glory!!{waitkey}{clearbox}Just go down already!{waitkey}{ret}
+</message>
+  <message offset="1c38">
+Ayase: Heh-heh!{nl}
+A crammer like you!{waitkey}{clearbox}If the five of us Ayase{nl}
+gang up on you, it's an{nl}
+easy win!{waitkey}{clearbox}Apologize now while you can!{waitkey}{ret}
+</message>
+  <message offset="1c94">
+Kumi: Foolish people who{nl}
+judge others by nothing{nl}
+but appearances...{waitkey}{clearbox}"Lord Hypnos!"{waitkey}{clearbox}Help me!!{waitkey}{clearbox}Beat them down!!{waitkey}{ret}
+</message>
+  <message offset="1cfc">
+Nanjo: What! That's...!?{nl}
+The one from the{nl}
+"Anti-Dream World"!{waitkey}{clearbox}Wasn't it just a product{nl}
+of her dream?{waitkey}{ret}
+</message>
+  <message offset="1d40">
+Elly: It can't be!?{nl}
+Kumi's... Persona!?{waitkey}{clearbox}The Hypnos in the Anti-Dream{nl}
+World wasn't a product of{nl}
+Kumi's dream after all!{waitkey}{ret}
+</message>
+  <message offset="1db0">
+Kumi: "Lord Hypnos!"{waitkey}{clearbox}Now, beat down those who{nl}
+came even into my dream{nl}
+to torment me!!{waitkey}{ret}
+</message>
+  <message offset="1df8">
+Yukino: Ha! ...If she's{waitkey}{clearbox}a Persona user, then{nl}
+there's no need to hold back!{waitkey}{clearbox}Everyone! Here we go!!{waitkey}{ret}
+</message>
+</scene>

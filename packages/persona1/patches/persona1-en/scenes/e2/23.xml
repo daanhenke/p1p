@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="23">
+  <message offset="13a8">
+
+</message>
+  <message offset="13f0">
+Nanjo: Honestly, you lot are{nl}
+so slow.{wait_fr:32} Be brisk in your{nl}
+movements, like me!{wait_fr:32} As they{nl}
+say, youth fades fast.{waitkey}{ret}
+</message>
+  <message offset="1428">
+Nanjo: What is it, {ctl0f:1}!{nl}
+Do you need something?!{nl}
+If not, go away!!!{waitkey}{ret}
+</message>
+  <message offset="145c">
+Mark: That Nanjo jerk really{nl}
+ticks me off~ Someday I'll{nl}
+get some dirt on him.{waitkey}{ret}
+</message>
+  <message offset="14a4">
+Mark: Young master~!{wait_fr:21}{nl}
+Get it? Young master~?{wait_fr:21}{nl}
+Bffft{wait_fr:32} this one's a winner~!{waitkey}{ret}
+</message>
+  <message offset="14c8">
+Yukino: Inaba and Nanjo,{nl}
+both of them are just kids.{waitkey}{ret}
+</message>
+  <message offset="14f8">
+Yukino: That old man Yamaoka{nl}
+really does dote on Nanjo,{nl}
+huh.{waitkey}{ret}
+</message>
+  <message offset="152c">
+Student: A weird old man was{nl}
+standing by the school gate{nl}
+earlier. Creepy, huh.{waitkey}{ret}
+</message>
+  <message offset="1564">
+Student: Hey, hey, isn't{nl}
+Nanjo kind of scary? Cool, or{nl}
+rather, so coolheaded.{waitkey}{ret}
+</message>
+</scene>

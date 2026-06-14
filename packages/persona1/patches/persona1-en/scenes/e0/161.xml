@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="161">
+  <message offset="1a78">
+Maki's Mother: Maki...{nl}
+Is that you, Maki?!{waitkey}{ret}
+</message>
+  <message offset="1a98">
+Maki: Waaaaaaaaah!! Mama!!{waitkey}{ret}
+</message>
+  <message offset="1ab8">
+Maki's Mother: I'm sorry,{nl}
+Maki. I'm so sorry...{waitkey}{ret}
+</message>
+  <message offset="1ad8">
+Maki: Mama!! Mama!!{nl}
+Waaaaaaaaaaaaah!!{waitkey}{ret}
+</message>
+  <message offset="1b08">
+Mark: You calmed down?{waitkey}{ret}
+</message>
+  <message offset="1b20">
+Maki: ...mm-hm.{waitkey}{ret}
+</message>
+  <message offset="1b30">
+Mark: Listen, little Maki,{nl}
+we wanna save Sonomura.{nl}
+Can you do something?{waitkey}I know it sounds weird.{waitkey}{ret}
+</message>
+  <message offset="1b74">
+Maki: I can't...{nl}
+There's nothing I can do.{waitkey}{ret}
+</message>
+  <message offset="1b98">
+Nanjo: Why not?
+</message>
+  <message offset="1bbc">
+You're the same Sonomura,{nl}
+aren't you?{waitkey}{ret}
+</message>
+  <message offset="1bfc">
+Maki: Aki is trying to{nl}
+erase this world...{waitkey}Aki went off to the{nl}
+worst me of all.{waitkey}{ret}
+</message>
+  <message offset="1c18">
+Mark: There's still{nl}
+ANOTHER Sonomura?!{waitkey}
+</message>
+  <message offset="1c98">
+Maki: The worst me is{nl}
+called Pandora...{waitkey}Aki undid Pandora's seal.{waitkey}{clearbox}Swallowed up by Pandora,{nl}
+Aki is trying to erase{nl}
+this world - even though{waitkey}the real me will die too...
+</message>
+  <message offset="1cc0">
+{ret}
+</message>
+  <message offset="1cfc">
+Reiji: ...{wait_fr:60}{nl}
+This Pandora -
+</message>
+  <message offset="1d38">
+where is it?{waitkey}{ret}
+</message>
+  <message offset="1d68">
+Elly: What?!{nl}
+Where is this Pandora?!{waitkey}{ret}
+</message>
+  <message offset="1d90">
+Elly: What?!{nl}
+Where is this Pandora?!{waitkey}{ret}
+</message>
+  <message offset="1dc0">
+Brown: What?!{nl}
+Where is this Pandora?!
+</message>
+  <message offset="1e04">
+{ret}
+</message>
+  <message offset="1e48">
+Ayase: Wait, seriously?!{nl}
+Where is this thing?!{waitkey}{ret}
+</message>
+  <message offset="1e7c">
+Nanjo: The school!{nl}
+Beyond that door in the{nl}
+library. That's it, right?{waitkey}{ret}
+</message>
+  <message offset="1ec8">
+Maki: Mm-hm.{nl}
+But to get in there, you{nl}
+need the three compacts{waitkey}and the power of the{nl}
+healthy me.{waitkey}{ret}
+</message>
+  <message offset="1f10">
+Nanjo: Healthy... you mean{nl}
+the ideal Sonomura?{waitkey}
+</message>
+  <message offset="1f48">
+The three compacts are the{nl}
+ones we have, right?
+</message>
+  <message offset="1f78">
+{ret}
+</message>
+  <message offset="1fa8">
+Reiji: {ctl0f:1}, you've got{nl}
+two of them, right?{nl}
+Red and green... one short.{waitkey}{ret}
+</message>
+  <message offset="1fd4">
+Elly: {ctl07:1},
+</message>
+  <message offset="202c">
+ you had two of them,{nl}
+didn't you? Red &amp; Green...{waitkey}
+</message>
+  <message offset="205c">
+we're one short.{waitkey}{ret}
+</message>
+  <message offset="208c">
+Elly: {ctl07:1}, didn't you{nl}
+have two? Red and Green...{waitkey}We're one short.{waitkey}{ret}
+</message>
+  <message offset="20a4">
+Brown: {ctl08:65281}Didn't you have{nl}
+two? Red and green...{nl}
+we're one short.{waitkey}{ret}
+</message>
+  <message offset="211c">
+Ayase: {ctl08:65281}Didn't you have{nl}
+two? Red and green?{nl}
+That's one short!{waitkey}{ret}
+</message>
+  <message offset="214c">
+Ayase: {ctl0f:1}, didn't you{nl}
+have two? Red and green?{nl}
+That's one short!
+</message>
+  <message offset="218c">
+{ret}
+</message>
+  <message offset="21ec">
+Nanjo: Where's the last{nl}
+compact, and the ideal{nl}
+Sonomura?{waitkey}{ret}
+</message>
+  <message offset="2200">
+Maki: First, please save{nl}
+the healthy me...
+</message>
+  <message offset="2218">
+The bad one is me...{waitkey}{clearbox}The healthy me is crying{nl}
+deep in this forest...{waitkey}{ret}
+</message>
+  <message offset="222c">
+Maki's Mother: There's a{nl}
+Maki beyond this door too?...{nl}
+I'm coming as well!{waitkey}{ret}
+</message>
+  <message offset="2248">
+Mark: We've come this far.{nl}
+We good, everyone?{nl}
+Then let's go, {ctl0f:1}!{waitkey}{ret}
+</message>
+  <message offset="2270">
+Maki: I'm sorry... for{nl}
+everything, I...{waitkey}{ret}
+</message>
+  <message offset="22b4">
+Maki: No, it's okay now.
+</message>
+  <message offset="22dc">
+I'm the one who should{nl}
+apologize... I'm sorry.{waitkey}{clearbox}I'm the ideal Maki{nl}
+Sonomura, after all.{nl}
+I can't keep moping.{waitkey}{clearbox}Now, tell me where the{nl}
+last compact is.{waitkey}{ret}
+</message>
+  <message offset="22f4">
+Maki: Mm-hm.{nl}
+The third compact is held{nl}
+by the real me.{waitkey}{ret}
+</message>
+  <message offset="2358">
+Mark: The real Sonomura?{nl}
+If it's hers, that's the{nl}
+green one, right?{waitkey}{ctl0f:1}'s got that one, yeah?{waitkey}{ret}
+</message>
+  <message offset="2374">
+Maki: That's the one from{nl}
+the real world. Right now{nl}
+the real me's consciousness{waitkey}is at Araya's Rock Cave.{nl}
+The last one is held by{nl}
+the real me's mind.{waitkey}{ret}
+</message>
+  <message offset="23c4">
+Maki: Araya's Rock Cave?{waitkey}{ret}
+</message>
+  <message offset="23f8">
+Maki: It's behind the shrine.{waitkey}{ret}
+</message>
+  <message offset="2424">
+Maki's Mother: I'll come{nl}
+too...{waitkey}{ret}
+</message>
+  <message offset="2444">
+Maki: Mama,{nl}
+wait here, please.
+</message>
+  <message offset="2470">
+{ret}
+</message>
+  <message offset="24ac">
+Maki's Mother: Why?{nl}
+Why not, Maki?!{waitkey}{ret}
+</message>
+  <message offset="24f4">
+Maki: From here on, I want{nl}
+to manage on my own...{nl}
+I've got friends to help me,{waitkey}so I'll be okay.{waitkey}{ret}
+</message>
+  <message offset="254c">
+Maki's Mother: Maki...{nl}
+All right... Be sure to{nl}
+come back to me.{waitkey}{ret}
+</message>
+  <message offset="25a8">
+Maki: Take care of Mama{nl}
+for me, okay?{waitkey}{ret}
+</message>
+  <message offset="25dc">
+Maki: Mm-hm...{nl}
+Be careful, me...{waitkey}{clearbox}When the three compacts{nl}
+are together, chant the{nl}
+spell before Pandora's door.{waitkey}
+</message>
+  <message offset="2614">
+Then the door will open.
+</message>
+  <message offset="2674">
+{ret}
+</message>
+  <message offset="26d4">
+Nanjo: Shall we go, then?{nl}
+To Araya Shrine.{waitkey}{ret}
+</message>
+  <message offset="2734">
+Maki: Mai-chan is me too,{nl}
+isn't she...{waitkey}{clearbox}I was...{wait_fr:88} pretty cute{nl}
+when I was little, huh.{nl}
+Saying it myself? Heh.{waitkey}{ret}
+</message>
+  <message offset="2790">
+Mark: Man, my head's{nl}
+getting all tangled up.{nl}
+How many Sonomuras ARE there?{waitkey}{ret}
+</message>
+  <message offset="27e0">
+Mark: Heh... so Sonomura{nl}
+was cute even as a{nl}
+little kid.{waitkey}{ret}
+</message>
+  <message offset="2830">
+Nanjo: Further in, huh...{nl}
+Let's hurry, {ctl0f:1}.{waitkey}{ret}
+</message>
+  <message offset="2854">
+Nanjo: Truly a dialogue{nl}
+with oneself. A strange{nl}
+sight indeed.{waitkey}{ret}
+</message>
+  <message offset="2884">
+Reiji: ...What?{wait_fr:88}{nl}
+I've got a "gentle face"?{nl}
+Save the jokes for your mug.{waitkey}{ret}
+</message>
+  <message offset="28b4">
+Reiji: ...What?{nl}
+My "mouth is smiling"?!{nl}
+Don't get the wrong idea!{waitkey}I've got a toothache.{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="7">
+  <message offset="1330">
+Tamaki: Hey! Why'd you go{nl}
+messing up the clubroom!{nl}
+Tadashi, you idiot!{waitkey}{ret}
+</message>
+  <message offset="135c">
+Tadashi: Aah, can't hear ya.{nl}
+It's our room, our call.{nl}
+Sheesh, fuming every day.{waitkey}You ugly Tamaki!{waitkey}{ret}
+</message>
+  <message offset="13a4">
+Tamaki: What did you say!{nl}
+I'm tearing this trash down{nl}
+right now!{waitkey}{ret}
+</message>
+  <message offset="13cc">
+Tadashi: Hey! What're you{nl}
+doing to my goddess!{waitkey}{ret}
+</message>
+  <message offset="13f0">
+Tamaki: Goddess my foot!{nl}
+You perv! Perv perv{nl}
+perv perv perv!{waitkey}{ret}
+</message>
+  <message offset="1424">
+Tadashi: Gah! You ugly hag!{nl}
+Ugly ugly ugly ugly{nl}
+ugly ugly ugly!{waitkey}{ret}
+</message>
+  <message offset="1458">
+Club member: Ugh, these two.{nl}
+Every single day with this.{nl}
+Don't they ever get tired?{waitkey}{ret}
+</message>
+  <message offset="148c">
+Tamaki: Huff, huff, huff...{wait_fr:88}{nl}
+What is it?{nl}
+I'm busy right now.{waitkey}{ret}
+</message>
+  <message offset="14c0">
+Tadashi: Wheeze, wheeze...{wait_fr:88}{nl}
+What do you want?{nl}
+I'm busy right now.{waitkey}{ret}
+</message>
+  <message offset="14f4">
+{color:3}Tamaki{nl}
+A transfer student in the{nl}
+fencing club. She fights with{nl}
+Tadashi every day.{color:0}{waitkey}{ret}
+</message>
+  <message offset="152c">
+{color:2}Tadashi{nl}
+A slacker in the fencing{nl}
+club. He fights with Tamaki{nl}
+every day.{color:0}{waitkey}{ret}
+</message>
+  <message offset="1568">
+Nanjo: Honestly, the idiots{nl}
+in our athletic clubs...{nl}
+utterly without restraint.{waitkey}{ret}
+</message>
+  <message offset="15a0">
+Mark: Weak paint job. If{nl}
+you're gonna bomb graffiti,{nl}
+you gotta put more into it!{waitkey}{ret}
+</message>
+  <message offset="15d8">
+Yukino: Leave 'em be.{nl}
+They say the more you fight,{nl}
+the closer you are, right?{waitkey}{ret}
+</message>
+  <message offset="1608">
+Female member: Tamaki's a{nl}
+transfer, but she's good -{nl}
+placed 3rd at a tournament.{waitkey}{clearbox}But she doesn't like talking{nl}
+about her old school. Wonder{nl}
+if something happened.{waitkey}{ret}
+</message>
+</scene>

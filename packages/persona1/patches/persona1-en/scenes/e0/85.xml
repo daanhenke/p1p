@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="85">
+  <message offset="252c">
+Maki: That man in the mask...{nl}
+what on earth is he?{waitkey}{ret}
+</message>
+  <message offset="2554">
+Nanjo: I see. So you've{nl}
+met the masked man{nl}
+as well, Sonomura.{waitkey}{ret}
+</message>
+  <message offset="2588">
+Mark: How come there's always{nl}
+a butterfly flitting around?{waitkey}{ret}
+</message>
+  <message offset="25ac">
+Elly: This world is{nl}
+most intriguing.{waitkey}{ret}
+</message>
+  <message offset="25d0">
+Brown: Meeting a creepy old{nl}
+geezer like that is{nl}
+nothing to be glad about!{waitkey}{ret}
+</message>
+  <message offset="2600">
+Ayase: That dream with the{nl}
+butterfly man-{nl}
+Ayase's had it too.{waitkey}{ret}
+</message>
+  <message offset="2628">
+Reiji: That butterfly really{nl}
+has nothing to do with him?{waitkey}{ret}
+</message>
+  <message offset="2650">
+Mark: Nobody's here...{wait_fr:48}{nl}
+You think that Kurouri guy{nl}
+played us for fools?{waitkey}{ret}
+</message>
+  <message offset="2690">
+Nanjo: But the Kurouri of{nl}
+this world seemed{nl}
+trustworthy enough...{wait_fr:32}{nl}
+Hm? What's that?{waitkey}{ret}
+</message>
+  <message offset="26c8">
+Nanjo: ...{wait_fr:20}Hey, Inaba,{nl}
+that butterfly...{waitkey}{ret}
+</message>
+  <message offset="26e8">
+Elly: Oh, it's that butterfly-{nl}
+the one from when{nl}
+Maki's mother collapsed.{waitkey}{ret}
+</message>
+  <message offset="2718">
+Ayase: Pretty butterfly, huh?{nl}
+Should we catch it{nl}
+and keep it as a pet?{waitkey}{ret}
+</message>
+  <message offset="2740">
+Brown: Nanjo, you into{nl}
+butterflies or somethin'?{waitkey}{clearbox}Don't tell me you're the{nl}
+type with a room full of{nl}
+pinned bugs, grinning at 'em?{waitkey}{ret}
+</message>
+  <message offset="27a0">
+Reiji: {wait_fr:32}...Don't tell me{nl}
+it's his trap?{wait_fr:21}{nl}
+One funny move and I'll{nl}
+catch it and crush it.{waitkey}{ret}
+</message>
+  <message offset="27e4">
+Maki: No...{wait_fr:37}{nl}
+My head's{wait_fr:37}{nl}
+spinning...!{waitkey}{ret}
+</message>
+</scene>

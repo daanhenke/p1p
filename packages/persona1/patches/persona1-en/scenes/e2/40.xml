@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="40">
+  <message offset="15b8">
+Mark's Mom: Ma-kun! You came{nl}
+at just the right time!{waitkey}{clearbox}Mommy's out shopping, but the{nl}
+bags are heavy, so Ma-kun,{nl}
+come along with me!{waitkey}{ret}
+</message>
+  <message offset="1614">
+Nanjo: Ohhh~...{wait_fr:53} So you're{nl}
+this "Ma-kun," are you?{nl}
+Eh, Masao Inaba...?{waitkey}{ret}
+</message>
+  <message offset="1650">
+Mark: C-cut it out, Ma! I'm{nl}
+busy here! Go away, would ya!{waitkey}{ret}
+</message>
+  <message offset="1688">
+Mark's Mom: Ma-kun! You{nl}
+mustn't call your mommy{nl}
+an old hag!?{waitkey}{clearbox}And here I was thinking I'd{nl}
+buy you a nice shirt or{nl}
+something!{waitkey}{ret}
+</message>
+  <message offset="16f4">
+Yukino: "Ma-kun," huh...{nl}
+Just as embarrassing a name{nl}
+as "young master."{waitkey}{ret}
+</message>
+  <message offset="1724">
+Mark: Shut it, Yukino!{waitkey}{ret}
+</message>
+  <message offset="1738">
+Mark's Mom: Oh, are these{nl}
+your friends? But this shop{nl}
+is pricey~ Hey Ma-kun, take{nl}
+a little look!{waitkey}{ret}
+</message>
+  <message offset="1774">
+Mark: It's got nothing to do{nl}
+with me! Hey, {ctl0f:1}!{nl}
+We're leaving!{waitkey}{ret}
+</message>
+  <message offset="17a0">
+Mark's Mom: Honestly, that{nl}
+boy...{wait_fr:32} Everyone, do be{nl}
+good friends with my Ma-kun.{waitkey}{ret}
+</message>
+  <message offset="17dc">
+Mark: Surely{wait_fr:21} she's{wait_fr:21}{nl}
+gone by now...{waitkey}{ret}
+</message>
+  <message offset="1800">
+Mark's Mom: Oh my, Ma-kun!{nl}
+You came back for me~? Why,{nl}
+that's perfect timing~!{waitkey}{ret}
+</message>
+  <message offset="183c">
+Mark: Aw crap~!{wait_fr:21} She's still{nl}
+here! Let's get out, {ctl0f:1}!{waitkey}{ret}
+</message>
+  <message offset="186c">
+Mark's Mom: Ma-kun!{waitkey}{ret}
+</message>
+  <message offset="1880">
+Mark: Gah!!{wait_fr:32}{nl}
+M-Mom!{waitkey}{ret}
+</message>
+  <message offset="19c8">
+Mark: Hey...{wait_fr:32}{nl}
+Is nobody here...!{waitkey}{ret}
+</message>
+  <message offset="19ec">
+Mark: You're hiding around{nl}
+here, right? It's me, Masao.{nl}
+I'm not a demon.{waitkey}It's okay, come on out. I'll{nl}
+take you all the way home.{waitkey}{ret}
+</message>
+  <message offset="1a44">
+Mark: {wait_fr:21}Mom...{wait_fr:21}{waitkey}{ret}
+</message>
+  <message offset="1a5c">
+Mark: Ah, {ctl0f:1}, it's nothing.{nl}
+I'm fine, fine.{waitkey}{clearbox}My old lady definitely went{nl}
+home before anything could{nl}
+happen to her.{waitkey}{clearbox}She's probably glued to some{nl}
+tabloid show, making a fuss{nl}
+right about now.{wait_fr:32} Let's go!{waitkey}{ret}
+</message>
+  <message offset="1ae4">
+There seems to be no one{nl}
+here...{waitkey}{ret}
+</message>
+</scene>

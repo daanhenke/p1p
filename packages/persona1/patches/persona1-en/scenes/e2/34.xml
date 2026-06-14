@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="34">
+  <message offset="1364">
+Nanjo: Inaba seems to be{nl}
+acquainted with those{nl}
+police officers.{waitkey}Though he doesn't exactly{nl}
+seem glad to see them.{waitkey}{ret}
+</message>
+  <message offset="13a8">
+Mark: Yeah, well... so-so...{waitkey}{ret}
+</message>
+  <message offset="13c4">
+Mark: Agh, {ctl0f:1}! Don't drag{nl}
+me to the cops of all places!{waitkey}{ret}
+</message>
+  <message offset="13ec">
+Yukino: You should've seen{nl}
+Mark's face. Anyway, aren't{nl}
+we going to the hospital?{waitkey}{ret}
+</message>
+  <message offset="141c">
+Inspector: Oh, if it isn't{nl}
+Inaba. You're attending high{nl}
+school properly, I hope?{waitkey}You're not causing your{nl}
+teachers any trouble?{waitkey}{ret}
+</message>
+  <message offset="1470">
+Inspector: Still, I'm the one{nl}
+who hauled you in once. So{nl}
+there's the matter of{nl}
+responsibility...{waitkey}{ret}
+</message>
+  <message offset="14a0">
+Policewoman: Inspector,{nl}
+that's too harsh. Inaba's{nl}
+a good kid, aren't you?{waitkey}{ret}
+</message>
+  <message offset="14d0">
+Policewoman: You're a friend{nl}
+of Inaba's, aren't you? I'm{nl}
+fond of him. Don't you think{nl}
+he's a good kid?{waitkey}{ret}
+</message>
+</scene>

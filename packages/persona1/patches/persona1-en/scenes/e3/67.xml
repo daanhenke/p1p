@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="67">
+  <message offset="149c">
+Shopkeeper: ...WELCOME...{waitkey}{ret}
+</message>
+  <message offset="14b8">
+Yukino: It's all practical{nl}
+clothing. More like armor{nl}
+than clothes.{waitkey}{ret}
+</message>
+  <message offset="14dc">
+Ayase: Hey~ this is so cool~{color:3}♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="1500">
+Nanjo: The pricier the item,{nl}
+the sturdier it looks.{waitkey}{ret}
+</message>
+  <message offset="1520">
+Brown: Oh ho, this one feels{nl}
+like a perfect fit for me.{waitkey}{clearbox}Heh, anything looks good on{nl}
+me, after all. Nyahahaha.{waitkey}{ret}
+</message>
+  <message offset="1574">
+Elly: Armor, perhaps?{waitkey}It's a bit more reassuring{nl}
+than wearing no armor at all.{waitkey}{ret}
+</message>
+</scene>

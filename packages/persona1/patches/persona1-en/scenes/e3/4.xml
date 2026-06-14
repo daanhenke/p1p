@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="4">
+  <message offset="18e8">
+Female Student: Eee, look,{nl}
+look~ This dress is so cute~{color:3}♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="191c">
+Female Student: Eee, look,{nl}
+look~ This skirt is so{nl}
+cheap~{color:3}♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="1950">
+Himeno: Ah... cute clothes...{nl}
+ah... too expensive after{nl}
+all...{waitkey}{ret}
+</message>
+  <message offset="1974">
+Himeno: U-um... do you think{nl}
+they'd... buy my uniform off{nl}
+me?{waitkey}{ret}
+</message>
+  <message offset="19a4">
+{color:3}Yuko Himeno{nl}
+Maki's friend. An admirable{nl}
+girl working a job for her{nl}
+family's sake.{color:0}{waitkey}{ret}
+</message>
+  <message offset="19ec">
+Shopkeeper: ...WELCOME...{waitkey}{ret}
+</message>
+  <message offset="1a08">
+Shopkeeper: ...WELCOME...{waitkey}{ret}
+</message>
+  <message offset="1a24">
+Yukino: It's all practical{nl}
+clothing. More like armor{nl}
+than clothes.{waitkey}{ret}
+</message>
+  <message offset="1a48">
+Yukino: Is this shopkeeper{nl}
+from Demon Mountain too, like{nl}
+the weapon seller across the{nl}
+way?{waitkey}{ret}
+</message>
+  <message offset="1a80">
+Ayase: Hey~ this is so cool~{color:3}♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="1aa4">
+Ayase: Aw~ have I put on{nl}
+weight lately~{waitkey}{ret}
+</message>
+  <message offset="1ac0">
+Nanjo: The pricier the item,{nl}
+the sturdier it looks.{waitkey}{ret}
+</message>
+  <message offset="1ae0">
+Nanjo: How many times this{nl}
+shop's armor has saved our{nl}
+lives.{waitkey}{clearbox}Even overcharged a bit, I{nl}
+can't complain.{waitkey}{ret}
+</message>
+  <message offset="1b28">
+Brown: Hey hey, what's with{nl}
+this shop, selling wild{nl}
+clothes at school?{waitkey}{clearbox}Ah well, the dress code{nl}
+hardly matters now anyway.{waitkey}{ret}
+</message>
+  <message offset="1b74">
+Brown: Even after school's{nl}
+back to normal, I'll wear{nl}
+these clothes to class.{waitkey}{ret}
+</message>
+  <message offset="1ba0">
+Elly: Armor, perhaps?{waitkey}It's a bit more reassuring{nl}
+than wearing no armor at all.{waitkey}{ret}
+</message>
+  <message offset="1bd8">
+Elly: If we died, business{nl}
+would dry up for them.{waitkey}{clearbox}Sure enough, they've stocked{nl}
+some fine things.{waitkey}{ret}
+</message>
+</scene>

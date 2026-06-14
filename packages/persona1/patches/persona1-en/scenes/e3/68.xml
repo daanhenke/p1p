@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="68">
+  <message offset="118c">
+Yukino: So the time limit is{nl}
+until the clock hands point{nl}
+to 12... Pretty harsh.{waitkey}{ret}
+</message>
+  <message offset="11c4">
+Ayase: Ever since we came to{nl}
+this tower, Ayase's been{nl}
+super sleepy!{waitkey}{ret}
+</message>
+  <message offset="11ec">
+Nanjo: That Snow Queen is{nl}
+likely watching us gather the{nl}
+"Mirror Shards" from somewhere{waitkey}and sneering at us.{waitkey}{ret}
+</message>
+  <message offset="1234">
+Brown: Hey? Aren't you, like,{nl}
+sleepy? No, really.{waitkey}
+</message>
+  <message offset="1264">
+Elly: What sort of foe is{nl}
+this Tower's Boss, I wonder?{waitkey}{ret}
+</message>
+</scene>

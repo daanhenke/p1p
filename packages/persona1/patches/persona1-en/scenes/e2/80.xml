@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="80">
+  <message offset="1274">
+Nanjo: If only I...{wait_fr:48} if only{nl}
+I'd seen her safely home{wait_fr:32}{nl}
+back then...{waitkey}{ret}
+</message>
+  <message offset="12b0">
+Mark: If we use this power,{nl}
+we should be able to pin down{nl}
+what caused all this!{waitkey}{ret}
+</message>
+  <message offset="12e8">
+Elly: Exciting...{wait_fr:32}{nl}
+Somehow this thrills me!{waitkey}Oh, listen to me{wait_fr:21}{nl}
+...do forgive me.{waitkey}{ret}
+</message>
+  <message offset="1338">
+Yukino: Making fools of us{nl}
+like this{wait_fr:48} I won't let it{nl}
+slide! I'll put everything{nl}
+back the way it was!{waitkey}{ret}
+</message>
+  <message offset="1374">
+Doctor: Damn it, why can't I{nl}
+get to the ICU?! There are{nl}
+patients there!{wait_fr:21} I have to{nl}
+treat young Sonomura...!{waitkey}{ret}
+</message>
+  <message offset="13c0">
+Nurse: The TV won't come on,{nl}
+and the phones won't connect!{nl}
+What in the world is going{nl}
+on?!{waitkey}{ret}
+</message>
+  <message offset="1400">
+Nurse: If only I could find{nl}
+the exam room, I could treat{nl}
+your injuries...{waitkey}But I don't even know where{nl}
+the exam room is anymore!{waitkey}All the rooms have shifted{nl}
+around into total chaos!{waitkey}{ret}
+</message>
+</scene>

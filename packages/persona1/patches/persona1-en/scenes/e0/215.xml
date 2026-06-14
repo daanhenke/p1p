@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="215">
+  <message offset="18a8">
+Pandora: Why won't you{nl}
+give up? All of you...{nl}
+How can you be so strong?{waitkey}{ret}
+</message>
+  <message offset="18dc">
+Maki: You already know{nl}
+the reason, don't you?{waitkey}{ret}
+</message>
+  <message offset="1900">
+Reiji: Because we're{nl}
+not alone...{waitkey}{ret}
+</message>
+  <message offset="1920">
+Elly: It's because we're{nl}
+not "I" but "We"...{nl}
+because we're not alone.{waitkey}{ret}
+</message>
+  <message offset="1950">
+Elly: It's because we're{nl}
+not "I" but "We"...{nl}
+because we're not alone.{waitkey}{ret}
+</message>
+  <message offset="197c">
+Brown: 'Cause us guys{nl}
+aren't alone.{waitkey}{ret}
+</message>
+  <message offset="199c">
+Ayase: 'Cause Ayase and{nl}
+the others aren't alone.{waitkey}{ret}
+</message>
+  <message offset="19b8">
+Mark: Heh... and besides,{nl}
+we believe in ourselves.{waitkey}{ret}
+</message>
+  <message offset="19e0">
+Nanjo: ...{nl}
+No one can live alone.{nl}
+When it hurts, look back -{waitkey}we'll always be there.{waitkey}{ret}
+</message>
+  <message offset="1a20">
+Maki: You and I are both{nl}
+part of the same{nl}
+Maki Sonomura...{waitkey}a friend to everyone here.{nl}
+Let's stop this - let's{nl}
+try our best together.{waitkey}{ret}
+</message>
+  <message offset="1a74">
+Pandora: Thank you...{waitkey}{ret}
+</message>
+  <message offset="1a88">
+Nanjo: It's over...{waitkey}{ret}
+</message>
+  <message offset="1a9c">
+Mark: Yeah...{waitkey}{ret}
+</message>
+  <message offset="1aac">
+Maki: Thank you all, truly.{nl}
+This is goodbye, but...{nl}
+I'll never forget you...{waitkey}{ret}
+</message>
+  <message offset="1ae4">
+Mark: Hey! Goodbye?{nl}
+What do you mean...{waitkey}{ret}
+</message>
+  <message offset="1afc">
+Maki: I'm a shadow of Maki{nl}
+Sonomura. I can't go{nl}
+with you all... It was{nl}
+really fun, though...{waitkey}{ret}
+</message>
+  <message offset="1b38">
+Mark: Hey! Sonomura!{nl}
+That's not fair!{wait_fr:88}{nl}
+Whoa!!{waitkey}{ret}
+</message>
+  <message offset="1b68">
+Maki: I'll send you all{nl}
+back to the real world...{waitkey}{ret}
+</message>
+  <message offset="1b88">
+Maki: {ctl07:1}...{nl}
+Got a sec?{waitkey}{ret}
+</message>
+  <message offset="1ba4">
+Maki: Thank you...{nl}
+Now and then, just{nl}
+remember me, okay?{waitkey}Farewell... I love you...{waitkey}{ret}
+</message>
+  <message offset="1be8">
+{ctl07:1}: ......{waitkey}{ret}
+</message>
+  <message offset="1bf8">
+Maki: Farewell... everyone...{nl}
+{wait_fr:88}Farewell... {ctl07:1}.{waitkey}{ret}
+</message>
+</scene>

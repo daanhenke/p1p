@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="145">
+  <message offset="1168">
+Student: Outside is in such an{nl}
+uproar, yet here it's quiet...{waitkey}Why don't any demons appear{nl}
+here, I wonder? Could it be{nl}
+divine protection?{waitkey}{ret}
+</message>
+  <message offset="11c0">
+The Hiremon Stone{nl}
+A massive boulder unearthed{nl}
+in 1963 when the school was{nl}
+first built.{waitkey}{clearbox}Its rock is samataite, yet{nl}
+magnetic anomalies have been{nl}
+detected within it.{waitkey}{clearbox}Legend holds that a celestial{nl}
+being named Hiremon{waitkey}cast it down from the heavens{nl}
+as a guardian stone for{nl}
+Mikage Town.{waitkey}{ret}
+</message>
+</scene>

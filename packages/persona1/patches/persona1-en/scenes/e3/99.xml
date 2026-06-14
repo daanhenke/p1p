@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="99">
+  <message offset="149c">
+Shopkeeper: ...WELCOME...{waitkey}{ret}
+</message>
+  <message offset="14b8">
+Yukino: Not that it matters,{nl}
+but the armor shop manager's{nl}
+kind of gloomy, huh.{waitkey}{ret}
+</message>
+  <message offset="14e0">
+Ayase: Hey~ this is lovely~{color:3}♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="1504">
+Nanjo: Sturdy armor is mostly{nl}
+heavy — that's its one flaw.{waitkey}{ret}
+</message>
+  <message offset="152c">
+Brown: Heh, anything looks{nl}
+good on me, after all.{waitkey}{clearbox}Man, it takes forever to{nl}
+choose! Nyahahaha.{waitkey}{ret}
+</message>
+  <message offset="157c">
+Elly: Where was this armor{nl}
+sourced from, I wonder? It's{nl}
+frightening to think of its{nl}
+origin.{waitkey}{ret}
+</message>
+</scene>

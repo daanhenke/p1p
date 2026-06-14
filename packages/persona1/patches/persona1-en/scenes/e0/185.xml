@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="185">
+  <message offset="36dc">
+Trish: Hi!{nl}
+I'm Trish!{nl}
+This is the Healing Spring!{waitkey}{clearbox}The world runs on{nl}
+give and take!{nl}
+Money buys any Recovery!{waitkey}{ret}
+</message>
+  <message offset="3750">
+What'll it be?{nl}
+{ctl0e:17}{ret}
+</message>
+  <message offset="3764">
+Trish: OK!{waitkey}{ret}
+</message>
+  <message offset="3778">
+Trish: Let's see...{nl}
+going by recent healing{nl}
+rates, for everyone...{waitkey}{ret}
+</message>
+  <message offset="37b0">
+That'll be 5000 yen, OK?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="37cc">
+Trish: Thanks!{nl}
+Okay, let me heal you up!
+</message>
+  <message offset="380c">
+Pain, pain, fly away!
+</message>
+  <message offset="3858">
+{ret}
+</message>
+  <message offset="38c0">
+Trish: Phew...{nl}
+That's all!{nl}
+You're all better now!
+</message>
+  <message offset="38f8">
+{ret}
+</message>
+  <message offset="3924">
+Trish: Boo~!{nl}
+You don't have the money?!{nl}
+Trish hates broke people!{waitkey}{clearbox}Come back once you've{nl}
+saved up some cash{nl}
+bye-bye!{waitkey}{ret}
+</message>
+</scene>

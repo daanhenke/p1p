@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="1">
+  <message offset="28e0">
+Ayase: Owowow...{waitkey}H-{wait_fr:15}huh?{nl}
+Where are we?{waitkey}{ret}
+</message>
+  <message offset="2908">
+Yukino: !{wait_fr:15}{nl}
+The courtyard{wait_fr:15}...{wait_fr:15}...{wait_fr:15}?{nl}
+What's going on?!{waitkey}{ret}
+</message>
+  <message offset="293c">
+Ayase: Hey!{nl}
+Look at that!!{waitkey}{ret}
+</message>
+  <message offset="2954">
+Yukino: Ms. Saeko!{waitkey}{ret}
+</message>
+  <message offset="2968">
+Yukino: Wh-what the?!{waitkey}{ret}
+</message>
+  <message offset="297c">
+Ms. Saeko: Hffffff...{nl}
+At last, the time has come.{waitkey}{ret}
+</message>
+  <message offset="29a0">
+Yukino: Ms. Saeko{wait_fr:30}...{wait_fr:30}...{wait_fr:30}?{waitkey}{ret}
+</message>
+  <message offset="29c0">
+Ms. Saeko: Teacher?{wait_fr:30}{nl}
+Ah, you mean Saeko.{waitkey}{clearbox}Poor Saeko.{nl}
+Hffffff...{waitkey}{ret}
+</message>
+  <message offset="2a00">
+Yukino: Huh?{waitkey}"Saeko"{wait_fr:30} - that's you,{nl}
+isn't it?{waitkey}{clearbox}Snap out of it!{nl}
+Did you hit your head?{waitkey}{ret}
+</message>
+  <message offset="2a4c">
+Ms. Saeko: Hffffff...{nl}
+"I'll be fine even if I{nl}
+put on the mask"?{waitkey}{clearbox}Hffffff...{nl}
+Ahahahaha.{waitkey}Saeko was always like that.{waitkey}{clearbox}Confident,{wait_fr:30} self-centered{wait_fr:30}...{nl}
+If it meant being the center{nl}
+of attention, she'd never{waitkey}think of others.{waitkey}{ret}
+</message>
+  <message offset="2af0">
+Yukino: Hey, what's gotten{nl}
+into you?! Cut the dumb act.{waitkey}It's too harsh for a joke.{waitkey}{ret}
+</message>
+  <message offset="2b28">
+Ms. Saeko: A joke?{waitkey}Take a good look around.{nl}
+Hffffff... does this seem{nl}
+like a joke to you?{waitkey}{clearbox}Beautiful, isn't it?{nl}
+A pure landscape, all of it{nl}
+wrapped in eternal silence.{waitkey}{clearbox}You too shall don eternal{nl}
+ice and pass the ages,{nl}
+beautiful forever.{waitkey}Now, come to me.{waitkey}{ret}
+</message>
+  <message offset="2bc8">
+Ayase: "Come to me"...?{nl}
+What're you saying at a{nl}
+time like this?!{waitkey}Teacher or not...{waitkey}{ret}
+</message>
+  <message offset="2c04">
+Ms. Saeko: Oh my,{nl}
+what a cute young lady.{waitkey}{clearbox}Hffffff...{nl}
+Come closer, dear. I'll{nl}
+grant you eternal beauty too.{waitkey}{ret}
+</message>
+  <message offset="2c50">
+Yukino: Yuka, stay back!!{waitkey}It's the mask{wait_fr:30}...{wait_fr:30}...{wait_fr:30}{nl}
+The mask has taken her over!!{waitkey}{clearbox}Monster, what's your game?!{nl}
+Pull anything on Ms. Saeko{nl}
+and I won't stand for it!!{waitkey}{ret}
+</message>
+  <message offset="2cd4">
+Mask: "Taken over"{wait_fr:30}, you say?{nl}
+How unkind of you.{waitkey}{clearbox}And who was it that broke{nl}
+the seal, I wonder?{wait_fr:30}{nl}
+Who put the mask on freely?{waitkey}{clearbox}Besides... calling someone{nl}
+a "monster" is rather rude,{nl}
+don't you think, dear?{waitkey}{clearbox}Yes... after the mask,{wait_fr:30}{nl}
+why not call me the{nl}
+"Snow Queen"{wait_fr:30}?{waitkey}Hffffff...{waitkey}{ret}
+</message>
+  <message offset="2db0">
+Yukino: Don't mess with me!{nl}
+What will you do with{nl}
+Ms. Saeko?!{waitkey}{ret}
+</message>
+  <message offset="2dd8">
+Snow Queen: I'll make her{nl}
+a sacrifice, my spirited{nl}
+young lady.{waitkey}{ret}
+</message>
+  <message offset="2e00">
+Ayase: A {wait_fr:30}sacrifice?{waitkey}{ret}
+</message>
+  <message offset="2e18">
+Snow Queen: Yes, a sacrifice.{waitkey}Sacrifice Saeko, so full{nl}
+of hope,{waitkey}{clearbox}and the silence of despair{wait_fr:30}{nl}
+- the "Eternal Night" -{nl}
+will come.{waitkey}{ret}
+</message>
+  <message offset="2e70">
+Ayase: ?{waitkey}You mean everyone{nl}
+gets frozen?{waitkey}I hate the cold!{waitkey}{ret}
+</message>
+  <message offset="2ea4">
+Yukino: Like I'll let you!{nl}
+Give Ms. Saeko back!!{waitkey}{ret}
+</message>
+  <message offset="2ecc">
+Snow Queen: A spirited girl.{nl}
+Very well, I'll give her back.{waitkey}{clearbox}But unless this mask comes{nl}
+off, Saeko won't return,{nl}
+and the school stays frozen.{waitkey}{clearbox}Walk around a bit and you'll{nl}
+see - there's no leaving the{nl}
+school. There's no escape.{waitkey}{clearbox}Accept the "Eternal Night,"{nl}
+or remove Saeko's mask...{waitkey}One of the two.{waitkey}{ret}
+</message>
+  <message offset="2f98">
+Ayase: How do we even{nl}
+get the mask off?{waitkey}{ret}
+</message>
+  <message offset="2fb8">
+Snow Queen: Hffffff...{waitkey}{clearbox}Struggle all you like.{nl}
+Nothing is more beautiful{nl}
+than despair after struggle.{waitkey}{clearbox}It seems I'll gather plenty{nl}
+of beautiful despair.{nl}
+How delightful.{waitkey}{ret}
+</message>
+  <message offset="3020">
+Ayase: Hey!{nl}
+Are you even listening?!{waitkey}{ret}
+</message>
+  <message offset="3044">
+Yukino: Ah!{nl}
+M-Ms. Saeko!!{waitkey}{ret}
+</message>
+  <message offset="3060">
+Snow Queen's Voice:{nl}
+Hffffff... Just try touching{nl}
+her carelessly.{waitkey}{clearbox}Mask and Saeko alike{nl}
+would shatter to{nl}
+pieces.{waitkey}{clearbox}The rituals take time, so{nl}
+there's a while yet before{nl}
+the "Eternal Night" comes.{waitkey}Until then, let's play a game.{waitkey}{ret}
+</message>
+  <message offset="30f8">
+Yukino: A game?!{waitkey}{ret}
+</message>
+  <message offset="310c">
+Snow Queen's Voice:{nl}
+The school has become an ice{nl}
+castle with three towers,{waitkey}each with its own guardian.{waitkey}{clearbox}If you can defeat them before{nl}
+the clock in each tower{nl}
+strikes twelve...{waitkey}{clearbox}then I shall return the{nl}
+frozen Saeko and the school{nl}
+to how they were.{waitkey}{clearbox}I must leave the mask, my{nl}
+vessel, and prepare to{nl}
+summon the "Eternal Night."{waitkey}{clearbox}Enjoy yourselves until then.{nl}
+Hffffff...{nl}
+Now, farewell.{waitkey}{ret}
+</message>
+  <message offset="321c">
+Ayase: "Farewell"?{nl}
+Hey, wait!!{nl}
+{wait_fr:30}...{wait_fr:30}...{wait_fr:30}Don't leave us...{waitkey}{clearbox}No way...{nl}
+Wh-{wait_fr:15}wh-{wait_fr:15}what do we do!{waitkey}{ret}
+</message>
+  <message offset="3278">
+Ayase: This is all your{nl}
+fault, {ctl0f:1}!!{waitkey}{clearbox}You're the one who found{nl}
+that creepy mask - that's{nl}
+why this happened!!{waitkey}{clearbox}Take responsibility!{waitkey}You're a man, aren't you!!{waitkey}Say something!!{waitkey}{ret}
+</message>
+  <message offset="32f0">
+Yukino: Yuka! Stop it!!{waitkey}{clearbox}No use saying that now -{nl}
+it won't change anything.{waitkey}{clearbox}{ctl0f:1} didn't do it on{nl}
+purpose, knowing this{nl}
+would happen.{waitkey}{ret}
+</message>
+  <message offset="3350">
+Ayase: ...But~{waitkey}{ret}
+</message>
+  <message offset="3364">
+Ayase: Hey!{nl}
+What's that?!{waitkey}{ret}
+</message>
+  <message offset="3380">
+Yukino: Again...{waitkey}{ret}
+</message>
+  <message offset="3390">
+Ayase: Huh?{nl}
+"Again"?{waitkey}{ret}
+</message>
+</scene>

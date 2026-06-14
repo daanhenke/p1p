@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="150">
+  <message offset="1660">
+
+</message>
+  <message offset="167c">
+Ayase: What just happened?{waitkey}{nl}
+What's going on?{waitkey}{ret}
+</message>
+  <message offset="1720">
+Elly: The Snow Queen is{nl}
+the embodiment of Tomomi's{nl}
+darker side.{waitkey}{clearbox}By holding up the "Demon's{nl}
+Mirror" reflecting all evil,{nl}
+Tomomi{wait_fr:30}—the Snow Queen—{waitkey}{clearbox}saw for herself just how{nl}
+desolate her own heart{nl}
+had become.{waitkey}{ret}
+</message>
+  <message offset="17b4">
+Nanjo: The Snow Queen{nl}
+symbolizes the dark part{nl}
+that lay in Tomomi's heart.{waitkey}{clearbox}By holding up the "Demon's{nl}
+Mirror" reflecting all evil,{nl}
+Tomomi{wait_fr:30}—the Snow Queen—{waitkey}{clearbox}saw just how tainted{nl}
+her own heart had{nl}
+become.{waitkey}{ret}
+</message>
+  <message offset="1824">
+Yukino: I see!{waitkey}Seeing her own ugly self{nl}
+in the mirror, Tomomi{nl}
+came to her senses.{waitkey}{clearbox}So her Persona, the Night{nl}
+Queen, lost its place and{nl}
+began to rampage, huh.{waitkey}{ret}
+</message>
+  <message offset="1840">
+Elly: Most likely, yes.{waitkey}{ret}
+</message>
+  <message offset="1858">
+Nanjo: Hm. That's about right.{waitkey}{ret}
+</message>
+  <message offset="18c4">
+Brown: Nice explaining.{waitkey}{clearbox}Finally even I've got{nl}
+the gist of it.{waitkey}So basically{waitkey}{clearbox}if we don't beat the Night{nl}
+Whatsit, we can't go home{nl}
+or take a nice hot bath!{waitkey}{ret}
+</message>
+  <message offset="18f0">
+Ayase: Hmm. So in the end{nl}
+we've still gotta beat the{nl}
+Night Whatsit too, huh.{waitkey}{ret}
+</message>
+  <message offset="1924">
+Ms. Saeko: You kids...{nl}
+You've grown so dependable{nl}
+while I wasn't watching.{waitkey}{ret}
+</message>
+  <message offset="1958">
+Ayase: We only got this far{nl}
+because everyone was here{nl}
+for me.{waitkey}Ayase alone could never{nl}
+have...{waitkey}{ret}
+</message>
+  <message offset="19b8">
+Yukino: Yeah.{nl}
+Thanks to these guys{wait_fr:30}...{nl}
+well...{wait_fr:30}{nl}
+I can't say it well, but{waitkey}{clearbox}for the first time I feel{nl}
+I understand what it{nl}
+means to be alive.{waitkey}{ret}
+</message>
+  <message offset="19d4">
+Ayase: Wow~{nl}
+So coool~{waitkey}{ret}
+</message>
+  <message offset="1a28">
+Yukino: Sh-{wait_fr:30}shut up!{waitkey}Let's go, {ctl0f:1}!{waitkey}{clearbox}Night Queen or whatever,{nl}
+with this crew here we've{nl}
+got nothing to fear!{waitkey}{ret}
+</message>
+  <message offset="1a54">
+Ms. Saeko: Heh...{waitkey}{ctl0f:1}!{nl}
+I'm counting on you to{nl}
+look after everyone!!{waitkey}{ret}
+</message>
+  <message offset="1a6c">
+Yukino: Wh-what's that?!{waitkey}{ret}
+</message>
+  <message offset="1a84">
+Ayase: Hey!{nl}
+Isn't that...{waitkey}{ret}
+</message>
+  <message offset="1a9c">
+Ms. Saeko: Tomomi!!{waitkey}{ret}
+</message>
+  <message offset="1b24">
+Tomomi: Ms. Saeko...{wait_fr:30}{nl}
+Everyone{wait_fr:30}... thank you.{waitkey}{clearbox}Thanks to all of you,{nl}
+I was able to reclaim{nl}
+my human heart.{waitkey}{clearbox}The self in the mirror,{wait_fr:30}{nl}
+my own heart,{wait_fr:30}{nl}
+was too ugly to face...{waitkey}{ret}
+</message>
+  <message offset="1b8c">
+Yukino: It's not just you,{nl}
+Tomomi.{waitkey}{clearbox}Anyone who stands before{nl}
+that mirror is bound{nl}
+to look ugly.{waitkey}{clearbox}People with truly pure{nl}
+hearts are a rare thing{nl}
+indeed.{waitkey}{ret}
+</message>
+  <message offset="1bd8">
+Brown: Me, on the other hand,{nl}
+I'm innocent as a young girl,{nl}
+pure as an angel{wait_fr:30}...{wait_fr:30}...{waitkey}{clearbox}...Sorry.{waitkey}{ret}
+</message>
+  <message offset="1c00">
+Ayase: I bet Ayase looks{nl}
+like some awful monster.{waitkey}{ret}
+</message>
+  <message offset="1c90">
+Tomomi: The way you are now,{nl}
+you won't look like{nl}
+monsters at all...{waitkey}{clearbox}Oh, that's right!{waitkey}You should keep the "Demon's{nl}
+Mirror" with you from now on.{waitkey}{clearbox}I'm sure it will protect{nl}
+you all from misfortune.{waitkey}{clearbox}A mirror's hard to carry{nl}
+as it is, so...{waitkey}{ret}
+</message>
+  <message offset="1cac">
+The "Demon's Mirror"{nl}
+transformed into a shield!{waitkey}{ret}
+</message>
+  <message offset="1cd0">
+Got the "Spiegel Shield"!{waitkey}{ret}
+</message>
+  <message offset="1d70">
+Tomomi: Also, I'm not sure{nl}
+it'll be of any help, but...{waitkey}{clearbox}The costumes worn by past{nl}
+"Snow Queen" leads should{nl}
+be in the gym storeroom.{waitkey}{clearbox}They were set near the box{nl}
+to strengthen the seal on{nl}
+the "Snow Queen's Mask."{waitkey}{ret}
+</message>
+  <message offset="1dc0">
+Yukino: Huh, good to know.{waitkey}{clearbox}I don't know where in this{nl}
+Ice Castle the storeroom is,{nl}
+but it's worth a look.{waitkey}{ret}
+</message>
+  <message offset="1e3c">
+Tomomi: Ah...{wait_fr:30} If only{nl}
+I'd met you all sooner...{waitkey}{clearbox}So no second or third selves{nl}
+are ever born, I'll watch{nl}
+over the school from heaven{nl}
+with the Queens before me.{waitkey}Thank you all.{waitkey}{ret}
+</message>
+  <message offset="1ed0">
+Ayase: I'm the one who{nl}
+ought to be
+</message>
+</scene>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="162">
+  <message offset="19a8">
+Maki's Mom: Maki, dear...{nl}
+It's your mother!!{nl}
+Let's go home together!{waitkey}{clearbox}Look, everyone was worried{nl}
+and came all this way{nl}
+just for you!{waitkey}{ret}
+</message>
+  <message offset="19fc">
+Maki: Don't come!!{nl}
+Everyone... why did you come?!{waitkey}{nl}
+You know what kind of{nl}
+girl I am, don't you?{waitkey}{ret}
+</message>
+  <message offset="1a40">
+Mark: Sonomura...{nl}
+Maybe it's too much to ask{nl}
+you not to mind it, but...{waitkey}{clearbox}Everybody envies others{nl}
+now and then, right?{nl}
+I do too.{waitkey}{clearbox}And besides, you were used.{nl}
+Kandori's the bad guy, right?{waitkey}{ret}
+</message>
+  <message offset="1ac0">
+Maki: How many times did I{nl}
+try to kill you all?!{nl}
+Why are you so kind?!{waitkey}{clearbox}Stop pitying me.{nl}
+Being pitied only{nl}
+makes it worse...{waitkey}Someone like me should{nl}
+just die!{waitkey}{ret}
+</message>
+  <message offset="1b24">
+Mark: That's not true!{waitkey}{ret}
+</message>
+  <message offset="1b3c">
+Nanjo: Spoiled brat...{waitkey}{ret}
+</message>
+  <message offset="1b50">
+Reiji: ...{waitkey}{ret}
+</message>
+  <message offset="1b5c">
+Elly: Maki...{waitkey}{ret}
+</message>
+  <message offset="1b70">
+Brown: Maki...{waitkey}{ret}
+</message>
+  <message offset="1b84">
+Ayase: Sonomura...{waitkey}{ret}
+</message>
+  <message offset="1b94">
+Maki: You think so too,{nl}
+don't you, {ctl07:1}?!{waitkey}{ret}
+</message>
+  <message offset="1bb4">
+You think I'm the worst{nl}
+kind of girl, right?!{ctl0e:19}{ret}
+</message>
+  <message offset="1bd0">
+Nanjo: Don't be so spoiled!!{nl}
+You reap what{nl}
+you sow!!{waitkey}{clearbox}If you want to die so badly,{nl}
+why haven't you?{nl}
+Don't scream of things{nl}
+you can't even do!{waitkey}{ret}
+</message>
+  <message offset="1c30">
+Maki: ...{waitkey}{ret}
+</message>
+  <message offset="1c3c">
+Nanjo: Pity? Don't make me{nl}
+laugh. They all came here{nl}
+of their own will because{nl}
+they understand you.{waitkey}{clearbox}Besides, do you think{nl}
+you live all alone?{waitkey}{clearbox}Every person is kept alive{nl}
+by those around them.{nl}
+That's why we each bear{nl}
+responsibility.{waitkey}{clearbox}Your easy way out would{nl}
+leave a wound in many{nl}
+hearts that never heals.{waitkey}{clearbox}If you still want to die,{nl}
+do as you please. Forget{nl}
+it all if you wish.{waitkey}But we won't forget you,{nl}
+who were our friend.{waitkey}{ret}
+</message>
+  <message offset="1d40">
+Nanjo: Now, let's go back.{nl}
+We'll save Sonomura{nl}
+ourselves.{waitkey}Giving up halfway isn't{nl}
+my style.{waitkey}{ret}
+</message>
+  <message offset="1d7c">
+Maki: Wait!!{wait_fr:88}{nl}
+I'm sorry, everyone...{nl}
+Me... take me with you too.{waitkey}{ret}
+</message>
+  <message offset="1db4">
+Mark: Heh...{wait_fr:88}{nl}
+Of course we will.{nl}
+Welcome back, Sonomura!{waitkey}{ret}
+</message>
+  <message offset="1de0">
+Reiji: Hmph...{waitkey}{ret}
+</message>
+  <message offset="1df0">
+Elly: Welcome back,{nl}
+Maki!{waitkey}{ret}
+</message>
+  <message offset="1e10">
+Brown: Yay!{nl}
+Welcome back, Maki!{waitkey}{ret}
+</message>
+  <message offset="1e30">
+Ayase: Welcome back,{nl}
+Sonomura!{waitkey}{ret}
+</message>
+  <message offset="1e48">
+Maki: Everyone...{wait_fr:88}{nl}
+I'm back!{waitkey}{ret}
+</message>
+  <message offset="1e64">
+Maki's Mom: Uu...{nl}
+Thank you, everyone...{nl}
+Thank you...{waitkey}{ret}
+</message>
+  <message offset="1e8c">
+Maki: Mama...{nl}
+I'm sorry...{nl}
+I was a bad girl...{waitkey}{clearbox}I remember everything now.{nl}
+I always longed to see you,{nl}
+lonely and hurting alone...{waitkey}{clearbox}I forgot you worked{nl}
+for my sake, resented you...{nl}
+I'm so sorry...{waitkey}{ret}
+</message>
+  <message offset="1f14">
+Maki's Mom: It's all right...{nl}
+it's all right now.{nl}
+I'm sorry, Maki, dear...{waitkey}{ret}
+</message>
+  <message offset="1f3c">
+Maki: I'm sorry,{nl}
+Nanjo, {ctl07:1}...{nl}
+Truly, thank you...{waitkey}{ret}
+</message>
+  <message offset="1f6c">
+Nanjo: ...{wait_fr:88}My apologies.{nl}
+I was a bit harsh{nl}
+with my words.{waitkey}{ret}
+</message>
+  <message offset="1f94">
+Mark: Nanjo...{nl}
+Are you embarrassed?!{nl}
+Oh, I get it!{waitkey}{clearbox}You've never been{nl}
+thanked by anyone before,{nl}
+'cause you're such a sourpuss.{waitkey}{ret}
+</message>
+  <message offset="1fe8">
+Nanjo: Q-quiet, Inaba!{nl}
+Honestly...{nl}
+Now then, {ctl0f:1}, let's go back!{waitkey}{ret}
+</message>
+  <message offset="2018">
+Nanjo: {ctl0f:1} is right.{nl}
+You reap what{nl}
+you sow!!{waitkey}{clearbox}If you want to die so badly,{nl}
+why haven't you?{nl}
+Don't scream of things{nl}
+you can't even do!{waitkey}{ret}
+</message>
+  <message offset="2078">
+Maki: I've come to my senses.{nl}
+Even if I'm only a dream,{nl}
+a phantom, a shadow,{nl}
+I'm still me, after all...{waitkey}{clearbox}And besides, I have all of{nl}
+you - {ctl07:1} and everyone...{nl}
+Nothing's more reassuring.{waitkey}{ret}
+</message>
+  <message offset="20e4">
+Mark: Well, I guess{nl}
+Nanjo's hair-splitting{nl}
+comes in handy now and then.{waitkey}{ret}
+</message>
+  <message offset="2118">
+Nanjo: Hmph.{nl}
+Being thanked by people{nl}
+is an everyday affair.{waitkey}{ret}
+</message>
+  <message offset="2140">
+Reiji: ...We can't stand{nl}
+around feeling warm and{nl}
+fuzzy forever.{waitkey}{ret}
+</message>
+  <message offset="2160">
+Elly: I'm so glad...{nl}
+But {ctl07:1},{nl}
+if I ever became like that...{waitkey}{clearbox}Sorry, that was a{nl}
+strange thing to say.{wait_fr:88}{nl}
+You'd surely save me, right?{nl}
+If it were you...{waitkey}{ret}
+</message>
+  <message offset="21b8">
+Elly: I'm so glad...{nl}
+But {ctl07:1},{nl}
+if I ever became like that...{waitkey}{clearbox}Sorry, that was a{nl}
+strange thing to say.{wait_fr:88}{nl}
+You would surely save me,{nl}
+wouldn't you? If it's you...{waitkey}{ret}
+</message>
+  <message offset="2214">
+Brown: Sniffle...{nl}
+Even I'm tearing up...{waitkey}{ret}
+</message>
+  <message offset="2234">
+Ayase: {ctl0f:1} said such{nl}
+harsh things, Ayase{nl}
+didn't know what'd happen.{waitkey}{ret}
+</message>
+  <message offset="2264">
+Ayase: {ctl08:12033} said such{nl}
+harsh things, Ayase{nl}
+didn't know what'd happen.{waitkey}{ret}
+</message>
+  <message offset="2294">
+Maki's Mom: I don't know how{nl}
+to thank you all...{waitkey}{clearbox}Maki is a lucky girl,{nl}
+surrounded by such warm{nl}
+friends... Truly, thank you...{waitkey}{ret}
+</message>
+</scene>

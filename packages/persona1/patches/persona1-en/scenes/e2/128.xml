@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="128">
+  <message offset="13ac">
+Teacher: Oh, it's you, {ctl0f:1}.{nl}
+Hey, go patrol the school{nl}
+for me a bit!{waitkey}I-I, you see, can't leave{nl}
+this spot — I have to keep{nl}
+track of all the information!{waitkey}{ret}
+</message>
+</scene>

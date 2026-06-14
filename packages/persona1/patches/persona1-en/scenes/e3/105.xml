@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="105">
+  <message offset="118c">
+Yukino: Ms. Saeko...
+</message>
+  <message offset="11bc">
+{nl}
+Is she all right? Damn it, we{nl}
+have to hurry... even more.{waitkey}{ret}
+</message>
+  <message offset="11fc">
+Ayase: What do I do~!! Losing{nl}
+Ayase's Persona, of all{nl}
+things~{waitkey}I super hate it!!{waitkey}{ret}
+</message>
+  <message offset="1244">
+Nanjo: A Persona whose very{nl}
+existence I didn't know until{nl}
+now, yet when it's actually{nl}
+gone,
+</message>
+  <message offset="1294">
+{nl}
+it's surprisingly hard to{nl}
+bear.{waitkey}{ret}
+</message>
+</scene>

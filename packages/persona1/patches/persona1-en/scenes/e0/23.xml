@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="23">
+  <message offset="161c">
+Nanjo: Yamaoka... don't die...{nl}
+You won't leave me behind,{nl}
+will you? ...Yamaoka.{waitkey}{ret}
+</message>
+  <message offset="1654">
+Yamaoka: M-my goodness,{nl}
+young master... please,{nl}
+not that face...{waitkey}{clearbox}Such a fine face{nl}
+you have... don't{nl}
+let it go to waste.{waitkey}{clearbox}You are a fine young{nl}
+Japanese man... A man must{nl}
+stand on his own someday...{waitkey}{clearbox}This Yamaoka's service{nl}
+ends here, I'm afraid...{waitkey}{ret}
+</message>
+  <message offset="16f0">
+Nanjo: No, no, no!{nl}
+I won't allow you to leave me.{nl}
+Snap out of it, Yamaoka!{waitkey}{ret}
+</message>
+  <message offset="1728">
+Yamaoka: This is{nl}
+goodbye...{wait_fr:88}Young master...{nl}
+one last thing...{nl}
+a promise, between us...{waitkey}{clearbox}Please become the greatest{nl}
+Japanese man this country{nl}
+has ever seen!{wait_fr:100}{nl}
+Koff... koff koff koff!{waitkey}{ret}
+</message>
+  <message offset="17b0">
+Nanjo: ...Yes.{wait_fr:60} Yes.{nl}
+Of course I will.{nl}
+I'll show you that day.{waitkey}{nl}
+So until then...{waitkey}{ret}
+</message>
+  <message offset="17ec">
+Yamaoka: That's my{nl}
+young master...{nl}
+{wait_fr:88}This Yamaoka will always...{nl}
+live on in your heart...{waitkey}{ret}
+</message>
+  <message offset="1828">
+Nanjo: Yamaoka? {wait_fr:60}...Hey!{nl}
+Please... answer me...{nl}
+Yamaokaaaaaa!!{waitkey}{ret}
+</message>
+  <message offset="186c">
+Yukino: Nanjo...{waitkey}{ret}
+</message>
+  <message offset="187c">
+Mark: Leave him be...{waitkey}{ret}
+</message>
+  <message offset="1894">
+Mark: Hey, {ctl0f:1}...{nl}
+Did you hear those voices{nl}
+just now?{waitkey}{nl}
+He said he was me or{nl}
+something like that.{waitkey}{ret}
+</message>
+  <message offset="18cc">
+Yukino: I heard it too...{nl}
+You think that was our{nl}
+Persona just now?{waitkey}{ret}
+</message>
+  <message offset="18fc">
+Mark: He said he'd lend us{nl}
+his strength, so at least{nl}
+he's not an enemy.{waitkey}{clearbox}If we're lucky, he might{nl}
+do what we say...{waitkey}{clearbox}For now, let's just call{nl}
+it a "Persona."{waitkey}{ret}
+</message>
+  <message offset="1964">
+Yukino: Yeah...{nl}
+That's how it felt, but...{nl}
+Something feels off.{nl}
+Let's get outside.{waitkey}{ret}
+</message>
+  <message offset="1998">
+Yukino: I hope the school's{nl}
+okay...{nl}
+{ctl0f:1} Let's hurry outside!{waitkey}{ret}
+</message>
+  <message offset="19c0">
+Yukino: ...Nanjo,{nl}
+in front of that old man,{nl}
+you were just like a{nl}
+kid, weren't you...{waitkey}{clearbox}The pain of losing someone{nl}
+precious... there's nothing{nl}
+harder than that.{waitkey}{ret}
+</message>
+  <message offset="1a18">
+Nanjo: Yamaoka...{nl}
+What am I supposed to do?...{waitkey}{clearbox}Without you I'm alone...{nl}
+No one will keep me in line...{waitkey}{clearbox}No one...{wait_fr:88}will be by my side...{waitkey}{ret}
+</message>
+  <message offset="1a84">
+Mark: Him crying like that...{nl}
+That old man must've really{nl}
+meant the world to him.{waitkey}{ret}
+</message>
+  <message offset="1ab4">
+Mark: I feel bad for Nanjo,{nl}
+but we gotta worry about{nl}
+the living too.{waitkey}Come on, let's go save{nl}
+Sonoda's mom!{waitkey}{ret}
+</message>
+  <message offset="1afc">
+Elly: My...{nl}
+so that's what happened...{nl}
+Losing someone so precious...{nl}
+can it change you so much?{waitkey}{ret}
+</message>
+  <message offset="1b38">
+He was already gone by then...{waitkey}{ret}
+</message>
+</scene>

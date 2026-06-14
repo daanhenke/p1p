@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="192">
+  <message offset="1218">
+Maki: Um, {ctl07:1}...{wait_fr:32}{nl}
+...No, never mind.{waitkey}{ret}
+</message>
+  <message offset="1240">
+Nanjo: A black market, hm...{wait_fr:48}{nl}
+A fitting name for this{nl}
+desolate town.{waitkey}{ret}
+</message>
+  <message offset="1274">
+Mark: The doctor's the same{nl}
+here too — what a relief.{waitkey}{ret}
+</message>
+  <message offset="1298">
+Elly: I'm relieved the Doctor{nl}
+is a decent sort...{waitkey}{ret}
+</message>
+  <message offset="12c8">
+Brown: So the doctor's{nl}
+normal...{waitkey}{clearbox}I was sweating bullets{nl}
+wondering what I'd do if he{nl}
+were some bald guy with an{nl}
+eyepatch!{waitkey}{ret}
+</message>
+  <message offset="1318">
+Ayase: I-{wait_fr:32}I'm not gonna get{nl}
+a shot, am I...{waitkey}{ret}
+</message>
+  <message offset="1338">
+Reiji: What. I was expecting{nl}
+a doctor with a bit more{nl}
+impact.{waitkey}{ret}
+</message>
+  <message offset="1368">
+Nurse: I'm this happy all{nl}
+thanks to the Harem Queen.{waitkey}{clearbox}Let's thank the Queen{nl}
+together — Your Majesty,{nl}
+thank you so very much!{waitkey}{ret}
+</message>
+  <message offset="13d4">
+Nurse: My happiness wasn't{nl}
+thanks to the Queen after{nl}
+all!{waitkey}{clearbox}So then, what is it I have{nl}
+to thank for my happiness?{waitkey}{ret}
+</message>
+  <message offset="17e8">
+Doctor: What, a cold? A cold{nl}
+just needs rest to cure!{waitkey}{ret}
+</message>
+  <message offset="1810">
+Doctor: Now then, what'll{nl}
+it be?{nl}
+{ctl0e:17}{ret}
+</message>
+  <message offset="1828">
+Doctor: All right then,{nl}
+all of you...{waitkey}{ret}
+</message>
+  <message offset="1844">
+Doctor: It'll cost 1500 yen.{nl}
+Is that all right?{waitkey}{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="186c">
+Doctor: Hm. Let's get you{nl}
+treated, then.{waitkey}{ret}
+</message>
+  <message offset="1888">
+Doctor: Mm, that should do it.{waitkey}{ret}
+</message>
+  <message offset="18bc">
+Doctor: A shame, but I can't{nl}
+treat you with no money...{nl}
+Come back with the fee.{waitkey}{ret}
+</message>
+  <message offset="18fc">
+Doctor: Skimp on treatment{nl}
+now, and I hope it won't{nl}
+come back to bite you.{waitkey}{ret}
+</message>
+  <message offset="192c">
+Doctor: Good. Come straight{nl}
+back if anything comes up.{waitkey}{ret}
+</message>
+  <message offset="1950">
+Doctor: I'm a busy man. If{nl}
+you've no business here,{nl}
+off you go.{waitkey}{ret}
+</message>
+</scene>

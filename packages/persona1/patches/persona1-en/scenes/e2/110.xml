@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="110">
+  <message offset="11d4">
+Maki: I don't really want to{nl}
+be here.{waitkey}{ret}
+</message>
+  <message offset="11f0">
+Brown: Isn't there somewhere{nl}
+I can shine more? Am I{nl}
+standing out enough?{waitkey}{ret}
+</message>
+  <message offset="122c">
+Nanjo: I wish I could heal{nl}
+wounds through sheer{nl}
+willpower.{waitkey}{ret}
+</message>
+  <message offset="1254">
+Mark: It's quiet here. Almost{nl}
+like none of it ever{nl}
+happened at all.{waitkey}{ret}
+</message>
+  <message offset="1288">
+Elly: The demons appearing in{nl}
+town must be SEBEC's doing{nl}
+too.{waitkey}{ret}
+</message>
+  <message offset="12c4">
+Ayase: Ugh, I hate this{nl}
+disinfectant smell...{waitkey}{ret}
+</message>
+  <message offset="12e4">
+Nurse: A bear showed up, they{nl}
+say? A brown one? A polar{nl}
+bear? Or maybe a raccoon?{waitkey}{ret}
+</message>
+  <message offset="1708">
+Doctor: Lovely weather again{nl}
+today.{waitkey}{ret}
+</message>
+  <message offset="1720">
+Doctor: Bears, in a city like{nl}
+this...?{waitkey}{ret}
+</message>
+  <message offset="1744">
+Doctor: Now then, what'll{nl}
+it be?{nl}
+{ctl0e:17}{ret}
+</message>
+  <message offset="175c">
+Doctor: All right then,{nl}
+all of you...{waitkey}{ret}
+</message>
+  <message offset="1778">
+Doctor: It'll cost 1000 yen.{nl}
+Is that all right?{waitkey}{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="17a0">
+Doctor: Hm. Let's get you{nl}
+treated, then.{waitkey}{ret}
+</message>
+  <message offset="17bc">
+Doctor: Mm, that should do it.{waitkey}{ret}
+</message>
+  <message offset="17f0">
+Doctor: A shame, but I can't{nl}
+treat you with no money...{nl}
+Come back with the fee.{waitkey}{ret}
+</message>
+  <message offset="1830">
+Doctor: Skimp on treatment{nl}
+now, and I hope it won't{nl}
+come back to bite you.{waitkey}{ret}
+</message>
+  <message offset="1860">
+Doctor:
+</message>
+  <message offset="1884">
+ Right, come straight{nl}
+back if anything comes up.{waitkey}{ret}
+</message>
+</scene>

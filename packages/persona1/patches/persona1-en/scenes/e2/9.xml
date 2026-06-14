@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="9">
+  <message offset="13d0">
+Nanjo: Honestly, so many{nl}
+detours. At this rate, the{nl}
+sun'll set before the{nl}
+hospital exam is over.{waitkey}{ret}
+</message>
+  <message offset="1410">
+Mark: Behind the highway,{nl}
+that's straight north,{nl}
+right?{waitkey}{ret}
+</message>
+  <message offset="143c">
+Yukino: To think there's{nl}
+another tree like the one{nl}
+in the infirmary...{waitkey}{ret}
+</message>
+  <message offset="1460">
+Student: In the woods behind{nl}
+the highway, I saw a{nl}
+beautiful tree.{waitkey}{clearbox}It looks just like the one{nl}
+in the infirmary.{waitkey}{clearbox}A strange tree — looking at{nl}
+it puts you at ease.{waitkey}{ret}
+</message>
+</scene>

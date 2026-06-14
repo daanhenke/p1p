@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="50">
+  <message offset="1200">
+Nanjo: I can't join in talk{nl}
+of haunted houses. I've{nl}
+never been to one, after all.{waitkey}{ret}
+</message>
+  <message offset="123c">
+Nanjo: I wish I could heal{nl}
+wounds through sheer{nl}
+willpower.{waitkey}{ret}
+</message>
+  <message offset="1264">
+Mark: A haunted house — it's{nl}
+just an abandoned building,{nl}
+really. We used to play there.{waitkey}{ret}
+</message>
+  <message offset="12a0">
+Mark: It's quiet here. Almost{nl}
+like none of it ever{nl}
+happened at all.{waitkey}{ret}
+</message>
+  <message offset="12d4">
+Yukino: Truth is, I played in{nl}
+the haunted house too.{waitkey}{ret}
+</message>
+  <message offset="12fc">
+Yukino: That thing out in{nl}
+town...{wait_fr:16} that's not a bear,{nl}
+right?{waitkey}{ret}
+</message>
+  <message offset="1328">
+Elly: But why have Demons{nl}
+suddenly started appearing{nl}
+all over town?{waitkey}{ret}
+</message>
+  <message offset="1358">
+Nurse: Did you go to the{nl}
+haunted house as a kid too?{waitkey}That place was a real{nl}
+playground for children.{waitkey}{ret}
+</message>
+  <message offset="13a4">
+Nurse: A bear showed up, they{nl}
+say? A brown one? A polar{nl}
+bear? Or maybe a raccoon?{waitkey}{ret}
+</message>
+  <message offset="17c8">
+Doctor: Lovely weather again{nl}
+today.{waitkey}{ret}
+</message>
+  <message offset="17e0">
+Doctor: Bears, in a city like{nl}
+this...?{waitkey}{ret}
+</message>
+  <message offset="1804">
+Doctor: Now then, what'll{nl}
+it be?{nl}
+{ctl0e:17}{ret}
+</message>
+  <message offset="181c">
+Doctor: All right then,{nl}
+all of you...{waitkey}{ret}
+</message>
+  <message offset="1838">
+Doctor: It'll cost 1000 yen.{nl}
+Is that all right?{waitkey}{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1860">
+Doctor: Hm. Let's get you{nl}
+treated, then.{waitkey}{ret}
+</message>
+  <message offset="187c">
+Doctor: Mm, that should do it.{waitkey}{ret}
+</message>
+  <message offset="18b0">
+Doctor: A shame, but I can't{nl}
+treat you with no money...{nl}
+Come back with the fee.{waitkey}{ret}
+</message>
+  <message offset="18f0">
+Doctor: Skimp on treatment{nl}
+now, and I hope it won't{nl}
+come back to bite you.{waitkey}{ret}
+</message>
+  <message offset="1920">
+Doctor: Good. Come straight{nl}
+back if anything comes up.{waitkey}{ret}
+</message>
+  <message offset="1944">
+Doctor: I'm a busy man. If{nl}
+you've no business here,{nl}
+off you go.{waitkey}{ret}
+</message>
+</scene>

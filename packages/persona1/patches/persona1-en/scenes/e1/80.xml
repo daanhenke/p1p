@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="80">
+  <message offset="1334">
+Yukino: Somehow this room{nl}
+has an unpleasant feel.{nl}
+Like we're being watched{waitkey}by malicious eyes...{waitkey}{ret}
+</message>
+  <message offset="1378">
+???: Ohohohoho!{nl}
+Good day to you all.{nl}
+How splendid of you to{waitkey}grace this tower.{waitkey}{clearbox}I welcome you from the{nl}
+heart. Ohohohohoho!{waitkey}{ret}
+</message>
+  <message offset="13d4">
+Nanjo: Who's there!?{nl}
+Show yourself! No doubt{nl}
+just some keeper of{nl}
+this tower!!{waitkey}{clearbox}Put on airs all you like,{nl}
+you're nothing but a small{nl}
+fry - a "fox borrowing the{waitkey}tiger's might" from{nl}
+the Snow Queen!{waitkey}{ret}
+</message>
+  <message offset="1450">
+Elly: Who? Show yourself!{nl}
+You're likely this tower's{nl}
+Guardian, are you not?{waitkey}{clearbox}Can you not even come out{nl}
+before us?{waitkey}{clearbox}Heehee... perhaps that{nl}
+can't be helped?{waitkey}{clearbox}A tower Guardian is but a{nl}
+small fry who can do nothing{nl}
+without the Snow Queen's{waitkey}power, after all!{waitkey}{ret}
+</message>
+  <message offset="1514">
+Ayase: Yeah! Yeah!{nl}
+You're too scared of Ayase{nl}
+and friends to come out!{waitkey}{clearbox}Heh! Heh-heh!{nl}
+Everyone! This tower's boss{nl}
+seems kinda weak!{waitkey}{clearbox}Feels like we're super lucky!?{nl}
+Kyahahaha!{waitkey}{ret}
+</message>
+  <message offset="159c">
+???: Ohohohoho!{nl}
+What well-barking little{nl}
+puppies you are, for such{waitkey}fools!{waitkey}{clearbox}Truly... you seem worth{nl}
+tormenting. Heehee...{waitkey}I shan't be bored, it seems!{waitkey}{clearbox}But you see! Bully an{nl}
+opponent too weak and they{waitkey}break right away!{waitkey}{clearbox}Ufufu... I'm late with my{nl}
+introduction. Do pardon me.{waitkey}{clearbox}I am charged by the "Snow{nl}
+Queen" with guarding this{nl}
+"Tower of Nemesis."{waitkey}{clearbox}I am "Michiko Matsudaira."{nl}
+Do consider it an honor to{waitkey}die by my hand.{waitkey}{clearbox}By the way...{wait_fr:30}...{wait_fr:30}... Oh?{nl}
+You? {wait_fr:30}Yes, {wait_fr:30}you!!{nl}
+My, my{waitkey}what have we here!{waitkey}{clearbox}Quite the handsome ma{wait_fr:30}n♥{waitkey}{clearbox}How about it? Rather than die{nl}
+by my hand with that lot,{waitkey}won't you become my pet?{waitkey}{ret}
+</message>
+  <message offset="17a0">
+Nanjo: Wh{wait_fr:30}wh{wait_fr:30}whwh{wait_fr:30}whwhwh!{nl}
+What did you say?!{nl}
+Me? {wait_fr:30}You mean me?!{waitkey}{clearbox}A-and the pet of a woman{nl}
+foul in character!{wait_fr:30} attitude!!{wait_fr:30}{nl}
+and looks!!{waitkey}{clearbox}You want me to become your{nl}
+lapdog?! Don't underestimate{nl}
+Kei Nanjo!{waitkey}{clearbox}I'll make you regret in hell{nl}
+that you ever spoke to me so!{waitkey}{ret}
+</message>
+  <message offset="1884">
+Brown: Fuga?!{nl}
+Me? {wait_fr:30}You mean me??{nl}
+Hold on just a second!{waitkey}{clearbox}What the heck! This hag!{nl}
+Pops out of nowhere spouting{nl}
+who-knows-what nonsense!!{waitkey}{clearbox}Don't screw with me!{nl}
+Make "the great Brown"{nl}
+your p-pet, you say?{waitkey}{clearbox}Don't mess around!!{nl}
+Mocking me!! I'll pummel you!{waitkey}{clearbox}I'll resculpt that ugly mug{nl}
+of yours even uglier!{waitkey}{ret}
+</message>
+  <message offset="197c">
+Michiko: Kiii!{nl}
+Th-this Michiko{wait_fr:30}, after going{wait_fr:30}{nl}
+out of her way to show{waitkey}you m-mercy!{waitkey}{clearbox}H-hmph!{nl}
+Asking lowly creatures to{nl}
+grasp my greatness was{waitkey}too much to ask, it seems.{waitkey}{clearbox}...Very well,{nl}
+little puppies...{nl}
+I shall break every last one{nl}
+of you with my own hands...{waitkey}{clearbox}I've just lifted this tower's{nl}
+time limit! Take as many{nl}
+hours as you like!{waitkey}{clearbox}By any means, come to me!{waitkey}{clearbox}Understand? Take all the{nl}
+hours you wish!{waitkey}{clearbox}Now then, I'll be waiting!!{nl}
+Good day to you!!{waitkey}{ret}
+</message>
+  <message offset="1ad8">
+Yukino: Michiko Matsudaira...{waitkey}{clearbox}Seems she won't be an easy{nl}
+opponent...{waitkey}{ret}
+</message>
+  <message offset="1b0c">
+Yukino: No time limit?{nl}
+Given that woman's character,{nl}
+there's something behind it.{waitkey}Don't you think?{waitkey}{ret}
+</message>
+  <message offset="1b50">
+Ayase: Y'know, that Michiko{nl}
+woman... she reminds me of{nl}
+someone.{waitkey}Like how she's super stuck-up~{waitkey}{ret}
+</message>
+  <message offset="1b8c">
+Nanjo: What is with{nl}
+that woman!?{nl}
+Taking such a haughty,{nl}
+condescending attitude!{waitkey}{clearbox}Who does she think she is!?{nl}
+Does she imagine herself the{nl}
+greatest in all the world?{waitkey}{clearbox}Unpleasant! Truly{nl}
+unpleasant!!{waitkey}{ret}
+</message>
+  <message offset="1c20">
+Brown: That haughty attitude{nl}
+she seems to have been born{nl}
+with...{waitkey}{clearbox}That brazen air, like she{nl}
+thinks there's not a single{nl}
+soul greater than herself!{waitkey}{clearbox}Just between us, that woman's{nl}
+the spitting image of{nl}
+a certain someone whose{nl}
+name starts with N!{waitkey}{ret}
+</message>
+  <message offset="1cb4">
+Elly: No Time limit?{nl}
+What could that mean?{waitkey}{clearbox}Is it that woman's confidence{nl}
+that she can beat us easily{nl}
+even without one?{waitkey}{clearbox}Or... is there some other{nl}
+reason?{waitkey}{clearbox}Either way, there's surely{nl}
+something behind it.{waitkey}{clearbox}The Time limit... we'd best{nl}
+be more wary of it,{nl}
+not less.{waitkey}{ret}
+</message>
+</scene>

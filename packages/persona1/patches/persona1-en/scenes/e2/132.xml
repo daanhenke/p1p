@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="132">
+  <message offset="1390">
+Tadashi: Ah! {ctl0f:1}! What's{nl}
+it like out there, huh? You{nl}
+were outside, right?{waitkey}Was my bald old man alive?{waitkey}{ret}
+</message>
+  <message offset="13e0">
+Tamaki: Heh~ You're scared,{nl}
+aren't you? Why don't you go{nl}
+look for yourself?{waitkey}Coward Tadashi!{waitkey}{ret}
+</message>
+  <message offset="141c">
+Tadashi: Y-you idiot! I-I'm{nl}
+not scared of any demons!{nl}
+You're way scarier!{waitkey}You muscle-bound girl!{waitkey}{ret}
+</message>
+  <message offset="1468">
+Tamaki: What did you say!{nl}
+You coward! Coward coward{nl}
+coward coward coward coward!{waitkey}{ret}
+</message>
+  <message offset="14a8">
+Tadashi: Argh! You muscle{nl}
+girl! Muscle girl muscle girl{nl}
+muscle girl muscle giirl!{waitkey}Th-that's a mouthful...{waitkey}{ret}
+</message>
+  <message offset="14f0">
+Tadashi: Huff... wheeze...{wait_fr:88}{nl}
+What an uncute girl,{nl}
+honestly. You think so{nl}
+too, {ctl0f:1}?{waitkey}{ret}
+</message>
+  <message offset="152c">
+Tamaki: Huff, huff, huff...{wait_fr:88}{nl}
+...Hey, {ctl0f:1}. I'll give{nl}
+you this.{waitkey}{clearbox}It's something I used at my{nl}
+old school, for reasons...{nl}
+This time it's your turn,{nl}
+not mine.{waitkey}I've got that feeling...{waitkey}{ret}
+</message>
+  <message offset="15a0">
+Tamaki: {ctl0f:1}, some demons{nl}
+are the reasonable sort.{waitkey}Remember — defeating them{nl}
+isn't the only path.{waitkey}{ret}
+</message>
+  <message offset="15e0">
+Male Member: Tamaki's{nl}
+incredible. Just now she{nl}
+named off the demons walking{nl}
+outside one by one!{waitkey}{clearbox}Said this one's useful, that{nl}
+one won't become an ally, and{nl}
+so on. By the way, what's{nl}
+an "ally"?{waitkey}{ret}
+</message>
+  <message offset="1650">
+{color:3}Tamaki{nl}
+A transfer student in the{nl}
+fencing club. Quarrels with{nl}
+Tadashi every day.{color:0}{waitkey}{ret}
+</message>
+  <message offset="1688">
+{color:2}Tadashi{nl}
+A lazy member of the fencing{nl}
+club. Quarrels with Tamaki{nl}
+every day.{color:0}{waitkey}{ret}
+</message>
+  <message offset="16c4">
+Female Member: With them{nl}
+bickering it felt like the{nl}
+usual mood, but... something{nl}
+big's happening now, huh.{waitkey}{ret}
+</message>
+  <message offset="1708">
+Received the "Rapier"!{waitkey}{ret}
+</message>
+</scene>

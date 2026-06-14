@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="3">
+  <message offset="15fc">
+So you all had{wait_fr:16}{nl}
+that dream too...{wait_fr:96}{ret}
+</message>
+  <message offset="1620">
+{wait_fr:32}Truly{wait_fr:32} earth-shattering.{wait_fr:96}{ret}
+</message>
+  <message offset="163c">
+{wait_fr:32}I bet this guy's{wait_fr:32}{nl}
+seein' the same thing{nl}
+right now.{wait_fr:96}{ret}
+</message>
+  <message offset="1668">
+Ms. Natsumi: You're awake,{nl}
+{ctl0f:1}.{waitkey}{nl}
+Hehe, welcome to the{nl}
+nurse's office~{nl}
+You looked so cute sleeping!{waitkey}{ret}
+</message>
+  <message offset="16a8">
+{color:3}Yoshino Natsumi.{nl}
+St. Hermelin's school nurse.{nl}
+Apparently not the best{nl}
+cook in the world.{color:0}{waitkey}{ret}
+</message>
+  <message offset="16ec">
+Ms. Saeko: {ctl0f:1}!{nl}
+Are you alright?!{waitkey}{ret}
+</message>
+  <message offset="170c">
+Ms. Saeko: Oh, thank goodness{nl}
+you're awake, {ctl0f:1}!{waitkey}{clearbox}You scared me half to death{nl}
+when I heard you'd collapsed!{waitkey}{ret}
+</message>
+  <message offset="174c">
+{color:3}Takami Saeko.{nl}
+Homeroom teacher for{nl}
+{ctl0f:1}'s class.{nl}
+Bright and well-loved.{color:0}{waitkey}{ret}
+</message>
+  <message offset="1794">
+Ms. Saeko: I'm so sorry,{nl}
+Ms. Natsumi — my kids{nl}
+caused you trouble!{waitkey}{ret}
+</message>
+  <message offset="17c8">
+Mark: That's literally your{nl}
+job, lookin' after students.{nl}
+Quit whinin'...{waitkey}{ret}
+</message>
+  <message offset="17fc">
+Ms. Saeko: Inaba! Show some{nl}
+remorse! {wait_fr:48}...Anyway, I{nl}
+heard the gist from Kirishima{nl}
+and Ayase, so...{waitkey}{clearbox}I'm canceling your{nl}
+volunteer duty for today.{wait_fr:32}{nl}
+Instead, swing by Mikage{nl}
+General for a checkup!{waitkey}{ret}
+</message>
+  <message offset="1890">
+Yukino: So even the teacher{nl}
+thinks something's wrong{nl}
+with us?{waitkey}{ret}
+</message>
+  <message offset="18b8">
+Ms. Saeko: Anyone with eyes{nl}
+can see you're all fine.{waitkey}{clearbox}...But if you hit your head{nl}
+when you fell, I need to{nl}
+know you're checked out.{nl}
+I'd just worry otherwise.{waitkey}{ret}
+</message>
+  <message offset="1914">
+Yukino: Didn't know you{nl}
+worried about us, Ms. Saeko.{wait_fr:48}{nl}
+Fine. We'll go.{waitkey}{ret}
+</message>
+  <message offset="1950">
+Ms. Natsumi: Oh, speaking of{nl}
+Mikage General — don't you{nl}
+have a student hospitalized{nl}
+there, Ms. Saeko?{waitkey}{ret}
+</message>
+  <message offset="1994">
+Mark: ...{wait_fr:32}You mean Sonemura.{waitkey}{ret}
+</message>
+  <message offset="19b0">
+Ms. Saeko: That's right.{nl}
+So while you're there,{nl}
+it's not out of the way —{nl}
+go visit Sonemura.{waitkey}{clearbox}She's been there{nl}
+almost a year now.{nl}
+I'm sure she'd love{nl}
+to see some familiar faces.{waitkey}{ret}
+</message>
+  <message offset="1a10">
+Ms. Saeko: I asked you to{nl}
+help prep for the Festival.{nl}
+How did you end up{nl}
+collapsed in an empty room?{waitkey}{clearbox}The Festival is barely{nl}
+a month away and nothing's{nl}
+been arranged yet. Should I{nl}
+just cancel it this year?{waitkey}{ret}
+</message>
+  <message offset="1a98">
+Nanjo: That would be{nl}
+most practical.{nl}
+Best to dispose of{nl}
+such nuisances swiftly.{waitkey}{ret}
+</message>
+  <message offset="1ac8">
+Mark: Mikage Hospital, right?{nl}
+Pretty long walk from school{nl}
+— it's northeast of here.{waitkey}{clearbox}Head out of school, go right,{nl}
+then turn right at the main{nl}
+street...{wait_fr:21}and left at the{nl}
+end of the road!{waitkey}{clearbox}Uh,{wait_fr:32} just wander around{nl}
+and you'll get there.{waitkey}{ret}
+</message>
+  <message offset="1b60">
+Yukino: Being in a hospital{nl}
+for a whole year... no way{nl}
+I could take that.{wait_fr:32}{nl}
+Let's all cheer her up!{waitkey}{ret}
+</message>
+  <message offset="1ba0">
+Ms. Saeko: Hey!{wait_fr:32}{nl}
+Get over to Mikage General{nl}
+Hospital now!{waitkey}{ret}
+</message>
+  <message offset="1bd8">
+Agastya Tree: Young one...{nl}
+You have come before me.{nl}
+Welcome.{waitkey}{ret}
+</message>
+  <message offset="1c04">
+Agastya Tree:{nl}
+Shall I inscribe your{nl}
+record within me?{waitkey}{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1c30">
+Agastya Tree: Young one...{nl}
+Go forth with care.{waitkey}{ret}
+</message>
+  <message offset="1c80">
+Ms. Natsumi: I put a new{nl}
+houseplant in here. Nice,{nl}
+isn't it?{waitkey}{clearbox}They say plants grow better{nl}
+if you talk to them.{waitkey}{clearbox}{ctl0f:1},{nl}
+why don't you say hello{nl}
+to it sometime?{waitkey}{ret}
+</message>
+</scene>

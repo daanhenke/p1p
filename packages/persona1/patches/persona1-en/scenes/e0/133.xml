@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="133">
+  <message offset="1c04">
+Maki: Someone's collapsed!{waitkey}{ret}
+</message>
+  <message offset="1c18">
+Mark: Th-that's Kido!!{waitkey}{ret}
+</message>
+  <message offset="1c34">
+Mark: Hey, Kido!{nl}
+Pull yourself together!{waitkey}{ret}
+</message>
+  <message offset="1c54">
+Reiji: ...{wait_fr:95}Ngh...{nl}
+D-damn it...{waitkey}{ret}
+</message>
+  <message offset="1c74">
+Kandori: Hmph.{nl}
+Youth sometimes destroys{nl}
+itself...{waitkey}A common mistake for{nl}
+those who overrate{nl}
+their own strength.{waitkey}{ret}
+</message>
+  <message offset="1cb8">
+Mark: ...{wait_fr:60}Why you~{waitkey}{ret}
+</message>
+  <message offset="1cd0">
+Nanjo: Kandori... it's{nl}
+been a while.{waitkey}{ret}
+</message>
+  <message offset="1ce8">
+Mark: You've got some{nl}
+nerve, pulling this.{waitkey}{ret}
+</message>
+  <message offset="1d08">
+Maki: Aki!{nl}
+That's not your papa!{nl}
+You know that, don't you?!{waitkey}{ret}
+</message>
+  <message offset="1d38">
+Elly: This is as far as{nl}
+you go, Mr. Kandori.{waitkey}{ret}
+</message>
+  <message offset="1d58">
+Brown: You coward!{nl}
+Always using dirty tricks!{waitkey}{ret}
+</message>
+  <message offset="1d80">
+Ayase: Hey, mister!{nl}
+Give back the compact!{nl}
+Ayase's gonna borrow it!{waitkey}{ret}
+</message>
+  <message offset="1db4">
+Aki: Nyaah!{nl}
+Papa is papa!{waitkey}{ret}
+</message>
+  <message offset="1dd8">
+Kandori: You've grown{nl}
+bold, boy.{waitkey}{ret}
+</message>
+  <message offset="1df8">
+Maki: Where's the compact?{nl}
+Give it back!{waitkey}{ret}
+</message>
+  <message offset="1e18">
+Aki: It's right here!{waitkey}{ret}
+</message>
+  <message offset="1e28">
+Kandori: At last,{nl}
+the two compacts
+</message>
+  <message offset="1e68">
+become one in my hand...{waitkey}I thank you, boy.{waitkey}{ret}
+</message>
+  <message offset="1e88">
+Nanjo: You - what do you{nl}
+intend to do with it?!{waitkey}{ret}
+</message>
+  <message offset="1e9c">
+Kandori: Show them, Aki.{waitkey}{ret}
+</message>
+  <message offset="1ec4">
+Aki: Okay, papa!{wait_fr:79}{nl}
+Nomoraka Tanomamaa!{waitkey}{ret}
+</message>
+  <message offset="1ee0">
+Maki: What is this?{wait_fr:79} A mirror?!{waitkey}{ret}
+</message>
+  <message offset="1f0c">
+Kandori: This is the form{nl}
+of my ambition...{wait_fr:79}{nl}
+Behold its power!{waitkey}{ret}
+</message>
+  <message offset="1f44">
+Reiji: ...{wait_fr:60}Kandori{wait_fr:60} Takahisa!{wait_fr:60}{nl}
+I won't... let you escape!{waitkey}{ret}
+</message>
+  <message offset="1fc4">
+Kandori: Don't call your{nl}
+elder brother's name so{nl}
+freely. Filthy bastard{nl}
+though you are,{waitkey}{clearbox}the same Kandori blood{nl}
+runs in you. Mind your{nl}
+tongue...{wait_fr:79} though it's futile.{nl}
+A stray's pup is a stray.{waitkey}{ret}
+</message>
+  <message offset="1fe8">
+Mark: Reiji, you're...{nl}
+that guy's brother?!{waitkey}{ret}
+</message>
+  <message offset="2064">
+Reiji: Shut up!!{wait_fr:60}{nl}
+I'm a Kido!{nl}
+I'm Reiji Kido!!{waitkey}{clearbox}Toyed with by your father,{nl}
+thrown out like an old rag -{nl}
+my mother's bitterness!!{waitkey}This scar hasn't forgotten{nl}
+a thing!{waitkey}{ret}
+</message>
+  <message offset="2094">
+Kandori: Hmph... how dull.{nl}
+Go take it up with our{nl}
+dead father's grave.{waitkey}{ret}
+</message>
+  <message offset="20b0">
+Reiji: Kandoriiiiiii!!{waitkey}{ret}
+</message>
+  <message offset="20d4">
+Kandori: Noisy stray...{nl}
+Aki, silence him.{waitkey}{ret}
+</message>
+  <message offset="20e8">
+Mark: Reiji!!{waitkey}{ret}
+</message>
+  <message offset="210c">
+Mark: Why you~!{nl}
+You've got some nerve!{waitkey}{ret}
+</message>
+  <message offset="2130">
+Maki: That's...!{nl}
+Mai-chan's compact?!{waitkey}{ret}
+</message>
+</scene>

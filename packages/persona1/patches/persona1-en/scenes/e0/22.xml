@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="22">
+  <message offset="137c">
+Men: Ugh... grraaghh...{nl}
+RAAAGHHH!!{nl}
+{waitkey}{ret}
+</message>
+  <message offset="13a0">
+Yukino: Wh-what the hell{nl}
+are these things...{waitkey}{ret}
+</message>
+  <message offset="13b4">
+Nurse: The p-patients who{nl}
+were supposed to be dead{nl}
+suddenly started moving, and{nl}
+the old man who helped...{waitkey}{nl}
+Eeek!!{waitkey}{ret}
+</message>
+  <message offset="13fc">
+Mark: What!?{nl}
+So these guys are dead?{nl}
+Are you serious!?{waitkey}{ret}
+</message>
+  <message offset="1428">
+Nanjo: Y... {wait_fr:95}Yamaoka?{waitkey}{ret}
+</message>
+  <message offset="1440">
+Nanjo: Yamaoka!{wait_fr:60}...{wait_fr:60}...{wait_fr:60}...{wait_fr:60}{nl}
+You bastards!! How dare you!!{waitkey}{ret}
+</message>
+</scene>

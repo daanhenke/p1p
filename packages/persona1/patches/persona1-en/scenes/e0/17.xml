@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="17">
+  <message offset="1730">
+Nanjo: Ancient rather than{nl}
+historic — it's just{nl}
+plain grimy.{waitkey}{ret}
+</message>
+  <message offset="1754">
+Nanjo: ...Hm?{wait_fr:48} Inaba, is this{nl}
+fellow another one of{nl}
+your delinquent friends?{waitkey}{ret}
+</message>
+  <message offset="1784">
+Mark: What'd you say!?{wait_fr:48} ...Huh?{waitkey}A scar on his forehead...{nl}
+is that you?{nl}
+What are you doing here?{waitkey}{ret}
+</message>
+  <message offset="17c8">
+Reiji: Stay away from{nl}
+here...{wait_fr:48}{nl}
+Unless you want to die.{waitkey}{ret}
+</message>
+  <message offset="17f4">
+Mark: The hell?{nl}
+Hey, wait up!{waitkey}{ret}
+</message>
+  <message offset="1814">
+Yukino: What's he wandering{nl}
+around doing... that guy.{waitkey}{ret}
+</message>
+  <message offset="1834">
+Mark: You got business{nl}
+at our studio?{nl}
+Nobody should be here today.{waitkey}{ret}
+</message>
+  <message offset="1864">
+{color:2}Kido Reiji{nl}
+A student who transferred{nl}
+here six months ago.{nl}
+Quiet, and always alone.{color:0}{waitkey}{ret}
+</message>
+</scene>

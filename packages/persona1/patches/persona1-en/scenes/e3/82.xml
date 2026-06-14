@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="82">
+  <message offset="155c">
+???: Oh, hello. Nice to meet{nl}
+you.{waitkey}{clearbox}I'm Mariko Yabe, of the{nl}
+Yamagumo Private High School{nl}
+Paranormal Phenomena Club.{waitkey}Pleased to meet you!{waitkey}{clearbox}Though it's an unofficial club{nl}
+where I'm both president and{nl}
+sole member, ha!{waitkey}{clearbox}My homeroom teacher won't{nl}
+approve the club, for the sole{nl}
+reason that it's "uncool"!{waitkey}{clearbox}So today I came to meet my{nl}
+comrade Kuroori, but...
+</message>
+  <message offset="1718">
+{nl}
+{nl}
+little did I{wait_fr:30}...{nl}
+little did I{wait_fr:30}...
+</message>
+  <message offset="1780">
+{nl}
+dream...{waitkey}{clearbox}that I'd get caught up in a{nl}
+paranormal event this amazing!{nl}
+I'm super lucky!{waitkey}{clearbox}I've been snapping tons of{nl}
+photos! And I'm gonna submit{nl}
+these demon photos to a{nl}
+magazine!{waitkey}{clearbox}Then! Maybe my teacher will{nl}
+approve the club after all!{waitkey}All right! I'll give it{nl}
+my all!{waitkey}{ret}
+</message>
+  <message offset="17e0">
+Mariko: According to my{nl}
+investigation, aliens are{nl}
+behind this "school freeze{nl}
+incident"!{waitkey}{clearbox}Say, you haven't been{nl}
+abducted by a UFO these past{nl}
+few days, have you?{waitkey}{ret}
+</message>
+  <message offset="1814">
+Shopkeeper: Welcome~ Me come{nl}
+from Demon Mountain. Me bring{nl}
+very good things~{waitkey}{clearbox}Mister, you need this. Me{nl}
+give good price. You buy,{nl}
+yes!{waitkey}{ret}
+</message>
+  <message offset="1834">
+Yukino: Hey, why does that{nl}
+seller have the same face at{nl}
+every weapon shop?{waitkey}{ret}
+</message>
+  <message offset="1858">
+Ayase: Hey~ it reeks of oil{nl}
+in here!{waitkey}{ret}
+</message>
+  <message offset="1894">
+Nanjo: Impressive!! Such niche{nl}
+wares, every one.{waitkey}{ret}
+</message>
+</scene>

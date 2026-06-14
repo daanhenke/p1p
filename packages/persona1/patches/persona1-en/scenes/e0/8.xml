@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="8">
+  <message offset="1494">
+Nanjo: {ctl0f:1},{nl}
+it seems you've been{nl}
+mistaken for someone else.{waitkey}{ret}
+</message>
+  <message offset="14bc">
+Mark: Someone's been sneaking{nl}
+in and out of an empty{nl}
+classroom on the 2nd floor...{nl}
+You know who that is?{waitkey}{ret}
+</message>
+  <message offset="14f8">
+Elly: I was explaining what{nl}
+happened to Ms. Saeko.{waitkey}{clearbox}Brown slipped out early,{nl}
+it seems.{waitkey}{clearbox}Ayase alone certainly{nl}
+couldn't explain it{nl}
+properly, could she?{waitkey}{ret}
+</message>
+  <message offset="157c">
+Ayase: Brown totally bailed,{nl}
+so Ayase and Elly had to{nl}
+explain it to the teacher!{waitkey}{clearbox}Brown always makes himself{nl}
+scarce at times like these!{waitkey}{ret}
+</message>
+  <message offset="15e0">
+Yukino: Elly and Ayase didn't{nl}
+faint, so they don't need{nl}
+to go to the hospital.{waitkey}{clearbox}But why did only{nl}
+we faint?{waitkey}{clearbox}The ones who didn't faint had{nl}
+done the Persona ritual{nl}
+before...{waitkey}{nl}
+Ayase, Elly, and Brown...{waitkey}{ret}
+</message>
+  <message offset="1680">
+Teacher: Hey, {ctl0f:1}.{nl}
+Word is someone's been going{nl}
+in and out of that empty room{nl}
+at the end of the 2nd floor.{waitkey}{nl}
+That's not you, is it?{waitkey}{ret}
+</message>
+  <message offset="16d4">
+Teacher: If it wasn't you,{nl}
+then who's been sneaking{nl}
+into that classroom...?{waitkey}{ret}
+</message>
+</scene>

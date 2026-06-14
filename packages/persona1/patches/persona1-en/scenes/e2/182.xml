@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="182">
+  <message offset="13e8">
+Kaneda: What do you want with{nl}
+my place?{waitkey}Don't tell me you're debt{nl}
+collectors!?{wait_fr:32} As you can see,{nl}
+I haven't got any money!{waitkey}{clearbox}The ruins I was counting on{nl}
+had no treasure at all.{nl}
+My business is ruined!{waitkey}{ret}
+</message>
+  <message offset="1474">
+{color:3}Katsue Kaneda{nl}
+Was supposed to have suddenly{nl}
+grown rich and to live in a{nl}
+fine house, but...{color:0}{waitkey}{ret}
+</message>
+  <message offset="14bc">
+Nanjo: Business? She runs a{nl}
+business at some ruins?{waitkey}{ret}
+</message>
+  <message offset="14e4">
+Maki: Honestly, Nanjo! Ms.{nl}
+Kaneda's job is robbing ruins,{nl}
+isn't it!{waitkey}{ret}
+</message>
+  <message offset="151c">
+Elly: Tomb robbing — that's{nl}
+hardly what you'd call a job.{waitkey}{clearbox}Besides, there's no way you{nl}
+could do such a thing in{nl}
+Japan today, is there?{waitkey}{clearbox}Honestly, Maki, the strange{nl}
+things you say.{waitkey}{ret}
+</message>
+  <message offset="1588">
+Brown: Tomb robbing? You can't{nl}
+do that in Japan. Maki, what{nl}
+a weird thing to say.{waitkey}{ret}
+</message>
+  <message offset="15c0">
+Ayase: Tomb robbing~? No way{nl}
+anyone does that for a living.{waitkey}Sonomura, get a grip~{waitkey}{ret}
+</message>
+  <message offset="1608">
+Reiji: Tomb robbing...?{wait_fr:32}{nl}
+There's no way you could do{nl}
+that.{waitkey}{clearbox}You're not a child. Don't{nl}
+talk nonsense.{waitkey}{ret}
+</message>
+  <message offset="1650">
+Maki: But...{wait_fr:32} that's what{nl}
+everyone says, isn't it?{waitkey}{ret}
+</message>
+  <message offset="1678">
+Mark: Come to think of it,{nl}
+there was a rumor the old{nl}
+lady got rich by ransacking{nl}
+ruins.{waitkey}Going around about a year{nl}
+ago, that.{waitkey}{clearbox}Sonomura, did you take that{nl}
+at face value?{wait_fr:48} ...Oh right,{nl}
+you're a different Sonomura.{waitkey}{ret}
+</message>
+  <message offset="1700">
+Kaneda: Quit your yammering!{nl}
+Now, if you've no business,{nl}
+off with you!{waitkey}{ret}
+</message>
+  <message offset="1730">
+Kaneda: Still here?! If you've{nl}
+no business, get out already!{waitkey}{ret}
+</message>
+  <message offset="1760">
+Nanjo: {ctl0f:1}, Sonomura said{nl}
+the Kaneda hag makes her{nl}
+living by robbing ruins.{waitkey}{clearbox}In our town, that was nothing{nl}
+more than a rumor.{waitkey}{clearbox}But in this town, it seems to{nl}
+have become reality.{waitkey}{clearbox}Why has the rumor become{nl}
+real?{waitkey}{ret}
+</message>
+  <message offset="17f0">
+Maki: A rumor becoming{nl}
+real...?{wait_fr:32} ...N-{wait_fr:21}no, my head{nl}
+hurts... Hey everyone, let's{nl}
+just go!{waitkey}{ret}
+</message>
+  <message offset="1830">
+Kaneda: What's become of this{nl}
+town!{waitkey}{clearbox}All of a sudden, everywhere's{nl}
+gone to ruin!{waitkey}{clearbox}You lot are strong, aren't{nl}
+you? Seeing this state of{nl}
+things, don't you want to do{nl}
+something about it?!{waitkey}{ret}
+</message>
+  <message offset="18a8">
+Mark: ...{wait_fr:32}Sorry, granny.{nl}
+We're running around trying{nl}
+to do something about it too.{waitkey}{ret}
+</message>
+  <message offset="18e4">
+Elly: Mark, calm down... Maki{nl}
+will surely be fine. Come,{nl}
+let's hurry and search!{waitkey}{ret}
+</message>
+  <message offset="1928">
+Elly: Mark, do calm down...{waitkey}{clearbox}Maki will surely be fine.{nl}
+Come, let's hurry and search.{waitkey}{ret}
+</message>
+  <message offset="1974">
+Elly: Mark, calm down...{waitkey}{clearbox}It's all right! Soon enough,{nl}
+everything will be resolved.{waitkey}{ret}
+</message>
+  <message offset="19b4">
+Elly: Mark, do calm down...{waitkey}{clearbox}It's all right. Soon enough,{nl}
+everything should be resolved.{waitkey}{ret}
+</message>
+  <message offset="19f8">
+Brown: There, there, Mark.{nl}
+Don't get so worked up!{waitkey}{clearbox}I'll have everything back to{nl}
+normal in no time!{waitkey}{ret}
+</message>
+  <message offset="1a40">
+Ayase: Don't get mad, Inaba...{wait_fr:32}{nl}
+Everything'll be back to{nl}
+normal real soon!{waitkey}{ret}
+</message>
+  <message offset="1a7c">
+Reiji: Calm down, Inaba. Just{nl}
+a little more patience.{waitkey}{clearbox}Then I'll set everything back{nl}
+to rights, you'll see.{waitkey}{ret}
+</message>
+</scene>

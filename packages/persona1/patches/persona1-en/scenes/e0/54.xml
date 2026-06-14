@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="54">
+  <message offset="172c">
+{nl}
+
+</message>
+  <message offset="176c">
+Ayase: Whaaat?!{nl}
+Did Ayase just beat those{nl}
+guys up?!{waitkey}{ret}
+</message>
+  <message offset="179c">
+Mark: You too, Ayase...{wait_fr:21}{nl}
+What's going on{nl}
+here?{waitkey}{ret}
+</message>
+  <message offset="17ac">
+Nanjo: Hmm...{waitkey}{ret}
+</message>
+  <message offset="17d8">
+Ayase: What?{nl}
+Ayase doesn't understand{nl}
+any of this!{waitkey}{ret}
+</message>
+  <message offset="1814">
+Nanjo: Allow me to explain.{nl}
+Though, what we know{nl}
+is fairly limited.{waitkey}{ret}
+</message>
+  <message offset="1844">
+Ayase: So...{wait_fr:16}{nl}
+what am I supposed to{nl}
+do with this power?{waitkey}{ret}
+</message>
+  <message offset="1854">
+Mark: Who knows.{waitkey}{ret}
+</message>
+  <message offset="1888">
+Maki: Sitting here won't{nl}
+solve anything,{wait_fr:16}{nl}
+let's go!{waitkey}{ret}
+</message>
+  <message offset="18b8">
+Maki: So you're the same{nl}
+as Yuka — feels like{nl}
+fate!{waitkey}{ret}
+</message>
+  <message offset="18d8">
+Maki: This is incredible...{nl}
+Like something out{nl}
+of sci-fi...{waitkey}{ret}
+</message>
+  <message offset="18fc">
+Nanjo: Is this from that{nl}
+"Persona Game" thing...{waitkey}{ret}
+</message>
+  <message offset="1958">
+Nanjo: {ctl0f:1},{nl}
+beyond here — if you{nl}
+see anything suspicious,{nl}
+think first!{waitkey}{clearbox}...Honestly,{nl}
+just thinking about{nl}
+Inaba still{nl}
+makes me furious!{waitkey}{ret}
+</message>
+  <message offset="1984">
+Mark: It feels like{nl}
+someone's pulling our{nl}
+strings — awful feeling!{waitkey}{ret}
+</message>
+  <message offset="19b4">
+Mark: This is amazing...{nl}
+To build something like this —{nl}
+they mean business.{waitkey}{ret}
+</message>
+  <message offset="19d8">
+Ayase: Ayase doesn't{nl}
+really get any of this...{nl}
+So much happening at once.{waitkey}{ret}
+</message>
+  <message offset="1a10">
+Ayase: Ugh...{nl}
+Ayase feels sick...{wait_fr:21}{nl}
+One of those is{nl}
+inside me?!{waitkey}{ret}
+</message>
+  <message offset="1a48">
+Brown: Oh yeah! This tension!{nl}
+This is what I live for —{nl}
+watch me shine!{waitkey}{ret}
+</message>
+  <message offset="1a88">
+Elly: There must be lots{nl}
+of Demons deeper in...{nl}
+How wonderful.{waitkey}{ret}
+</message>
+  <message offset="1ab4">
+Elly: We need to catch{nl}
+Mr. Kandori before{nl}
+it's too late!{waitkey}{ret}
+</message>
+</scene>

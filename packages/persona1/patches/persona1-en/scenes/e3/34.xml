@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="34">
+  <message offset="1708">
+!
+</message>
+  <message offset="1720">
+Touch the orb of light?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1738">
+Yukino: What just happened?{waitkey}{ret}
+</message>
+  <message offset="1750">
+Yukino: Going in again?{waitkey}{ret}
+</message>
+  <message offset="1770">
+Ayase: Huh? Seems like we're{nl}
+one short...{waitkey}{ret}
+</message>
+  <message offset="178c">
+Ayase: It's glowing, but it's{nl}
+not warm.{waitkey}{ret}
+</message>
+  <message offset="17b4">
+Nanjo: Is everyone all right?{waitkey}What in the world was that...{waitkey}{ret}
+</message>
+  <message offset="17e4">
+Nanjo: It seems touching this{nl}
+transports you to another{nl}
+place.{waitkey}{ret}
+</message>
+  <message offset="1800">
+Brown: Hwah?? What was that{nl}
+just now?{waitkey}{ret}
+</message>
+  <message offset="1820">
+Brown: Stare at it too long{nl}
+and your eyes start to hurt.{waitkey}{ret}
+</message>
+  <message offset="1848">
+Elly: I wonder what's changed?{nl}
+Let's go outside and see!{waitkey}{ret}
+</message>
+</scene>

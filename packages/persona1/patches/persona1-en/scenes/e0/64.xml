@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="64">
+  <message offset="1fc8">
+Mark: ...Ugh...{waitkey}{ret}
+</message>
+  <message offset="1fd8">
+Mark: Hey, Sonoda!{nl}
+Are you okay?!{waitkey}{ret}
+</message>
+  <message offset="1ff8">
+Maki: ...Uu... hmm...{waitkey}{ret}
+</message>
+  <message offset="200c">
+Maki: ...Inaba{wait_fr:60}...kun?{waitkey}{ret}
+</message>
+  <message offset="2028">
+Nanjo: Gh...{waitkey}{ret}
+</message>
+  <message offset="2038">
+Nanjo: ...Where are we?{wait_fr:60}{nl}
+Ah, {ctl0f:1},{nl}
+you're safe.{waitkey}{ret}
+</message>
+  <message offset="2060">
+Brown: Ow ow ow...{nl}
+M-my back...{waitkey}{ret}
+</message>
+  <message offset="207c">
+Brown: Y-yeah!{nl}
+I'm alive!{nl}
+{ctl08:65281}Our leader pulls through!{waitkey}{ret}
+</message>
+  <message offset="20ac">
+Elly: ...Oh.{waitkey}{ret}
+</message>
+  <message offset="20bc">
+Elly: ...Where are we?{nl}
+Ah, {ctl07:1}...{nl}
+Are you uninjured?{waitkey}{ret}
+</message>
+  <message offset="20e8">
+Ayase: ...Ugh...{waitkey}{ret}
+</message>
+  <message offset="20f8">
+Ayase: ...Ow!!{nl}
+That's it, I'm going home!{nl}
+Why does this happen?!{waitkey}{ret}
+</message>
+  <message offset="2134">
+Nanjo: It seems everyone{nl}
+is uninjured.{nl}
+Truly remarkably lucky.{waitkey}{ret}
+</message>
+  <message offset="2164">
+Elly: ...This is{nl}
+our school gym.{nl}
+From six months ago...{waitkey}{ret}
+</message>
+  <message offset="2198">
+Brown: ...Hey, isn't this{nl}
+our school gym?!{nl}
+From six months ago too...{waitkey}{ret}
+</message>
+  <message offset="21d8">
+Ayase: ...Isn't this{nl}
+Ayase's school gym?{nl}
+Six months back? That one?{waitkey}{ret}
+</message>
+  <message offset="2214">
+Maki: That's right...{nl}
+We came back...{waitkey}{ret}
+</message>
+  <message offset="223c">
+Mark: Came back?{nl}
+Six months ago?!{nl}
+Get together, Sonoda!{waitkey}{ret}
+</message>
+  <message offset="226c">
+Nanjo: ...A time slip?{nl}
+Quite different from{nl}
+what your mother said.{waitkey}{ret}
+</message>
+  <message offset="229c">
+Maki: ...I keep saying this,{nl}
+but I really have no mom.{waitkey}To think what{nl}
+Yosuke was saying...{nl}
+it was all true...{waitkey}{ret}
+</message>
+  <message offset="22e8">
+Student: Oh! There you are!{nl}
+Terrible news, Maki!{nl}
+Naito-kun got hurt bad!{waitkey}That black girl{nl}
+came again...{waitkey}{ret}
+</message>
+  <message offset="2338">
+Maki: No way!{nl}
+Wh-what?!{nl}
+Yosuke-kun!{waitkey}{ret}
+</message>
+  <message offset="2358">
+Mark: H-hey, Sonoda!{waitkey}{ret}
+</message>
+  <message offset="236c">
+Elly: Yosuke-kun...{nl}
+Is that Naito Yosuke?{waitkey}{clearbox}I recall he and Kasai Chisato{nl}
+went missing about{nl}
+2 months ago.{waitkey}{ret}
+</message>
+  <message offset="23cc">
+Brown: Yosuke... is that{nl}
+Naito Yosuke?{waitkey}He ran off with his{nl}
+girlfriend Kasai{nl}
+2 months ago, right?{waitkey}{ret}
+</message>
+  <message offset="241c">
+Ayase: Yosuke...{nl}
+is that Naito Yosuke?{waitkey}Didn't he run off{nl}
+with Kasai about{nl}
+2 months ago?{waitkey}{ret}
+</message>
+  <message offset="246c">
+Nanjo: ...That fool{nl}
+acting alone in this...{nl}
+{ctl0f:1}, let's chase Sonoda.{waitkey}{ret}
+</message>
+  <message offset="24a8">
+Nanjo: ...{ctl0f:1},{nl}
+don't Sonoda's actions{nl}
+seem odd for amnesia?{waitkey}{clearbox}Is this really{nl}
+six months back...?{nl}
+That girl came for Sonoda.{waitkey}But six months ago,{nl}
+Sonoda was{nl}
+in the hospital.{waitkey}{ret}
+</message>
+  <message offset="252c">
+Mark: ...Naito{wait_fr:30}...{nl}
+...I see.{nl}
+...Oh — what is it, {ctl0f:1}?{waitkey}{ret}
+</message>
+  <message offset="255c">
+Elly: A timeslip...{nl}
+{ctl07:1},{nl}
+do you believe it?{waitkey}I feel like something's{nl}
+different here.{waitkey}{ret}
+</message>
+  <message offset="25a4">
+Brown: But is this{nl}
+really school?{nl}
+Maybe somewhere else.{waitkey}Yeah! It's a dream!{nl}
+Wahaha!{waitkey}{ret}
+</message>
+  <message offset="25f0">
+Ayase: "Time strip"?{nl}
+Is that a new thing?{nl}
+Is it trending?{waitkey}{clearbox}That's wild!{nl}
+Is Ayase{nl}
+falling behind?!{waitkey}{ret}
+</message>
+  <message offset="2648">
+Student: I think Maki{nl}
+likes Naito-kun.{nl}
+Such a perfect couple!{waitkey}{ret}
+</message>
+  <message offset="2684">
+Nanjo: Excuse me —{nl}
+how many days until{nl}
+the sports festival?{waitkey}{ret}
+</message>
+  <message offset="26ac">
+Student: Rude as always.{nl}
+One month left.{nl}
+Amnesia, Nanjo-kun?{waitkey}{ret}
+</message>
+  <message offset="26ec">
+Nanjo: ...Same date.{nl}
+What year is it?{waitkey}{ret}
+</message>
+  <message offset="2710">
+Student: ...You really{nl}
+have amnesia?!{nl}
+We're all second years!{waitkey}I need to tell{nl}
+everyone!{waitkey}{ret}
+</message>
+  <message offset="2750">
+Nanjo: ...Same year too.{nl}
+More puzzling{nl}
+than ever.{waitkey}{ret}
+</message>
+  <message offset="2770">
+Student: Ha ha ha...{nl}
+You appeared from{nl}
+nowhere...{waitkey}Must be my imagination!{nl}
+Ha ha ha!{waitkey}{ret}
+</message>
+  <message offset="27b4">
+Mark: ...Hey,{nl}
+isn't this the school gym?{nl}
+From six months ago...{waitkey}{ret}
+</message>
+  <message offset="27f0">
+Mark: H-hey Sonoda! ...{nl}
+Naito — the one missing{nl}
+2 months ago?{waitkey}{ret}
+</message>
+</scene>

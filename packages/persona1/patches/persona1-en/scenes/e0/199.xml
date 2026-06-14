@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="199">
+  <message offset="18bc">
+Maki: ...{waitkey}{ret}
+</message>
+  <message offset="1934">
+Maki: Don't act so smug!{nl}
+{ctl07:1}'s a good person!{nl}
+Let's go, {ctl07:1}!{waitkey}{ret}
+</message>
+  <message offset="1940">
+Maki: It's not just me...{nl}
+everyone has all sorts{nl}
+of selves inside, huh.{waitkey}{ret}
+</message>
+  <message offset="19b0">
+Maki: Let's hurry up.{nl}
+I don't like that {ctl07:1}.{waitkey}{ret}
+</message>
+  <message offset="19e4">
+Received the{nl}
+"Rosetta Stone"!{waitkey}{ret}
+</message>
+  <message offset="1a24">
+Received the "Rosetta{nl}
+Stone" and "Passe"!{waitkey}{ret}
+</message>
+  <message offset="1a94">
+"Rosetta Stone"{nl}
+"Passe"{nl}
+"Holy Water of Misogi"{waitkey}{clearbox}"Tortoiseshell Glasses"{nl}
+"Coffin of Babylon"{nl}
+received!{waitkey}{ret}
+</message>
+  <message offset="1b4c">
+"Rosetta Stone"{nl}
+"Passe"{nl}
+"Holy Water of Misogi"{waitkey}{clearbox}"Tortoiseshell Glasses"{nl}
+"Contract of Judgment"{nl}
+received!{waitkey}{ret}
+</message>
+  <message offset="1c0c">
+"Rosetta Stone"{nl}
+"Passe"{nl}
+"Holy Water of Misogi"{waitkey}{clearbox}"Tortoiseshell Glasses"{nl}
+"Victoria Rune"{nl}
+received!{waitkey}{ret}
+</message>
+  <message offset="1ccc">
+"Rosetta Stone"{nl}
+"Passe"{nl}
+"Holy Water of Misogi"{waitkey}{clearbox}"Tortoiseshell Glasses"{nl}
+"Stuffed Deer" received!{waitkey}{ret}
+</message>
+  <message offset="1cf8">
+Atlus's fighting game,{nl}
+"Groove on Fight"!{nl}
+Looks super fun!!{waitkey}{ret}
+</message>
+</scene>

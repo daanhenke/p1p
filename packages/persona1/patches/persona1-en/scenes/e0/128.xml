@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="128">
+  <message offset="22e4">
+Mark: All right, {ctl0f:1}.{nl}
+Let's try setting the{nl}
+'Half Compact' on the stand.{waitkey}{ret}
+</message>
+  <message offset="2318">
+Nanjo: ...{wait_fr:60}Wait, {ctl0f:1}.{waitkey}{ret}
+</message>
+  <message offset="2330">
+Maki: Why, Nanjo?{waitkey}{ret}
+</message>
+  <message offset="2348">
+Nanjo: ...{wait_fr:60}No,{nl}
+it's nothing.{nl}
+Go on.{waitkey}{ret}
+</message>
+  <message offset="2368">
+Mark: You're acting weird.{nl}
+You're strange enough already.{waitkey}You've been like this{nl}
+this whole time.{waitkey}{ret}
+</message>
+  <message offset="23a4">
+Nanjo: ...Don't mind it.{waitkey}{ret}
+</message>
+  <message offset="23b8">
+Mark: Tch!{wait_fr:60} So he says.{nl}
+Go on, {ctl0f:1}.{waitkey}{ret}
+</message>
+  <message offset="23d8">
+Maki: {ctl07:1},{nl}
+Kandori and Aki are{nl}
+just above us...{waitkey}We've finally made it{nl}
+this far.{waitkey}{ret}
+</message>
+  <message offset="240c">
+Maki: Oh no!{nl}
+We have to get Mai's{nl}
+compact back!{waitkey}{ret}
+</message>
+  <message offset="2438">
+Mark: Hurry up.{nl}
+You just gotta set the{nl}
+compact on that stand.{waitkey}{ret}
+</message>
+  <message offset="2460">
+Mark: Damn it!{nl}
+We fell right{nl}
+into his trap.{waitkey}{ret}
+</message>
+  <message offset="2480">
+Nanjo: Kandori, you{nl}
+filthy schemer...{waitkey}{ret}
+</message>
+  <message offset="2498">
+Nanjo: Either way, we had{nl}
+no choice but to dance{nl}
+to his tune...{waitkey}Underhanded, but a{nl}
+clever way to do it.{waitkey}{ret}
+</message>
+  <message offset="24dc">
+Reiji: ...{wait_fr:60}Kandori...{nl}
+I won't let you escape.{nl}
+I'll settle this grudge.{waitkey}{ret}
+</message>
+  <message offset="250c">
+Reiji: ...{wait_fr:60}A filthy bastard,{nl}
+just like his father...{waitkey}{ret}
+</message>
+  <message offset="2534">
+Elly: ...{nl}
+I have a bad feeling.{nl}
+Be careful, {ctl07:1}.{waitkey}{ret}
+</message>
+  <message offset="2560">
+Elly: I knew it... But{nl}
+nothing's happened to{nl}
+you, {ctl07:1}, so{waitkey}I'm relieved.{waitkey}{ret}
+</message>
+  <message offset="259c">
+Brown: {ctl08:65281}Be bad if something{nl}
+happened, so be care-{waitkey}Want me to switch in?{waitkey}{ret}
+</message>
+  <message offset="25d4">
+Brown: That's dirty!{nl}
+Is this even allowed?!{nl}
+Man, I'm seriously ticked off!{waitkey}{ret}
+</message>
+  <message offset="2608">
+Ayase: {ctl0f:1}~{nl}
+Hurry it up.{waitkey}{ret}
+</message>
+  <message offset="2620">
+Ayase: No fair!{nl}
+Using people is the{nl}
+absolute worst!{waitkey}Guys like that are the{nl}
+most infuriating ever!!{waitkey}{ret}
+</message>
+  <message offset="2664">
+Set the Half Compact?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="267c">
+Mark: Wh-what's going on?{waitkey}{ret}
+</message>
+  <message offset="2694">
+Nanjo: Kandori must be{nl}
+laughing his head off.{waitkey}{ret}
+</message>
+  <message offset="26b4">
+Maki: What does this mean?!{waitkey}{ret}
+</message>
+  <message offset="26c8">
+Nanjo: What Kandori wanted{nl}
+was that compact.{nl}
+If he couldn't touch Mai...{waitkey}{clearbox}he'd just have someone{nl}
+else bring it. We were{nl}
+used as his pawns.{waitkey}{ret}
+</message>
+  <message offset="2724">
+Mark: Say what?!{nl}
+That bastard!!{nl}
+You knew? You should've{nl}
+told us!{waitkey}{ret}
+</message>
+  <message offset="2758">
+Nanjo: There was no other{nl}
+way to reach him.{waitkey}{ret}
+</message>
+  <message offset="2774">
+Maki: But why?{nl}
+He could've just taken the{nl}
+compact. Why bring us in?{waitkey}{ret}
+</message>
+  <message offset="27ac">
+Nanjo: He's telling us{nl}
+to come. He must be{nl}
+awfully confident.{waitkey}{ret}
+</message>
+  <message offset="27e0">
+Mark: Looking down on us...{nl}
+Fine, I'll play along!{nl}
+Let's go, {ctl0f:1}!{waitkey}{ret}
+</message>
+  <message offset="2810">
+The door is shut tight.{waitkey}{ret}
+</message>
+  <message offset="2824">
+Maki: The haunted manor...{nl}
+I used to sneak in a lot{nl}
+as a kid...{wait_fr:88}{nl}
+Huh... who was it...{waitkey}who saved me back then...?{waitkey}{ret}
+</message>
+  <message offset="28b0">
+Mark: That Kido's{nl}
+probably steaming mad.{waitkey}{ret}
+</message>
+  <message offset="28cc">
+Nanjo: ...No, that's wrong.{nl}
+But if I think of it{nl}
+this way... no, wait...{waitkey}Hm? I'm busy right now.{waitkey}{ret}
+</message>
+  <message offset="2910">
+Elly: {ctl07:1},{nl}
+let's hurry to the{nl}
+haunted house!{waitkey}{ret}
+</message>
+  <message offset="2944">
+Brown: The haunted manor's{nl}
+to the south of here,{nl}
+right?{waitkey}{ret}
+</message>
+  <message offset="2970">
+Ayase: Hurry, hurry!{nl}
+No time to dawdle, right?!{nl}
+The manor's to the south?{waitkey}{ret}
+</message>
+  <message offset="29b0">
+Reiji: Is this the time{nl}
+for chitchat?!{nl}
+Hurry and chase him!{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="33">
+  <message offset="13d4">
+
+</message>
+  <message offset="141c">
+Ms. Saeko: Everyone safe?!{wait_fr:32}{nl}
+Oh...{wait_fr:16} thank goodness...{waitkey}{nl}
+W—{wait_fr:32} what happened?!{waitkey}{ret}
+</message>
+  <message offset="1444">
+Yukino: Details later!{nl}
+To the nurse's office,{nl}
+quickly!{waitkey}{ret}
+</message>
+  <message offset="14c0">
+Ms. Saeko: Right!{nl}
+{ctl0f:1}, head to the{nl}
+nurse's office!{waitkey}{clearbox}Yukino and Elly, go to{nl}
+the covered walkway{nl}
+near the gym!{waitkey}{clearbox}Ayase and Himeno are{nl}
+sealing the wall breach.{nl}
+Go help them!{waitkey}{ret}
+</message>
+  <message offset="14fc">
+Yukino: So the demons{nl}
+can't get in! Got it —{nl}
+let's go, Eri!{waitkey}{ret}
+</message>
+  <message offset="1514">
+Elly: Yes, let's go!{waitkey}{ret}
+</message>
+  <message offset="1530">
+Ms. Saeko: All right,{nl}
+let's go!{waitkey}{ret}
+</message>
+  <message offset="1548">
+Ms. Saeko: Oh!{nl}
+{ctl0f:1}!{waitkey}{ret}
+</message>
+  <message offset="1578">
+Student: Hey, {ctl0f:1} —{nl}
+this way doesn't lead{nl}
+outside, you know!{waitkey}{ret}
+</message>
+  <message offset="15b8">
+Student: Oh no, wait!{nl}
+{ctl0f:1}!{waitkey}Teacher said we're not{nl}
+allowed outside right now!{waitkey}{ret}
+</message>
+  <message offset="161c">
+Student: What if a demon{nl}
+gets in here?{nl}
+I don't have a weapon...{waitkey}{clearbox}Maybe the archery club{nl}
+has something that{nl}
+could work...{waitkey}{ret}
+</message>
+</scene>

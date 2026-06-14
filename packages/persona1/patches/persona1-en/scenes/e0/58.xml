@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="58">
+  <message offset="3624">
+Kandori: Is the calibration{nl}
+complete, Dr. Nikolai?{waitkey}{ret}
+</message>
+  <message offset="3648">
+Dr. Nikolai: ...{nl}
+Please reconsider!{nl}
+Mr. Kandori!{waitkey}Stop the system and{nl}
+atone for what{nl}
+you have done!{waitkey}{ret}
+</message>
+  <message offset="3690">
+Kandori: What nonsense.{nl}
+It is all of foolish humanity{nl}
+that must atone.{waitkey}I am merely its{nl}
+guide.{waitkey}{ret}
+</message>
+  <message offset="36d0">
+Dr. Nikolai: Not even{nl}
+the boy earlier deserved{nl}
+to be sent to the void!{waitkey}{clearbox}What are you trying{nl}
+to achieve by harming{nl}
+children?!{waitkey}{ret}
+</message>
+  <message offset="3728">
+Kandori: No one will{nl}
+interfere...{wait_fr:94} not even{nl}
+children.{wait_fr:60}{nl}
+Judgment will fall soon.{waitkey}Early or late is merely{nl}
+a matter of timing.{waitkey}{ret}
+</message>
+  <message offset="3780">
+Mark: You're not getting{nl}
+away, old man!{waitkey}{ret}
+</message>
+  <message offset="37a0">
+Nanjo: The jig is up,{nl}
+Kandori!{waitkey}{ret}
+</message>
+  <message offset="37c0">
+Kandori: I expected you.{nl}
+So Takeda fell.{nl}
+That man was weak.{waitkey}{ret}
+</message>
+  <message offset="37f8">
+Brown: With me in the way,{nl}
+a guy like him{nl}
+was nothing!{waitkey}{clearbox}Surrender now and I'll{nl}
+let you off with life{nl}
+imprisonment!{waitkey}{ret}
+</message>
+  <message offset="3850">
+Elly: A man who can't{nl}
+admit defeat is just{nl}
+unsightly.{waitkey}Won't you please{nl}
+give yourself up?{waitkey}{ret}
+</message>
+  <message offset="388c">
+Ayase: Ayase is busy —{nl}
+stop wasting Ayase's time{nl}
+with this!{waitkey}{nl}
+Just come quietly,{nl}
+okay?!{waitkey}{ret}
+</message>
+  <message offset="38d0">
+Kandori: Hm. You do love{nl}
+to bark. Unfortunately,{nl}
+I have no time for you.{waitkey}{clearbox}I have things to do...{nl}
+Come, Dr. Nikolai.{waitkey}{ret}
+</message>
+  <message offset="3930">
+Mark: Don't you run!{waitkey}{ret}
+</message>
+  <message offset="3944">
+Nanjo: So this is{nl}
+the DEVA System!{nl}
+Kandori — what are you doing?!{waitkey}{ret}
+</message>
+  <message offset="3978">
+Maki: ...This machine!{nl}
+I... why...?{nl}
+Why do I recognize it...?{waitkey}{ret}
+</message>
+  <message offset="39b0">
+Brown: Wh-wh-wh-wh-what?!{nl}
+What is that?!{waitkey}{ret}
+</message>
+  <message offset="39d0">
+Elly: W-What's going on?!{waitkey}{ret}
+</message>
+  <message offset="39f8">
+Ayase: Kyaaah!{nl}
+Wh-what?!{waitkey}{ret}
+</message>
+  <message offset="3a14">
+Maki: Kyah?! What?!{waitkey}{ret}
+</message>
+  <message offset="3a2c">
+Kandori's voice: Wha?!{nl}
+This is...?!{wait_fr:94}{nl}
+GAAAAHHH! My body?!{nl}
+My body is...!!{waitkey}My body is fading?!{nl}
+What is happening?!{waitkey}{ret}
+</message>
+  <message offset="3a8c">
+Doctor's voice: Sir!{nl}
+This is the end for{nl}
+you as well!{waitkey}{clearbox}You deceived me in the{nl}
+name of humanity and{nl}
+caused all this — you must{nl}
+pay for that!!{waitkey}{ret}
+</message>
+  <message offset="3b00">
+Kandori's voice: Nikolai,{nl}
+you!! You played me!!{waitkey}{ret}
+</message>
+  <message offset="3b2c">
+Doctor's voice: Children!{nl}
+When we are reduced{nl}
+to atoms, the system{nl}
+will stop!{waitkey}When that happens,{nl}
+the seal on the town{nl}
+will break! Go now!{waitkey}{ret}
+</message>
+  <message offset="3b88">
+Kandori: You brat!!{nl}
+Stop the system!!{waitkey}{ret}
+</message>
+  <message offset="3bac">
+Mark: Old man!{nl}
+Don't be reckless...{waitkey}{ret}
+</message>
+  <message offset="3bcc">
+Mark: Let's save him!{nl}
+The old man shouldn't die{nl}
+for someone like Kandori!{waitkey}{clearbox}Let's put that bastard{nl}
+down with our own hands —{nl}
+isn't that why we came?!{waitkey}{ret}
+</message>
+  <message offset="3c24">
+Nanjo: Wait. That old man{nl}
+invented the system —{nl}
+he wants to take{nl}
+responsibility.{waitkey}{clearbox}We must respect{nl}
+his wishes.{nl}
+Besides, we don't know{nl}
+how to stop it.{waitkey}{ret}
+</message>
+  <message offset="3c88">
+Brown: Y-yeah, yeah!{nl}
+Listen to your elders —{nl}
+let's get out of here!{waitkey}{ret}
+</message>
+  <message offset="3cc0">
+Elly: {ctl07:1},{nl}
+there's no time{nl}
+to argue. Let's{nl}
+save him!{waitkey}{ret}
+</message>
+  <message offset="3cec">
+Ayase: This is seriously bad!{nl}
+{ctl0f:1}, do something!{waitkey}{ret}
+</message>
+  <message offset="3d10">
+Maki: {ctl07:1}!{nl}
+This! This machine{nl}
+can stop it!{waitkey}{clearbox}The red button is{nl}
+emergency stop! Blue is{nl}
+power boost! Red{nl}
+can save him!{waitkey}{ret}
+</message>
+  <message offset="3d78">
+Nanjo: Sonoda? How do{nl}
+you know that?!{waitkey}{ret}
+</message>
+  <message offset="3da4">
+Maki: I don't know!{nl}
+But I just know!{nl}
+{ctl07:1}! Hurry!{waitkey}{ret}
+</message>
+  <message offset="3dd8">
+Nanjo: {ctl0f:1}, grow up.{nl}
+Sometimes responsibility{nl}
+has to be taken like this.{waitkey}{ret}
+</message>
+  <message offset="3e10">
+Mark: Hurry!{nl}
+It's all over if he{nl}
+dies — and there might{nl}
+still be good ahead!{waitkey}{ret}
+</message>
+  <message offset="3e48">
+Brown: Let's just retreat!{nl}
+Pull back!{nl}
+Your leader is asking!{waitkey}{ret}
+</message>
+  <message offset="3e7c">
+Elly: That old man may{nl}
+have people he loves...{nl}
+You know what to do.{waitkey}{ret}
+</message>
+  <message offset="3eb4">
+Maki: Stop this already!{nl}
+No more people dying...{nl}
+Nobody wants to die, right?!{waitkey}{clearbox}Kandori can face justice.{nl}
+Let's save him!{waitkey}{ret}
+</message>
+  <message offset="3f0c">
+Kandori's voice: AGGGHHH!{nl}
+Hurry and stop it!!{waitkey}{ret}
+</message>
+  <message offset="3f34">
+Maki: No no no!{nl}
+It won't stop?!{waitkey}{ret}
+</message>
+  <message offset="3f50">
+Brown: Th-things seem like{nl}
+they're getting worse...{waitkey}{ret}
+</message>
+  <message offset="3f70">
+Ayase: Hey, what did{nl}
+you do?!{waitkey}{ret}
+</message>
+  <message offset="3f98">
+Elly: Kyah!{nl}
+Wh-what is this?!{waitkey}{ret}
+</message>
+  <message offset="3fb4">
+Kandori's voice: Ohh?!{nl}
+My body — it's coming back!{nl}
+So...{wait_fr:94} you're calling me!{waitkey}{ret}
+</message>
+  <message offset="3ff8">
+Doctor's voice: Impossible?!{nl}
+My work was perfect!{nl}
+D-don't tell me —{nl}
+it's HIM?!{waitkey}{ret}
+</message>
+  <message offset="403c">
+Maki: !!{nl}
+You!{waitkey}{ret}
+</message>
+  <message offset="4054">
+Dark girl: {wait_fr:30}...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}{nl}
+I won't let Daddy die!{nl}
+Let's go, Daddy!{waitkey}{ret}
+</message>
+  <message offset="4098">
+Kandori's voice: Heh heh{nl}
+heh... I won't die!{nl}
+Lead me to your world{nl}
+now!!{waitkey}{ret}
+</message>
+  <message offset="40d4">
+Mark: Wha?!{nl}
+What is this?!{waitkey}{ret}
+</message>
+  <message offset="40f0">
+Nanjo: Dammit?!{nl}
+Kandori!!{waitkey}{ret}
+</message>
+  <message offset="4110">
+Brown: Whooaaah!{waitkey}{ret}
+</message>
+  <message offset="4124">
+Ayase: I can't take{nl}
+this anymore!{waitkey}{ret}
+</message>
+  <message offset="4138">
+Elly: No!{waitkey}{ret}
+</message>
+  <message offset="4148">
+{color:2}Dr. Nikolai.{nl}
+Genius scientist who{nl}
+developed the D.V.A.{nl}
+System.{color:0}{waitkey}{ret}
+</message>
+  <message offset="4190">
+Ayase: Come on, {ctl0f:1}!{nl}
+Do something already!{waitkey}{ret}
+</message>
+  <message offset="41b0">
+Maki: The red button{nl}
+can save him!{waitkey}{ret}
+</message>
+  <message offset="41cc">
+Red or blue — which{nl}
+will you press?!{nl}
+{ctl0e:16}{ret}
+</message>
+  <message offset="41e8">
+Maki: {ctl07:1}!{nl}
+Where are you going?!{nl}
+We have to do something!{waitkey}{ret}
+</message>
+  <message offset="4214">
+"Dimension Variable{nl}
+Accelerator System"{waitkey}{nl}
+— the DEVA System.{nl}
+A hologram.{waitkey}{ret}
+</message>
+  <message offset="4264">
+COMP: Emergency!{nl}
+Anomaly detected!{waitkey}Unknown virus confirmed{nl}
+in hyperdimensional{nl}
+shaft activation program!{waitkey}System shutdown impossible.{nl}
+System shutdown impossible.{waitkey}Please perform manual{nl}
+emergency shutdown.{nl}
+Please perform manual{nl}
+emergency shutdown.{waitkey}{ret}
+</message>
+</scene>

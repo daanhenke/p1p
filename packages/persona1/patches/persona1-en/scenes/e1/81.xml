@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="81">
+  <message offset="16a0">
+Demon Teacher: Oi! Who said{nl}
+you could spill it, wretch?{nl}
+Milk is good for you!{waitkey}{clearbox}A greedy little piglet like{nl}
+you should be thrilled to{nl}
+drink all you like!{waitkey}{clearbox}There{wait_fr:30}, there{wait_fr:30}, there{wait_fr:30}, thereee!!{nl}
+Drink{wait_fr:30}, drink{wait_fr:30}, drink it down!{nl}
+Ohohohohoho!{waitkey}{clearbox}And you there, four-eyes!{nl}
+What's with that limp posture?{waitkey}{clearbox}A push-up only counts when{nl}
+your chin hits the ground{nl}
+and your chest drops!{waitkey}{clearbox}Do it right or I'll up{nl}
+your quota again!{nl}
+Ohohohohoho!{waitkey}{ret}
+</message>
+  <message offset="1824">
+Toro: Vt{wait_fr:30} vt{wait_fr:30} vt{wait_fr:30} vt{waitkey}{clearbox}Gulp{wait_fr:30} gulp{wait_fr:30} gulp{wait_fr:30} gulp{wait_fr:30} gulp{waitkey}{clearbox}Vt!?{wait_fr:30} vvvvvv!!{wait_fr:30} vt!{waitkey}{clearbox}Bleh!{wait_fr:30}{nl}
+Ohgeh!!{wait_fr:30}{nl}
+Uoegh!!!{wait_fr:30}{waitkey}{clearbox}S-{wait_fr:30}stop! H-{wait_fr:30}help me!!{nl}
+F-{wait_fr:30}forgive me!!{nl}
+I-{wait_fr:30}I just{waitkey}{clearbox}Milk{wait_fr:30}, just not milk!{nl}
+D-{wait_fr:30}dairy of all things!!{nl}
+I just caaan't!!!{waitkey}{ret}
+</message>
+  <message offset="1944">
+Kuroori: Ze{wait_fr:30} ze ze{wait_fr:30} ze{waitkey}{clearbox}N-{wait_fr:30}nnnnnnnnnh!{waitkey}{clearbox}U-{wait_fr:30}uuuuuuuuugh!{waitkey}{clearbox}I-{wait_fr:30}I knew it{nl}
+n-{wait_fr:30}no good-aaa{waitkey}{clearbox}A-{wait_fr:30}arms like mine,{nl}
+su-{wait_fr:30}suited to brain work,{nl}
+a g-{wait_fr:30}genius's a-{wait_fr:30}arms{waitkey}{clearbox}weren't b-{wait_fr:30}built{nl}
+for doing push-ups!{nl}
+B-{wait_fr:30}bshuuuu{waitkey}{ret}
+</message>
+  <message offset="1a2c">
+Yukino: T-{wait_fr:30}Toro!?{nl}
+And Kuroori!!{nl}
+What are you doing?!{waitkey}{clearbox}Weren't you two at school?!{waitkey}{ret}
+</message>
+  <message offset="1a74">
+Toro: N-{wait_fr:30}no!{nl}
+Stop it!{wait_fr:30} Please stop it!!{waitkey}{clearbox}Ohgeh!!{wait_fr:30}{nl}
+Uoegh!!!{wait_fr:30}{waitkey}{clearbox}I-{wait_fr:30}I'll die{wait_fr:30}, gonna die...{waitkey}{ret}
+</message>
+  <message offset="1ae4">
+Demon Teacher: Hey!{nl}
+Little piglet!{nl}
+Why are your eyes{nl}
+rolling back?!{waitkey}Drink more{wait_fr:30}, more!{waitkey}{clearbox}Become a machine!{nl}
+Yes! A machine born just{nl}
+to drink milk,{waitkey}that's what!!{waitkey}{ret}
+</message>
+  <message offset="1b6c">
+Kuroori: B-{wait_fr:30}bshuuuu{nl}
+I can't anymore, hoooo...{waitkey}{clearbox}Aha{wait_fr:30} aha{wait_fr:30} ahahaa...{nl}
+Eh{wait_fr:30} ehe{wait_fr:30} ehehe{wait_fr:30} eh{wait_fr:30} eehe...{waitkey}{ret}
+</message>
+  <message offset="1bd8">
+Demon Teacher: Hey you!{nl}
+You four-eyes!{nl}
+Don't go breaking on your own!{waitkey}{clearbox}The one who breaks you last{nl}
+is Lady Michiko!{waitkey}{clearbox}Break before that, and I'll{nl}
+be the one Lady Michiko{nl}
+breaks!!{waitkey}{ret}
+</message>
+  <message offset="1c70">
+Nanjo: It seems - or rather,{nl}
+as I suspected - Michiko is{nl}
+pulling the strings.{waitkey}{clearbox}Still, in a sense it's a{nl}
+thoroughly calculated, truly{nl}
+effective torture.{waitkey}{clearbox}It targets each one's weak{nl}
+point, and there's no waste{nl}
+in the method.{waitkey}{clearbox}And as for whether the torture{nl}
+itself has any meaning -{nl}
+it seems it does not.{waitkey}{clearbox}Torture for torture's sake.{nl}
+Truly terrifying...{waitkey}{ret}
+</message>
+  <message offset="1d4c">
+Elly: Oh!!{nl}
+Those two! Their eyes have{nl}
+already gone hollow!{waitkey}{clearbox}If we don't do something{nl}
+soon, it'll become{nl}
+irreversible!{waitkey}{ret}
+</message>
+  <message offset="1dac">
+Kuroori: A-ahahaha{nl}
+Huh???{nl}
+It's a fairy!{waitkey}{clearbox}Ufufufu{nl}
+I really saw it!{nl}
+Moootherrr!! Heheheh{waitkey}{ret}
+</message>
+  <message offset="1e00">
+Toro: Ohgeh!!{nl}
+Keh{wait_fr:30} eh{wait_fr:30} ehh!{waitkey}{clearbox}H-huh?{nl}
+A-A-Ayase!{nl}
+Everyone!!{waitkey}{clearbox}H-h-h-help me!{nl}
+Heeelp meee!{waitkey}{ret}
+</message>
+  <message offset="1e80">
+Ayase: Hmm...{nl}
+Given who these guys are...{nl}
+I mean...{waitkey}{clearbox}feels like a pass??{waitkey}{clearbox}But still, why's that Michiko{nl}
+woman doing this?{waitkey}{clearbox}Is there even a point?{waitkey}{ret}
+</message>
+  <message offset="1ef0">
+Michiko: Ohohohoho!{nl}
+It's because{nl}
+they are ugly!{waitkey}{clearbox}Ugliness alone is a sin!{nl}
+A sin!{waitkey}{clearbox}Yes, and so beautiful I,{nl}
+Michiko, am now passing{nl}
+judgment on the sin{waitkey}named "ugliness"!{waitkey}{clearbox}Do you understand,{nl}
+little puppies?{nl}
+Ohohohohoho!{waitkey}{ret}
+</message>
+  <message offset="1fa0">
+Nanjo: ............{wait_fr:30}{nl}
+You{wait_fr:30}... are one to talk?{waitkey}{clearbox}Never mind.{nl}
+Ugly as they are, sorry to{nl}
+say, they're our schoolmates.{waitkey}{clearbox}I cannot... let them die.{waitkey}{clearbox}Now, hand over{nl}
+the chain key.{waitkey}{ret}
+</message>
+  <message offset="201c">
+Brown: Y-y-y-you{nl}
+Y-O-U don't get to{nl}
+say that!!{waitkey}You ugly hag!!{waitkey}{clearbox}I won't forgive you!{nl}
+An ugly mug like you bullying{nl}
+Toro and the Demon Kid!{waitkey}{clearbox}Hurry up and unlock the{nl}
+chain, stop the torture!{waitkey}{ret}
+</message>
+  <message offset="20c0">
+Michiko: My! What thoughtful{nl}
+friends you are!{waitkey}{clearbox}Beautiful friendship?{nl}
+Ohohohohoho!{nl}
+Lovely! Splendid!!{waitkey}Ha!! Friendship!!!{waitkey}{clearbox}Very well, in honor of that{nl}
+fair friendship... I'll tell{nl}
+you where the chain key{waitkey}binding these ugly men is!{waitkey}{clearbox}The chain key is on the top{nl}
+floor... yes! Held by none{nl}
+other than me!!{waitkey}Ohohoho!{waitkey}{clearbox}If you want to save these{nl}
+ugly men, hurry to me!{nl}
+Ohohoho!{waitkey}{clearbox}Yes... go straight left and{nl}
+my room is right there...{nl}
+Ohohohoho!{waitkey}{clearbox}But you see{waitkey}{clearbox}the "Mirror Shard" you want{nl}
+so badly your hands itch{nl}
+for it...{waitkey}{clearbox}lies "beyond the door behind"{nl}
+where I now stand...{waitkey}{clearbox}The "Mirror Shard" is stowed{nl}
+in a big chest together with{nl}
+"a hint to defeat me."{waitkey}{clearbox}Ohohohohoho! This tower has{nl}
+no time limit, you see,{waitkey}so fetch it at your leisure!{waitkey}{clearbox}Your friends can just endure{nl}
+it a little while... hm?{nl}
+Ohohohohoho!{waitkey}{clearbox}What you do is up to you!{nl}
+Now then, good day!{waitkey}{clearbox}Ohohoho!{nl}
+Ohohohohoho!!{waitkey}{ret}
+</message>
+  <message offset="237c">
+Toro: Please help me!{nl}
+The key! The key, quick!{wait_fr:30}{nl}
+Geburgh!!{waitkey}{clearbox}Th-the keyyyy{waitkey}{ret}
+</message>
+  <message offset="23c4">
+Kuroori: Bbt{wait_fr:30} b{nl}
+Bshuuu{waitkey}{clearbox}Wh-where's{nl}
+th-the key{nl}
+to my heart?{waitkey}{clearbox}Ze{wait_fr:30} ze{waitkey}{ret}
+</message>
+  <message offset="241c">
+Demon Teacher: Come on,{nl}
+come on!{nl}
+Do it properly!{nl}
+Hyahyahyahyahya!{waitkey}{clearbox}Drink it!{nl}
+Do it!{waitkey}{ret}
+</message>
+  <message offset="246c">
+Yukino: We can't leave them,{nl}
+but the "Mirror Shard"{nl}
+matters too. What do we do?{waitkey}{clearbox}Us, that is?{waitkey}{ret}
+</message>
+  <message offset="24ac">
+Yukino: Michiko...{nl}
+I can't forgive her...{waitkey}{ret}
+</message>
+  <message offset="24c8">
+Ayase: Isn't this good{nl}
+medicine for Toro and Kuroori?{waitkey}{clearbox}Ayase can't stand those two...{waitkey}{ret}
+</message>
+  <message offset="2500">
+Nanjo: More than the "Mirror{nl}
+Shard," more than saving{nl}
+these two, I want to go{waitkey}pummel Michiko right now...!!{waitkey}{ret}
+</message>
+  <message offset="2550">
+Brown: They're annoying guys,{nl}
+but not bad guys.{nl}
+I wanna save 'em quick!{waitkey}{ret}
+</message>
+  <message offset="2584">
+Elly: What a truly{nl}
+unpleasant person!{nl}
+That Michiko...!{waitkey}{ret}
+</message>
+  <message offset="25b4">
+Demon Teacher: I'm only doing{nl}
+this on Lady Michiko's{nl}
+orders.{waitkey}{clearbox}If you've complaints,{nl}
+take them to Lady Michiko.{waitkey}{ret}
+</message>
+  <message offset="2604">
+Toro: I can't... anymore...{waitkey}{clearbox}Ohgeh!!{wait_fr:30}{nl}
+Uoegh!!!{wait_fr:30}{waitkey}{clearbox}I-{wait_fr:30}I'll die{wait_fr:30}, gonna die...{waitkey}{ret}
+</message>
+  <message offset="265c">
+Kuroori: Ze... ze...{waitkey}{clearbox}Hii... hii...{waitkey}{ret}
+</message>
+</scene>

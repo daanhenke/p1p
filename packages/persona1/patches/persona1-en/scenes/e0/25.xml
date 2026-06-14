@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="25">
+  <message offset="15bc">
+Elly: ...Was that Nike?{nl}
+The goddess of victory{nl}
+from Greece...{nl}
+That was me... I am her...{waitkey}{ret}
+</message>
+  <message offset="1604">
+Yukino: Eriko?{nl}
+Hey, are you alright?{waitkey}{ret}
+</message>
+  <message offset="1628">
+Elly: Nike...{nl}
+The archetype of the Angel{nl}
+in Christianity...{nl}
+That is me... I am her...{waitkey}{ret}
+</message>
+  <message offset="1680">
+Mark: She's lost it.{nl}
+Gone completely off the{nl}
+deep end.{waitkey}{ret}
+</message>
+  <message offset="169c">
+Yukino: Eriko!{nl}
+Get ahold of yourself!{waitkey}{ret}
+</message>
+  <message offset="16b8">
+Elly: Huh!?{nl}
+Oh — I'm sorry.{nl}
+But I'm alright now.{waitkey}{clearbox}I am the Angel who brings{nl}
+victory. From here on, I shall{nl}
+protect you all!{waitkey}{ret}
+</message>
+  <message offset="1718">
+Mark: ...Moron.{nl}
+So are we.{waitkey}{ret}
+</message>
+  <message offset="1734">
+Elly: I-is that so?{nl}
+I thought I alone had{nl}
+been chosen...{waitkey}{ret}
+</message>
+  <message offset="1760">
+Nanjo: Kirishima,{nl}
+you've been having that{nl}
+dream about the butterfly.{waitkey}{ret}
+</message>
+  <message offset="1784">
+Elly: How did you know?{nl}
+I've been seeing it often,{nl}
+ever since I first used{nl}
+a Persona...{waitkey}{ret}
+</message>
+  <message offset="17c8">
+Nanjo: Just as I suspected.{nl}
+That dream is the cause...{waitkey}{ret}
+</message>
+  <message offset="17e4">
+Mark: Forget that for a sec —{nl}
+what brought you here?{nl}
+Is it like this outside too?{waitkey}{ret}
+</message>
+  <message offset="1818">
+Elly: Yes, it's absolutely{nl}
+crawling with Demons. And we{nl}
+can't leave the city.{waitkey}{clearbox}I looked all around, but{nl}
+the school seems to be the{nl}
+only safe place left.{waitkey}{ret}
+</message>
+  <message offset="1874">
+Yukino: So the school is safe?{nl}
+{ctl0f:1} Let's head back!{waitkey}{ret}
+</message>
+  <message offset="189c">
+Elly: Right! But first,{nl}
+let's go to the shrine.{waitkey}{nl}
+Maki's mother has been hurt{nl}
+and collapsed there.{waitkey}{ret}
+</message>
+  <message offset="18e4">
+Mark: Hey!{nl}
+Lead with that next time!{nl}
+{ctl0f:1} Let's go help her!{waitkey}{ret}
+</message>
+  <message offset="1914">
+Yukino: Save Maki's mom, then{nl}
+we head back fast.{waitkey}{ret}
+</message>
+  <message offset="1938">
+Nanjo: Soft-hearted fools.{nl}
+Still... Persona, and now{nl}
+this bizarre phenomenon...{waitkey}{nl}
+It's all too convenient...{nl}
+What's really behind this?{waitkey}{ret}
+</message>
+  <message offset="1988">
+Mark: Sonoda...{nl}
+I'm definitely coming{nl}
+for you...{waitkey}{ret}
+</message>
+  <message offset="19ac">
+Elly: The shrine isn't{nl}
+that far from school,{nl}
+is it. No problem —at all!{waitkey}{ret}
+</message>
+</scene>

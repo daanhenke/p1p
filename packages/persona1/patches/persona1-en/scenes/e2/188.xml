@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="188">
+  <message offset="1580">
+Maki: Coming to a place like{nl}
+this is a relief. It's like{nl}
+being a normal high schooler{nl}
+again.{waitkey}{ret}
+</message>
+  <message offset="15b4">
+Maki: We're going to the{nl}
+forest, right? I wonder what{nl}
+this "key" even is.{waitkey}{ret}
+</message>
+  <message offset="15e0">
+Maki: Let's hurry back to{nl}
+that castle.{waitkey}{ret}
+</message>
+  <message offset="15fc">
+Nanjo: No use rushing.{nl}
+Proceeding one step at a{nl}
+time, surely, is the fastest{nl}
+road in the end.{waitkey}{ret}
+</message>
+  <message offset="163c">
+Nanjo: We've got the{nl}
+"Evil-Warding Mirror" now.{nl}
+I'm not keen on it, but shall{nl}
+we head to the subway?{waitkey}{ret}
+</message>
+  <message offset="1678">
+Mark: No burgers, no fries,{nl}
+no chicken, no shakes? What{nl}
+a bore!{waitkey}{clearbox}They've got nothing to sell,{nl}
+and yet the clerk's all{nl}
+high and mighty!{waitkey}{ret}
+</message>
+  <message offset="16d8">
+Mark: I don't trust that shady{nl}
+old man, but should we go{nl}
+look anyway?{waitkey}For that "Evil-Warding{nl}
+Mirror" or whatever.{waitkey}{ret}
+</message>
+  <message offset="1724">
+Elly: I never used to make{nl}
+many detours before.{waitkey}This sort of thing is rather{nl}
+fun, isn't it!{waitkey}{ret}
+</message>
+  <message offset="176c">
+Elly: Let's go to the shrine.{nl}
+I'm very curious what sort of{nl}
+person is waiting there!{waitkey}{ret}
+</message>
+  <message offset="17a8">
+Brown: A food shop with no{nl}
+food — how do you figure that?{nl}
+Nahaha!{waitkey}Damn it, now I'm hungry~{waitkey}{ret}
+</message>
+  <message offset="17ec">
+Brown: Let's go check out the{nl}
+shrine before long.{waitkey}{ret}
+</message>
+  <message offset="180c">
+Ayase: Looks like Ayase's{nl}
+friends aren't here.{waitkey}{ret}
+</message>
+  <message offset="1828">
+Ayase: Let's hit the shrine~{nl}
+Maybe there'll be night{nl}
+stalls{wait_fr:32}... Ayase wants a{nl}
+candy apple.{waitkey}{ret}
+</message>
+  <message offset="1868">
+Reiji: I don't like this.{nl}
+Staying here, my body starts{nl}
+to itch all over.{waitkey}{ret}
+</message>
+  <message offset="189c">
+Reiji: We're not going to the{nl}
+shrine? That Kuroori guy{nl}
+wasn't lying, I'd say.{waitkey}{ret}
+</message>
+  <message offset="18d0">
+Clerk: Food? We've got none!{nl}
+But take a rest here, and{nl}
+your friend's head will clear{waitkey}{clearbox}and remember the next goal,{nl}
+I guarantee it.{waitkey}{ret}
+</message>
+  <message offset="1924">
+Townsperson: Yesterday I ran{nl}
+smack into a demon.{waitkey}{clearbox}It stared hard into my face,{nl}
+then just walked off.{waitkey}{clearbox}It was almost as if...{wait_fr:32}{nl}
+it were searching for someone.{waitkey}{ret}
+</message>
+  <message offset="19a0">
+Townsperson: You all seem{nl}
+somehow different from us.{nl}
+I can't quite put it into{nl}
+words, but...{waitkey}{ret}
+</message>
+  <message offset="19d4">
+Townsperson: You're a really{nl}
+good person. I can tell. I'm{nl}
+sure your friends think so{nl}
+too.{waitkey}{ret}
+</message>
+  <message offset="1a0c">
+Townsperson: You do quite a{nl}
+lot of bad things behind the{nl}
+scenes, don't you.{waitkey}Don't forget there are{nl}
+people hurt because of it!{waitkey}{ret}
+</message>
+</scene>

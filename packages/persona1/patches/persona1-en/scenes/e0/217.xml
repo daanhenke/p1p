@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="217">
+  <message offset="1a10">
+Mark: Oh? For all your{nl}
+grumbling, you sure{nl}
+showed up, didn't ya.{waitkey}{ret}
+</message>
+  <message offset="1a44">
+Reiji: Heh heh...{waitkey}{ret}Nanjo: What's with you?{nl}
+Creepy guy.{waitkey}{ret}
+</message>
+  <message offset="1a54">
+Reiji: Inaba, I hear you're{nl}
+scared of heights.{waitkey}{ret}
+</message>
+  <message offset="1a74">
+Mark: Wh-where'd you{nl}
+hear that?!{waitkey}{ret}
+</message>
+  <message offset="1a98">
+Reiji: Uesugi's been blabbing{nl}
+it everywhere. Says this'll{nl}
+be the last time, too.{waitkey}
+</message>
+  <message offset="1aac">
+Today I'll get a good,{nl}
+long look at you{nl}
+screaming and crying.{waitkey}{ret}
+</message>
+  <message offset="1afc">
+Nanjo: Oho.{nl}
+Now that's good to hear.{nl}
+I'll observe closely too.{waitkey}{ret}Mark: That jerk!{nl}
+Never does anything good!{nl}
+What're you all laughing at!{waitkey}{clearbox}Forget it, forget it!{nl}
+I'm not going!{waitkey}{ret}
+</message>
+  <message offset="1b2c">
+Maki: Sorry I'm late~!{nl}
+What's up, everyone?{waitkey}{ret}
+</message>
+  <message offset="1b7c">
+Nanjo: Perfect timing,{nl}
+Sonomura, {ctl0f:1}.{waitkey}{clearbox}Inaba says he's cancelling{nl}
+his plans. A real shame,{nl}
+truly.{waitkey}{ret}
+</message>
+  <message offset="1b9c">
+Maki: Whaat?! Why?!{nl}
+I was looking forward to it!{waitkey}{ret}
+</message>
+  <message offset="1be4">
+Mark: Nanjo, you bastard...{waitkey}{ret}
+</message>
+  <message offset="1c0c">
+Reiji: Heh heh heh...{waitkey}{ret}
+</message>
+  <message offset="1c24">
+Maki: Is it true, Inaba?{waitkey}{ret}
+</message>
+  <message offset="1c38">
+Mark: No... um...{nl}
+I'll go... I'll go.{waitkey}{ret}
+</message>
+  <message offset="1c50">
+Maki: Yay!{nl}
+Chisato and everyone are{nl}
+waiting outside!{waitkey}C'mon, let's go, everyone!{waitkey}{ret}
+</message>
+  <message offset="1c70">
+Mark: Nanjo, Reiji!{nl}
+You'll pay for this!{waitkey}{ret}Reiji: Heh...{wait_fr:88}{nl}
+That Sonomura - it's like{nl}
+that whole ordeal never{waitkey}happened.{waitkey}{ret}
+</message>
+  <message offset="1ca4">
+Nanjo: Hmhm...{wait_fr:88} Pandora{wait_fr:60}, huh...{waitkey}{ret}
+</message>
+  <message offset="1cc4">
+Reiji: ...What?{nl}
+You still going on{nl}
+about that?{waitkey}{ret}
+</message>
+  <message offset="1cf4">
+Nanjo: Nothing{wait_fr:60}. I just{nl}
+recalled the last thing{nl}
+to come from the "Sphere{waitkey}of Calamity"... Now,{nl}
+let's go, {ctl0f:1}.{waitkey}{ret}
+</message>
+  <message offset="1d18">
+Reiji: Hey, what's{nl}
+that supposed to mean?{waitkey}{ret}
+</message>
+  <message offset="1d3c">
+Maki's Voice: Hurry up!{nl}
+{ctl07:1}!{waitkey}{ret}
+</message>
+  <message offset="1d88">
+Mark: Oh? Here you are,{nl}
+Mr. Wet-pants.{waitkey}{ret}
+</message>
+  <message offset="1da0">
+Brown: Heh heh heh~{nl}
+You can talk big, but{nl}
+only till today!{waitkey}{clearbox}Mark, I hear you're{nl}
+super scared of heights?{nl}
+You little pants-wetter!{waitkey}{ret}
+</message>
+  <message offset="1dbc">
+Mark: Gah!{wait_fr:88} Y-you bastard,{nl}
+where'd you hear that?!{waitkey}{ret}
+</message>
+  <message offset="1dd8">
+Brown: Heh heh heh.{nl}
+I heard it all from{nl}
+your mom!{waitkey}And in sixth grade, no less!{waitkey}{ret}
+</message>
+  <message offset="1e38">
+Mark: That old hag!{nl}
+{wait_fr:88}Shut up!{waitkey}Way better than wetting{nl}
+yourself in middle school!{waitkey}{ret}
+</message>
+  <message offset="1e64">
+Brown: Sixth grade, middle{nl}
+school, same thing. Heh heh.{nl}
+Today I'll get a good look{waitkey}at you wetting yourself!{waitkey}{ret}
+</message>
+  <message offset="1ea4">
+Nanjo: These two... Where{nl}
+do they think they are?!{nl}
+Ugh... my head hurts...{waitkey}{ret}
+</message>
+  <message offset="1ee4">
+Brown: Perfect timing!{nl}
+{ctl08:1}Maki!{waitkey}{clearbox}Mark here just can't wait{nl}
+to ride the Free Fall -{nl}
+he's itching for it!{waitkey}{ret}
+</message>
+  <message offset="1f2c">
+Maki: Oh, really!{nl}
+Then let's hurry on!{waitkey}{ret}
+</message>
+  <message offset="1f80">
+Mark: Uesugi, you bastard...{waitkey}{ret}
+</message>
+  <message offset="1fd0">
+Brown: Pff pff pff...{waitkey}{ret}
+</message>
+  <message offset="1ff4">
+Maki: What's wrong?{nl}
+Chisato and everyone are{nl}
+waiting outside! C'mon!{waitkey}{ret}
+</message>
+  <message offset="200c">
+Mark: Uesugi! You'll pay{nl}
+for this!{waitkey}{ret}
+</message>
+  <message offset="2020">
+Brown: This'll be fun.{wait_fr:88}{nl}
+Still, Maki... it's like that{nl}
+whole ordeal never happened.{waitkey}{ret}
+</message>
+  <message offset="2050">
+Nanjo: Hmhm...{wait_fr:88} Pandora{wait_fr:60}, huh...{waitkey}{ret}
+</message>
+  <message offset="206c">
+Brown: What's that?{nl}
+You're still on about that?{nl}
+Mean as ever, aren't ya.{waitkey}{ret}
+</message>
+  <message offset="20a8">
+Nanjo: Nothing{wait_fr:60}. I just{nl}
+recalled the last thing{nl}
+to come from the "Sphere{waitkey}of Calamity"... Now,{nl}
+let's go, {ctl0f:1}.{waitkey}{ret}
+</message>
+  <message offset="20cc">
+Brown: What's that mean?{nl}
+Hey, wait for me!{waitkey}{ret}
+</message>
+</scene>

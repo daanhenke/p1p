@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="218">
+  <message offset="1d9c">
+Nanjo: Still, what a{nl}
+terrible stench that was!{waitkey}{ret}
+</message>
+  <message offset="1e0c">
+Nanjo: Yes, I'm fairly sure{nl}
+the "Evil-Warding Mirror"{nl}
+was on display here.{waitkey}{ret}
+</message>
+  <message offset="22dc">
+Mark: It was saying{nl}
+"Yog-Sothoth," that monster.{nl}
+What the heck's that mean?{waitkey}{ret}
+</message>
+  <message offset="22f8">
+Mark: We ran into that shady{nl}
+old man again, huh.{waitkey}{ret}
+</message>
+</scene>

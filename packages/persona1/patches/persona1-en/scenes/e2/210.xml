@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="210">
+  <message offset="1594">
+Boutique Clerk: Welco~me!{waitkey}{ret}
+</message>
+  <message offset="15a8">
+Townsperson: If only things{nl}
+could have stayed as they{nl}
+were, I'd have been happy...{waitkey}{ret}
+</message>
+  <message offset="15cc">
+Maki: As they were, huh...{nl}
+But this town is a fake,{nl}
+isn't it. No matter how{nl}
+nice a town it is.{waitkey}{ret}
+</message>
+  <message offset="1600">
+Mark: The gal clerk back in{nl}
+reality would faint if she{nl}
+saw this.{waitkey}{ret}
+</message>
+  <message offset="1630">
+Nanjo: There's no end if you{nl}
+aim too high, but we must at{nl}
+least get the bare minimum{nl}
+of gear in order.{waitkey}{ret}
+</message>
+  <message offset="1660">
+Ayase: Aren't there any{nl}
+animal-print protectors or{nl}
+something?{waitkey}{ret}
+</message>
+  <message offset="1688">
+Brown: Let's see, some armor{nl}
+with a cool design...{waitkey}{ret}
+</message>
+  <message offset="16ac">
+Elly: It's to keep from being{nl}
+defeated, so I don't mean to{nl}
+be fussy, but...{waitkey}the Sense just doesn't quite{nl}
+suit me.{waitkey}{ret}
+</message>
+  <message offset="16f0">
+Elly: It's to keep from being{nl}
+defeated, so I don't mean to{nl}
+be fussy, but...{waitkey}the Sense doesn't suit me.{waitkey}{ret}
+</message>
+  <message offset="1734">
+Reiji: If you're buying, make{nl}
+it quick.{waitkey}{ret}
+</message>
+</scene>

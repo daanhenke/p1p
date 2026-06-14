@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="37">
+  <message offset="13e0">
+Nanjo: The archive room is{nl}
+further in. Shall we go{nl}
+take a look?{waitkey}{ret}
+</message>
+  <message offset="1404">
+Mark: Hmm, a receptionist,{nl}
+huh... Hmm...{wait_fr:48} It's got a{nl}
+nice ring to it, though.{waitkey}{ret}
+</message>
+  <message offset="1438">
+Yukino: A field trip before{nl}
+we even go for the hospital{nl}
+exam?{wait_fr:32} ...What a weirdo!{waitkey}{ret}
+</message>
+  <message offset="1470">
+Receptionist: Welcome to the{nl}
+Mikage Local History Museum!{waitkey}{clearbox}Here we house materials vital{nl}
+to understanding the region's{nl}
+history.{waitkey}{ret}
+</message>
+</scene>

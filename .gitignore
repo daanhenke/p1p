@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.tsbuildinfo
+coverage/
+.vite/
+*.local
+
+# Copyrighted game discs — drop locally to run the disc integration tests; never commit.
+packages/persona1/assets/disk/

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="2">
+  <message offset="1308">
+President: Phew... that was{nl}
+close, that was close.{waitkey}{clearbox}Man, I got in a fight and{nl}
+nearly got nabbed by the vice{nl}
+principal — almost got a{nl}
+lecture.{waitkey}{clearbox}Well, they won't find me here.{waitkey}{ret}
+</message>
+  <message offset="13a4">
+President: You all work hard,{nl}
+too. Leave this place to me,{nl}
+the president, and just do{nl}
+your very best.{waitkey}{ret}
+</message>
+  <message offset="13ec">
+Drama Member: This is about{nl}
+when Ms. Saeko was in the{nl}
+drama club.{waitkey}{clearbox}I've heard she fought with{nl}
+her best friend over the role{nl}
+of the Snow Queen.{waitkey}{clearbox}I forget the surname, but it{nl}
+was a Tomomi, I think. Ms.{nl}
+Saeko cried when she told it.{waitkey}{ret}
+</message>
+  <message offset="1470">
+Drama Member: The Snow Queen's{nl}
+mask has so much sad history{nl}
+behind it.{waitkey}{clearbox}When the town's back to{nl}
+normal, maybe I'll make that{nl}
+story into a play.{waitkey}{ret}
+</message>
+  <message offset="14c0">
+Yukino: Is our drama club{nl}
+good enough to win{nl}
+competitions?{waitkey}{ret}
+</message>
+  <message offset="14ec">
+Yukino: For the sake of the{nl}
+three who guarded the tower{nl}
+too, let's hurry and go beat{nl}
+the Night Queen.{waitkey}{ret}
+</message>
+  <message offset="1520">
+Ayase: Cramped room~ It's{nl}
+kinda like being inside a{nl}
+huge refrigerator~{waitkey}{ret}
+</message>
+  <message offset="1554">
+Ayase: That council prez!{nl}
+The thought of a guy like{nl}
+that running the school makes{nl}
+me so mad!{waitkey}{ret}
+</message>
+  <message offset="1590">
+Nanjo: Where did the other{nl}
+club rooms go?{waitkey}{ret}
+</message>
+  <message offset="15b0">
+Nanjo: There doesn't seem to{nl}
+be anything useful here.{waitkey}{ret}
+</message>
+  <message offset="15d4">
+Brown: So this room's packed{nl}
+with the aroma of sweat and{nl}
+tears from maidens who gave{nl}
+their youth to theater?{waitkey}What do we do, huh?!{waitkey}{ret}
+</message>
+  <message offset="1620">
+Brown: I wonder if a TV{nl}
+station's dressing room is{nl}
+like this. I'd love to go~{waitkey}{ret}
+</message>
+  <message offset="1654">
+Elly: Ice everywhere you look.{waitkey}It's just cold — I can't call{nl}
+it beautiful.{waitkey}{ret}
+</message>
+  <message offset="1684">
+Elly: Where could the other{nl}
+club members be?{waitkey}{ret}
+</message>
+</scene>

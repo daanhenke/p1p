@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="164">
+  <message offset="122c">
+Maki: It seems a St. Hermelin{nl}
+student slipped in here{nl}
+ahead of us!{waitkey}{ret}
+</message>
+  <message offset="125c">
+Nanjo: Kandori...{waitkey}{nl}
+I won't forgive him!{waitkey}{ret}
+</message>
+  <message offset="1278">
+Mark: Do these guys even feel{nl}
+any guilt for what they've{nl}
+done?{waitkey}{ret}
+</message>
+  <message offset="12a8">
+Elly: Was Kandori having them{nl}
+build a machine that creates{nl}
+Demons, I wonder?{waitkey}{ret}
+</message>
+  <message offset="12e0">
+Brown: This is starting to{nl}
+get complicated, and I don't{nl}
+like it...{waitkey}{clearbox}There's stuff even I get and{nl}
+stuff I don't, y'know!{waitkey}{ret}
+</message>
+  <message offset="132c">
+Ayase: Who's this Dr. Nicolai,{nl}
+I wonder?{waitkey}{ret}
+</message>
+  <message offset="134c">
+Scientist: Are you all friends{nl}
+of that high schooler from{nl}
+before?{waitkey}I'm sorry to say{wait_fr:32} that he...{waitkey}{ret}
+</message>
+  <message offset="1388">
+Scientist: Dr. Nicolai meant{nl}
+to stop Kandori, but...{wait_fr:32}{nl}
+what could we possibly do?{waitkey}{ret}
+</message>
+  <message offset="13cc">
+Scientist: Demons appearing in{nl}
+town — even we didn't foresee{nl}
+it.{waitkey}But it's a fascinating turn{nl}
+of events, is it not?{wait_fr:32}{nl}
+Don't you agree?{waitkey}{ret}
+</message>
+  <message offset="1420">
+This door doesn't look like{nl}
+it'll open...{waitkey}{ret}
+</message>
+</scene>

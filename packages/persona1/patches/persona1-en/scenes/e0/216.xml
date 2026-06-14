@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="216">
+  <message offset="1ba0">
+Maki: And then, and then,{nl}
+{ctl07:1} totally-{wait_fr:88}{nl}
+...you know what!{waitkey}{ret}
+</message>
+  <message offset="1bcc">
+Elly: Really?{nl}
+My, hehehehe...{waitkey}{ret}
+</message>
+  <message offset="1bf0">
+Elly: Really?{nl}
+Is that so, hehehehe...{waitkey}{ret}
+</message>
+  <message offset="1c18">
+Nanjo: Good grief...{nl}
+They say you can't shut{nl}
+the gate on gossip, but{waitkey}{clearbox}nothing's noisier than{nl}
+girls' gossip.{waitkey}{ret}
+</message>
+  <message offset="1c5c">
+Maki: Ah! Speak of the{nl}
+devil. You're late!{nl}
+I'm tired of waiting!{waitkey}{ret}
+</message>
+  <message offset="1c88">
+Mark: Sorry, sorry.{wait_fr:88}{nl}
+Man, what an ordeal.{waitkey}{clearbox}I keep telling 'em neither{nl}
+mine nor {ctl0f:1}'s got{nl}
+a second button left!{waitkey}{clearbox}Nanjo, they were hunting{nl}
+for you like crazy too.{waitkey}{ret}
+</message>
+  <message offset="1cf8">
+Nanjo: The wise stay clear{nl}
+of danger. Use your head.{waitkey}{ret}
+</message>
+  <message offset="1d1c">
+Mark: Yeah, yeah,{nl}
+whatever you say.{waitkey}{ret}
+</message>
+  <message offset="1d34">
+Elly: You're all so popular,{nl}
+it must be hard on you.{waitkey}{ret}
+</message>
+  <message offset="1d54">
+Elly: You're all such{nl}
+heartthrobs, it's a handful.{waitkey}{ret}
+</message>
+  <message offset="1d70">
+Maki: Sorry to rush you,{nl}
+but now it's our turn{nl}
+to have you to ourselves!{waitkey}{ret}
+</message>
+  <message offset="1da4">
+Elly: Let's go!{nl}
+Time won't wait for us!{waitkey}{ret}
+</message>
+  <message offset="1dd4">
+Elly: Let's go!{nl}
+Time waits for no one,{nl}
+after all!{waitkey}{ret}
+</message>
+  <message offset="1e04">
+Inaba: Aw, they're gone{nl}
+already.{wait_fr:88} Heh...{nl}
+Sonomura, it's like that{nl}
+whole ordeal was a dream...{waitkey}{ret}
+</message>
+  <message offset="1e3c">
+Nanjo: Heh...{wait_fr:88} Pandora,{wait_fr:60}{nl}
+was it...{waitkey}{ret}
+</message>
+  <message offset="1e60">
+Mark: Huh?{nl}
+You're still going on{nl}
+about that?{waitkey}{ret}
+</message>
+  <message offset="1e84">
+Nanjo: Nothing.{wait_fr:60} I just{nl}
+recalled the last thing{nl}
+to come out of the box{waitkey}of misfortunes...{nl}
+Now then, let's go, Mark.{waitkey}{ret}
+</message>
+  <message offset="1ed0">
+Mark: What's that mean?{wait_fr:88}{nl}
+Hey, you... did you just{nl}
+call me Mark? Hey!{waitkey}{ret}
+</message>
+  <message offset="1f08">
+Ayase: Ehh, for real?{nl}
+{ctl08:12033}?{nl}
+That's super awesome!{waitkey}{ret}
+</message>
+  <message offset="1f34">
+Ayase: Ehh, for real?{nl}
+{ctl0f:1}?{nl}
+You think so?{waitkey}{ret}
+</message>
+  <message offset="1f58">
+Ayase: Hmm.{nl}
+{ctl08:6657}, I can see,{nl}
+but Inaba? Really now.{waitkey}{ret}
+</message>
+  <message offset="1f80">
+Ayase: Hmm.{nl}
+{ctl0f:1}, I can see,{nl}
+but Inaba? Really now.{waitkey}{ret}
+</message>
+  <message offset="1fa8">
+Ayase: {ctl08:65281}You remember,{nl}
+right? Ten Free Falls in{nl}
+a row!{waitkey}We're riding till you puke!{waitkey}{ret}
+</message>
+  <message offset="1fec">
+Ayase: {ctl0f:1},{nl}
+you remember, right?{nl}
+Ten Free Falls in a row!{waitkey}We're riding till you puke!{waitkey}{ret}
+</message>
+</scene>

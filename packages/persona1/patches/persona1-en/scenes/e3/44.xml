@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="44">
+  <message offset="1564">
+
+</message>
+  <message offset="157c">
+
+</message>
+  <message offset="1594">
+
+</message>
+  <message offset="15d0">
+Masked Boy: What is it?{waitkey}{ret}
+</message>
+  <message offset="15e8">
+Want to go back to the floor{nl}
+below?{nl}
+{ctl0e:20}{ret}
+</message>
+  <message offset="1600">
+Masked Boy: I see.{waitkey}Make for the top floor with{nl}
+haste. The Queen awaits.{waitkey}{ret}
+</message>
+  <message offset="1640">
+Masked Boy: Very well.{waitkey}{ret}
+</message>
+  <message offset="1658">
+Masked Boy: Very well.{waitkey}{ret}
+</message>
+  <message offset="168c">
+Masked Boy: Oho.{waitkey}At this late stage, you'd go{nl}
+back to square one?{waitkey}{clearbox}Well, that's fine too.{waitkey}{ret}
+</message>
+  <message offset="169c">
+Yukino: What's he plotting?{waitkey}{ret}
+</message>
+  <message offset="16cc">
+Ayase: He's kind enough to{nl}
+offer, so{waitkey}let's just ask him when we{nl}
+want to go back.{waitkey}{ret}
+</message>
+</scene>

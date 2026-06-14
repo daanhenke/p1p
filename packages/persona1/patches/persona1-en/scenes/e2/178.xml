@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="178">
+  <message offset="1530">
+Maki: Let's hurry and find{nl}
+that girl! She must be{nl}
+somewhere in the school!{waitkey}{ret}
+</message>
+  <message offset="1564">
+Nanjo: Why does the girl in{nl}
+black target the school...{waitkey}What is there to gain by{nl}
+attacking a school?{waitkey}{ret}
+</message>
+  <message offset="15a8">
+Mark: When are we ever gonna{nl}
+be able to save the real{nl}
+Sonomura...{waitkey}{ret}
+</message>
+  <message offset="15d0">
+Elly: Does the girl in black{nl}
+have Demons with her after{nl}
+all, I wonder?{waitkey}{clearbox}If so, we'll need to brace{nl}
+ourselves going in.{waitkey}{ret}
+</message>
+  <message offset="1624">
+Brown: Hey, {ctl0f:1}, don't you{nl}
+think it's worrying to leave{nl}
+two women behind?{waitkey}If you like, I'll stay here{nl}
+and protect the teachers!{waitkey}{ret}
+</message>
+  <message offset="1680">
+Ayase: Finding the infirmary{nl}
+in a place like this is{nl}
+somehow a relief.{waitkey}{ret}
+</message>
+  <message offset="16b0">
+Reiji: What's with that{nl}
+gloomy teacher?{waitkey}{ret}
+</message>
+  <message offset="16c8">
+Agastya Tree: Young one...{nl}
+You have come before me.{waitkey}{ret}
+</message>
+  <message offset="16f4">
+Agastya Tree:{nl}
+Shall I inscribe{nl}
+your record within me?{waitkey}{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1720">
+Agastya Tree: Young one...{nl}
+Go forth with care.{waitkey}{ret}
+</message>
+  <message offset="1750">
+Ms. Natsumi: Ah, {ctl0f:1}.{nl}
+What's happening right now?{waitkey}I don't know what to do{nl}
+either. I'm at a loss{wait_fr:37}{nl}
+right, Ms. Saeko?{waitkey}{ret}
+</message>
+  <message offset="17ac">
+Ms. Saeko: ............{waitkey}{ret}
+</message>
+  <message offset="17c4">
+Ms. Natsumi: I thought she'd{nl}
+say something at a time like{nl}
+this, but{wait_fr:48} she's as gloomy{nl}
+as ever...{waitkey}{ret}
+</message>
+  <message offset="1aa8">
+Ms. Natsumi: If you get hurt,{nl}
+come to the infirmary. Now,{nl}
+let me have a look at you.{waitkey}{ret}
+</message>
+  <message offset="1ae4">
+Ms. Natsumi: There, all done.{nl}
+Don't go losing to any{nl}
+demons, now.{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="99">
+  <message offset="16f8">
+Master: Oh my, all of you{nl}
+together again.{nl}
+Back so soon?{waitkey}{ret}
+</message>
+  <message offset="1720">
+Mark: Argh, that woman~!{nl}
+She sent us all the way{nl}
+back here again!{waitkey}{ret}
+</message>
+  <message offset="174c">
+Maki: Did Chisato really{nl}
+mean what she said?{nl}
+Maybe she's being controlled.{waitkey}{clearbox}That's it! That girl Aki{nl}
+must be controlling her!{waitkey}{ret}
+</message>
+  <message offset="179c">
+Nanjo: There was life in{nl}
+Kozai's eyes.{waitkey}{clearbox}At the very least, they{nl}
+weren't the eyes of someone{nl}
+being controlled.{waitkey}{ret}
+</message>
+  <message offset="17e8">
+Elly: Why don't we go{nl}
+see her once more?{nl}
+Then we'll understand{nl}
+everything.{waitkey}{ret}
+</message>
+  <message offset="181c">
+Brown: Anyway,{nl}
+let's go meet her{nl}
+one more time.{waitkey}{ret}
+</message>
+  <message offset="1840">
+Ayase: Let's go see her again.{nl}
+Kozai might think{nl}
+she went too far, too.{waitkey}{ret}
+</message>
+  <message offset="1874">
+Reiji: Standing here{nl}
+gets us nowhere.{nl}
+Only thing to do is{nl}
+go see her again.{waitkey}{ret}
+</message>
+</scene>

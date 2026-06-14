@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="183">
+  <message offset="16d4">
+Maki: The girl in white{nl}
+clothes — that's Mai,{nl}
+isn't it.{waitkey}{ret}
+</message>
+  <message offset="16f8">
+Nanjo: In this town, weapons{nl}
+are entirely for fighting{nl}
+demons.{waitkey}{clearbox}So that's why there's no need{nl}
+for police, is it.{waitkey}{ret}
+</message>
+  <message offset="173c">
+Mark: No matter how often I{nl}
+come, I never get used to it.{nl}
+Getting a big smile and "Are{nl}
+you looking for weapons?"{waitkey}{ret}
+</message>
+  <message offset="177c">
+Elly: The magazines here are{nl}
+all old ones, aren't they.{nl}
+They're all from about a{nl}
+year ago.{waitkey}{ret}
+</message>
+  <message offset="17b8">
+Elly: The magazines here are{nl}
+all old, aren't they. All{nl}
+from about a year ago.{waitkey}{ret}
+</message>
+  <message offset="17f0">
+Brown: Huh~? This girl{nl}
+retired, didn't she. Why's{nl}
+she on the cover?{waitkey}{ret}
+</message>
+  <message offset="1824">
+Ayase: No way! Look at this{nl}
+model! Nobody wears clothes{nl}
+like this anymore...{waitkey}{clearbox}Huh? This magazine's old.{nl}
+It's a whole year old!{waitkey}{ret}
+</message>
+  <message offset="1880">
+Reiji: What's with this shop?{nl}
+It's full of oddly old{nl}
+magazines.{waitkey}{ret}
+</message>
+  <message offset="18a8">
+Young Man: A spot that used to{nl}
+be a lovely flower field{nl}
+suddenly turned into a forest.{waitkey}Are they running some kind of{nl}
+greening campaign now?{waitkey}{ret}
+</message>
+  <message offset="18f4">
+Townsperson: A girl often{nl}
+played in the flower field.{waitkey}{clearbox}But now it's a forest. I{nl}
+wonder how she's doing.{waitkey}{clearbox}? {wait_fr:32}Whether she wore black?{wait_fr:48}{nl}
+No, that girl was a cute one,{nl}
+dressed all in white.{waitkey}{ret}
+</message>
+  <message offset="1978">
+Clerk: Welcome! Are you{nl}
+looking for weapons?{waitkey}{ret}
+</message>
+  <message offset="19a0">
+Clerk: Eek!{wait_fr:32} That doesn't{nl}
+open!{wait_fr:32} If you're shopping,{nl}
+please come around to the{nl}
+counter!{waitkey}{ret}
+</message>
+</scene>

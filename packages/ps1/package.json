@@ -1,0 +1,10 @@
+{
+  "name": "@p1p/ps1",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PlayStation 1 platform formats: ISO9660 .cue/.bin (EDC/ECC), TIM/RLE, sector archive, PSX RAM map, and the overlay code-patch (anchored byte search).",
+  "exports": { ".": "./src/index.ts" },
+  "scripts": { "build": "tsc -b" },
+  "dependencies": { "@p1p/core": "workspace:*" }
+}

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="65">
+  <message offset="16c0">
+Tadashi: ...It's okay.{nl}
+No matter what, I'll{nl}
+protect you.{waitkey}{clearbox}So...{wait_fr:30} so believe in me{nl}
+and follow me, Tamaki!{nl}
+I love you!!{waitkey}{ret}
+</message>
+  <message offset="1724">
+Tamaki: We always just{nl}
+fought... but that was{nl}
+because I worried about you.{waitkey}{clearbox}You never knew how I felt...{nl}
+Leave you alone and you{nl}
+always do reckless things.{waitkey}{clearbox}But thanks to that dream,{nl}
+I can finally be honest...{nl}
+Tadashi...{wait_fr:30} I love you!{waitkey}{ret}
+</message>
+  <message offset="17b8">
+Yukino: Oh-ho, at it again.{nl}
+They never get tired{nl}
+of it.{waitkey}{clearbox}Well, all three are awake{nl}
+and safe now.{nl}
+You all feeling okay?{waitkey}{ret}
+</message>
+  <message offset="1810">
+Tadashi: Ahh! Ahh!{nl}
+It was just getting good!!{nl}
+Don't interrupt!{waitkey}{clearbox}Right, Tamaki?{waitkey}{ret}
+</message>
+  <message offset="1854">
+Tamaki: ...Mayuzumi,{nl}
+everyone... why are{nl}
+you here?{waitkey}{ret}
+</message>
+  <message offset="1878">
+Nanjo: You remember nothing?{nl}
+What blissfully ignorant{nl}
+fools.{waitkey}{clearbox}A waste of time, a thankless{nl}
+rescue, exactly. I'm too{nl}
+dumbfounded to speak.{waitkey}{ret}
+</message>
+  <message offset="18cc">
+Brown: Ehh! Come on,{nl}
+so cold, Tamaki.{nl}
+After I worked so hard{waitkey}to save you!{waitkey}{clearbox}You don't remember a thing?{nl}
+That's a bit much, no?{nl}
+I'm super sad here.{waitkey}{ret}
+</message>
+  <message offset="1950">
+Tadashi: Remember? We were...{nl}
+{wait_fr:30}...{wait_fr:30}...huh??{nl}
+Why are we even here?{waitkey}{clearbox}Let's see... I was having a{nl}
+good dream... woke up, and{nl}
+Tamaki was right there...{waitkey}{clearbox}and Tamaki was looking{nl}
+at me too...{waitkey}{ret}
+</message>
+  <message offset="19e4">
+Yukino: Yes yes yes yes!!{nl}
+I get it,{wait_fr:30} I get it!{nl}
+Congrats! Spare us the rest!!{waitkey}{clearbox}More importantly, you two,{nl}
+just tell me this one thing.{nl}
+Then I won't bother you{waitkey}two anymore.{waitkey}{clearbox}So, does either of you{nl}
+have a "Mirror Shard"?{waitkey}It's something very important.{waitkey}{ret}
+</message>
+  <message offset="1a94">
+Nanjo: Hm. I expect nothing{nl}
+from the start, but{nl}
+for now.{waitkey}{clearbox}Does either of you have one?{nl}
+A "Mirror Shard."{waitkey}{ret}
+</message>
+  <message offset="1adc">
+Elly: It's something we truly{nl}
+need now to save the school.{waitkey}{clearbox}Do you have any idea?{waitkey}{ret}
+</message>
+  <message offset="1b18">
+Tadashi: ...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...{nl}
+Nope!{waitkey}{clearbox}I've only got my hand{nl}
+mirror for styling my hair.{nl}
+Will this do?{waitkey}{ret}
+</message>
+  <message offset="1b78">
+Tamaki: ...Honestly!{nl}
+Dummy Tadashi!{nl}
+Of course not!{waitkey}...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...!{waitkey}{clearbox}Is this the "Mirror Shard"{nl}
+Mayuzumi means?{waitkey}{clearbox}It was in my pocket{nl}
+before I knew it...{waitkey}{ret}
+</message>
+  <message offset="1c08">
+Tadashi: ...Ehh?!{nl}
+Tamaki!!{nl}
+Y-you had something{waitkey}like that...{waitkey}{clearbox}I didn't hear about it!!{nl}
+Ahh! We pledged our love,{nl}
+yet{wait_fr:30} yet{wait_fr:30} yet!{waitkey}{clearbox}Keeping a secret!!{nl}
+So cruel, so cruel!{waitkey}{ret}
+</message>
+  <message offset="1ca8">
+Tamaki: ...Hey!{nl}
+I only just noticed{nl}
+it myself!{waitkey}{clearbox}Don't make me sound bad!{nl}
+...Be quiet a moment!{waitkey}{clearbox}Here, if this will do,{nl}
+take it,{nl}
+{ctl0f:1}.{waitkey}{clearbox}...Heehee. Remember I said{nl}
+"next it's your turn"?{waitkey}{clearbox}That... really came true,{nl}
+huh. But I'm sure you{nl}
+can pull it off.{waitkey}{clearbox}Good luck!{waitkey}{ret}
+</message>
+  <message offset="1d78">
+Tamaki: ...Hey!{nl}
+I only just noticed{nl}
+it myself!{waitkey}{clearbox}Don't make me sound bad!{nl}
+...Be quiet a moment!{waitkey}{clearbox}Here, if this will do,{nl}
+take it,{nl}
+{ctl0f:1}.{waitkey}{clearbox}Sorry I can only help{nl}
+with something this small...{waitkey}{clearbox}Honestly I wish Tadashi and{nl}
+I could come along too,{waitkey}{clearbox}but as we are now, we'd{nl}
+only be a burden to you.{waitkey}{clearbox}Thanks for saving us.{nl}
+Good luck!{waitkey}{ret}
+</message>
+  <message offset="1e70">
+Obtained a "Mirror Shard"!{waitkey}{ret}
+</message>
+  <message offset="1e88">
+Tadashi: Hmm,{nl}
+I don't really get it, but{nl}
+good luck out there!{waitkey}{clearbox}Leave Tamaki to me!{waitkey}{ret}
+</message>
+  <message offset="1ed0">
+Ayase: Yay!{nl}
+Super lucky!!{nl}
+"Mirror Shard" GET!{waitkey}{clearbox}Going all the way to the{nl}
+Anti-Dream World paid off!!{waitkey}{clearbox}Hey hey!! If Tamaki and{nl}
+Tadashi had a "Mirror Shard,"{nl}
+then maybe{waitkey}{clearbox}Ms. Natsumi has one too??{nl}
+Shall we ask her?{waitkey}{clearbox}Hey hey, Ms. Natsumi!{nl}
+You don't have a "Mirror{nl}
+Shard"? Teach{wait_fr:30} teach{wait_fr:30} TEACH!{waitkey}{clearbox}The "Mirror Shard"?!{nl}
+You're awake! Teacher!{waitkey}{ret}
+</message>
+  <message offset="2004">
+Ms. Natsumi: ...So noisy.{nl}
+I've got low blood pressure...{nl}
+owowow... my head hurts.{waitkey}{clearbox}So? A mi{wait_fr:30}rr{wait_fr:30}or...?{nl}
+...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...{nl}
+Nope! ...Goodnight... zzz{waitkey}{ret}
+</message>
+  <message offset="209c">
+Ayase: Tch.{nl}
+Aw, teach doesn't have one.{nl}
+Waking her was a waste!{waitkey}{ret}
+</message>
+  <message offset="20c8">
+Yukino: Are those two still{nl}
+half asleep? Well,{nl}
+whatever.{waitkey}{ret}
+</message>
+  <message offset="20f0">
+Yukino: All right then,{nl}
+shall we go take down{nl}
+the boss now?{waitkey}{ret}
+</message>
+  <message offset="2118">
+Ayase: They said Tadashi{nl}
+sometimes goes totally{nl}
+out of control,{waitkey}{clearbox}so this is what they meant.{nl}
+Hmm, super passionate~{waitkey}{ret}
+</message>
+  <message offset="2170">
+Ayase: Mmm, Ayase wants{nl}
+a super hot relationship{nl}
+like that with someone too!{waitkey}{ret}
+</message>
+  <message offset="21a0">
+Nanjo: Do they still intend{nl}
+to stay in the Anti-Dream{nl}
+World?{waitkey}{clearbox}Then I can't see why we{nl}
+woke the two of them.{waitkey}{ret}
+</message>
+  <message offset="21e8">
+Nanjo: We've wasted a good{nl}
+deal of time.{nl}
+No complaints now, surely.{waitkey}{clearbox}Let's hurry on.{nl}
+Well...{wait_fr:30} all three being safe{nl}
+wasn't a bad thing, I suppose.{waitkey}{ret}
+</message>
+  <message offset="2250">
+Brown: Daaamn it!{nl}
+Is Tamaki still half{nl}
+asleep or what?{waitkey}{clearbox}Why pick that Tadashi guy{nl}
+over the great me?{nl}
+I've got my doubts!{waitkey}{ret}
+</message>
+  <message offset="22b8">
+Brown: Thanks to my big{nl}
+heroics, all three are safe!{nl}
+Wahahahahaha!!{waitkey}{clearbox}I've got just outstanding{nl}
+leader material, I tell ya!!{waitkey}{ret}
+</message>
+  <message offset="2328">
+Elly: Surely Hypnos's magic{nl}
+doesn't{wait_fr:30} still linger...{nl}
+does it?{waitkey}{clearbox}Truly, I've had quite{nl}
+an eyeful.{waitkey}{ret}
+</message>
+  <message offset="2378">
+Elly: By chance, Hypnos{nl}
+ended up becoming{nl}
+Tadashi and Tamaki's{waitkey}Cupid of love, it seems.{waitkey}{ret}
+</message>
+  <message offset="23d4">
+Tadashi: Ahh! Ahh!{nl}
+So annoying! Interrupting{nl}
+someone's romance like this -{waitkey}{clearbox}what a rude person{nl}
+you are! Save it for later!!{waitkey}{ret}
+</message>
+  <message offset="2434">
+Tadashi: You're done with{nl}
+your business, right? Leave{nl}
+us alone, would you, please?{waitkey}{ret}
+</message>
+  <message offset="246c">
+Tamaki: You mean to get in{nl}
+the way of me and Tadashi?{nl}
+I won't forgive you!{waitkey}{ret}
+</message>
+  <message offset="249c">
+Tamaki: Sorry, but right now{nl}
+I can't think of anything{nl}
+but Tadashi.{waitkey}{ret}
+</message>
+  <message offset="24c4">
+Ms. Natsumi: Zzz{wait_fr:30}...zpii{nl}
+...heehee...{wait_fr:30}well?...{nl}
+...is it{wait_fr:30}...tasty?...{waitkey}{ret}
+</message>
+  <message offset="2508">
+Ms. Natsumi: Ngghh!!{nl}
+I'm wide awake now, but my{nl}
+head's killing me.{waitkey}{clearbox}The dream was nice, though...{nl}
+Feels like I got interrupted{nl}
+at a really good part...{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="102">
+  <message offset="118c">
+Yukino: This Tartarus — is it{nl}
+also Yuriko's treasure vault?{nl}
+There sure are a lot of{nl}
+chests.{waitkey}{ret}
+</message>
+  <message offset="11c4">
+Ayase: Hey...{nl}
+once we beat "the Snow{nl}
+Queen"...{waitkey}{clearbox}once we save Ms. Saeko,{nl}
+it all ends, right? Everyone{nl}
+goes back to normal{waitkey}and we get to go home, right?{waitkey}{ret}
+</message>
+  <message offset="1228">
+Nanjo: I worry about Ms.{nl}
+Saeko, but... is that Inaba{nl}
+all right? He's a fool, that{nl}
+one...{waitkey}Damn it, how frustrating!{waitkey}{ret}
+</message>
+  <message offset="127c">
+Brown: Aaargh!!
+</message>
+  <message offset="12f0">
+{nl}
+{nl}
+So this is the afterlife,
+</message>
+</scene>

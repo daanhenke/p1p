@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="9">
+  <message offset="49bc">
+Yukino: Why a casino? Is it{nl}
+saying to flee from reality{nl}
+and ruin ourselves?{waitkey}{clearbox}Well, never mind the details.{nl}
+We're here, so let's play a{nl}
+little.{waitkey}{ret}
+</message>
+  <message offset="4a14">
+Yukino: Why a casino? Is it{nl}
+saying to flee from reality{nl}
+and ruin ourselves?{waitkey}{clearbox}Well, never mind the details.{nl}
+We're here, so let's play a{nl}
+bit.{waitkey}{ret}
+</message>
+  <message offset="4a6c">
+Ayase: A casino, huh... If{nl}
+anything, I'd have preferred{nl}
+a disco.{waitkey}{ret}
+</message>
+  <message offset="4a9c">
+Ayase: You still wanna play~?{nl}
+Come on, let's go.{waitkey}{ret}
+</message>
+  <message offset="4abc">
+Nanjo: What is this place!{waitkey}{ret}
+</message>
+  <message offset="4ad0">
+Nanjo: You're the one managing{nl}
+the money, so{waitkey}refrain from wasting it.{waitkey}{ret}
+</message>
+  <message offset="4b04">
+Brown: Uhyahyahyahya. You{nl}
+could stay all day and never{nl}
+get bored~{waitkey}{ret}
+</message>
+  <message offset="4b2c">
+Brown: Forget all about the{nl}
+Queen, woosh!{waitkey}Let's take a breather once in{nl}
+a while~{waitkey}{ret}
+</message>
+  <message offset="4b68">
+Elly: This was a school, if I{nl}
+recall correctly...{waitkey}{ret}
+</message>
+  <message offset="4b88">
+Elly: Letting loose now and{nl}
+then is fine, but please don't{nl}
+forget our purpose.{waitkey}{ret}
+</message>
+  <message offset="4bbc">
+Clerk: Welcome~ Here we{nl}
+exchange money for coins~♥{waitkey}{clearbox}Shall we change your money{nl}
+into coins?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="4c10">
+Clerk: Here we exchange{nl}
+coins for items...{waitkey}{clearbox}Change coins into items?{ctl0e:0}{ret}
+</message>
+  <message offset="4c54">
+Male Student: Yesss!! I'm on{nl}
+a hot streak today!!{waitkey}{ret}
+</message>
+  <message offset="4c84">
+Male Student: ...... I lost{nl}
+my entire fortune. How am{nl}
+I gonna live starting{nl}
+tomorrow...{waitkey}{ret}
+</message>
+  <message offset="4cb8">
+Afro Guy: Yeah~! Shoobie-dabba{nl}
+yoo-weh~{waitkey}{clearbox}Back when I was but a kitten,{nl}
+my mama was in her mittens.{waitkey}{clearbox}Back when I was but a{nl}
+thigh-high, my old man's{nl}
+wallet ran dry.{waitkey}{clearbox}Ya dig~?{waitkey}Dabba-shoobie yoo-weh~{waitkey}{ret}
+</message>
+  <message offset="4d4c">
+Afro Guy: Yeah~! Shoobie-dabba{nl}
+yoo-weh~{waitkey}{clearbox}Back when I was self-refining,{nl}
+my sis on strawberry noodles{nl}
+was dining.{waitkey}{clearbox}Bet ya don't get it~{waitkey}Dabba-shoobie yoo-weh~{waitkey}{ret}
+</message>
+  <message offset="4dc0">
+You currently have{nl}
+{ctl12} Metal Cards.{waitkey}{ret}
+</message>
+  <message offset="4de0">
+There's a Code Breaker.{waitkey}{ret}
+</message>
+  <message offset="4df8">
+What will you do?{nl}
+{ctl0e:24}{ret}
+</message>
+  <message offset="4e08">
+Which explanation?{nl}
+{ctl0e:6}{ret}
+</message>
+  <message offset="4e20">
+In a 3x3 grid of nine{nl}
+squares, the numbers 1-9 are{nl}
+scattered at random.{waitkey}{clearbox}Guess the arrangement of{nl}
+the scattered numbers.{waitkey}{clearbox}The faster you guess,{nl}
+the better the prize.{waitkey}{clearbox}If you can't answer within{nl}
+the set number of tries,{nl}
+it's game over.{waitkey}{clearbox}The set number of tries is{nl}
+the count of "RESULT" on{nl}
+the right of the screen.{waitkey}{clearbox}"RESULT" is written in turn{nl}
+whenever your entered{nl}
+answer is wrong,{waitkey}so use it as a guide for{nl}
+your next answer.{waitkey}{clearbox}Also, the "CHOSEN" shown{nl}
+above the entry spaces{waitkey}lights up when a number is{nl}
+selected, dark if not.{waitkey}Check each number's light to{nl}
+see whether 1-9 are spread{nl}
+out evenly, with no dupes.{waitkey}{clearbox}Note: this game uses{nl}
+"Metal Cards," not coins.{waitkey}{ret}
+</message>
+  <message offset="502c">
+[○ Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Lower the number the{nl}
+cursor points to.{waitkey}{clearbox}[× Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Mark/recolor the cursor's{nl}
+number.{waitkey}Use it to flag "this number{nl}
+is confirmed."{waitkey}{clearbox}[△ Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Raise the number the{nl}
+cursor points to.{waitkey}{clearbox}[□ Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Mark/recolor the cursor's{nl}
+number.{waitkey}Use it to flag "this number{nl}
+is confirmed."{waitkey}{clearbox}[R1/R2 Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Start the game{nl}
+(Metal Card required).{waitkey}{clearbox}&lt;During game&gt;{nl}
+Not used.{waitkey}{clearbox}[L1/L2 Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Quit the Code Breaker.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Not used.{waitkey}{clearbox}[D-Pad]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Move the cursor.{ret}
+</message>
+  <message offset="540c">
+The key to this game is{nl}
+spotting where both the row{nl}
+and column score a HIT (H).{waitkey}{clearbox}When you find a spot that{nl}
+hits on both, mark it{nl}
+for now.{waitkey}{clearbox}Also, the RESULT showing your{nl}
+past entries is a big hint,{nl}
+so use it for reference.{waitkey}{ret}
+</message>
+  <message offset="54c4">
+You currently have{nl}
+{ctl11} coins.{waitkey}{ret}
+</message>
+  <message offset="54e0">
+There's a Poker game.{waitkey}{ret}
+</message>
+  <message offset="54f8">
+What will you do?{nl}
+{ctl0e:3}{ret}
+</message>
+  <message offset="5508">
+Which explanation?{nl}
+{ctl0e:5}{ret}
+</message>
+  <message offset="5520">
+A poker game where you can{nl}
+swap cards just once.{waitkey}{clearbox}First, you are dealt{nl}
+five cards.{waitkey}{clearbox}Use the D-Pad to pick the{nl}
+cards you want to keep,{waitkey}then press ○, ×, △ or □{nl}
+to HELD (lock) them.{waitkey}{clearbox}Once your HELD cards are set,{nl}
+press R1 or R2 to{nl}
+re-DRAW,{waitkey}and the rest are swapped out.{waitkey}{clearbox}After the re-DRAW, if you've{nl}
+formed a hand, you win.{waitkey}{clearbox}The more you bet, the bigger{nl}
+the payout (ODDS) when{nl}
+you complete a hand.{waitkey}{clearbox}Also, when you form a hand,{nl}
+you can wager that payout{nl}
+in an Extra Game.{waitkey}{clearbox}If you'd rather skip the{nl}
+Extra Game, choose TAKE SCORE.{waitkey}{clearbox}There are 3 Extra Games, and{nl}
+in each, every win doubles{nl}
+your payout.{waitkey}{clearbox}By winning on and on, the{nl}
+Extra Game payout can climb{nl}
+as high as 1,000,000.{waitkey}{clearbox}But beware: one single loss{nl}
+forfeits the entire payout{nl}
+you had built up.{waitkey}{clearbox}&lt;Extra Game 1&gt;{nl}
+- HI&amp;LOW{waitkey}{clearbox}One card is shown face up,{nl}
+and four face down{nl}
+on the screen.{waitkey}{clearbox}From the four face-down{nl}
+cards, pick one higher than{nl}
+the face-up card.{waitkey}{clearbox}If your card ties the face-up{nl}
+card, it's a draw and you{nl}
+try again.{waitkey}{clearbox}&lt;Extra Game 2&gt;{nl}
+- BIG&amp;SMALL{waitkey}{clearbox}One card is shown face up{nl}
+and one face down{nl}
+on the screen.{waitkey}{clearbox}Guess whether the face-down{nl}
+card is bigger or smaller{nl}
+than the face-up one.{waitkey}{clearbox}Beware: if your card ties the{nl}
+face-up card, you lose.{waitkey}{clearbox}&lt;Extra Game 3&gt;{nl}
+- RED&amp;BLACK{waitkey}{clearbox}One card is shown face down{nl}
+on the screen.{waitkey}{clearbox}If you think the face-down{nl}
+card is a Heart or Diamond,{nl}
+choose "RED".{waitkey}{clearbox}If it's a Spade or Club,{nl}
+choose "BLACK".{waitkey}{clearbox}If your color matches the{nl}
+card's color, you win.{waitkey}{ret}
+</message>
+  <message offset="59f8">
+[○ Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Insert one coin.{waitkey}{clearbox}&lt;During game&gt;{nl}
+HELD a card, or{nl}
+cancel a HELD card.{waitkey}{clearbox}&lt;When a hand forms&gt;{nl}
+Play the Extra Game{nl}
+"HI&amp;LOW".{waitkey}{clearbox}&lt;During Extra Game&gt;{nl}
+Choose the card to flip.{waitkey}{clearbox}&lt;On Extra Game win&gt;{nl}
+Play on.{waitkey}{clearbox}[× Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Cancel your bet{nl}
+coins.{waitkey}{clearbox}&lt;During game&gt;{nl}
+HELD a card, or{nl}
+cancel a HELD.{waitkey}{clearbox}&lt;When a hand forms&gt;{nl}
+Skip the Extra Game and{nl}
+cash out your payout.{waitkey}{clearbox}&lt;During Extra Game&gt;{nl}
+Choose the card to flip.{waitkey}{clearbox}&lt;On Extra Game win&gt;{nl}
+End the Extra Game and{nl}
+cash out your payout.{waitkey}{clearbox}[△ Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Bet the maximum coins.{waitkey}{clearbox}&lt;During game&gt;{nl}
+HELD a card, or{nl}
+cancel a HELD.{waitkey}{clearbox}&lt;When a hand forms&gt;{nl}
+Play the Extra Game{nl}
+"BIG&amp;SMALL".{waitkey}{clearbox}&lt;During Extra Game&gt;{nl}
+Choose the card to flip.{waitkey}{clearbox}&lt;On Extra Game win&gt;{nl}
+Not used.{waitkey}{clearbox}[□ Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;During game&gt;{nl}
+HELD a card, or{nl}
+cancel a HELD.{waitkey}{clearbox}&lt;When a hand forms&gt;{nl}
+Play the Extra Game{nl}
+"RED&amp;BLACK".{waitkey}{clearbox}&lt;During Extra Game&gt;{nl}
+Choose the card to flip.{waitkey}{clearbox}&lt;On Extra Game win&gt;{nl}
+Not used.{waitkey}{clearbox}[R1/R2 Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+If at least one coin is bet,{nl}
+the game starts.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Swap the cards you{nl}
+haven't HELD.{waitkey}{clearbox}&lt;When a hand forms&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;During Extra Game&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;On Extra Game win&gt;{nl}
+Not used.{waitkey}{clearbox}[L1/L2 Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Quit the Poker game.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;When a hand forms&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;During Extra Game&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;On Extra Game win&gt;{nl}
+Not used.{waitkey}{clearbox}[D-Pad]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Select a card.{waitkey}{clearbox}&lt;When a hand forms&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;During Extra Game&gt;{nl}
+Select a card.{waitkey}{clearbox}&lt;On Extra Game win&gt;{nl}
+Not used.{ret}
+</message>
+  <message offset="6140">
+2 PAIR:{nl}
+Two separate pairs of{nl}
+same-number cards.{waitkey}{clearbox}3 OF A KIND:{nl}
+Three cards of the{nl}
+same number.{waitkey}{clearbox}STRAIGHT:{nl}
+Five cards in a run{nl}
+of numbers.{waitkey}{clearbox}FLUSH:{nl}
+Five cards all of the{nl}
+same suit.{waitkey}{clearbox}FULL HOUSE:{nl}
+A 3 OF A KIND plus a{nl}
+pair in the other two.{waitkey}{clearbox}4 OF A KIND:{nl}
+Four cards of the{nl}
+same number.{waitkey}{clearbox}STRAIGHT FLUSH:{nl}
+A STRAIGHT all of the{nl}
+same suit.{waitkey}{clearbox}5 OF A KIND:{nl}
+A 4 OF A KIND with the{nl}
+fifth card a JOKER.{waitkey}{clearbox}ROYAL FLUSH{nl}
+A STRAIGHT FLUSH of{nl}
+10-J-Q-K-A.{waitkey}{clearbox}[Notes on hands]{waitkey}{clearbox}- In this poker, 1 PAIR{nl}
+ alone is not a hand.{waitkey}{clearbox}- STRAIGHT-type hands{nl}
+ can't run from A down to 2.{waitkey}{clearbox}- The JOKER is a wild card{waitkey} and can stand in for any{nl}
+ hand except 5 OF A KIND.{waitkey}{ret}
+</message>
+  <message offset="6454">
+You currently have{nl}
+{ctl11} coins.{waitkey}{ret}
+</message>
+  <message offset="6470">
+There's a Blackjack{nl}
+game.{waitkey}{ret}
+</message>
+  <message offset="6490">
+What will you do?{nl}
+{ctl0e:3}{ret}
+</message>
+  <message offset="64a0">
+Which explanation?{nl}
+{ctl0e:5}{ret}
+</message>
+  <message offset="64b8">
+A Blackjack game played{nl}
+one-on-one with the dealer.{waitkey}{clearbox}The computer acts as{nl}
+the dealer.{waitkey}{clearbox}First, the player and dealer{nl}
+are each dealt two cards.{waitkey}{clearbox}One of the dealer's two{nl}
+cards is face down.{waitkey}{clearbox}Only when the dealer's face-up{nl}
+card is an Ace{waitkey}can you take{nl}
+INSURANCE.{waitkey}{clearbox}INSURANCE is covered{nl}
+near the end of these{nl}
+rules.{waitkey}{clearbox}First, compare the dealer's{nl}
+card with your own and decide{nl}
+whether to draw one more.{waitkey}{clearbox}To draw another, choose "HIT";{nl}
+to stop, choose "STAND".{waitkey}{clearbox}So long as your total{nl}
+stays under 21, you can{nl}
+draw up to seven cards.{waitkey}{clearbox}Note: you STAND automatically{nl}
+in the following cases.{waitkey}{clearbox}- When the first two cards{nl}
+ dealt are a Blackjack.{waitkey}{clearbox}- When a card from the third{nl}
+ on brings your total to 21.{waitkey}{clearbox}- When you have drawn{nl}
+ seven cards.{waitkey}{clearbox}- When your total goes{nl}
+ over 21 (a bust).{waitkey}{clearbox}Cards 2-10 count as their{nl}
+face value,{waitkey}J-K count as 10,{waitkey}and an Ace counts as{nl}
+either 1 or 11.{waitkey}{clearbox}After the player STANDs,{nl}
+the dealer draws cards.{waitkey}{clearbox}If your total stays under{nl}
+21 and beats the dealer's{nl}
+total,{waitkey}or if the dealer busts,{nl}
+you win.{waitkey}{clearbox}If the dealer and player{nl}
+tie, or both have{nl}
+a Blackjack,{waitkey}it's a draw and your bet{nl}
+coins are returned.{waitkey}{clearbox}Besides HIT and STAND, the{nl}
+player can also{waitkey}perform a "D.DOWN"{nl}
+and a "SPLIT".{waitkey}{clearbox}   &lt;D.DOWN&gt;{nl}
+   (Double Down){waitkey}{clearbox}Only possible when the{nl}
+player holds two cards.{waitkey}{clearbox}You double your bet, on the{nl}
+condition that you HIT exactly{nl}
+one more card.{waitkey}{clearbox}You can't do it if you hold{nl}
+fewer coins than the bet.{waitkey}{clearbox}If you Double Down and beat{nl}
+the dealer, your payout{nl}
+doubles.{waitkey}{clearbox}   &lt;SPLIT&gt;{nl}
+   (Split){waitkey}{clearbox}Possible when the player's{nl}
+first two cards are the same{nl}
+number.{waitkey}{clearbox}You split the two cards into{nl}
+two separate hands and play{nl}
+them both.{waitkey}{clearbox}You can't do it if you hold{nl}
+fewer coins than the bet.{waitkey}{clearbox}Even after a SPLIT, you can{nl}
+still D.DOWN on each{nl}
+hand.{waitkey}{clearbox}However, after a SPLIT,{nl}
+an Ace with a 10-K{nl}
+that follows{waitkey}is not a Blackjack and{nl}
+counts only as 21.{waitkey}{clearbox}[About INSURANCE]{waitkey}{clearbox}INSURANCE is{nl}
+a kind of insurance,{nl}
+offered to you{waitkey}only when the dealer's first{nl}
+card is an Ace.{waitkey}{clearbox}To take INSURANCE choose{nl}
+YES; to decline, choose NO.{waitkey}{clearbox}Choose NO and play{nl}
+proceeds as normal.{waitkey}{clearbox}Choose YES and you first{nl}
+pay half your bet as the{nl}
+premium.{waitkey}Then if the dealer's other{nl}
+card is a 10-K,{waitkey}that is, a Blackjack,{nl}
+your bet is forfeit,{waitkey}but you get back three times{nl}
+the premium, and the{nl}
+game ends.{waitkey}{clearbox}And if the dealer's card{nl}
+is A-9,{waitkey}the premium is forfeit{nl}
+and play proceeds as normal.{waitkey}{clearbox}Note: this game uses{nl}
+four decks (208 cards),{nl}
+so the same card{waitkey}may come up two or{nl}
+more times.{waitkey}{ret}
+</message>
+  <message offset="6ddc">
+[○ Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Insert one coin.{waitkey}{clearbox}&lt;During game&gt;{nl}
+HIT.{waitkey}{clearbox}[× Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Cancel your bet{nl}
+coins.{waitkey}{clearbox}&lt;During game&gt;{nl}
+STAND.{waitkey}{clearbox}[△ Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Bet the maximum coins.{waitkey}{clearbox}&lt;During game&gt;{nl}
+DOUBLE DOWN.{waitkey}{clearbox}[□ Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;During game&gt;{nl}
+SPLIT{nl}
+(only when you can).{waitkey}{clearbox}[R1/R2 Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+If at least one coin is bet,{nl}
+the game starts.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Not used.{waitkey}{clearbox}[L1/L2 Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Quit the Blackjack{nl}
+game.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Not used.{waitkey}{clearbox}[D-Pad]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Not used.{ret}
+</message>
+  <message offset="7154">
+WIN:{nl}
+When your total stays{nl}
+under 21{waitkey}and beats the dealer's total,{nl}
+or the dealer busts.{waitkey}{clearbox}B.JACK:{nl}
+(Blackjack){nl}
+An Ace plus any 10-K,{waitkey}a two-card combo{nl}
+(you STAND automatically).{waitkey}After a SPLIT it's not a{nl}
+Blackjack and counts as 21.{waitkey}{clearbox}6CARDS:{nl}
+When you STAND with six{nl}
+cards{waitkey}without going over 21.{waitkey}{clearbox}7CARDS:{nl}
+When seven cards drawn{nl}
+stay under 21{waitkey}(you STAND automatically).{waitkey}{clearbox}Hrt/Clb/Dia A&amp;J:{nl}
+An A-and-J Blackjack where{nl}
+both cards' suits{waitkey}are Heart, Club or Diamond.{waitkey}{clearbox}Spd A&amp;J:{nl}
+An A-and-J Blackjack where{nl}
+both cards' suits{waitkey}are Spades.{waitkey}{clearbox}777:{nl}
+When both dealt cards are 7,{nl}
+you HIT a third{waitkey}and draw another 7.{waitkey}{ret}
+</message>
+  <message offset="73cc">
+You currently have{nl}
+{ctl11} coins.{waitkey}{ret}
+</message>
+  <message offset="73e8">
+There's a Slot Machine.{waitkey}{ret}
+</message>
+  <message offset="73fc">
+What will you do?{nl}
+{ctl0e:3}{ret}
+</message>
+  <message offset="740c">
+Which explanation?{nl}
+{ctl0e:6}{ret}
+</message>
+  <message offset="7424">
+A slot machine made of five{nl}
+big drums and 16{nl}
+small drums.{waitkey}{clearbox}The more coins you bet, the{nl}
+more lines you play{nl}
+for a win.{waitkey}{clearbox}You can bet up to{nl}
+eight coins.{waitkey}{clearbox}Bets 1/2/5/6 use horizontal{nl}
+lines, bets 3/4/7/8 use{nl}
+vertical lines to judge.{waitkey}{clearbox}Note: bets 5-8 give two{nl}
+judging lines{nl}
+per bet.{waitkey}{clearbox}When the game starts, all{nl}
+the big and small drums{nl}
+begin to spin.{waitkey}{clearbox}After they spin a while,{nl}
+the small drums stop first{nl}
+(the big drums keep spinning).{waitkey}{clearbox}Pressing ○, ×, △ or □{nl}
+shifts the small drums{nl}
+clockwise.{waitkey}{clearbox}Shift the small drums well{nl}
+to line the symbols up{nl}
+more easily.{waitkey}{clearbox}Once you've set the small{nl}
+drums, press R1 or R2 and{nl}
+the big drums stop.{waitkey}{clearbox}If three or more symbols{nl}
+line up on a bet line,{nl}
+you win.{waitkey}{clearbox}Bets 1-4 line up to five,{nl}
+bets 5-8 line up to four{nl}
+symbols each.{waitkey}{clearbox}Also, if the big drums'{nl}
+symbols line up diagonally,{nl}
+at the 4 corners, or all over,{waitkey}you win regardless of the{nl}
+line you bet.{waitkey}{clearbox}A win on the big drums{nl}
+multiplies the payout by{nl}
+your bet amount.{waitkey}{ret}
+</message>
+  <message offset="7718">
+[○ Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Bet one coin.{waitkey}{clearbox}&lt;While big drum spins&gt;{nl}
+Spin the right four{nl}
+small drums.{waitkey}{clearbox}[× Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Cancel your bet{nl}
+coins.{waitkey}{clearbox}&lt;While big drum spins&gt;{nl}
+Spin the bottom four{nl}
+small drums.{waitkey}{clearbox}[△ Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Bet the maximum coins.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Spin the top four{nl}
+small drums.{waitkey}{clearbox}[□ Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Spin the left four{nl}
+small drums.{waitkey}{clearbox}[R1/R2 Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+If at least one coin is bet,{nl}
+the game starts.{waitkey}{clearbox}&lt;During game&gt;{nl}
+After the start, stop{nl}
+the big drums.{waitkey}{clearbox}[L1/L2 Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Quit the slot machine.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Not used.{waitkey}{clearbox}[D-Pad]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Not used.{ret}
+</message>
+  <message offset="7ab0">
+On a slot machine, the{nl}
+symbols that hit easily{nl}
+differ between machines.{waitkey}{clearbox}Rather than stick to one{nl}
+machine, it's best to try{nl}
+out various machines.{waitkey}{clearbox}Also, it's easy to forget to{nl}
+spin the small drums during{nl}
+play, so take care.{waitkey}Adjusting the small drums well{nl}
+is the secret to growing your{nl}
+coins.{waitkey}{clearbox}Note: betting small risks a{nl}
+big loss at the crucial{nl}
+moment.{waitkey}It's best to always go in at{nl}
+8 BET (full bet).{waitkey}{ret}
+</message>
+  <message offset="7bc0">
+You currently have{nl}
+{ctl11} coins.{waitkey}{ret}
+</message>
+  <message offset="7bdc">
+There's a Dice game.{waitkey}{ret}
+</message>
+  <message offset="7bf0">
+What will you do?{nl}
+{ctl0e:3}{ret}
+</message>
+  <message offset="7c00">
+Which explanation?{nl}
+{ctl0e:6}{ret}
+</message>
+  <message offset="7c18">
+Two dice are rolled on{nl}
+the screen, and you guess{nl}
+their total.{waitkey}{clearbox}You can bet on 11 spots,{nl}
+2 through 12, as many spots{nl}
+per game as you like,{waitkey}up to 100 bet per{nl}
+spot.{waitkey}{clearbox}If you bet on the dice total,{nl}
+you win and earn a payout{nl}
+set by the odds.{waitkey}{clearbox}You can also wager that{nl}
+payout to play an Extra Game.{waitkey}{clearbox}In the Extra Game you don't{nl}
+"guess the total"{nl}
+— instead,{waitkey}"so long as the total isn't 7,{nl}
+any total wins"{nl}
+is the game.{waitkey}(payouts vary by{nl}
+total){waitkey}But if a 7 comes up it's over,{nl}
+and that payout is all{nl}
+forfeit, so take care.{waitkey}{ret}
+</message>
+  <message offset="7dd0">
+[○ Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Bet 10 coins on the{nl}
+spot the cursor points to.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;When the total hits&gt;{nl}
+Play the Extra Game.{waitkey}{clearbox}&lt;On Extra Game win&gt;{nl}
+Play on.{waitkey}{clearbox}[× Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Cancel all coins on the{nl}
+spot the cursor points to.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;When the total hits&gt;{nl}
+Skip the Extra Game and{nl}
+cash out your payout.{waitkey}{clearbox}&lt;On Extra Game win&gt;{nl}
+End the Extra Game and{nl}
+cash out your payout.{waitkey}{clearbox}[△ Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Bet 100 coins on the{nl}
+spot the cursor points to.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;When the total hits&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;On Extra Game win&gt;{nl}
+Not used.{waitkey}{clearbox}[□ Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Cancel all your{nl}
+bet coins.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;When the total hits&gt;{nl}
+Not used.{nl}
+{waitkey}{clearbox}&lt;On Extra Game win&gt;{nl}
+Not used.{waitkey}{clearbox}[R1/R2 Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+If coins are bet,{nl}
+the game starts.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;When the total hits&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;On Extra Game win&gt;{nl}
+Not used.{waitkey}{clearbox}[L1/L2 Button]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Quit the Dice game.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;When the total hits&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;On Extra Game win&gt;{nl}
+Not used.{waitkey}{clearbox}[D-Pad]{waitkey}{clearbox}&lt;Before game start&gt;{nl}
+Select a spot to bet.{waitkey}{clearbox}&lt;During game&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;When the total hits&gt;{nl}
+Not used.{waitkey}{clearbox}&lt;On Extra Game win&gt;{nl}
+Not used.{ret}
+</message>
+  <message offset="8394">
+In this game, the closer a{nl}
+number is to 7 the lower its{nl}
+payout, but the more likely{nl}
+it is to hit.{waitkey}{clearbox}So it's safest to bet more on{nl}
+numbers near 7 and less on{nl}
+numbers near 2 or 12.{waitkey}{clearbox}Also, in the Extra Game, if a{nl}
+7 comes up all your won coins{nl}
+are forfeit,{waitkey}so the trick to not losing is{nl}
+to quit at a sensible point{nl}
+without getting greedy.{waitkey}{ret}
+</message>
+</scene>

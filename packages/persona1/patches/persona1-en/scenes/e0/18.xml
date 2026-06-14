@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="18">
+  <message offset="17b0">
+Nanjo: Have you finished{nl}
+your business? Now then,{nl}
+will you finally take{nl}
+me to the hospital?{waitkey}{ret}
+</message>
+  <message offset="17ec">
+Nanjo: Heh. It's true that{nl}
+a convenience store does{nl}
+carry most things you'd{nl}
+need in daily life.{waitkey}{ret}
+</message>
+  <message offset="1820">
+Mark: Is that woman{nl}
+Reiji's mother...?{nl}
+She seems refined.{nl}
+Unlike my place...{waitkey}{ret}
+</message>
+  <message offset="185c">
+Mark: Oh wait, is this{nl}
+where Yukino works?{nl}
+Ah, no... that was{nl}
+a different store.{waitkey}{ret}
+</message>
+  <message offset="188c">
+Elly: Even things lying{nl}
+around here could{nl}
+serve as weapons,{nl}
+you know.{waitkey}{ret}
+</message>
+  <message offset="18bc">
+Yukino: Kido Reiji is{nl}
+a strange one, but{nl}
+his mother seems like{nl}
+a nice person.{waitkey}{ret}
+</message>
+  <message offset="18e8">
+Yukino: Even at a{nl}
+convenience store, weapons{nl}
+are a bit much...{waitkey}{ret}
+</message>
+  <message offset="190c">
+Reiji's Mother: Oh, are{nl}
+you students from{nl}
+St. Hermelin?{nl}
+Same as my son...{waitkey}{ret}
+</message>
+  <message offset="1940">
+Reiji's Mother: His name is{nl}
+Kido Reiji —{nl}
+do you know him?{waitkey}{nl}
+{ctl0e:2}{ret}
+</message>
+  <message offset="1970">
+Reiji's Mother: Oh, you do?{nl}
+My, are you in{nl}
+the same class?{waitkey}{clearbox}I see... He's never{nl}
+been very good{nl}
+at socializing...{waitkey}{ret}
+</message>
+  <message offset="19b8">
+Reiji's Mother: I know it's{nl}
+terribly forward of me,{nl}
+but I was hoping you{nl}
+might try to
+</message>
+  <message offset="19fc">
+be friends with Reiji?{waitkey}{nl}
+{ctl0e:1}{ret}
+</message>
+  <message offset="1a2c">
+Reiji's Mother: Is that so...
+</message>
+  <message offset="1a68">
+{nl}
+{nl}
+I'm sorry for{nl}
+being so presumptuous.{waitkey}{ret}
+</message>
+  <message offset="1ad0">
+Reiji's Mother: Oh, truly?
+</message>
+  <message offset="1b08">
+Thank you so much!{nl}
+Please do come visit{nl}
+our home sometime!{waitkey}{ret}
+</message>
+  <message offset="1b40">
+Reiji's Mother: I see...{wait_fr:32}{nl}
+He dresses like that, so I{nl}
+suppose it can't be helped...{nl}
+But he's a kind, good boy.{waitkey}{clearbox}Oh, I know — it's a{nl}
+little something, but please{nl}
+do accept this...{waitkey}{ret}
+</message>
+  <message offset="1b54">
+Reiji's Mother: Please do{nl}
+look after my son.{waitkey}{clearbox}Received "Chewing Soul."{waitkey}{ret}
+</message>
+  <message offset="1b88">
+Reiji's Mother: Oh, a{nl}
+student from St. Hermelin...{nl}
+please look after my son.{waitkey}{ret}
+</message>
+  <message offset="1bd4">
+Clerk: Welcome!{waitkey}{ret}
+</message>
+  <message offset="1c04">
+Clerk: I'm afraid we don't{nl}
+carry weapons here...{wait_fr:32}{nl}
+Is that all right?{waitkey}{ret}
+</message>
+  <message offset="1c58">
+Customer: These days{nl}
+convenience stores carry{nl}
+everything!{waitkey}{clearbox}Isn't it strange that{nl}
+you don't have weapons?{nl}
+Don't you think so?!{waitkey}{ret}
+</message>
+</scene>

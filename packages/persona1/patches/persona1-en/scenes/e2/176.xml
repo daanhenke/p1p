@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="176">
+  <message offset="13f4">
+Student: Th-that's the girl!{nl}
+The one who took Kozai away!{nl}
+She seemed to have demons too.{waitkey}{clearbox}Are we just going to wait{nl}
+here to be attacked by{nl}
+demons?{waitkey}{ret}
+</message>
+  <message offset="1460">
+Maki: It's okay! Don't worry,{nl}
+leave it to us!{waitkey}{ret}
+</message>
+  <message offset="1490">
+Maki: {ctl07:1}, let's hurry{nl}
+and go!{waitkey}{ret}
+</message>
+</scene>

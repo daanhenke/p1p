@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="85">
+  <message offset="12e4">
+
+</message>
+  <message offset="132c">
+Yukino: Hey, again? What's{nl}
+the deal with this big,{nl}
+gaudy door?!{waitkey}{clearbox}Wasn't there a similar room{nl}
+just now?{waitkey}{ret}
+</message>
+  <message offset="1368">
+Ayase: Somehow we never reach{nl}
+the very top no matter how{nl}
+long we go!{waitkey}Ayase's beat!!{waitkey}{ret}
+</message>
+  <message offset="13a4">
+Nanjo: Damn it. I sense the{nl}
+malice of that Michiko woman{nl}
+everywhere I turn{waitkey}!!{waitkey}{ret}
+</message>
+  <message offset="13dc">
+Brown: Yukino's right! There{nl}
+was a room like this{waitkey}down below too, wasn't there!{waitkey}{ret}
+</message>
+  <message offset="1414">
+Elly: This tower feels far{nl}
+taller than it looks from{nl}
+outside.{waitkey}Just my imagination?{waitkey}{ret}
+</message>
+</scene>

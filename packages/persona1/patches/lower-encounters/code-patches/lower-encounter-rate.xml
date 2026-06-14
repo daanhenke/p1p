@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code-patch id="lower-encounter-rate" name="Lower random-encounter rate">
+  <description>Roughly halves how often random battles interrupt you while walking the dungeons.</description>
+  <site file="/DNG.BIN" anchor="02 00 00 00 04 00 00 00 00 00" offset="10" width="2" value="24"></site>
+  <site file="/DNG.BIN" anchor="02 00 00 00 04 00 00 00 00 00" offset="12" width="2" value="24"></site>
+  <site file="/DNG.BIN" anchor="02 00 00 00 04 00 00 00 00 00" offset="14" width="2" value="24"></site>
+</code-patch>

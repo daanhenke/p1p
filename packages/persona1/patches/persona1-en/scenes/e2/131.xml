@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="131">
+  <message offset="1408">
+Student: Hey, that school{nl}
+guardian deity the principal{nl}
+talked about was real!{waitkey}{clearbox}I mean, the demons aren't{nl}
+getting into the school,{nl}
+right?{waitkey}{ret}
+</message>
+  <message offset="1464">
+Student: Ugh, shut up...{wait_fr:32}{nl}
+Guardian deities, demons —{nl}
+is that guy half-asleep or{nl}
+something?{waitkey}{ret}
+</message>
+</scene>

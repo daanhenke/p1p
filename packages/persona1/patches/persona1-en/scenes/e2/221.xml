@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="221">
+  <message offset="1178">
+Agastya Tree: Young one...{nl}
+You have come before me.
+</message>
+  <message offset="11a4">
+{ret}
+</message>
+  <message offset="11d0">
+Agastya Tree:{nl}
+Shall I inscribe{nl}
+your record within me?{waitkey}{nl}
+{ctl0e:0}{ret}
+</message>
+</scene>

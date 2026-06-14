@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="13">
+  <message offset="1204">
+Nanjo: Yamaoka took me to see{nl}
+ballet when I was little...{nl}
+Meant to cultivate my{nl}
+sensibilities, I suppose.{waitkey}{ret}
+</message>
+  <message offset="1244">
+Mark: Man, this kind of thing{nl}
+throws me off~ Hey, let's get{nl}
+to the hospital already!{waitkey}{ret}
+</message>
+  <message offset="127c">
+Yukino: Ballet, huh...{wait_fr:32}{nl}
+"The Nutcracker" is{nl}
+a good one.{waitkey}{clearbox}A girl's joyful dream world{nl}
+on Christmas night...{wait_fr:32}{nl}
+sigh, how lovely...{waitkey}{clearbox}What's with that face?! I{nl}
+like ballet, okay?! Problem?!{waitkey}{ret}
+</message>
+  <message offset="1304">
+Student: Pointe shoes are{nl}
+surprisingly stiff, you know.{nl}
+Didn't know that, did you?{nl}
+I was shocked my first time.{waitkey}{ret}
+</message>
+  <message offset="1344">
+Student: Thanks to the gym{nl}
+rebuild, we got a club room.{nl}
+What a relief.{waitkey}{clearbox}I mean, changing in the{nl}
+classroom, someone might{nl}
+peep on you!{waitkey}{clearbox}Ah! Don't tell me you came{nl}
+to peep too?!{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="52">
+  <message offset="1658">
+Nanjo: So, where to next? I{nl}
+don't mind where, so long as{nl}
+we reach the hospital last.{waitkey}{ret}
+</message>
+  <message offset="1694">
+Nanjo: Demons or no, business{nl}
+can't take a day off, is that{nl}
+it? People are tougher than{nl}
+you'd think.{waitkey}{ret}
+</message>
+  <message offset="16d4">
+Mark: Music... that's,{nl}
+like, piano and singing?{waitkey}{clearbox}Huh? I feel like I've heard{nl}
+something just like that{nl}
+somewhere.{waitkey}{ret}
+</message>
+  <message offset="1720">
+Mark: Is it really okay to{nl}
+keep the store open?{waitkey}{clearbox}Don't blame me if a demon{nl}
+gets you!{waitkey}{ret}
+</message>
+  <message offset="175c">
+Elly: Come to think of it,{nl}
+someone at school said much{nl}
+the same thing.{waitkey}{ret}
+</message>
+  <message offset="178c">
+Yukino: A peculiar shop...{nl}
+What on earth does it sell?{waitkey}{ret}
+</message>
+  <message offset="17b0">
+Yukino: Enough exploring,{nl}
+right? Shall we head to Alaya{nl}
+Shrine next?{waitkey}{ret}
+</message>
+  <message offset="17dc">
+Shopkeeper: Oh, welcome.{nl}
+Come, make yourself at home.{waitkey}{ret}
+</message>
+  <message offset="1800">
+Shopkeeper: Oh, welcome.{nl}
+My, you've got it rough too,{nl}
+haven't you.{waitkey}{ret}
+</message>
+  <message offset="1828">
+Customer: There's just one{nl}
+odd shop in this arcade.{waitkey}{clearbox}It's always closed whenever{nl}
+you look, and no one's ever{nl}
+seen anyone come or go.{waitkey}{clearbox}But sometimes, they say, you{nl}
+can hear music...{wait_fr:48}{nl}
+Truly, strange things happen.{waitkey}{ret}
+</message>
+  <message offset="18b8">
+Customer: About that odd{nl}
+shop in the arcade.{waitkey}{clearbox}I heard a rumor it's set{nl}
+to open soon.{waitkey}{clearbox}When that'll be, though,{nl}
+I couldn't tell you.{waitkey}{ret}
+</message>
+</scene>

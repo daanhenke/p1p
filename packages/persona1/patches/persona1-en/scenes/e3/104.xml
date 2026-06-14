@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="104">
+  <message offset="178c">
+Yukino: There's no end to it.
+</message>
+  <message offset="17c4">
+{nl}
+We've got a time limit, so if{nl}
+we don't cut it off at some{nl}
+point{waitkey}we could be in trouble.{waitkey}{ret}
+</message>
+  <message offset="17e8">
+Ayase: When it comes to{nl}
+chests, the more the merrier!{waitkey}{ret}
+</message>
+  <message offset="189c">
+Nanjo: I've gained a little{nl}
+respect for you in our battles{nl}
+so far. You're strong.{waitkey}{clearbox}And so... if I may put it to{nl}
+you, once we beat "the Snow{nl}
+Queen," when I go to save{nl}
+Inaba,{waitkey}{clearbox}would you come along? I want{nl}
+every fighter I can get. I{nl}
+won't force it, of course...
+</message>
+  <message offset="1910">
+{nl}
+{nl}
+Give it some thought.{waitkey}{ret}
+</message>
+  <message offset="1944">
+Brown: Treasure chests! They{nl}
+really are great!! Aaah!!{nl}
+Chests!!{waitkey}Plenty of folks know the{nl}
+word, but{waitkey}{clearbox}folks who've actually seen,{nl}
+touched, or opened one are{nl}
+few and far between!{waitkey}{ret}
+</message>
+  <message offset="1958">
+Elly: Do spare a thought for{nl}
+the Time limit, won't you.{waitkey}{ret}
+</message>
+  <message offset="1970">
+Open this chest?{nl}
+{ctl0e:0}{ret}Got a "Mirror Shard"!{waitkey}{ret}
+</message>
+  <message offset="1984">
+Decided not to open the{nl}
+chest.{waitkey}{ret}
+</message>
+</scene>

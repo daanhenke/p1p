@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="96">
+  <message offset="1c7c">
+Nanjo: Ugh...{wait_fr:48}{nl}
+What's this gloomy haze?{waitkey}{ret}
+</message>
+  <message offset="1ca0">
+Elly: It doesn't feel{nl}
+very cheerful here.{waitkey}{ret}
+</message>
+  <message offset="1cc0">
+Ayase: It's so dark...{nl}
+Ayase hates places like this!{waitkey}{ret}
+</message>
+  <message offset="1ce4">
+Brown: Hey hey, what's{nl}
+with this gloom!{nl}
+Let's brighten it up a bit!{waitkey}{ret}
+</message>
+  <message offset="1d18">
+Reiji: The air's foul.{nl}
+Smells like the windows{nl}
+haven't opened in a month.{waitkey}{ret}
+</message>
+  <message offset="1d4c">
+Customer: Heh, fresh faces!{nl}
+You don't know a damn{nl}
+thing, I bet!{waitkey}{ret}
+</message>
+  <message offset="1d7c">
+...Alright, a straight!{waitkey}{ret}
+</message>
+  <message offset="1d90">
+Customer: You think we're
+</message>
+  <message offset="1dd8">
+a gloomy bunch, huh?{waitkey}{clearbox}Yeah - our only salvation{nl}
+is Lady Harlem Queen!
+</message>
+  <message offset="1dec">
+{ret}
+</message>
+  <message offset="1e24">
+...Heh, full house!{waitkey}{ret}
+</message>
+  <message offset="1e9c">
+Customer: Hee hee...{nl}
+we're your future selves.{nl}
+You'll understand soon!{waitkey}{ret}
+</message>
+  <message offset="1f1c">
+Customer: Ahh...{wait_fr:48} folks from{nl}
+outside, eh...? Kinda ticks{nl}
+me off...{wait_fr:48} Now I've{waitkey}{clearbox}gone and remembered...{wait_fr:48}{nl}
+the outside... Gwahh{nl}
+...{wait_fr:32} I wanna go outside...{waitkey}{ret}
+</message>
+  <message offset="1f90">
+Master: Everyone, please!{nl}
+Come now, let's drink{nl}
+in good company.{waitkey}{clearbox}Our fate is the same{nl}
+anyway - no sense in{nl}
+quarreling, is there?{waitkey}{clearbox}We are all faithful servants{nl}
+of Lady Harlem Queen!{waitkey}{ret}
+</message>
+  <message offset="1fc8">
+Customer: Back with dumb{nl}
+looks on your faces. I get{nl}
+it - you met the Queen.{waitkey}{clearbox}A looker like you, if the{nl}
+Queen took a liking,{nl}
+could've lived in the{waitkey}palace, you know.{waitkey}{ret}
+</message>
+  <message offset="1ff0">
+Customer: I get how you{nl}
+feel, but you've gotta grow{nl}
+up a bit to get by, y'know?{waitkey}{ret}
+</message>
+  <message offset="2020">
+Maki: I wonder what the{nl}
+Harlem Queen is like?{waitkey}{ret}
+</message>
+  <message offset="2078">
+Maki: ............{nl}
+I... I didn't know{nl}
+anything at all...{waitkey}{ret}
+</message>
+  <message offset="20ac">
+Maki: You think I'm{nl}
+in shock...?{waitkey}{clearbox}But you know, I feel like{nl}
+Chisato and I can become{nl}
+true friends from here on...{waitkey}{ret}
+</message>
+  <message offset="20e0">
+Nanjo: So this is what{nl}
+that brat meant. We've{nl}
+been trapped again, then.{waitkey}{ret}
+</message>
+  <message offset="2118">
+Nanjo: A bit surprising,{nl}
+but I'd say that was{nl}
+Kasai's true nature.{waitkey}{ret}
+</message>
+  <message offset="2150">
+Nanjo: Even seeing her{nl}
+like that, love stays{nl}
+unshaken? Heh, suit yourself.
+</message>
+  <message offset="2174">
+{ret}
+</message>
+  <message offset="2194">
+Mark: Argh, so irritating!{nl}
+We gotta take down that{nl}
+Kandori bastard fast!{waitkey}{ret}
+</message>
+  <message offset="21c0">
+Mark: Sonomura...{wait_fr:48}{nl}
+This must be a shock...{waitkey}{ret}
+</message>
+  <message offset="2220">
+Mark: Guess Naito really{nl}
+was a nice guy.{waitkey}{ret}
+</message>
+  <message offset="22c8">
+Elly: I think I see the{nl}
+cause of this gloomy haze.{waitkey}{ret}
+</message>
+  <message offset="2308">
+Elly: {ctl07:1}, do you{nl}
+dislike people like the Queen?{waitkey}{clearbox}But pretending to obey on{nl}
+the surface, while sticking{nl}
+out their tongues behind...{waitkey}the townsfolk are{nl}
+just the same.{waitkey}{ret}
+</message>
+  <message offset="234c">
+Elly: Why doesn't Naito{nl}
+come to dislike Kasai?{waitkey}{clearbox}Seeing someone's ugly side,{nl}
+isn't it natural to grow{nl}
+disillusioned and hate them?
+</message>
+  <message offset="2378">
+{clearbox}To bare all of yourself{nl}
+and still be loved -{nl}
+I can scarcely believe it.{waitkey}{clearbox}Could such a person exist{wait_fr:48}{nl}
+for me, too...?{waitkey}{ret}
+</message>
+  <message offset="23b0">
+Brown: When you hear{nl}
+"Queen," you'd think a{nl}
+peerless beauty, right?{waitkey}Eh? Eh? Gets my hopes up!{waitkey}{ret}
+</message>
+  <message offset="23d4">
+Brown: So Kasai was...{wait_fr:32}{nl}
+that kind of girl, huh...{wait_fr:32}{nl}
+Kinda lets me down...{waitkey}{ret}
+</message>
+  <message offset="2410">
+Brown: The bond between{nl}
+a man and a woman...
+</message>
+  <message offset="2434">
+{nl}
+{nl}
+runs deep, doesn't it.{waitkey}
+</message>
+  <message offset="245c">
+Ayase: Ayase hates it here...{nl}
+Feels like Ayase's power{nl}
+is being sucked away.{waitkey}{ret}
+</message>
+  <message offset="2484">
+Ayase: Kasai... that's{nl}
+a bold move she pulled!{waitkey}{ret}
+</message>
+  <message offset="24c0">
+Ayase: Ayase wants{wait_fr:32}...
+</message>
+  <message offset="24f8">
+Ayase wants that mirror too~!{nl}
+Ayase'll make a harem too~!{waitkey}{ret}
+</message>
+  <message offset="25ac">
+Reiji: Harlem Queen, huh?{nl}
+Heh, don't make me laugh.{waitkey}{ret}
+</message>
+  <message offset="2640">
+Reiji: Being true to your{nl}
+desires - I don't think{nl}
+that's so bad, myself.{waitkey}{ret}
+</message>
+  <message offset="26cc">
+Reiji: A dull ending,{wait_fr:48}{nl}
+but maybe that's fine{nl}
+once in a while.{waitkey}{ret}
+</message>
+  <message offset="2728">
+Customer: Hic~ Lady Queen...{nl}
+Your paintings are the{nl}
+best... so let me outta here.{waitkey}{ret}
+</message>
+  <message offset="276c">
+Customer: The Queen's art{nl}
+is just kids' scribbles!{nl}
+Serves her right, I say!{waitkey}{ret}
+</message>
+  <message offset="27a8">
+Customer: A labyrinth of{nl}
+sorrow, forgotten in the{nl}
+cracks of time...{waitkey}Only liquor can soothe{nl}
+my suffering...{waitkey}{clearbox}...{wait_fr:48}Daaaamn it all!{nl}
+That little hussy!!{waitkey}Stealing all the good men{nl}
+away to her own place...{waitkey}I wanna go to the{nl}
+harem toooo!!{waitkey}{ret}
+</message>
+  <message offset="2820">
+Customer: Even if the stopped{nl}
+clock ticks again{wait_fr:32}, my pain{nl}
+stays as it was then...{waitkey}{clearbox}...{wait_fr:48}Daaaamn iiit{nl}
+that little hussyyy!!{waitkey}{clearbox}Made herself a harem and{nl}
+still kept a boyfriend{nl}
+on the side!!{waitkey}{ret}Master: No one is allowed{nl}
+to leave this market.{waitkey}{clearbox}For the Queen, ruler of{nl}
+this market, has decreed{nl}
+it so.{waitkey}{clearbox}You'd do well to behave{nl}
+so as to win the Queen's{nl}
+favor.{waitkey}{ret}
+</message>
+  <message offset="2864">
+Mark: ...Let's go to the{nl}
+palace! We're out of time.{waitkey}{clearbox}No time to play along with{nl}
+the Queen's little{nl}
+ruler games, right?{waitkey}{ret}
+</message>
+  <message offset="28b0">
+Maki: Inaba's right.{nl}
+Let's go see the Queen!{nl}
+And get her to let us out?{waitkey}{ret}
+</message>
+  <message offset="28f0">
+Master: If you tell yourself{nl}
+you can leave anytime,{waitkey}life here isn't so bad{nl}
+after all.{waitkey}{ret}Customer: Wanna meet Lady{nl}
+Harlem Queen? She's in the{nl}
+Kama Palace underground.{waitkey}{clearbox}The entrance is by the{nl}
+casino - but one warning:{nl}
+don't make the Queen angry.{waitkey}{ret}
+</message>
+  <message offset="2930">
+Customer: There's an old,{nl}
+grubby mansion further east.{waitkey}They say it leads to{nl}
+another world or something.{waitkey}{ret}
+</message>
+</scene>

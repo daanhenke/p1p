@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="149">
+  <message offset="2d48">
+Maki: No...{wait_fr:60}{nl}
+It can't be...{waitkey}{ret}
+</message>
+  <message offset="2d68">
+Maki: You idiot!!{nl}
+Why did you kill Papa?!{nl}
+Do you know what you've done?!{waitkey}Waaaaaaaaaaaah!!{waitkey}{ret}
+</message>
+  <message offset="2dbc">
+Maki: It's a lie...{wait_fr:88}{nl}
+That this is me...{waitkey}{nl}
+That I'm the one who{nl}
+hurt everyone...{waitkey}{ret}
+</message>
+  <message offset="2df8">
+Maki: The real me killed{nl}
+the person she leaned on{nl}
+with her own hands?!{waitkey}{clearbox}No one will save us{nl}
+anymore!{nl}
+It's all over!!{waitkey}{ret}
+</message>
+  <message offset="2e5c">
+Reiji: Three Sonomuras...{wait_fr:88}{nl}
+They're all her?{waitkey}{ret}
+</message>
+  <message offset="2e88">
+Elly: Three... Makis...{nl}
+Jesus... how can this be...{nl}
+They're all Maki...{waitkey}{ret}
+</message>
+  <message offset="2ed0">
+Brown: Three Makis...{nl}
+Seriously... no way...{waitkey}{ret}
+</message>
+  <message offset="2ef8">
+Ayase: They're all the{nl}
+same Sonomura?{nl}
+For real?... No way...{waitkey}{ret}
+</message>
+  <message offset="2f24">
+Mark: Sonomura!{waitkey}{ret}
+</message>
+  <message offset="2f34">
+Maki: No...{wait_fr:88}{nl}
+Don't come...{nl}
+Don't look at me!{waitkey}{ret}
+</message>
+  <message offset="2f5c">
+Mark: Calm down, Sonomura!{nl}
+It's gotta be some{nl}
+mistake... right?{waitkey}{ret}
+</message>
+  <message offset="2f88">
+Maki: No, no, no! It's true!{nl}
+This is me!{nl}
+I just know it!{waitkey}{clearbox}Twisting the city,{nl}
+hurting everyone -{nl}
+it was all me! It was me!{waitkey}{ret}
+</message>
+  <message offset="2fe8">
+Reiji: Don't dwell on it.{nl}
+You were just being used!{waitkey}{ret}
+</message>
+  <message offset="3010">
+Elly: Calm down, Maki!{nl}
+You were only being used...{nl}
+Don't blame yourself, okay?{waitkey}{ret}
+</message>
+  <message offset="3050">
+Brown: Calm down!{nl}
+You were just used, yeah?{nl}
+Come over here, quick.{waitkey}{ret}
+</message>
+  <message offset="3084">
+Ayase: Sonomura!{nl}
+Don't sweat it!{nl}
+Kandori's the bad guy!{waitkey}{ret}
+</message>
+  <message offset="30b4">
+Maki: No, that's not it...{waitkey}{ret}
+</message>
+  <message offset="30c8">
+Maki: Please, don't be{nl}
+kind to me...{wait_fr:88} I understand{nl}
+it all now...{nl}
+I was jealous of everyone...{waitkey}{clearbox}Walking the town in cute{nl}
+clothes, swooning over boys,{nl}
+laughing out loud...{waitkey}{clearbox}I envied everyone heading{nl}
+happily off to school...{waitkey}'Just let the school and town{nl}
+vanish'...{waitkey}I thought that...{waitkey}{ret}
+</message>
+  <message offset="317c">
+Mark: Sonomura...{waitkey}{ret}
+</message>
+  <message offset="318c">
+Maki: I wanted to do{nl}
+something but I couldn't...{nl}
+I cried and cried...{waitkey}{clearbox}Envying people, resenting{nl}
+them... building an ideal{nl}
+town and self for comfort...{waitkey}{clearbox}You see now, don't you?{wait_fr:88}{nl}
+I'm... a hopeless girl.{waitkey}I have no right to live!!{waitkey}{ret}
+</message>
+  <message offset="3234">
+Maki: Sniff...{nl}
+Y-you!{waitkey}{ret}
+</message>
+  <message offset="324c">
+Maki: You too...{nl}
+it's over for you now.{nl}
+Kandori's gone already.{waitkey}{ret}
+</message>
+  <message offset="3274">
+Maki: Nomoraka tanomamaa.{waitkey}{ret}
+</message>
+  <message offset="328c">
+Maki: N-noooo!!{nl}
+I don't want this!!{waitkey}{ret}
+</message>
+  <message offset="32ac">
+Maki: Now once more...{nl}
+we can return to a{nl}
+quiet town...{waitkey}Thank you, big brother.{waitkey}{ret}
+</message>
+  <message offset="32dc">
+Maki: You still...{nl}
+mean to keep living{nl}
+in that town?!{waitkey}{ret}
+</message>
+  <message offset="3304">
+Maki: Yes...{nl}
+because if I don't,{nl}
+I'll be so pitiful...{waitkey}{clearbox}You'll come back too.{nl}
+I want you to keep up{nl}
+the ideal me.{waitkey}{ret}
+</message>
+  <message offset="3358">
+Maki: No!{nl}
+I never want to go back{nl}
+to that town!{waitkey}{ret}
+</message>
+  <message offset="337c">
+Maki: Nomoraka tanomamaa.{waitkey}{ret}
+</message>
+  <message offset="3394">
+Maki: Noooo!!{nl}
+{ctl07:1}...!!{waitkey}{ret}
+</message>
+  <message offset="33b0">
+Maki: So now you've come{nl}
+to like big brother...{nl}
+Fine, I'll bring out as many{nl}
+as you like.{waitkey}{clearbox}It's such an easy thing...{wait_fr:88}{nl}
+Bye-bye{wait_fr:60}, big brother...{waitkey}{ret}
+</message>
+  <message offset="3410">
+Mark: Sonomura!!{wait_fr:88}{nl}
+Sonomuraaaaaa!!{waitkey}{ret}
+</message>
+  <message offset="3438">
+Maki: Yes, everything ends!{nl}
+Everyone should just vanish!{nl}
+Everyone, disappeaaar!!{waitkey}{ret}
+</message>
+  <message offset="3474">
+Mark: Sonomura!{nl}
+Come over here, okay?{waitkey}{ret}
+</message>
+  <message offset="3494">
+Maki: I... I can't stay{nl}
+by everyone's side{nl}
+anymore...{waitkey}{ret}
+</message>
+  <message offset="34b8">
+Maki: Please... send me{nl}
+back into the heart!{waitkey}{ret}
+</message>
+  <message offset="34dc">
+Mark: Sonomura!{waitkey}{ret}
+</message>
+  <message offset="34ec">
+Mark: ...{wait_fr:88}You...{wait_fr:88} you idiot!!{nl}
+Why... why is this{nl}
+happening?!{waitkey}{ret}
+</message>
+  <message offset="3524">
+Mark: {ctl0f:1}!{nl}
+Let's go back into{nl}
+Sonomura's heart!{waitkey}{ret}
+</message>
+  <message offset="3548">
+Nanjo: ...Wait, Inaba.{wait_fr:88}{nl}
+Do you know the foolish{nl}
+woman called Pandora?{waitkey}{ret}
+</message>
+  <message offset="357c">
+Mark: The hell?{waitkey}{ret}
+</message>
+  <message offset="358c">
+Nanjo: A legendary woman who{nl}
+opened the gods' box and{nl}
+loosed every evil on earth...{waitkey}{clearbox}Sonomura is, in a sense,{nl}
+Pandora. The city's ruin{nl}
+is what she wished for.{waitkey}Rather than save such a{nl}
+woman, destroying the Deva{nl}
+System must come first.{waitkey}{ret}
+</message>
+  <message offset="3618">
+Mark: Wh-why you...{nl}
+And you call yourself{nl}
+a friend?!{waitkey}If we smash that thing,{nl}
+what happens to Sonomura?!{waitkey}{ret}
+</message>
+  <message offset="365c">
+Nanjo: As far as I can tell,{nl}
+Sonomura's life is sustained{nl}
+by that system...{waitkey}{clearbox}Destroy it and she'll{nl}
+likely die too. But while{nl}
+it stands, nothing's solved.{waitkey}{clearbox}Don't put personal feelings{nl}
+first... Sacrifice the few{nl}
+to save the many...{waitkey}It's the obvious choice.{waitkey}{ret}
+</message>
+  <message offset="3704">
+Mark: Grit your teeth!!{waitkey}{ret}
+</message>
+  <message offset="371c">
+Mark: I misjudged you...{nl}
+Honestly, I never figured{nl}
+you for that cold a bastard...{waitkey}{clearbox}Sure, maybe you're right.{nl}
+It's grown-up logic.{nl}
+But still...{waitkey}{clearbox}If Sonomura's the one who{nl}
+hurt us, she's also the one{nl}
+who tried to save us all!{waitkey}{clearbox}I believe in Sonomura's heart.{nl}
+She'll cut ties with that{nl}
+machine for sure.{waitkey}{ret}
+</message>
+  <message offset="37dc">
+Elly: Yes...{nl}
+We have to show Maki{nl}
+she's not alone.{waitkey}{ret}
+</message>
+  <message offset="3810">
+Brown: Well said...{nl}
+If it helps Maki rise{nl}
+above herself,{waitkey}then I'm going.{waitkey}{ret}
+</message>
+  <message offset="3848">
+Ayase: Ayase's going too...{nl}
+I still have her{nl}
+handkerchief...{waitkey}{ret}
+</message>
+  <message offset="386c">
+Reiji: I'm going...{nl}
+If that white kid is{nl}
+Sonomura too,{waitkey}I owe her for taking me in.{waitkey}{ret}
+</message>
+  <message offset="38a0">
+Nanjo: Hmph...{nl}
+Trust the heart, is it...{nl}
+Yamaoka said he believed{nl}
+in my heart too...{waitkey}{clearbox}In the end, people are{nl}
+creatures of feeling.{nl}
+Logic aside, it's the heart{nl}
+that speaks last...{waitkey}I'll go too.{waitkey}{ret}
+</message>
+  <message offset="391c">
+Mark: Geez, always splitting{nl}
+hairs. Why not just say{nl}
+so plainly...{waitkey}{clearbox}Aren't you the smart grown-up{nl}
+who's gonna stay behind?{waitkey}{ret}
+</message>
+  <message offset="3964">
+Nanjo: Unfortunately, I'm 17.{nl}
+By law, I'm not yet{nl}
+recognized as an adult.{waitkey}{ret}
+</message>
+  <message offset="399c">
+Mark: Heh...{nl}
+You never run out of{nl}
+comebacks, do you.{waitkey}{ret}
+</message>
+  <message offset="39b8">
+Nanjo: {ctl0f:1}, no time{nl}
+like the present. Let's use{nl}
+the Deva System to return{nl}
+into Sonomura's heart.{waitkey}{ret}
+</message>
+  <message offset="39f0">
+Elly: What's that?!{nl}
+Something's in the mirror?!{waitkey}{ret}
+</message>
+  <message offset="3a18">
+Brown: H-hey!?{nl}
+Something's showing{nl}
+in the mirror!{waitkey}{ret}
+</message>
+  <message offset="3a3c">
+Ayase: Hey!?{nl}
+Something's in the mirror!!{waitkey}{ret}
+</message>
+  <message offset="3a5c">
+Reiji: Look at the mirror!{nl}
+Something's appearing.{waitkey}{ret}
+</message>
+</scene>

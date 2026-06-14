@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="106">
+  <message offset="13c8">
+Maki: The owner here is quite{nl}
+the businessman, isn't he.{waitkey}{ret}
+</message>
+  <message offset="13ec">
+Brown: That was my first time{nl}
+ever in a jail cell!{waitkey}{clearbox}I was a little nervous, but{nl}
+looking back, it was pretty{nl}
+fun!{waitkey}{ret}
+</message>
+  <message offset="143c">
+Nanjo: Better safe than{nl}
+sorry!{wait_fr:37} ...as Yamaoka{nl}
+used to often say.{waitkey}{ret}
+</message>
+  <message offset="1470">
+Mark: I've got plenty I want{nl}
+to say to Kandori. That guy,{nl}
+above all, I won't forgive.{waitkey}{ret}
+</message>
+  <message offset="14a8">
+Elly: We're going to the{nl}
+abandoned factory, yes? I'd{nl}
+never paid a place like that{nl}
+any mind before...{waitkey}{ret}
+</message>
+  <message offset="14e4">
+Elly: We must go after{nl}
+Mr. Kandori soon...{wait_fr:32}{nl}
+We can't just leave him be!{waitkey}{ret}
+</message>
+  <message offset="1524">
+Ayase: Yeah, that's right.{nl}
+We're storming SEBEC, after{nl}
+all. We oughta at least bring{nl}
+some medicine!{waitkey}{ret}
+</message>
+  <message offset="1558">
+Ayase: We've gotta chase down{nl}
+Kandori...{wait_fr:21} there's no telling{nl}
+what he'll do!{waitkey}{ret}
+</message>
+  <message offset="1588">
+Shopkeeper: Yes, welcome!{waitkey}{clearbox}Hey, have you met Tamaki?{nl}
+I'm just so worried about{nl}
+whether she's safe...{waitkey}I couldn't care less about{nl}
+my own son, mind you!{nl}
+...Hm? Oh, medicine? Right.{waitkey}{ret}
+</message>
+  <message offset="1608">
+Shopkeeper: Oh? If it's{nl}
+medicine you want, it's{nl}
+over here!{waitkey}{ret}
+</message>
+</scene>

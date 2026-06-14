@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="205">
+  <message offset="13d8">
+SP: Ah{wait_fr:30}, my head... it{wait_fr:30}{nl}
+hurts...{waitkey}Judgment upon mankind!!{waitkey}{ret}
+</message>
+  <message offset="1408">
+SP: My head feels heavy...{nl}
+like a hungover morning.{waitkey}{ret}
+</message>
+  <message offset="142c">
+SP: Mankind has no need of a{nl}
+future!! Don't you all agree?{waitkey}{ret}
+</message>
+  <message offset="1460">
+SP: The future, hm... I've{nl}
+suddenly grown uneasy.{waitkey}{ret}
+</message>
+  <message offset="1480">
+Scientist: What is the meaning{nl}
+of this?{waitkey}Everyone's begun spouting the{nl}
+same raving nonsense.{waitkey}{ret}
+</message>
+  <message offset="14b4">
+Scientist: What is the meaning{nl}
+of this?{waitkey}Why did everyone suddenly{nl}
+come back to their senses?{waitkey}{ret}
+</message>
+  <message offset="14e8">
+Maki: That person seems sane.{waitkey}{ret}
+</message>
+  <message offset="1500">
+Maki: Good thing those weird{nl}
+signals stopped.{waitkey}{ret}
+</message>
+  <message offset="1520">
+Mark: This is bad. Let's{nl}
+hurry on!{waitkey}{ret}
+</message>
+  <message offset="153c">
+Mark: Finally came to their{nl}
+senses, huh.{waitkey}{ret}
+</message>
+  <message offset="1554">
+Nanjo: It seems there are{nl}
+sane people besides us.{waitkey}{ret}
+</message>
+  <message offset="1578">
+Nanjo: What were we born{nl}
+for...{wait_fr:30}...{wait_fr:30} hm.{waitkey}{ret}
+</message>
+  <message offset="15a0">
+Ayase: Don't you kinda feel{nl}
+an ache deep in your head?{waitkey}{ret}
+</message>
+  <message offset="15bc">
+Ayase: Oh good~{waitkey}Everyone's eyes are back to{nl}
+normal.{waitkey}{ret}
+</message>
+  <message offset="15e0">
+Brown: Dehya~ Are these guys{nl}
+seriously saying that?{waitkey}{ret}
+</message>
+  <message offset="1604">
+Brown: Those signals are{nl}
+scary, huh.{waitkey}{ret}
+</message>
+  <message offset="1618">
+Elly: There's no use staying{nl}
+here.{waitkey}Let's hurry on ahead.{waitkey}{ret}
+</message>
+  <message offset="1644">
+Elly: There's no use staying{nl}
+here.{waitkey}Let's hurry on ahead.{waitkey}{ret}
+</message>
+  <message offset="1670">
+Reiji: Unforgivable.{waitkey}{ret}
+</message>
+  <message offset="1680">
+Reiji: ...{waitkey}{ret}
+</message>
+</scene>

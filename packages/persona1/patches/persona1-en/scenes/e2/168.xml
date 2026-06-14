@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="168">
+  <message offset="1354">
+Brown: Kozai was a real{nl}
+beauty, huh...{waitkey}Hey Mark, why don't you go{nl}
+get kidnapped in her place.{waitkey}{ret}
+</message>
+  <message offset="1394">
+Nanjo: Chisato Kozai...{wait_fr:32}{nl}
+Missing here too, is she.{waitkey}The god of fate must truly{nl}
+despise her.{waitkey}{ret}
+</message>
+  <message offset="13e0">
+Mark: Huh, so Sonomura's good{nl}
+at painting over here too.{waitkey}{ret}
+</message>
+  <message offset="1408">
+Elly: A girl in black... how{nl}
+mysterious.{waitkey}{ret}
+</message>
+  <message offset="142c">
+Ayase: Did Kozai really like{nl}
+Naito, I wonder?{waitkey}{clearbox}I mean, no matter how you{nl}
+look at it, he's not her{nl}
+type at all.{waitkey}{ret}
+</message>
+  <message offset="1478">
+Student: Sonomura's painting{nl}
+won another prize in a{nl}
+competition. I'm proud, even{nl}
+as an outsider.{waitkey}{ret}
+</message>
+  <message offset="14b0">
+Student: Kozai, by contrast,{nl}
+never won a prize{waitkey}and got taken away by that{nl}
+girl in black. She really has{nl}
+rotten luck.{waitkey}{ret}
+</message>
+  <message offset="1504">
+Student: You haven't heard?{nl}
+Kozai was carried off by a{nl}
+girl in black.{waitkey}I can't bear to watch how{nl}
+sorry I feel for Naito.{waitkey}{ret}
+</message>
+  <message offset="1550">
+Student: Maki was close with{nl}
+Kozai, so she must be worried{nl}
+sick.{waitkey}{ret}
+</message>
+</scene>

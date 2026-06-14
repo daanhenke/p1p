@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Base English retranslation patch. Contains all scene text, dungeon labels, battle dialogue,
+     overworld location names, skill/item names, and demon/persona names. This is the primary
+     patch; optional tweaks (faster-text, lower-encounters, …) layer on top of it. -->
+<patch id="persona1-en" version="0.1.0" game="persona1" priority="0">
+  <name>Persona 1 English Retranslation</name>
+  <description>Base English retranslation — scene text, names, dialogue, and all string tables.</description>
+</patch>

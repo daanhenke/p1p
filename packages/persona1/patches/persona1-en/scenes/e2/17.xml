@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="17">
+  <message offset="13e8">
+Nanjo: Every last one of you.{nl}
+A foolish curse is nothing{nl}
+but superstition.{waitkey}{ret}
+</message>
+  <message offset="1414">
+Mark: A secret shortcut...{nl}
+Oh, you mean that hole that{nl}
+opened up in the wall?{waitkey}{ret}
+</message>
+  <message offset="143c">
+Yukino: SEBEC's reputation{nl}
+seems to be the worst.{waitkey}{ret}
+</message>
+  <message offset="145c">
+Student: Passing by the SEBEC{nl}
+building at night is the one{nl}
+thing I can't stand.{waitkey}They tore down a haunted{nl}
+house, so that company's{nl}
+cursed!{waitkey}{ret}
+</message>
+  <message offset="14b4">
+Student: I'm starving, gonna{nl}
+go grab a bite...{wait_fr:32} The secret{nl}
+shortcut's faster, sir! I{nl}
+recommend it, sir!{waitkey}{ret}
+</message>
+</scene>

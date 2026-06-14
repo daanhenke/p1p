@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="83">
+  <message offset="1184">
+Nanjo: ......{wait_fr:48}{nl}
+Hm? Ah, what is it?{waitkey}{ret}
+</message>
+  <message offset="11a8">
+Mark: I wonder if there's{nl}
+anyone else suffering{nl}
+besides Sonomura.{waitkey}{ret}
+</message>
+  <message offset="11cc">
+Elly: I'm worried about how{nl}
+Maki's mother is faring...{wait_fr:32}{nl}
+Let's hurry to the shrine!{waitkey}{ret}
+</message>
+  <message offset="1210">
+Yukino: You know, I figured{nl}
+{ctl0f:1} would be more of a{nl}
+weakling, but you're{nl}
+surprisingly composed.{waitkey}{ret}
+</message>
+  <message offset="1244">
+Nurse: I can't reach any of{nl}
+the patients... What on earth{nl}
+am I supposed to do?{waitkey}Couldn't you do something?{nl}
+...{wait_fr:32}No, of course not. I'm{nl}
+sorry, I'm all flustered...{waitkey}{ret}
+</message>
+  <message offset="1564">
+Doctor: Are you all right?{nl}
+Here, let me have a look...{waitkey}{ret}
+</message>
+  <message offset="158c">
+Doctor: I want to save as{nl}
+many people as I can. You,{nl}
+too — don't push yourself.{waitkey}{ret}
+</message>
+</scene>

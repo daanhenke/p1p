@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="5">
+  <message offset="1430">
+Nanjo: This topic doesn't{nl}
+interest me much.{waitkey}{ret}
+</message>
+  <message offset="144c">
+Mark: At our age, you can't{nl}
+help crushing on older women.{waitkey}{ret}
+</message>
+  <message offset="1478">
+Yukino: Honestly, it'll be{nl}
+sundown soon. When are we{nl}
+ever getting to the hospital?{waitkey}{ret}
+</message>
+  <message offset="14ac">
+Student: Nurse Natsumi's got{nl}
+that sexy, grown-up vibe{nl}
+going on, huh!{waitkey}{ret}
+</message>
+  <message offset="14e0">
+Student: Ngh! A-anything but{nl}
+that...{wait_fr:48} Sorry, my bad...{waitkey}{ret}
+</message>
+  <message offset="150c">
+Student: But even if she{nl}
+can't cook, you can just buy{nl}
+something at the store.{waitkey}{ret}
+</message>
+  <message offset="153c">
+Student: Oh yeah! Then from{nl}
+now on, why not have Nurse{nl}
+Natsumi make your lunch?{waitkey}{ret}
+</message>
+  <message offset="1574">
+Student: Come to think of it,{nl}
+Nurse Natsumi broke up with{nl}
+her guy! Wonder why?{waitkey}{ret}
+</message>
+</scene>

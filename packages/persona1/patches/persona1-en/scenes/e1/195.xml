@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="195">
+  <message offset="14c0">
+Masked Boy: You're late.{waitkey}{nl}
+Have you met her yet?{waitkey}{ret}
+</message>
+  <message offset="14f0">
+Yukino: Her...{waitkey}{nl}
+What do you mean?{waitkey}{ret}
+</message>
+  <message offset="150c">
+Masked Boy: She should be{nl}
+painting on the floor below.{waitkey}{clearbox}Sealing the "Gate of{nl}
+Paradise" shut with the{nl}
+black of despair.{waitkey}{ret}
+</message>
+  <message offset="1558">
+Yukino: Her...{waitkey}{nl}
+The girl in the white mask{nl}
+from the art room?{waitkey}{ret}
+</message>
+  <message offset="1588">
+Masked Boy: What did{nl}
+she say?{waitkey}{ret}
+</message>
+  <message offset="15b0">
+Yukino: That she'd destroy{nl}
+the school, more or less.{waitkey}{ret}
+</message>
+  <message offset="15d4">
+Masked Boy: I see.{waitkey}{nl}
+That's just like her.{waitkey}{clearbox}This frozen school is, after{nl}
+all, just a byproduct{nl}
+of her heart.{waitkey}Whichever way it turns, it{nl}
+has no bearing on my plan.{waitkey}{ret}
+</message>
+  <message offset="163c">
+Ayase: Huh?{waitkey}{ret}
+</message>
+  <message offset="1648">
+Masked Boy: I too have long{nl}
+thought schools unnecessary.{waitkey}{clearbox}Education need only be given{nl}
+to the chosen few.{waitkey}{clearbox}If she desires destruction,{nl}
+it may be wise to humor her.{waitkey}{ret}
+</message>
+  <message offset="16bc">
+Nanjo: Hey!{waitkey}{nl}
+You're Kandori, aren't you!?{waitkey}{ret}
+</message>
+  <message offset="16e0">
+Masked Boy: Now then.{waitkey}{nl}
+Think it over hard with{nl}
+that dull head of yours.{waitkey}{ret}
+</message>
+  <message offset="170c">
+Yukino: Who was that...{nl}
+that weird mask...{waitkey}{ret}
+</message>
+  <message offset="1728">
+Yukino: Nothing here.{nl}
+Let's move on.{waitkey}{ret}
+</message>
+  <message offset="1740">
+Ayase: Is this the old{nl}
+student council room?{waitkey}{ret}
+</message>
+  <message offset="175c">
+Ayase: "Love thy neighbor"?{nl}
+What's that supposed to mean?{waitkey}{ret}
+</message>
+  <message offset="1780">
+Nanjo: ......{waitkey}{ret}
+</message>
+  <message offset="1790">
+Nanjo: Was there anything{nl}
+of note?{waitkey}{ret}
+</message>
+  <message offset="17ac">
+Brown: That guy looked{nl}
+familiar somehow.{waitkey}{ret}
+</message>
+  <message offset="17c8">
+Brown: The higher we climb,{nl}
+the colder it gets~{waitkey}{clearbox}How many floors are left...{nl}
+sigh...{waitkey}{ret}
+</message>
+  <message offset="1808">
+Elly: That person...{nl}
+not frozen at all...{waitkey}{ret}
+</message>
+  <message offset="1824">
+Elly: Is Ayase really{nl}
+a high school student?{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages floor="d1c">
+  <message index="124">
+The door is firmly shut.{waitkey}{clearbox}It doesn't look like we can{nl}
+get outside.{waitkey}{ret}
+</message>
+</messages>

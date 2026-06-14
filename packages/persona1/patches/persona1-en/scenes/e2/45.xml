@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="45">
+  <message offset="1220">
+Nanjo: True, I suppose they{nl}
+could examine us here too...{nl}
+but aren't we going to{nl}
+Mikage General Hospital?{waitkey}{ret}
+</message>
+  <message offset="1264">
+Nanjo: ......{wait_fr:16}{nl}
+Ah, sorry, {ctl0f:1}.{nl}
+I was lost in thought.{waitkey}{ret}
+</message>
+  <message offset="1294">
+Mark: This is kind of a{nl}
+hassle, huh.{waitkey}{ret}
+</message>
+  <message offset="12ac">
+Mark: Sonomura's mom is at{nl}
+the shrine, right? Let's{nl}
+hurry and go to her.{waitkey}{ret}
+</message>
+  <message offset="12e0">
+Mark: Kandori was pulling the{nl}
+strings behind it all, huh.{wait_fr:32}{nl}
+So, we're going to the{nl}
+abandoned factory, right?{waitkey}{ret}
+</message>
+  <message offset="1324">
+Yukino: I've never had to{nl}
+rely on a doctor myself...{wait_fr:32}{nl}
+Though I have sent the{nl}
+other guy to the hospital.{waitkey}{ret}
+</message>
+  <message offset="1368">
+Yukino: {ctl0f:1}...{nl}
+Don't push yourself too hard.{nl}
+You've got us, after all.{waitkey}{ret}
+</message>
+  <message offset="1394">
+Elly: This hospital has{nl}
+such a bright atmosphere.{nl}
+It's a relief.{waitkey}{ret}
+</message>
+  <message offset="13bc">
+Nurse: Our hospital was just{nl}
+rebuilt, you know! Pretty,{nl}
+isn't it?{waitkey}{ret}
+</message>
+  <message offset="13f0">
+Nurse: I hear things are in{nl}
+an uproar outside?{waitkey}If I weren't on duty, I'd go{nl}
+have a look myself!{waitkey}{ret}
+</message>
+  <message offset="1824">
+Doctor: You kids from St.{nl}
+Hermelin? I hear the gym{nl}
+work's done. New and easy{nl}
+to use, I'd wager.{waitkey}{ret}
+</message>
+  <message offset="1864">
+Doctor: My nurse is such a{nl}
+busybody, it's no good.{waitkey}{ret}
+</message>
+  <message offset="1888">
+Doctor: Now then, what'll{nl}
+it be?{nl}
+{ctl0e:17}{ret}
+</message>
+  <message offset="18a0">
+Doctor: All right then,{nl}
+all of you...{waitkey}{ret}
+</message>
+  <message offset="18bc">
+Doctor: It'll cost 800 yen.{nl}
+Is that all right?{waitkey}{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="18e4">
+Doctor: Hm. Let's get you{nl}
+treated, then.{waitkey}{ret}
+</message>
+  <message offset="1900">
+Doctor: Mm, that should do it.{waitkey}{ret}
+</message>
+  <message offset="1934">
+Doctor: A shame, but I can't{nl}
+treat you with no money...{nl}
+Come back with the fee.{waitkey}{ret}
+</message>
+  <message offset="1974">
+Doctor: Skimp on treatment{nl}
+now, and I hope it won't{nl}
+come back to bite you.{waitkey}{ret}
+</message>
+  <message offset="19a4">
+Doctor: Good. Come straight{nl}
+back if anything comes up.{waitkey}{ret}
+</message>
+  <message offset="19c8">
+Doctor: I'm a busy man. If{nl}
+you've no business here,{nl}
+off you go.{waitkey}{ret}
+</message>
+</scene>

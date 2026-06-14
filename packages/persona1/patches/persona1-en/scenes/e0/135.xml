@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="135">
+  <message offset="18e8">
+Mark: Hey, Kido!{nl}
+You still alive?!{waitkey}{ret}
+</message>
+  <message offset="1908">
+Reiji: Ngh...{wait_fr:60}{nl}
+Where's that bastard...?{waitkey}{ret}
+</message>
+  <message offset="1928">
+Mark: You idiot...{nl}
+That's why I said you{nl}
+couldn't take him alone.{wait_fr:88} He's gone now.{waitkey}He went off to our world.{waitkey}{ret}
+</message>
+  <message offset="1970">
+Reiji: ...{wait_fr:60}{nl}
+What are you doing...{nl}
+Hurry up and chase him!{waitkey}{ret}
+</message>
+  <message offset="199c">
+Elly: But how...{nl}
+We have no way{nl}
+to get back!{waitkey}{ret}
+</message>
+  <message offset="19c4">
+Brown: No way!{nl}
+There's no beating a guy{nl}
+with something like that?{waitkey}And how would we even{nl}
+get back, huh?!{waitkey}{ret}
+</message>
+  <message offset="1a0c">
+Ayase: How do we get back?!{nl}
+Call a chauffeur or somethin'?{nl}
+And even if we did...{waitkey}{clearbox}There's nothing we can do{nl}
+about that guy!{nl}
+It's all over...{waitkey}{ret}
+</message>
+  <message offset="1a60">
+Reiji: ...{wait_fr:60}There's got{nl}
+to be some way...{nl}
+That's the kind of guy he is.{waitkey}{clearbox}He's toying with us{nl}
+and enjoying it...{waitkey}{ret}
+</message>
+  <message offset="1ab4">
+Nanjo: Kido's right.{nl}
+There's always a way...{nl}
+Heh. First time we've agreed.{waitkey}{ret}
+</message>
+  <message offset="1aec">
+Reiji: ...{wait_fr:60}Yeah, well.{waitkey}{ret}
+</message>
+  <message offset="1b00">
+Maki: ...Maybe it's there.{nl}
+That place with the old{nl}
+rumors of spirited-aways.{waitkey}{ret}
+</message>
+  <message offset="1b2c">
+Mark: The haunted manor!{nl}
+I used to sneak in as a kid{nl}
+and get my butt smacked{nl}
+by my mom...{waitkey}{ret}
+</message>
+  <message offset="1b64">
+Nanjo: It overlaps with{nl}
+SEBEC in our world...{nl}
+There's a chance.{waitkey}{ret}
+</message>
+  <message offset="1b98">
+Elly: It's impossible!{nl}
+We have no proof at all!{waitkey}{clearbox}And how are we to fight{nl}
+an opponent with such...{nl}
+with such power?!{waitkey}{ret}
+</message>
+  <message offset="1bf0">
+Brown: No way!{nl}
+No matter how hard you try,{nl}
+what's no good is no good!{waitkey}It's always been that way{nl}
+up till now...{waitkey}{ret}
+</message>
+  <message offset="1c34">
+Ayase: No way!{nl}
+Why? Why does this{nl}
+have to happen to Ayase?!{waitkey}{ret}
+</message>
+  <message offset="1c68">
+Maki: We can't give up!{nl}
+It's everyone's world,{nl}
+everyone's future, right?{waitkey}{clearbox}Is it okay to let others{nl}
+do as they please?{nl}
+To just throw it away?{nl}
+I can't stand that!{waitkey}{clearbox}I love this town!{nl}
+I love everyone!{nl}
+I love myself!{waitkey}{clearbox}I won't sit silent while{nl}
+the things I love are{nl}
+destroyed! That's just{nl}
+not who I am!{waitkey}{ret}
+</message>
+  <message offset="1d38">
+Elly: ...{wait_fr:108}You're right.{nl}
+Standing here gets us nowhere.{nl}
+Let's go.{waitkey}To protect the people{nl}
+who matter to us!{waitkey}{ret}
+</message>
+  <message offset="1d7c">
+Brown: ...{wait_fr:79}All right!{nl}
+The leader is reborn!{waitkey}The tougher the villain,{nl}
+the more the hero shines!{nl}
+Let's go!{waitkey}{ret}
+</message>
+  <message offset="1dcc">
+Ayase: ...{wait_fr:79}Well, fine.{nl}
+Ayase's future's on{nl}
+the line too, after all.{waitkey}Let's go! The haunted manor!{waitkey}{ret}
+</message>
+  <message offset="1e0c">
+Mark: Things you love, huh...{nl}
+Guess nobody's complaining.{nl}
+{ctl0f:1}, let's go{nl}
+to the haunted manor!{waitkey}{ret}
+</message>
+  <message offset="1e48">
+Mark: Damn!{nl}
+We wasted some dumb time.{waitkey}If we don't catch that{nl}
+bastard fast, things'll{nl}
+get out of hand!{waitkey}{ret}
+</message>
+  <message offset="1e90">
+Reiji: ...{wait_fr:60}There's got{nl}
+to be some way...{nl}
+That's the kind of guy he is.{waitkey}{clearbox}He's toying with us{nl}
+and enjoying it...{waitkey}I won't give up!{nl}
+Not till I kill him{nl}
+with these hands.{waitkey}{ret}
+</message>
+  <message offset="1f04">
+Mark: Sonomura...{nl}
+From here on, it's a problem{nl}
+for our world.{waitkey}It's okay now. Go home.{waitkey}{ret}
+</message>
+  <message offset="1f3c">
+Maki: No!{nl}
+Just watching from the{nl}
+sidelines - I can't bear it!{waitkey}{clearbox}I love this town!{nl}
+I love everyone!{nl}
+I love myself!{waitkey}{clearbox}I won't sit silent while{nl}
+the things I love are{nl}
+destroyed! That's just{nl}
+not who I am!{waitkey}{ret}
+</message>
+  <message offset="1fcc">
+Nanjo: Heh...{nl}
+'In youth's dictionary,{nl}
+there's no word for failure.'{waitkey}A naive old saying, but{nl}
+shall we believe it?{waitkey}{ret}
+</message>
+  <message offset="2018">
+Reiji: ...{wait_fr:60}Get moving!{nl}
+I'll look after{nl}
+my own damn self!{waitkey}{ret}
+</message>
+  <message offset="204c">
+Reiji: .........{wait_fr:88}Dammit!{nl}
+I am Reiji Kido!{waitkey}{ret}
+</message>
+  <message offset="2078">
+Maki: To think that compact{nl}
+could make something{nl}
+like that...{waitkey}{ret}
+</message>
+  <message offset="20a0">
+Mark: Kido,{nl}
+we'll come back for you,{nl}
+so don't you worry.{waitkey}{ret}
+</message>
+  <message offset="20c8">
+Mark: You okay, Reiji?{waitkey}{ret}
+</message>
+  <message offset="20e0">
+Reiji: ...{wait_fr:60}Worry about{nl}
+yourself, not me.{waitkey}{ret}
+</message>
+  <message offset="2104">
+Mark: Tch!{nl}
+That was nothing.{nl}
+Like I'd kick it before you.{waitkey}{ret}
+</message>
+  <message offset="2134">
+Reiji: Heh...{wait_fr:60} Not bad.{nl}
+Don't you forget{nl}
+those words.{waitkey}{ret}
+</message>
+  <message offset="2164">
+Mark: Damn right.{waitkey}{ret}
+</message>
+  <message offset="2178">
+Mark: {ctl0f:1},{nl}
+that Reiji's finally{nl}
+talking like a normal guy.{waitkey}{ret}
+</message>
+  <message offset="21a8">
+Elly: We mustn't give in{nl}
+to weakness so easily,{nl}
+must we.{waitkey}{ret}
+</message>
+  <message offset="21cc">
+Brown: Can't go around{nl}
+with our tails tucked{nl}
+forever, huh.{waitkey}{ret}
+</message>
+  <message offset="21ec">
+Ayase: Yeah, true.{waitkey}If we do nothing,{nl}
+Ayase's future boyfriend{nl}
+dies too, right?{waitkey}{ret}
+</message>
+</scene>

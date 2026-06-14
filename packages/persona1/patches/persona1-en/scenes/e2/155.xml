@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="155">
+  <message offset="1418">
+Receptionist: Huh? The branch{nl}
+manager's office?{waitkey}It's on the top floor,{wait_fr:30}{nl}
+but what for?{waitkey}{ret}
+</message>
+  <message offset="1450">
+Receptionist: Huh? You came{nl}
+from the basement?{waitkey}{clearbox}I've heard there's a{nl}
+department down there that's{nl}
+secret even within the{nl}
+company...{waitkey}Don't tell me you're from{nl}
+there?{waitkey}{ret}
+</message>
+  <message offset="14a8">
+It's broken and won't open.{waitkey}{ret}
+</message>
+  <message offset="14b8">
+Maki: Secrets even the{nl}
+employees don't know about...{waitkey}What is going on with this{nl}
+company?{waitkey}{ret}
+</message>
+  <message offset="14f0">
+Mark: Getting all goggle-eyed{nl}
+over her, honestly...{waitkey}{ret}
+</message>
+  <message offset="1510">
+Nanjo: They say fools and{nl}
+smoke both favor high places.{waitkey}To the top floor we go!!{waitkey}{ret}
+</message>
+  <message offset="1548">
+Ayase: Those SEBEC suits{wait_fr:30}{nl}
+are sooo lame.{waitkey}{ret}
+</message>
+  <message offset="1568">
+Brown: Even the staff don't{nl}
+know? Can't be helped, I{nl}
+guess~{wait_fr:30} just kidding.{waitkey}{clearbox}Dehyahyahya.{waitkey}{ret}
+</message>
+  <message offset="15a8">
+Elly: We've no time to be{nl}
+playing with the receptionist!{waitkey}{ret}
+</message>
+  <message offset="15cc">
+Reiji: No time to loaf about.{waitkey}Let's go.{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="144">
+  <message offset="2ed4">
+Maki: Ugh...{nl}
+I feel sick~{waitkey}{ret}
+</message>
+  <message offset="2eec">
+Mark: Uh...{wait_fr:88}Bleeaargh!{nl}
+I'm gonna hurl...{nl}
+{ctl0f:1}, you're tougher{nl}
+than you look...{waitkey}{ret}
+</message>
+  <message offset="2f2c">
+Nanjo: Khh, cough...{wait_fr:88}{nl}
+Likely from forcing{nl}
+the transfer.{nl}
+Lucky we arrived intact.{waitkey}{ret}
+</message>
+  <message offset="2f6c">
+Reiji: Tch...{wait_fr:60}{nl}
+What's wrong, Inaba...{nl}
+Pathetic.{waitkey}{ret}
+</message>
+  <message offset="2f94">
+Mark: ...Tch!{nl}
+Look in a mirror, Reiji.{nl}
+You're pale as a sheet.{nl}
+What are you, a zombie?{waitkey}{ret}
+</message>
+  <message offset="2fc8">
+Reiji: Hmph...{nl}
+If you can crack jokes,{nl}
+you're fine...{nl}
+No time to dawdle.{waitkey}{ret}
+</message>
+  <message offset="2ffc">
+Mark: Can you stand,{nl}
+Sonomura?{waitkey}{ret}
+</message>
+  <message offset="3014">
+Maki: Mm...{waitkey}{ret}
+</message>
+  <message offset="3024">
+Maki: Up we go!{wait_fr:60}{nl}
+I'm okay now.{waitkey}{ret}
+</message>
+  <message offset="3044">
+Nanjo: {ctl0f:1},{nl}
+that scientist is here.{waitkey}{ret}
+</message>
+  <message offset="3060">
+Dr. Nicolai: Uugh...{nl}
+m-my head...{waitkey}{ret}
+</message>
+  <message offset="3080">
+Mark: Old man, you're alive!{waitkey}{ret}
+</message>
+  <message offset="3098">
+Maki: Something's wrong{nl}
+with him!{waitkey}{ret}
+</message>
+  <message offset="30b0">
+Dr. Nicolai: Uugh...{wait_fr:60}{nl}
+The hammer of judgment{nl}
+upon foolish mankind!{waitkey}Mankind needs no future!{waitkey}{ret}
+</message>
+  <message offset="30f8">
+Dr. Nicolai: Destruction!{nl}
+Annihilation!{nl}
+Ruin, ruin, ruiiiin!!{waitkey}The hammer upon mankind!{nl}
+The song of ruiiiin!{waitkey}{ret}
+</message>
+  <message offset="3160">
+Mark: What's gotten into you?!{nl}
+Talking like Kandori...{nl}
+Old man!{waitkey}{ret}
+</message>
+  <message offset="3194">
+Kandori: That man is now{nl}
+but an extension of me.{nl}
+{wait_fr:104}No...{waitkey}{clearbox}Even now, people the{nl}
+world over wish, like me,{nl}
+for mankind's destruction.{waitkey}{ret}
+</message>
+  <message offset="31f4">
+Maki: Kandori?!{waitkey}{ret}
+</message>
+  <message offset="3208">
+Mark: Why you...{nl}
+What's that supposed{nl}
+to mean?!{waitkey}{ret}
+</message>
+  <message offset="3228">
+Nanjo: You... with that{nl}
+mirror, you've brainwashed{nl}
+the whole world?!{waitkey}{ret}
+</message>
+  <message offset="3258">
+Elly: Jesus...{nl}
+What have you done!{waitkey}{ret}
+</message>
+  <message offset="3278">
+Brown: What did you say?!{waitkey}{ret}
+</message>
+  <message offset="328c">
+Ayase: N-no way?!{waitkey}{ret}
+</message>
+  <message offset="32a0">
+Kandori: All of mankind{nl}
+acting under one unified{nl}
+will... isn't it splendid?{waitkey}{clearbox}I've achieved a feat{nl}
+no ruler ever could...{nl}
+I have surpassed humanity.{waitkey}{ret}
+</message>
+  <message offset="3318">
+Nanjo: Such nonsense!{waitkey}{ret}
+</message>
+  <message offset="332c">
+Kandori: One more word from{nl}
+me - a command to kill{nl}
+each other - and it is done...{waitkey}{clearbox}A fitting end for fools.{nl}
+Nothing else is harmed...{nl}
+Only humans vanish{nl}
+from this world.{waitkey}{ret}
+</message>
+  <message offset="339c">
+Maki: Why?!{nl}
+Why do you want{nl}
+to erase people?!{waitkey}{ret}
+</message>
+  <message offset="33c4">
+Kandori: Hmhm...{nl}
+Strange words coming{nl}
+from you...{wait_fr:88}{nl}
+Sonomura{wait_fr:60} Maki.{waitkey}{ret}
+</message>
+  <message offset="33f8">
+Maki: How do you know{nl}
+my name...?!{waitkey}{ret}
+</message>
+  <message offset="3418">
+Kandori: The mirror's power{nl}
+reaches all. You are{nl}
+no exception.{waitkey}Can you reach me?{nl}
+Hmhm...{waitkey}{ret}
+</message>
+  <message offset="3460">
+Reiji: Bastard!!{wait_fr:60}{nl}
+Let's go, {ctl0f:1}.{waitkey}{ret}
+</message>
+  <message offset="3480">
+Elly: Wait!{waitkey}{ret}
+</message>
+  <message offset="3494">
+Elly: Let's go,{nl}
+{ctl07:1}!{waitkey}{ret}
+</message>
+  <message offset="34ac">
+Brown: Wait up, you coward!!{waitkey}{ret}
+</message>
+  <message offset="34c8">
+Brown: Damn it~{nl}
+Everyone, follow me!{waitkey}{ret}
+</message>
+  <message offset="34e8">
+Ayase: Hey, wait up!{waitkey}{ret}
+</message>
+  <message offset="34fc">
+Ayase: {ctl0f:1}!{nl}
+Quit spacing out!{waitkey}{clearbox}Hurry up or Ayase's{nl}
+future is gonna disappear!{nl}
+Get after him already!{waitkey}{ret}
+</message>
+  <message offset="3550">
+Mark: Sonomura, Elly,{nl}
+can you stand?{waitkey}{ret}
+</message>
+  <message offset="356c">
+Maki: Elly, are you okay?{waitkey}{ret}
+</message>
+  <message offset="3584">
+Elly: Ngh...{wait_fr:60}{nl}
+Thanks, Maki.{nl}
+I'm all right now.{waitkey}{ret}
+</message>
+  <message offset="35bc">
+Mark: Together now, Uesugi.{nl}
+You're the leader, right?{nl}
+Get a grip.{waitkey}{ret}
+</message>
+  <message offset="35ec">
+Brown: I-I know that!{nl}
+I was just playing along!{nl}
+I'm fine, just watch!{waitkey}Nnngh!{waitkey}{ret}
+</message>
+  <message offset="3630">
+Brown: How's that!{nl}
+The leader's the leadah!{nl}
+Say it! ...or somethin'.{waitkey}{ret}
+</message>
+  <message offset="3664">
+Maki: Hehe.{nl}
+You're funny, Uesugi.{waitkey}{ret}
+</message>
+  <message offset="3684">
+Brown: Right? Right?{nl}
+A handsome guy with looks{nl}
+AND a funny bone - top class!{waitkey}{clearbox}My rival's Nakai of ZMAP!{nl}
+Some knit-cap guy? No contest,{nl}
+no contest!{waitkey}Maki, you get it!{waitkey}{ret}
+</message>
+  <message offset="3714">
+Mark: What a simple guy...{waitkey}{ret}
+</message>
+  <message offset="372c">
+Nanjo: Well, even a fool{nl}
+has his uses,{nl}
+as they say.{waitkey}{ret}
+</message>
+  <message offset="3750">
+Maki: Oh! There's someone.{nl}
+Ah! It's that old scientist!{waitkey}{ret}
+</message>
+  <message offset="377c">
+Maki: Yuka, are you okay?{waitkey}{ret}
+</message>
+  <message offset="3794">
+Ayase: Urp!{wait_fr:60}{nl}
+Bleeeeeegh{waitkey}{ret}
+</message>
+  <message offset="37bc">
+Mark: That's nasty, hey.{waitkey}{ret}
+</message>
+  <message offset="37d0">
+Ayase: Oh, shush...{nl}
+Ayase's is the clean kind!{waitkey}{ret}
+</message>
+  <message offset="37f0">
+Maki: Here, Yuka.{nl}
+A handkerchief.{waitkey}{ret}
+</message>
+  <message offset="3808">
+Ayase: ...{wait_fr:60}Thanks, Sonomura.{waitkey}{ret}
+</message>
+  <message offset="3824">
+Nanjo: For now, everyone{nl}
+seems all right.{waitkey}{ret}
+</message>
+  <message offset="3844">
+Mark: That bastard...{nl}
+plotting something{nl}
+insane!{waitkey}{ret}
+</message>
+  <message offset="3868">
+Maki: Why...{wait_fr:88} why does{nl}
+Kandori know who I am?!{waitkey}{ret}
+</message>
+  <message offset="3898">
+Nanjo: ...{wait_fr:60}I see.{nl}
+So that's it...{wait_fr:88}{nl}
+Good God...{waitkey}{ret}
+</message>
+  <message offset="38c4">
+Reiji: ...{wait_fr:60}Knowing him,{nl}
+no telling what filthy{nl}
+tricks he's got ready...{wait_fr:88}{nl}
+Stay sharp.{waitkey}{ret}
+</message>
+  <message offset="3908">
+Elly: Kandori's last words{nl}
+bother me...{nl}
+And my head aches...{waitkey}{clearbox}{ctl07:1}...{wait_fr:88}{nl}
+don't do anything reckless,{wait_fr:60}{nl}
+all right?{waitkey}{ret}
+</message>
+  <message offset="395c">
+Brown: Damn Kandori!{nl}
+We won't let him{nl}
+brainwash anyone!{waitkey}...or somethin'.{waitkey}{ret}
+</message>
+  <message offset="3988">
+Brown: {ctl08:65281}This is where you{nl}
+laugh, y'know? Laugh, laugh!{nl}
+Daaa-hahhahhahha...{waitkey}{ret}
+</message>
+  <message offset="39bc">
+Brown: What...{nl}
+I'm not putting on{nl}
+a brave face or anything!{waitkey}{ret}
+</message>
+  <message offset="39e4">
+Ayase: Hey, {ctl0f:1}~{nl}
+Doesn't your head{nl}
+kinda hurt?{waitkey}{ret}
+</message>
+  <message offset="3a08">
+Dr. Nicolai: The time of{nl}
+final judgment! Why was{nl}
+mankind ever born?{waitkey}We who cannot answer{nl}
+deserve to perish!{waitkey}{ret}
+</message>
+  <message offset="3a5c">
+Mark: Damn it!{nl}
+She's not here!{nl}
+Where'd you go, Sonomura?!{waitkey}{ret}
+</message>
+  <message offset="3a94">
+Nanjo: .........{wait_fr:88}{nl}
+To think such a system{nl}
+opens a path into{nl}
+the human heart...{waitkey}{clearbox}So long as this exists,{nl}
+no good will come.{nl}
+We must destroy it,{nl}
+whatever it takes.{waitkey}{ret}
+</message>
+  <message offset="3af0">
+Reiji: ...That Sonomura girl.{nl}
+If we don't hurry,{nl}
+it'll be too late, the{nl}
+way she looked.{waitkey}{ret}
+</message>
+  <message offset="3b20">
+Elly: Shit!{nl}
+She's not here!{nl}
+We must find her fast!{waitkey}{ret}
+</message>
+  <message offset="3b4c">
+Brown: Argh, not here either!{nl}
+Where'd you run off to,{nl}
+Maki?{waitkey}{ret}
+</message>
+  <message offset="3b78">
+Ayase: Wrong place!{nl}
+She's not here!{nl}
+Geez, why'd we even{nl}
+come here?{waitkey}{ret}
+</message>
+  <message offset="3ba8">
+Dr. Nicolai: Uugh...{nl}
+what on earth was I...?{waitkey}{clearbox}What?! Could such a thing be?{nl}
+I see... it seems I've{nl}
+wronged you all terribly.{waitkey}{clearbox}I beg you as well...{nl}
+Please, save Sonomura's{nl}
+daughter, whatever it takes!{waitkey}{clearbox}I'll adjust the system{nl}
+and give my all to reach{nl}
+Sonomura at any moment!{waitkey}{nl}
+After that...{nl}
+I'll accept any judgment.{nl}
+I beg you, young man!{waitkey}{ret}
+</message>
+  <message offset="3c98">
+Maki: {ctl07:1}!{nl}
+Where are you going?!{nl}
+We have to beat Kandori, fast!{waitkey}{ret}
+</message>
+  <message offset="3cc8">
+Mark: {ctl0f:1}!{nl}
+Where do you think{nl}
+you're going?!{waitkey}Aren't we saving Sonomura?!{waitkey}{ret}
+</message>
+</scene>

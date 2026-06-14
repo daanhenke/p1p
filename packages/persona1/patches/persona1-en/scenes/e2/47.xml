@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="47">
+  <message offset="142c">
+Nanjo: "...when you're feeling{nl}
+down, reach for Disparize~"{waitkey}...Blast it! I can't get{nl}
+this jingle out of my head!{waitkey}{ret}
+</message>
+  <message offset="146c">
+Nanjo: Better safe than{nl}
+sorry!{wait_fr:37} ...as Yamaoka{nl}
+used to often say.{waitkey}{ret}
+</message>
+  <message offset="14a0">
+Mark: Don't tell me you're{nl}
+gonna make do with medicine?{nl}
+Hey, let's go to the hospital{nl}
+properly!{waitkey}{ret}
+</message>
+  <message offset="14d8">
+Mark: When I left home this{nl}
+morning, I never imagined{nl}
+something like this{nl}
+would happen.{waitkey}{ret}
+</message>
+  <message offset="150c">
+Yukino: That lady seems like{nl}
+the nosy type, all right.{waitkey}{ret}
+</message>
+  <message offset="1530">
+Yukino: I wonder how bad{nl}
+Sonomura's mom's injury is.{nl}
+I hope it's not serious.{waitkey}{ret}
+</message>
+  <message offset="1564">
+Elly: For the shrine, go{nl}
+south through the shopping{nl}
+arcade, then keep heading{nl}
+straight south.{waitkey}{clearbox}You turn down a narrow{nl}
+street, so it might be a{nl}
+little hard to find.{waitkey}{ret}
+</message>
+  <message offset="15c0">
+Shopkeeper: A St. Hermelin{nl}
+student? You know my son?{nl}
+Tadashi's his name!{waitkey}{clearbox}He's a hopeless lazybones,{nl}
+but wouldn't you know, he's{nl}
+gone and fallen for a really{nl}
+cute girl!{waitkey}{clearbox}If a girl like that married{nl}
+into the family, I'd be so{nl}
+happy!{wait_fr:37} ...Hm? Oh, medicine?{nl}
+Right, right.{waitkey}{ret}
+</message>
+  <message offset="166c">
+Shopkeeper: Yes, welcome!{waitkey}{clearbox}Hey, have you met Tamaki?{nl}
+I'm just so worried about{nl}
+whether she's safe...{waitkey}I couldn't care less about{nl}
+my own son, mind you!{nl}
+...Hm? Oh, medicine? Right.{waitkey}{ret}
+</message>
+  <message offset="16ec">
+Customer: Hey, don't you{nl}
+think it's strange too? That{nl}
+Kaneda woman!{waitkey}I mean, getting that rich in{nl}
+just half a year? It's fishy.{nl}
+Definitely something off!{waitkey}{ret}
+</message>
+  <message offset="1750">
+Shopkeeper: Oh? Here to see{nl}
+my Tadashi, are you?{waitkey}That fool's off at his club{nl}
+activities about now.{waitkey}{clearbox}Ahh, just once I'd love to{nl}
+have a little spat with{nl}
+Tamaki myself~♥{waitkey}{ret}
+</message>
+  <message offset="17c8">
+Shopkeeper: Oh? If it's{nl}
+medicine you want, it's{nl}
+over here!{waitkey}{ret}
+</message>
+</scene>

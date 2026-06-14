@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="55">
+  <message offset="1498">
+Yukino: Huh.........{nl}
+So that's the "reason" you{nl}
+had no choice but to shut{waitkey}yourself in a dream world.{waitkey}{clearbox}......And so what?{waitkey}{ret}
+</message>
+  <message offset="14f4">
+Kumi: Y-you... you saw that{nl}
+and feel nothing? Wh-what's{nl}
+wrong with you?{waitkey}{clearbox}The Sn-Snow Queen... the mask{nl}
+understood my pain and{nl}
+sorrow right away...!!{waitkey}{clearbox}Y-you're just like my{nl}
+father and those drama{nl}
+club people!{waitkey}{clearbox}From the very start, you've{nl}
+never even tried to{nl}
+understand me!{waitkey}{ret}
+</message>
+  <message offset="15b0">
+Hypnos: C-calm down,{nl}
+Kumi! Calm yourself!!{waitkey}{ret}
+</message>
+  <message offset="15dc">
+Nanjo: Honestly...!{nl}
+You fled into a dream world{nl}
+over a reason that trivial,{waitkey}that worthless?{waitkey}{clearbox}It's too absurd for words.{nl}
+You... you're making a{nl}
+mockery of life, aren't you?{waitkey}{ret}
+</message>
+  <message offset="1654">
+Brown: Heyyy! Kumi-chan,{nl}
+you're overthinking life{nl}
+way too much,{waitkey}aren't you?{waitkey}{clearbox}...I mean, c'mon!{nl}
+Life is nothing but{nl}
+fun stuff!{waitkey}{clearbox}Really! Let's keep it{nl}
+breezy, breezy - just{nl}
+like me!{waitkey}{ret}
+</message>
+  <message offset="16e8">
+Ayase: What's that?!{nl}
+So you just wanted to brag{nl}
+you're good at studying!{waitkey}{clearbox}Fine, Ayase's an idiot!{nl}
+Ugh, unbelievable!{waitkey}So annoying!{waitkey}{ret}
+</message>
+  <message offset="1750">
+Kumi: But... but...!{nl}
+What did I ever do?{nl}
+No matter what I do or don't!{waitkey}{clearbox}Nobody ever says a kind{nl}
+word to me! And I,{nl}
+in my own way,{waitkey}{clearbox}I tried my best! But the{nl}
+people around me! The people{nl}
+around me! Hey! Lord Hypnos!?{waitkey}{clearbox}Hey!? It's true, right?!{nl}
+I'm not the one at fault,{nl}
+am I?{waitkey}{ret}
+</message>
+  <message offset="1814">
+Hypnos: Just so!{nl}
+Kumi's not at fault!{nl}
+The one at fault is...{waitkey}{ret}
+</message>
+  <message offset="1844">
+Nanjo: ..."Other people,"{nl}
+is it? Hmph. How easy your{nl}
+way of living has been...{waitkey}{clearbox}All you had to do was blame{nl}
+everything on everyone else{nl}
+and keep running away!{waitkey}{clearbox}And then, tired of even{nl}
+running, now you play alone{nl}
+in a dream world?{waitkey}{clearbox}In the end, you fled to a{nl}
+dream world, afraid to face{nl}
+the real world and people.{waitkey}A loser, aren't you?{waitkey}{ret}
+</message>
+  <message offset="1928">
+Elly: "Other people"?{nl}
+How easy your way of{nl}
+living is...{waitkey}{clearbox}Blaming everything on others{nl}
+while you complain from{nl}
+the safety zone...{waitkey}{clearbox}Are you really so afraid{nl}
+of dealing with{nl}
+other people?{waitkey}{clearbox}You truly are a selfish,{nl}
+weak person, aren't you.{waitkey}{ret}
+</message>
+  <message offset="19d4">
+Kumi: Who do you think you{nl}
+are?! All of you!{nl}
+I'm happy as I am now!{waitkey}I'm happy, I tell you!!{waitkey}{clearbox}Only the Snow Queen's mask!{nl}
+Only Lord Hypnos!{nl}
+They alone saved me!{waitkey}{clearbox}In the dream world, for the{nl}
+first time! The first time,{nl}
+I gained my freedom!{waitkey}{clearbox}Even if the world itself is{nl}
+a dream, this "happiness"{nl}
+in my heart{waitkey}alone is real!{waitkey}{ret}
+</message>
+  <message offset="1ab4">
+Hypnos: Enough!{nl}
+It's... enough, Kumi.{nl}
+Let's finish them off.{waitkey}{clearbox}And return to our happy{nl}
+dream, just the two of us.{waitkey}{ret}
+</message>
+  <message offset="1b00">
+Yukino: Drop the tough act.{nl}
+This is the "Anti-Dream{nl}
+World," right?{waitkey}{clearbox}Then you two here are just{nl}
+phantoms created by the dream{nl}
+of "Kumi Hirose," who's{waitkey}somewhere in this tower, yeah?{waitkey}{clearbox}Which means if we pinch you{nl}
+awake, you'll vanish -{nl}
+that's how it works,{waitkey}isn't it!{waitkey}{clearbox}I'll wake you right now!{nl}
+Rub those sleepy eyes,{nl}
+'cause here we come.{waitkey}Wash your neck and wait!!{waitkey}{ret}
+</message>
+  <message offset="1be4">
+Yukino: So that Kumi girl{nl}
+is the boss of this tower!{waitkey}{clearbox}She must be holding a{nl}
+"Mirror Shard" or two{nl}
+as well.{waitkey}{ret}
+</message>
+  <message offset="1c34">
+Ayase: Boo! Boo!!{nl}
+What an infuriating woman.{nl}
+Let's take her down quick!{waitkey}{ret}
+</message>
+  <message offset="1c68">
+Nanjo: What is with that{nl}
+woman! I can only call it{nl}
+making a mockery of life.{waitkey}{clearbox}Her mistaken victim mentality,{nl}
+"I alone am unfortunate,"{nl}
+doesn't sit well with me.{waitkey}{ret}
+</message>
+  <message offset="1cd0">
+Brown: Hmm...{nl}
+Life sure is tough...{nl}
+I'm smart and I've struggled,{waitkey}{clearbox}so I kinda get how{nl}
+Kumi-chan feels.{waitkey}{ret}
+</message>
+  <message offset="1d28">
+Elly: That "Hypnos" beside{nl}
+Kumi... a phantom of an{nl}
+ideal "prince" born of{waitkey}{clearbox}Kumi's dream... I do hope{nl}
+it's merely a creation.{waitkey}{ret}
+</message>
+  <message offset="1d90">
+Kumi: Wh-what is it!{nl}
+L-lay a hand on me, and{waitkey}{clearbox}L-Lord Hypnos won't{nl}
+stay silent!{waitkey}{ret}
+</message>
+  <message offset="1dd0">
+Hypnos: Do not touch Kumi!{nl}
+Insolent fools!{waitkey}{ret}
+</message>
+  <message offset="1df8">
+Pinch Kumi?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1e0c">
+Kumi: Ngh... how dare you!{nl}
+You'll pay for this!!{waitkey}{ret}
+</message>
+  <message offset="1e30">
+Kumi: A w-wise choice.{nl}
+Had you pinched me, things{nl}
+would have gotten ugly.{waitkey}{ret}
+</message>
+  <message offset="1e60">
+There seems to be nothing.{waitkey}{ret}
+</message>
+</scene>

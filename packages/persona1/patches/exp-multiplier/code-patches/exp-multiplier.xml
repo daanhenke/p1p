@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code-patch id="exp-multiplier" name="EXP multiplier (battle)">
+  <description>Multiplies all EXP gained from battles. The multiplier is a power-of-two shift on the
+  per-battle EXP, so the chosen factor maps straight to the shift amount.</description>
+  <setting id="exp-multiplier" label="EXP multiplier" description="How much battle EXP to award." default="x2">
+    <option value="x2" label="2×"/>
+    <option value="x4" label="4×"/>
+    <option value="x8" label="8×"/>
+  </setting>
+  <site file="/BTLP.BIN" anchor="b0 73 10 8e 87 5b 00 0c 00 00 00 00 28 00 a2 af" offset="8" width="4" setting="exp-multiplier">
+    <case option="x2" asm="sll $s0, $s0, 1"/>
+    <case option="x4" asm="sll $s0, $s0, 2"/>
+    <case option="x8" asm="sll $s0, $s0, 3"/>
+  </site>
+</code-patch>

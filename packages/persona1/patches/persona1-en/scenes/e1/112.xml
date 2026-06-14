@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="112">
+  <message offset="16c0">
+Yukino: Even though they're{nl}
+our own, seeing them like{nl}
+this is strange, huh.{waitkey}Personas, that is.{waitkey}{ret}
+</message>
+  <message offset="16fc">
+Ayase: They said "world of{nl}
+the dead," so I figured it'd{nl}
+be scarier, but it's not{waitkey}so bad.{waitkey}{ret}
+</message>
+  <message offset="1738">
+Nanjo: A place where the{nl}
+souls of the dead gather.{nl}
+Not pleasant, but in a{waitkey}sense a solemn place too.{waitkey}{clearbox}It makes me feel, somehow,{nl}
+as though I should{nl}
+straighten up.{waitkey}{ret}
+</message>
+  <message offset="179c">
+Brown: When I die, I'm 100{nl}
+percent going to heaven!{waitkey}{clearbox}So this is my last look at{nl}
+the scenery of the{nl}
+"afterlife"! Yep, yep.{waitkey}{ret}
+</message>
+  <message offset="1800">
+Elly: This is a little{nl}
+different from the Hell{nl}
+Image we imagine,{waitkey}this place.{waitkey}{ret}
+</message>
+  <message offset="1840">
+Mariko: What is this place?{nl}
+Now and then, things like{nl}
+your astral bodies appear{waitkey}on the walls around us!{waitkey}{clearbox}I got great photos, so I'll{nl}
+give you some once they're{nl}
+developed! A photo of your{waitkey}own ghost is a rare thing!{waitkey}{ret}
+</message>
+  <message offset="18cc">
+Your own Persona is here.{waitkey}{ret}
+</message>
+  <message offset="18e4">
+Restore your Persona to you?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="18fc">
+Your lost Persona power{nl}
+revives within you...{waitkey}{ret}
+</message>
+  <message offset="1920">
+There seems to be nothing.{waitkey}{ret}
+</message>
+  <message offset="192c">
+Yukino's Persona is here.{waitkey}{ret}
+</message>
+  <message offset="193c">
+Restore Yukino's Persona?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1954">
+Yukino's lost Persona power{nl}
+revives within her...{waitkey}{ret}
+</message>
+  <message offset="1974">
+There seems to be nothing.{waitkey}{ret}
+</message>
+  <message offset="1980">
+Ayase's Persona is here.{waitkey}{ret}
+</message>
+  <message offset="1990">
+Restore Ayase's Persona?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="19a8">
+Ayase's lost Persona power{nl}
+revives within Ayase...{waitkey}{ret}
+</message>
+  <message offset="19c8">
+There seems to be nothing.{waitkey}{ret}
+</message>
+  <message offset="19d4">
+Nanjo's Persona is here.{waitkey}{ret}
+</message>
+  <message offset="19e8">
+Restore Nanjo's Persona?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1a00">
+Nanjo's lost Persona power{nl}
+revives within Nanjo...{waitkey}{ret}
+</message>
+  <message offset="1a20">
+There seems to be nothing.{waitkey}{ret}
+</message>
+  <message offset="1a2c">
+Brown's Persona is here.{waitkey}{ret}
+</message>
+  <message offset="1a40">
+Restore Brown's Persona?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1a5c">
+Brown's lost Persona power{nl}
+revives within Brown...{waitkey}{ret}
+</message>
+  <message offset="1a80">
+There seems to be nothing.{waitkey}{ret}
+</message>
+  <message offset="1a8c">
+Elly's Persona is here.{waitkey}{ret}
+</message>
+  <message offset="1aa0">
+Restore Elly's Persona?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1ab8">
+Elly's lost Persona power{nl}
+revives within Elly...{waitkey}{ret}
+</message>
+  <message offset="1ad8">
+There seems to be nothing.{waitkey}{ret}
+</message>
+  <message offset="1ae4">
+You stopped restoring{nl}
+the Persona.{waitkey}{ret}
+</message>
+  <message offset="1af8">
+???: Oh, hello!{nl}
+Nice to meet you!{waitkey}{clearbox}I'm Mariko Yabe of the{nl}
+"Yamagumo Private High School{nl}
+Paranormal Club"! Nice to{waitkey}meet you!{waitkey}{clearbox}Though it's an unofficial club{nl}
+where I'm both president and{nl}
+sole member!{waitkey}{clearbox}My homeroom teacher won't{nl}
+approve the club just because{nl}
+he says it's "lame"!{waitkey}{clearbox}So today I came to meet my{nl}
+comrade Kuroori, but...{nl}
+never{wait_fr:30} did I think...{waitkey}{clearbox}I'd get caught up in such an{nl}
+amazing paranormal event!{nl}
+I'm, like, super lucky!{waitkey}{clearbox}I've been snapping photos like{nl}
+crazy! And I'll submit these{nl}
+demon photos to a magazine!{waitkey}{clearbox}Then! Maybe the teacher will{nl}
+approve the club after all!{nl}
+Alright! I'll do my best!{waitkey}{ret}
+</message>
+</scene>

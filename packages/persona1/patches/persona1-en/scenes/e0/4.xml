@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="4">
+  <message offset="1364">
+Nanjo: The selection here{nl}
+is utterly lacking...{nl}
+The library at my estate{nl}
+puts this to shame.{waitkey}{ret}
+</message>
+  <message offset="1398">
+Mark: What do you even want{nl}
+in the library? C'mon,{nl}
+let's go visit — er, get{nl}
+that checkup!{waitkey}{ret}
+</message>
+  <message offset="13d8">
+Yukino: Those two in the{nl}
+corner are making fun of{nl}
+Devil Boy, apparently.{waitkey}{clearbox}Personally, I think Devil Boy{nl}
+beats any stuck-up snob{nl}
+who acts like they're{nl}
+better than everyone.{waitkey}{ret}
+</message>
+  <message offset="1430">
+Kuroori: ...Oh, it's {ctl0f:1}.{nl}
+Heh heh heh. I'm looking{nl}
+into the school's{nl}
+7 mysteries right now.{waitkey}{clearbox}Want me to tell you?{nl}
+Heh heh heh.{nl}
+...Later.{waitkey}{ret}
+</message>
+  <message offset="1480">
+{color:2}Kuroori Tsutomu.{nl}
+Nickname: "Devil Boy."{nl}
+An occult fanatic —{nl}
+though often quite wrong.{color:0}{waitkey}{ret}
+</message>
+  <message offset="14c4">
+Student: They call him{nl}
+"Devil Boy," but he's off{nl}
+base about everything.{waitkey}{clearbox}My occult knowledge is{nl}
+miles ahead of his.{nl}
+Not that I'd share it{nl}
+with an amateur.{waitkey}{ret}
+</message>
+  <message offset="1534">
+Student: Even demons must{nl}
+have their friendships and{nl}
+their feuds, I suppose.{waitkey}{clearbox}If two enemies happened to{nl}
+cross paths... that could{nl}
+get pretty ugly,{nl}
+couldn't it?{waitkey}{ret}
+</message>
+  <message offset="1588">
+Student: See that Devil Boy{nl}
+over there? He fell again{nl}
+in PE today.{waitkey}{clearbox}Everyone cracked up.{nl}
+He can't do a single{nl}
+push-up! Can you believe it?{nl}
+Poor guy!{waitkey}{ret}
+</message>
+</scene>

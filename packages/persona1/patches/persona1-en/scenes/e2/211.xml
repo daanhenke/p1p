@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="211">
+  <message offset="1484">
+Clerk: They say the customer{nl}
+is god. You seem to be a{nl}
+customer. Therefore,{waitkey}you must be a god.{waitkey}{clearbox}Please! Put the town back to{nl}
+normal! I can't restock, and{nl}
+it's a real problem.{waitkey}{ret}
+</message>
+  <message offset="14e8">
+Townsperson: I'd felt for a{nl}
+while that something was off{nl}
+about this town.{waitkey}{clearbox}Maybe this upheaval happening{nl}
+was for the best.{waitkey}{ret}
+</message>
+  <message offset="1530">
+Maki: The upheaval being for{nl}
+the best... that's true, isn't{nl}
+it.{waitkey}If not for it, I... wouldn't{nl}
+have known a thing.{waitkey}{ret}
+</message>
+  <message offset="1574">
+Mark: Let's hurry to the{nl}
+forest!{waitkey}{ret}
+</message>
+  <message offset="158c">
+Mark: Let's hurry to the{nl}
+shrine!{waitkey}{ret}
+</message>
+  <message offset="15a8">
+Mark: Let's hurry to the{nl}
+school!{waitkey}{ret}
+</message>
+  <message offset="15c4">
+Nanjo: Restock, you say? Come{nl}
+to think of it, where does{nl}
+this town's merchandise come{nl}
+from?{waitkey}Well, no use pondering it.{waitkey}{ret}
+</message>
+  <message offset="1610">
+Ayase: I'm hungry~ But hold{nl}
+it, hold it!{waitkey}{ret}
+</message>
+  <message offset="1634">
+Brown: It's an eatery, so it's{nl}
+praying to the gods, huh?{waitkey}Dehyahyahyahyahya.{waitkey}{ret}
+</message>
+  <message offset="1664">
+Elly: {ctl07:1}, we can't be{nl}
+taking it easy.{waitkey}{ret}
+</message>
+  <message offset="1680">
+Elly: {ctl07:1}, we mustn't be{nl}
+taking it easy.{waitkey}{ret}
+</message>
+  <message offset="169c">
+Reiji: We've no business in a{nl}
+place like this.{waitkey}Honestly... whether you've{nl}
+got guts or you're just a{nl}
+fool... I can't make you out.{waitkey}Well, one thing's certain —{nl}
+you're an interesting one.{waitkey}{ret}
+</message>
+</scene>

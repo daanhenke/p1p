@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="138">
+  <message offset="198c">
+Maki's Mom: Oh...{wait_fr:32}{nl}
+where am I...?{wait_fr:32}{nl}
+Isn't this the nurse's office?{waitkey}{clearbox}My, it's the haunted manor.{nl}
+I was just dreaming{nl}
+of this very place.{waitkey}{ret}
+</message>
+  <message offset="19e4">
+Mark: There's no Sonomura's{nl}
+mom in this world...{waitkey}{clearbox}...She's the real thing!{nl}
+But why is she here...{wait_fr:32}{nl}
+Ma'am, are you okay?{waitkey}{ret}
+</message>
+  <message offset="1a4c">
+Maki's Mom: Yes, I'm fine...{waitkey}When Maki was small, she'd{nl}
+often get lost in this manor,{nl}
+so I'd come searching.{nl}
+I was dreaming of those days.{waitkey}{clearbox}As I wandered these{nl}
+vast halls all alone,{nl}
+I heard Maki calling out...{waitkey}...and after that,{nl}
+I don't remember a thing.{waitkey}{ret}
+</message>
+  <message offset="1aec">
+Maki: Um, ma'am...{nl}
+I'm really{nl}
+not your child.{waitkey}{ret}
+</message>
+  <message offset="1b18">
+Maki's Mom: What...?{waitkey}{ret}
+</message>
+  <message offset="1b2c">
+Nanjo: Let us explain{nl}
+from the beginning.{waitkey}{ret}
+</message>
+  <message offset="1b48">
+Maki's Mom: I see...{wait_fr:32}{nl}
+You're the Maki{nl}
+of this world.{waitkey}{clearbox}But I wonder why I'm{nl}
+nowhere to be found{nl}
+in this world...{waitkey}{ret}
+</message>
+  <message offset="1b98">
+Maki: Ah! The dimension{nl}
+gate is vanishing...!{waitkey}{ret}
+</message>
+  <message offset="1bbc">
+Mark: Ma'am, we've got{nl}
+to go after{nl}
+Kandori.{waitkey}{ret}
+</message>
+  <message offset="1be8">
+Maki's Mom: I understand.{nl}
+Just wait one moment!{waitkey}{ret}
+</message>
+  <message offset="1c10">
+Maki's Mom: This dimension{nl}
+gate is in a very{nl}
+unstable state.{waitkey}{clearbox}Someone must stay here{nl}
+to work the machine.{waitkey}{ret}
+</message>
+  <message offset="1c5c">
+Maki: Someone has to{nl}
+stay behind?{nl}
+No! We can't leave{nl}
+anyone behind!{waitkey}{ret}
+</message>
+  <message offset="1c90">
+Maki's Mom: I'll do it!{nl}
+I'll keep the gate stable,{nl}
+so don't worry, off you go.{waitkey}{clearbox}If you'd come back for me{nl}
+once it's all over,{nl}
+I'd be so happy.{waitkey}{ret}
+</message>
+  <message offset="1cfc">
+Maki: Ma'am...{waitkey}{ret}
+</message>
+  <message offset="1d0c">
+Maki's Mom: What is it?{nl}
+There's no time. Hurry now.{waitkey}{ret}
+</message>
+  <message offset="1d30">
+Maki: I don't have a{nl}
+mother of my own,{waitkey}{clearbox}but if I had a kind{nl}
+mom like you,{wait_fr:32}{nl}
+I'd have been so glad...{waitkey}{ret}
+</message>
+  <message offset="1d78">
+Maki: Once we beat Kandori,{nl}
+I'll be sure to find your{nl}
+own little Maki, too!{waitkey}{ret}
+</message>
+  <message offset="1db4">
+Maki's Mom: ...{wait_fr:16}...{wait_fr:16}...{wait_fr:16}{nl}
+Yes, that's right.{wait_fr:64}{nl}
+Thank you...{waitkey}{ret}
+</message>
+  <message offset="1df4">
+Nanjo: .........{waitkey}{ret}
+</message>
+  <message offset="1e08">
+Maki's Mom: Off you go,{nl}
+everyone!{nl}
+Do take care!{waitkey}{ret}
+</message>
+</scene>

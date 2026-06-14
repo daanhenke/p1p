@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="11">
+  <message offset="1da8">
+Butterfly: I've been waiting.{waitkey}{clearbox}By saving the boy called Toro{nl}
+from a Persona's power, the{nl}
+Snow Queen's power has waned.{waitkey}{clearbox}The door sealed fast in ice{nl}
+should open now.{waitkey}{clearbox}It is the entrance to one of{nl}
+the three towers around the{nl}
+school - the Tower of Hypnos.{waitkey}{clearbox}Of the three, this tower{nl}
+has the simplest structure.{waitkey}{clearbox}The "Mirror Shards" should{nl}
+be easy to find here.{waitkey}{clearbox}Oh, yes - let me give you{nl}
+a warning about the towers.{waitkey}{clearbox}Once you set foot in any{nl}
+tower, you cannot leave until{nl}
+its master falls. Think first.{waitkey}{ret}
+</message>
+  <message offset="1ee4">
+Butterfly: Welcome.{nl}
+This is the entrance to the{nl}
+Tower of Hypnos.{waitkey}{clearbox}Of the three, this tower{nl}
+has the simplest structure.{waitkey}{clearbox}The "Mirror Shards" should{nl}
+be easy to find here.{waitkey}{clearbox}Once you set foot in any{nl}
+tower, you cannot leave until{nl}
+its master falls. Think first.{waitkey}{ret}
+</message>
+  <message offset="1f88">
+Butterfly: Back again?{nl}
+This is the entrance to the{nl}
+Tower of Hypnos.{waitkey}{clearbox}Even now its master is gone,{nl}
+demons still swarm within.{waitkey}{ret}
+</message>
+  <message offset="1fcc">
+A sweet, drowsy scent{nl}
+drifts from beyond the door.{waitkey}{clearbox}The door is frozen solid{nl}
+and won't budge.{waitkey}{ret}
+</message>
+  <message offset="200c">
+A sweet, drowsy scent{nl}
+drifts from beyond the door.{waitkey}{ret}
+</message>
+  <message offset="2034">
+Enter the Tower of Hypnos?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="2050">
+Tadashi: Wh-what's the big{nl}
+deal? A little's fine, right?{nl}
+You miser miser miser!{waitkey}{clearbox}Ah, no - I was talking to{nl}
+this nagging girl here.{waitkey}{ret}
+</message>
+  <message offset="20a0">
+Tadashi: Two people can have{nl}
+the same dream at the same{nl}
+time, huh.{waitkey}{clearbox}This is no coincidence!{nl}
+We were fated to be together.{waitkey}{ret}
+</message>
+  <message offset="20f8">
+Tadashi: I can see myself{nl}
+in your eyes...{waitkey}{clearbox}Ahh, it's just getting good -{nl}
+don't interrupt.{waitkey}{ret}
+</message>
+  <message offset="2134">
+{color:2}Tadashi, a lazy member of{nl}
+the fencing club. Fights with{nl}
+Tamaki every day.{color:0}{waitkey}{ret}
+</message>
+  <message offset="2170">
+Tamaki: He's terrible,{nl}
+that Tadashi!{waitkey}{clearbox}The sports drinks I told him{nl}
+not to drink on his own{nl}
+'cause they're for everyone{waitkey}{clearbox}- he drank them ALL!!{waitkey}{ret}
+</message>
+  <message offset="21d0">
+Tamaki: I had a lovely dream{nl}
+and realized my true{nl}
+feelings.{waitkey}{clearbox}From now on...{nl}
+I'll follow Tadashi.♥{waitkey}{ret}
+</message>
+  <message offset="2224">
+Tamaki: Just being by his{nl}
+side like this makes{nl}
+me happy.♥{waitkey}{ret}
+</message>
+  <message offset="2248">
+{color:3}Tamaki, a transfer student{nl}
+in the fencing club. Fights{nl}
+with Tadashi every day.{color:0}{waitkey}{ret}
+</message>
+  <message offset="2280">
+Yukino: Fighting again.{nl}
+Those two never get tired{nl}
+of it, huh.{waitkey}{ret}
+</message>
+  <message offset="22a4">
+Yukino: Tch! Quit flirting{nl}
+in broad daylight!{waitkey}{ret}
+</message>
+  <message offset="22cc">
+Yukino: Still going at it?{nl}
+Those two never get bored.{waitkey}{ret}
+</message>
+  <message offset="22f4">
+Ayase: Tamaki's pretty cute.{nl}
+Maybe Ayase should go{nl}
+short too.♥{waitkey}{ret}
+</message>
+  <message offset="2324">
+Ayase: Lucky, lucky~{nl}
+Two young things warming{nl}
+each other in a cold{nl}
+room... so flavonoid~{waitkey}{ret}
+</message>
+  <message offset="2360">
+Nanjo: This cold makes me{nl}
+drowsy somehow...{nl}
+No, no.{waitkey}{ret}
+</message>
+  <message offset="238c">
+Nanjo: What is Ayase{nl}
+trying to say?{waitkey}{ret}
+</message>
+  <message offset="23a8">
+Brown: Lucky Tadashi,{nl}
+got himself someone to{nl}
+fight with.{waitkey}{clearbox}Being single is rough...{nl}
+Ooh, cold~{waitkey}{ret}
+</message>
+  <message offset="23e4">
+Brown: I can see myself{nl}
+in your eyeballs.{waitkey}You{wait_fr:30}... don't tell me...!!{waitkey}{ret}
+</message>
+  <message offset="241c">
+Elly: "The Tower of Hypnos."{nl}
+Hypnos is the god of sleep.{nl}
+It doesn't seem too scary.{waitkey}{ret}
+</message>
+  <message offset="2458">
+Elly: What Ayase means -{nl}
+could it be...{nl}
+Platonic love?{waitkey}{clearbox}If she's doing it on purpose,{nl}
+the wordplay's a bit much.{waitkey}Perhaps she means{nl}
+"refreshing"?{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="149">
+  <message offset="1668">
+{nl}
+
+</message>
+  <message offset="16b0">
+Ayase: That's not really{nl}
+your fault, teacher.{waitkey}{clearbox}You didn't force it on her,{nl}
+right? That Tomomi girl just{nl}
+misunderstood.{waitkey}{ret}
+</message>
+  <message offset="1780">
+Ms. Saeko: Maybe so.{nl}
+But{wait_fr:30} I can't say for certain.{waitkey}{clearbox}Maybe, somewhere in my heart,{nl}
+I was basking in a sense{nl}
+of superiority.{waitkey}{clearbox}Playing the good friend,
+</message>
+  <message offset="1790">
+{nl}
+being kind only on the{nl}
+surface.{waitkey}{clearbox}Maybe deep down I didn't{nl}
+care at all about how{nl}
+Tomomi felt.{waitkey}{clearbox}Maybe I was just drunk on{nl}
+being someone who's kind{nl}
+to others...{waitkey}and hurting her instead...{waitkey}{ret}
+</message>
+  <message offset="17c4">
+Yukino: Teacher...
+</message>
+  <message offset="17d8">
+{ret}
+</message>
+  <message offset="17f0">
+Ms. Saeko: It's not the{nl}
+mask's curse!{nl}
+The one who made her like{waitkey}that was...{waitkey}{ret}
+</message>
+  <message offset="180c">
+Yukino: Stop it!!{waitkey}{ret}
+</message>
+  <message offset="1828">
+Ms. Saeko: ...{wait_fr:30}...{waitkey}{ret}
+</message>
+  <message offset="1844">
+Ayase: Uwa{wait_fr:30}...{wait_fr:30}it's cold......{waitkey}{ret}
+</message>
+  <message offset="1858">
+Nanjo: !!{nl}
+What's going on...{waitkey}{ret}
+</message>
+  <message offset="189c">
+Elly: Oh!{nl}
+Such a thing...{waitkey}{ret}
+</message>
+  <message offset="18dc">
+Yukino: What's wrong?{waitkey}{ret}
+</message>
+  <message offset="190c">
+Nanjo: We defeated the Snow{nl}
+Queen and saved Ms. Saeko,{nl}
+yet...{waitkey}the school hasn't returned{nl}
+to normal!!{waitkey}{ret}
+</message>
+  <message offset="1934">
+Elly: We defeated the Snow{nl}
+Queen and saved Ms. Saeko,{nl}
+yet...{waitkey}the school is still frozen!!{waitkey}{ret}
+</message>
+  <message offset="1950">
+Ayase: Now that you mention{nl}
+it{wait_fr:30}...{wait_fr:30}...{waitkey}the sky's color is still{nl}
+weird, too{waitkey}{ret}
+</message>
+  <message offset="1988">
+Voice: Hehehe...{waitkey}{nl}
+It must be quite cold, hm?{waitkey}{nl}
+Ahahaha...{waitkey}{ret}
+</message>
+  <message offset="19a0">
+Ms. Saeko: Wh-{wait_fr:30}what is it!?{waitkey}{ret}Brown: A-a-a-a-a-a-a-a{waitkey}No fair~ we just{nl}
+beat it!!{waitkey}{ret}
+</message>
+  <message offset="1a58">
+Elly: What!?{waitkey}{ret}
+</message>
+  <message offset="1a6c">
+Queen: The Tomomi within me,{wait_fr:30}{nl}
+the Tomomi with human{nl}
+weakness, has died. My thanks.{waitkey}{clearbox}I have left my host Tomomi,{nl}
+left the vessel that is the{nl}
+mask, and become wholly free.{waitkey}{clearbox}Now I become complete.{waitkey}{clearbox}As the complete Night Queen,{nl}
+I'll cover this world in the{nl}
+white and black of nothing{waitkey}and despair.{waitkey}{ret}
+</message>
+  <message offset="1b04">
+Yukino: What did you say!?{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,16 @@
+{
+  "name": "@p1p/core",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Generic romhacking engine: byte IO, asset sources, the datatype-codec abstraction, the override-merge engine, the .bin patch-pack container, and the profile-driven build pipeline. No game/platform specifics.",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "build": "tsc -b"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.8.0"
+  }
+}

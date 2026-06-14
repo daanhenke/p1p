@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="200">
+  <message offset="122c">
+Maki: We've got to hurry!{nl}
+{ctl07:1}, you all won't be{nl}
+able to get home!{waitkey}{ret}
+</message>
+  <message offset="1258">
+Nanjo: That Kandori... what{nl}
+is he scheming...!{waitkey}{ret}
+</message>
+  <message offset="127c">
+Mark: Now that I think of it,{waitkey}the old man who invented the{nl}
+machine was the only one who{nl}
+tried to take responsibility.{waitkey}{ret}
+</message>
+  <message offset="12bc">
+Elly: This mansion... it has{nl}
+the most wonderful atmosphere.{waitkey}{ret}
+</message>
+  <message offset="12e8">
+Brown: Not that it matters,{nl}
+but this place is downright{nl}
+creepy!{waitkey}{ret}
+</message>
+  <message offset="1314">
+Ayase: A woman's crying...{nl}
+I've been hearing it this{nl}
+whole time.{waitkey}{ret}
+</message>
+  <message offset="1340">
+Reiji: Are they all sitting{nl}
+here regretting what they've{nl}
+done?{waitkey}{ret}
+</message>
+  <message offset="1374">
+Scientist: The dimensional{nl}
+passage on the third floor{nl}
+was in a very unstable state.{waitkey}{clearbox}If we don't hurry, it may{nl}
+become unusable!{waitkey}{ret}
+</message>
+  <message offset="13c4">
+Scientist: Dr. Nicolai...{wait_fr:32}{nl}
+he alone saw Kandori's true{nl}
+nature.{waitkey}{clearbox}It's no use regretting now,{nl}
+but we should've stopped{nl}
+Kandori back then, even at{nl}
+the risk of our lives.{waitkey}{ret}
+</message>
+  <message offset="1438">
+Scientist: Are you after{nl}
+Kandori?{waitkey}{clearbox}But it's too late. By now he{nl}
+must be carrying out some{nl}
+terrible scheme.{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="35">
+  <message offset="146c">
+Yukino: {ctl0f:1}, you're not{nl}
+hurt, are you?{waitkey}{ret}
+</message>
+  <message offset="1484">
+Ayase: My hands are going{nl}
+numb from the cold~{waitkey}{ret}
+</message>
+  <message offset="149c">
+Nanjo: What kind of structure{nl}
+is this building?{waitkey}I can't believe it was once{nl}
+a school.{waitkey}{ret}
+</message>
+  <message offset="14cc">
+Brown: Phew~{waitkey}Let's take a breather. My legs{nl}
+are turning to lead.{waitkey}{ret}
+</message>
+  <message offset="14f8">
+Elly: Both the Demons and the{nl}
+building's layout have grown{nl}
+more formidable.{waitkey}{ret}
+</message>
+</scene>

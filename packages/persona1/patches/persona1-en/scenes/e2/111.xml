@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="111">
+  <message offset="1668">
+Maki: Inaba's surely waiting{nl}
+for us to come. Let's hurry{nl}
+and go to him!{waitkey}{ret}
+</message>
+  <message offset="169c">
+Maki: We were going to the{nl}
+factory, right? But...{wait_fr:32}{nl}
+what is SEBEC?{waitkey}{clearbox}A company name? Was there{nl}
+ever such a thing in this{nl}
+town...?{waitkey}{ret}
+</message>
+  <message offset="16f4">
+Maki: Let's hurry and go{nl}
+after Kandori!{waitkey}{ret}
+</message>
+  <message offset="1714">
+Brown: Heh, I'm finally{nl}
+getting into it.{waitkey}From here on, I'll show you{nl}
+what the great Brown can do!{waitkey}{ret}
+</message>
+  <message offset="1750">
+Nanjo: Uesugi seems to have{nl}
+already forgotten he was{nl}
+rescued.{waitkey}{ret}
+</message>
+  <message offset="1780">
+Nanjo: Don't you think{nl}
+Sonomura's acting strange?{nl}
+Hmm...{waitkey}{ret}
+</message>
+  <message offset="17ac">
+Mark: Is it really okay to{nl}
+keep the store open?{waitkey}Don't blame me if a demon{nl}
+gets you!{waitkey}{ret}
+</message>
+  <message offset="17e8">
+Elly: Come to think of it,{nl}
+I've heard of that odd shop{nl}
+before too.{waitkey}{ret}
+</message>
+  <message offset="181c">
+Ayase: It really is odd that{nl}
+the shop would open at a time{nl}
+like this.{waitkey}{ret}
+</message>
+  <message offset="1848">
+Customer: About that odd{nl}
+shop in the arcade. It looks{nl}
+about
+</message>
+  <message offset="1894">
+ ready to open.{waitkey}{clearbox}What kind of shop even is it,{nl}
+I wonder.{waitkey}{ret}
+</message>
+  <message offset="18fc">
+Customer:
+</message>
+</scene>

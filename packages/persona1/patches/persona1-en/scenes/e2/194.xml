@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="194">
+  <message offset="13f8">
+Maki: This shop is run by the{nl}
+uncle of a friend of mine,{nl}
+a boy named Tadashi.{waitkey}{clearbox}Tadashi gets along terribly{nl}
+with a transfer student, a{nl}
+girl named Tamaki.{waitkey}They won't even speak to{nl}
+each other anymore...{waitkey}{ret}
+</message>
+  <message offset="1470">
+Nanjo: "...if you want to{nl}
+recover your hit points..."{waitkey}Enough! {ctl0f:1}, you sing too!{waitkey}{ret}
+</message>
+  <message offset="14ac">
+Mark: Tadashi's uncle, huh...{nl}
+Doesn't seem all that{nl}
+different from our town.{waitkey}{ret}
+</message>
+  <message offset="14dc">
+Elly: Forgive me for saying{nl}
+so, but does the medicine{nl}
+here really work, I wonder.{waitkey}{ret}
+</message>
+  <message offset="1504">
+Brown: That old man's head~{wait_fr:48}{nl}
+that's not a toupee, is it?{waitkey}{ret}
+</message>
+  <message offset="153c">
+Ayase: Baby goods are all so{nl}
+cute. Just looking at them is{nl}
+fun.{waitkey}{ret}
+</message>
+  <message offset="1574">
+Reiji: What a cracked old man.{waitkey}{ret}
+</message>
+  <message offset="1588">
+Shopkeeper: Welcome to Satomi{nl}
+Tadashi! Call me Sato-chan,{nl}
+okay~♥{waitkey}Now, let's do some business~!{waitkey}{ret}
+</message>
+  <message offset="15d0">
+Customer: I'm feeling blue{nl}
+today.{waitkey}At times like this, all you{nl}
+can do is go to the bar and{nl}
+talk about the Queen's{nl}
+paintings, right~{waitkey}{ret}
+</message>
+  <message offset="1620">
+Customer: The Queen's finally{nl}
+gone. Time to raise a toast{nl}
+at the bar!{waitkey}{ret}
+</message>
+  <message offset="1650">
+Shopkeeper: You can't go in{nl}
+there~ Even "just a peek" is{nl}
+a no-no~!{waitkey}{ret}
+</message>
+</scene>

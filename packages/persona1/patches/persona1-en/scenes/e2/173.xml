@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="173">
+  <message offset="1470">
+Maki: The town's pretty{nl}
+different from your town too,{nl}
+isn't it!{waitkey}{ret}
+</message>
+  <message offset="1498">
+Nanjo: The trouble at school{nl}
+is settled for now, but...{waitkey}{ret}
+</message>
+  <message offset="14bc">
+Mark: It's a weird feeling.{nl}
+The faces are familiar, but{nl}
+something's off about them.{waitkey}{ret}
+</message>
+  <message offset="14ec">
+Elly: Dawdling in a place{nl}
+like this gets us nowhere!{waitkey}Come, let's get outside!{waitkey}{ret}
+</message>
+  <message offset="1524">
+Brown: Just inside the school{nl}
+is way too cramped a stage{nl}
+for me!{waitkey}Wahahahaha!{waitkey}{ret}
+</message>
+  <message offset="1560">
+Ayase: Why did they try to{nl}
+lock us in, I wonder?{waitkey}{ret}
+</message>
+  <message offset="1588">
+Reiji: I've no business with{nl}
+the school. I just want to{nl}
+beat him and be done with it.{waitkey}{ret}
+</message>
+  <message offset="15b4">
+Mark: Yo, Yukino. Long time{nl}
+no see!{waitkey}{ret}
+</message>
+  <message offset="15d0">
+Yukino: ...It hasn't really{nl}
+been that long, I'd think.{waitkey}{ret}
+</message>
+  <message offset="15f4">
+Nanjo: True, you're right. We{nl}
+played the Persona Game, went{nl}
+to visit, and then that{nl}
+incident happened...{waitkey}{ret}
+</message>
+  <message offset="1634">
+Yukino: ......?{waitkey}{ret}
+</message>
+  <message offset="1644">
+Nanjo: You were there watching{nl}
+with us too, weren't you?{waitkey}{ret}
+</message>
+  <message offset="166c">
+Yukino: The Persona Game?{wait_fr:32}{nl}
+...A visit? To whom? What{nl}
+are you talking about?{waitkey}{ret}
+</message>
+  <message offset="16a4">
+Nanjo: ...{wait_fr:32}You don't{nl}
+remember?{waitkey}{clearbox}Or are you not the Mayuzumi{nl}
+we know?{waitkey}{clearbox}...{wait_fr:32}Either way, it seems{nl}
+best we withdraw for now.{waitkey}{ret}
+</message>
+  <message offset="170c">
+Mark: Hey, {ctl0f:1}, Naito said{nl}
+to come to the library,{nl}
+right?{waitkey}{clearbox}Let's at least hear him out{nl}
+before we head outside.{waitkey}{ret}
+</message>
+</scene>

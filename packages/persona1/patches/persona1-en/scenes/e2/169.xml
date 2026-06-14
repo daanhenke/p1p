@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="169">
+  <message offset="1794">
+Maki: Ms. Saeko is always so{nl}
+gloomy! It starts to bring{nl}
+me down too.{waitkey}{ret}
+</message>
+  <message offset="17c8">
+Brown: Huh~? What's gotten{nl}
+into Ms. Saeko, anyway?{waitkey}{ret}
+</message>
+  <message offset="17f4">
+Brown: Ms. Saeko's gotta have{nl}
+that energy of hers, or it{nl}
+throws me right off.{waitkey}{ret}
+</message>
+  <message offset="1828">
+Nanjo: To think even Ms. Saeko{nl}
+is acting strange...{waitkey}{ret}
+</message>
+  <message offset="1848">
+Nanjo: If Mayuzumi saw Ms.{nl}
+Saeko as she is now, she'd{nl}
+be terribly disappointed.{waitkey}{ret}
+</message>
+  <message offset="187c">
+Mark: Wha- huh?{wait_fr:32}{nl}
+Hey, what's up, Ms. Saeko?{waitkey}If you tell me again it's{nl}
+just 'cause I overate and{nl}
+feel sick, I'll get mad!{waitkey}{ret}
+</message>
+  <message offset="18d4">
+Mark: At least she's not{nl}
+making me do push-ups as{nl}
+punishment — maybe this is{nl}
+better.{waitkey}{ret}
+</message>
+  <message offset="1900">
+Elly: For that Ms. Saeko to{nl}
+stay silent...{wait_fr:32} Could she be{nl}
+terribly angry about{nl}
+something?{waitkey}{ret}
+</message>
+  <message offset="193c">
+Elly: Even with the same{nl}
+face, a different temperament{nl}
+changes the whole air about{nl}
+a person, doesn't it.{waitkey}{ret}
+</message>
+  <message offset="1970">
+Ayase: Ugh~ It's all gloomy{nl}
+and damp in here.{waitkey}{ret}
+</message>
+  <message offset="198c">
+Ayase: Our Ms. Saeko is the{nl}
+prettier one, right?{waitkey}{ret}
+</message>
+  <message offset="19b4">
+Reiji: ...{wait_fr:32}Hmph. At least{nl}
+she's not noisy. That's{nl}
+something.{waitkey}{ret}
+</message>
+  <message offset="19d8">
+Ms. Natsumi: Oh, {ctl0f:1}.{nl}
+Did you hurt yourself{nl}
+somewhere?{waitkey}{ret}
+</message>
+  <message offset="1a00">
+Mark: Oh, Ms. Natsumi!{waitkey}{ret}
+</message>
+  <message offset="1a18">
+Ms. Saeko: ............{waitkey}{ret}
+</message>
+  <message offset="1a30">
+Brown: Ah, Ms. Saeko! Hey{nl}
+there, long time no see!{nl}
+My, as lovely as ever...{waitkey}{ret}
+</message>
+  <message offset="1a70">
+Ayase: Ah, it's Ms. Saeko!{nl}
+Teacher, it's Ayase. You{nl}
+recognize me?{waitkey}{ret}
+</message>
+  <message offset="1aa0">
+Elly: Oh my, Ms. Saeko. About{nl}
+earlier, our apologies for{nl}
+the trouble...{waitkey}{ret}
+</message>
+  <message offset="1ac8">
+Nanjo: Ms. Saeko, it feels{nl}
+like it's been quite a while.{waitkey}{ret}
+</message>
+  <message offset="1af4">
+Mark: Ngh{wait_fr:48}{nl}
+so gloomy...!!{waitkey}{ret}
+</message>
+  <message offset="1b10">
+Ms. Natsumi: That gave me{nl}
+such a fright earlier!{waitkey}But I hear you all came to{nl}
+the rescue. Thank you so much!{waitkey}{ret}
+</message>
+  <message offset="1b5c">
+Nanjo: Ngh{wait_fr:48}{nl}
+so gloomy...!!{waitkey}{ret}
+</message>
+  <message offset="1b78">
+Agastya Tree: Young one...{nl}
+You have come before me.{waitkey}{ret}
+</message>
+  <message offset="1ba4">
+Agastya Tree:{nl}
+Shall I inscribe{nl}
+your record within me?{waitkey}{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1bd0">
+Agastya Tree: Young one...{nl}
+Go forth with care.{waitkey}{ret}
+</message>
+  <message offset="1ea8">
+Ms. Natsumi: When you're{nl}
+feeling unwell, come to the{nl}
+infirmary. Now, let me have{nl}
+a look at you.{waitkey}{ret}
+</message>
+  <message offset="1ee8">
+Ms. Natsumi: There, all done.{nl}
+Don't go losing to any{nl}
+demons, now.{waitkey}{ret}
+</message>
+</scene>

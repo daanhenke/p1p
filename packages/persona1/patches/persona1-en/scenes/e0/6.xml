@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="6">
+  <message offset="1230">
+Nanjo: A megalithic ruin...{nl}
+A precious piece of{nl}
+cultural heritage.{waitkey}{nl}
+Who built it, and for what?{nl}
+It never ceases to{nl}
+fascinate me.{waitkey}{ret}
+</message>
+  <message offset="1278">
+Mark: Our principal seems{nl}
+like a nice lady, but...{nl}
+she's kinda girly, y'know?{waitkey}{ret}
+</message>
+  <message offset="12b0">
+Yukino: I've got work today...{nl}
+Let's just get to the{nl}
+hospital and get it done.{waitkey}{ret}
+</message>
+  <message offset="12f0">
+Principal Oishi: My, {ctl0f:1},{nl}
+out for a stroll too, dear?{nl}
+Every day I ask this{waitkey}{nl}
+guardian deity to watch{nl}
+over our students so they{nl}
+grow up well.{waitkey}{nl}
+It's been my habit{nl}
+since I was young.{waitkey}{ret}
+</message>
+  <message offset="1360">
+{color:3}Principal Oishi.{nl}
+Headmistress of St. Hermelin.{nl}
+A woman who loves children{nl}
+and flowers alike.{color:0}{waitkey}{ret}
+</message>
+  <message offset="13a4">
+Student: The principal is{nl}
+such a kind person.{waitkey}{nl}
+And she just loves flowers —{nl}
+tends to them like they're{nl}
+her own children.{waitkey}{ret}
+</message>
+  <message offset="1400">
+Student: It's so loud out{nl}
+there, yet it's quiet here...{waitkey}{nl}
+Why aren't there any{nl}
+demons around here?{nl}
+God's protection, maybe?{waitkey}{ret}
+</message>
+  <message offset="1458">
+Hiremon Stone{nl}
+Unearthed during the school's{nl}
+construction in 1963.{waitkey}{clearbox}The rock type is samaite,{nl}
+though magnetic anomalies{nl}
+have been detected.{waitkey}{clearbox}Legend holds that a celestial{nl}
+being named Hiremon{waitkey}{nl}
+cast it down from the heavens{nl}
+as a guardian stone{nl}
+for Mikage-cho.{waitkey}{ret}
+</message>
+</scene>

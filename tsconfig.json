@@ -1,0 +1,10 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./packages/core" },
+    { "path": "./packages/ps1" },
+    { "path": "./packages/atlus" },
+    { "path": "./packages/persona1" },
+    { "path": "./packages/cli" }
+  ]
+}

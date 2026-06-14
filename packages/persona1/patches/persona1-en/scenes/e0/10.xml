@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="10">
+  <message offset="1414">
+Nanjo: Speaking of which,{nl}
+what about the hospital?{nl}
+Weren't we headed there{nl}
+for checkups?{waitkey}{ret}
+</message>
+  <message offset="1448">
+Mark: Hey, {ctl0f:1},{nl}
+this guy's being a pain —{nl}
+come on, back me up here.{waitkey}{ret}
+</message>
+  <message offset="1478">
+Yukino: Mark's out there{nl}
+picking fights again...{nl}
+What's his problem?{waitkey}{ret}
+</message>
+  <message offset="14b0">
+Student: Shouldn't they just{nl}
+tear down buildings no one{nl}
+uses? They become hangouts{nl}
+for delinquents...{waitkey}{ret}
+</message>
+  <message offset="14ec">
+Mark: Heh heh, delinquents?{nl}
+That's so lame~!{waitkey}{ret}
+</message>
+  <message offset="1510">
+Student: Shut up! That's{nl}
+exactly my point — they turn{nl}
+into delinquent hangouts.{nl}
+Give me a break.{waitkey}{ret}
+</message>
+</scene>

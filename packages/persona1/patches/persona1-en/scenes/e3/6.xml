@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="6">
+  <message offset="183c">
+Chemistry Teacher: Quite{nl}
+elaborate for a culture{nl}
+festival stall.{waitkey}Impressive, impressive.{waitkey}{ret}
+</message>
+  <message offset="1870">
+Chemistry Teacher: Selling{nl}
+pricey goods for a culture{nl}
+festival.{waitkey}Still, what an old-looking{nl}
+student.{waitkey}{ret}
+</message>
+  <message offset="18ac">
+Tsurunkamen: Ho ho ho ho...{nl}
+Well come, indeed. What sort{nl}
+of wares do you require?{waitkey}{ret}
+</message>
+  <message offset="18e4">
+Tsurunkamen: Ho ho ho ho...{nl}
+Well come, indeed. What sort{nl}
+of wares do you require?{waitkey}{ret}
+</message>
+  <message offset="191c">
+Kamentsurun: Ho ho ho ho...{nl}
+Gemstones I love above all{nl}
+else.{waitkey}{clearbox}I'm running a blowout trade —{nl}
+your gems for my treasured{nl}
+wares.{waitkey}Care to give it a try?{waitkey}{ret}
+</message>
+  <message offset="1988">
+Kamentsurun: Ho ho ho ho...{nl}
+Gemstones I love above all{nl}
+else.{waitkey}{clearbox}I'm running a blowout trade —{nl}
+your gems for my treasured{nl}
+wares.{waitkey}Care to give it a try?{waitkey}{ret}
+</message>
+  <message offset="19f4">
+Yukino: Wasn't Sennen-Mannen{nl}
+Hall a penny-candy shop?{waitkey}{ret}
+</message>
+  <message offset="1a20">
+Yukino: Odd wares for a{nl}
+penny-candy shop.{waitkey}{ret}
+</message>
+  <message offset="1a48">
+Ayase: Wow! Pretty jewels~{waitkey}Hey Papa, buy them, buy{nl}
+them~{color:3}♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="1a80">
+Ayase: Shiny things — I could{nl}
+stare at them all day and{nl}
+never get bored~{color:3}♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="1ab0">
+Nanjo: What is this shop?{waitkey}A penny-candy shop? Ah{wait_fr:30}, the{nl}
+buck-toothed comedian?{waitkey}{ret}
+</message>
+  <message offset="1ae8">
+Nanjo: Penny candy is a{nl}
+curious thing.{waitkey}{ret}
+</message>
+  <message offset="1b08">
+Brown: Hey hey, why's there a{nl}
+penny-candy shop at school?{waitkey}{ret}
+</message>
+  <message offset="1b34">
+Brown: Come to think of it,{nl}
+it's not cold in this shop.{waitkey}{ret}
+</message>
+  <message offset="1b54">
+Elly: Oh? This place isn't{nl}
+frozen. I wonder why?{waitkey}{ret}
+</message>
+  <message offset="1b7c">
+Elly: It's as if only the{nl}
+shops around here exist in{nl}
+some other world.{waitkey}It's not the least bit cold.{waitkey}{ret}
+</message>
+</scene>

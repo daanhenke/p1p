@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="181">
+  <message offset="152c">
+{nl}
+
+</message>
+  <message offset="1598">
+{nl}
+
+</message>
+  <message offset="1604">
+Queen: {ctl0f:1},{nl}
+I'll give you alone a chance.{waitkey}{clearbox}My beautiful painting{nl}
+and Maki's painting -{nl}
+which do you think is better?{waitkey}{nl}
+Now, answer me honestly!{waitkey}{ret}
+</message>
+</scene>

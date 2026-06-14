@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="96">
+  <message offset="17e0">
+Yukino: We suddenly popped{nl}
+out somewhere weird.{nl}
+What's this skeleton room?{waitkey}{ret}
+</message>
+  <message offset="1810">
+???: Yoo-hoo!{nl}
+Everyoooone!{nl}
+Niiice to meet you!!{waitkey}{clearbox}Welcooome to my domain,{nl}
+the "Tower of Thanatos"!!{waitkey}{clearbox}Everybody!{nl}
+Are you fiiired uuup?!{nl}
+Everyone's idol,{waitkey}{clearbox}"Yuriko Yamamoto"-chan,{nl}
+heeere!!{nl}
+Nice to meetcha!!{waitkey}{ret}
+</message>
+  <message offset="18c0">
+Nanjo: What kind of joke{nl}
+is this??{waitkey}{clearbox}It may not be my place, but{nl}
+please use proper Japanese.{nl}
+It's truly unpleasant.{waitkey}{ret}
+</message>
+  <message offset="191c">
+Brown: Yeeeah!!{nl}
+Y!{wait_fr:30} U!{wait_fr:30} R!{wait_fr:30} I!{wait_fr:30} K!{wait_fr:30} O!{nl}
+Yuri-{wait_fr:30}koooo!{waitkey}{clearbox}...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...wait, no.{nl}
+Hey, what gives?! You got{nl}
+me all hyped up for nothing!{waitkey}{ret}
+</message>
+  <message offset="19d8">
+Ayase: What? This dumb-{nl}
+looking girl. And she talks{nl}
+weird too.{waitkey}{clearbox}You're, like, super weird!{waitkey}{ret}
+</message>
+  <message offset="1a18">
+Yuriko: Geez, what?!{nl}
+This weird girl!?{nl}
+Ahh, Yuriko's so cute you're{waitkey}jealous, maybe!?{waitkey}{clearbox}Being too cute is a{nl}
+c-{wait_fr:30}rime{wait_fr:30}, y'know!{waitkey}{clearbox}Sorry for being{nl}
+too adorable!{nl}
+Kyahahahaha!!{waitkey}{ret}
+</message>
+  <message offset="1aa8">
+Nanjo: ...{wait_fr:30}...{wait_fr:30}...What!?{nl}
+What did you come out for?!{nl}
+We're in a hurry!{waitkey}{clearbox}So?{wait_fr:30} Do you mean to have{nl}
+a fight here? We're perfectly{nl}
+fine with that!{waitkey}{ret}
+</message>
+  <message offset="1b30">
+Elly: Oh...{wait_fr:30} No...{nl}
+What did you come out for?{waitkey}{clearbox}Do you mean to fight us here?{nl}
+We don't mind in the least,{nl}
+you know?{waitkey}{ret}
+</message>
+  <message offset="1b98">
+Yuriko: Geez, don't say such{nl}
+scary things, no no!{nl}
+I'm just gonna teach you how{waitkey}to open the door in back!{waitkey}{clearbox}So listen up - Yuriko-chan's{nl}
+door-opening lesson! ...or{nl}
+something!{waitkey}{clearbox}Y'see, there are two candles,{nl}
+one on each side of the door,{nl}
+right?{waitkey}{clearbox}Snuff out either one's flame{nl}
+and the door opens!{waitkey}{clearbox}So do your best and come to{nl}
+me! Bye-bye!{waitkey}{ret}
+</message>
+  <message offset="1c90">
+Yukino: Somehow... no matter{nl}
+how I think about it, this{nl}
+reeks of a trap.{waitkey}{clearbox}Still, she might be a pretty{nl}
+tricky opponent, that{nl}
+Yuriko...{waitkey}{ret}
+</message>
+  <message offset="1cd8">
+Yukino: Somehow this tower's{nl}
+air feels creepy. I can't{nl}
+quite put it into words...{waitkey}{ret}
+</message>
+  <message offset="1d10">
+Yukino: Damn it! We got got!!{waitkey}{clearbox}That Yuriko woman! She looks{nl}
+dumb, but she's a real{nl}
+piece of work!{waitkey}{ret}
+</message>
+  <message offset="1d5c">
+Ayase: What's with that{nl}
+dumb-looking girl? She's,{nl}
+like, super mocking life!{waitkey}Like!!{waitkey}{clearbox}Like she's totally making{nl}
+fun of people!! Something{nl}
+about her ticks me off!!{waitkey}{ret}
+</message>
+  <message offset="1dd8">
+Nanjo: Honestly... one{nl}
+noisy Ayase is more than{nl}
+enough as it is...{waitkey}{clearbox}With even the enemy boss{nl}
+like that, I dread what's{nl}
+ahead.{waitkey}{ret}
+</message>
+  <message offset="1e2c">
+Brown: Hey, hey, just between{nl}
+us... that Yuriko-chan was{nl}
+pretty cute, huh!!{waitkey}{ret}
+</message>
+  <message offset="1e6c">
+Elly: What's scary about that{nl}
+Yuriko woman is you can't{nl}
+tell what she's thinking...{waitkey}{clearbox}It's as if she's enjoying{nl}
+battling us, enjoying{nl}
+trapping us...{waitkey}{clearbox}As Yukino says, she seems an{nl}
+opponent who won't fall to{nl}
+a straightforward approach.{waitkey}{ret}
+</message>
+  <message offset="1f28">
+Snuff out the candle's flame?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1f40">
+Yukino: Ngh?!{nl}
+Wh...{wait_fr:30}what...{wait_fr:30}is this?{nl}
+Something's draining{waitkey}out of my body...{waitkey}{clearbox}Gwaah!!{nl}
+Aaaaah!!{waitkey}{ret}
+</message>
+  <message offset="1fa8">
+Yuriko: Ha-ha! Gotcha! Gotcha!{nl}
+Kyahahahaha!{waitkey}Thought you could pass for{nl}
+free?!{waitkey}{clearbox}Life is "give and take"!{nl}
+Want to do something in this{nl}
+tower? Then you gotta give{waitkey}{clearbox}Yuriko-chan something!{nl}
+No good!{waitkey}{clearbox}Life is harsh, y'know!{nl}
+So, I've definitely taken{nl}
+your other self's life,{waitkey}your Per-{wait_fr:30}so-{wait_fr:30}na{wait_fr:30}, sure did!{waitkey}{clearbox}Buh-byeee!{nl}
+Kyahahahaha!{waitkey}{ret}
+</message>
+  <message offset="20b4">
+Yukino: Damn it! What the{nl}
+heck?! That woman!!{waitkey}{clearbox}What's this? "I've taken{nl}
+your other self's life"?{nl}
+What does that mean?{waitkey}{ret}
+</message>
+  <message offset="2118">
+Snuff out the candle's flame?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="2130">
+Yuriko: Ha-ha! Gotcha! Gotcha!{nl}
+Kyahahahaha!{waitkey}Thought you could pass for{nl}
+free?!{waitkey}{clearbox}Life is "give and take"!{nl}
+Want to do something in this{nl}
+tower? Then you gotta give{waitkey}{clearbox}Yuriko-chan something!{nl}
+No good!{waitkey}{clearbox}Life is harsh, y'know!{nl}
+So, I've definitely taken{nl}
+your other self's life,{waitkey}your Per-{wait_fr:30}so-{wait_fr:30}na{wait_fr:30}, sure did!{waitkey}{clearbox}Buh-byeee!{nl}
+Kyahahahaha!{waitkey}{ret}
+</message>
+  <message offset="223c">
+You stopped snuffing{nl}
+out the candle's flame.{waitkey}{ret}
+</message>
+  <message offset="2254">
+The candle is not lit.{waitkey}{ret}
+</message>
+  <message offset="2268">
+The candle is lit.{waitkey}{ret}
+</message>
+  <message offset="227c">
+It seems the door won't open{nl}
+unless you snuff out one{nl}
+of the candles.{waitkey}{ret}
+</message>
+  <message offset="22a4">
+The door now opens freely.{waitkey}{ret}
+</message>
+  <message offset="22b8">
+Open the door?{nl}
+{ctl0e:0}{ret}
+</message>
+</scene>

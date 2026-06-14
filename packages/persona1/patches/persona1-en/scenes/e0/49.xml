@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="49">
+  <message offset="15ec">
+Mark: Who the hell are you?!{nl}
+You locked me in here!{nl}
+You're gonna pay!{waitkey}{ret}
+</message>
+  <message offset="1620">
+Brown: Hey, cool it Mark!{nl}
+You'll tick him off!{nl}
+Better butter him up...{waitkey}{ret}
+</message>
+  <message offset="1664">
+Brown: Huh?{waitkey}{ret}
+</message>
+  <message offset="1674">
+Maki: There you are!{nl}
+Inaba! Are you okay?{waitkey}{clearbox}...Wait,{nl}
+Brown's here too?!{waitkey}{ret}
+</message>
+  <message offset="16c0">
+Nanjo: Heh.{wait_fr:21} Cages suit{nl}
+monkeys well...{waitkey}{ret}
+</message>
+  <message offset="16e8">
+Mark: You bastard Nanjo!{nl}
+What took you so long?!{nl}
+...{wait_fr:32}...{wait_fr:32}...{wait_fr:48}Sonoda?{waitkey}{ret}
+</message>
+  <message offset="1724">
+Brown: Oh, it's just you{nl}
+guys...{wait_fr:37} So you missed{nl}
+me that much?{waitkey}{ret}
+</message>
+  <message offset="175c">
+Maki: Hey Brown,{nl}
+why were you trying to{nl}
+butter him up?{waitkey}{ret}
+</message>
+  <message offset="178c">
+Brown: Ugh...{waitkey}{ret}
+</message>
+  <message offset="179c">
+Nanjo: You've got the wrong{nl}
+people — we're on your side.{nl}
+No need to butter us up.{waitkey}Lucky you, Brown?{waitkey}{clearbox}...More importantly,{nl}
+why are you here?{nl}
+I thought only Inaba{nl}
+was captured.{waitkey}{ret}
+</message>
+  <message offset="1824">
+Maki: That's for later!{nl}
+Let's get them out!{waitkey}{ret}
+</message>
+  <message offset="184c">
+Brown: I figured I needed{nl}
+weapons to fight demons,{nl}
+so I came here.{waitkey}Then I ended up{nl}
+getting caught with Mark!{waitkey}{clearbox}What a disaster...{waitkey}{ret}
+</message>
+  <message offset="18c0">
+Mark: Shut it, Brown!{waitkey}{clearbox}...Sonoda!{nl}
+What are you doing here?{waitkey}And more importantly —{nl}
+you doing okay{nl}
+out here?!{waitkey}{ret}
+</message>
+  <message offset="192c">
+Maki: Not this again!{nl}
+Come on, I keep saying{nl}
+I'm totally fine!{waitkey}{ret}
+</message>
+  <message offset="196c">
+Mark: Oh... okay...{nl}
+then anyway...{waitkey}{ret}
+</message>
+  <message offset="1994">
+Brown: ...{wait_fr:21}Who's there?{waitkey}{ret}
+</message>
+  <message offset="19ac">
+Inspector: ...{wait_fr:21}Inaba, don't{nl}
+go outside without{nl}
+permission.{waitkey}{ret}
+</message>
+  <message offset="19d8">
+Officer: ...{wait_fr:21}You can't{nl}
+do that.{waitkey}{ret}
+</message>
+  <message offset="19f0">
+Mark: Inspector!{nl}
+Even as a joke, that's a{nl}
+bit much! I did nothing!{waitkey}{ret}
+</message>
+  <message offset="1a24">
+Nanjo: Something's wrong!{nl}
+Inaba — these guys...!{waitkey}{ret}
+</message>
+  <message offset="1a50">
+Officer: Inspector, he{nl}
+escaped! He's a dangerous{nl}
+criminal!{waitkey}{ret}
+</message>
+  <message offset="1a7c">
+Inspector: Death penalty{nl}
+for dangerous criminals.{waitkey}{ret}
+</message>
+  <message offset="1a98">
+Mark: There's a foul{nl}
+smell...{wait_fr:21}{nl}
+Don't tell me...!!{waitkey}{ret}
+</message>
+  <message offset="1abc">
+Demon Officer: Death penalty!{nl}
+Death penalty!{nl}
+Die die die die die!{nl}
+Ehehehehe!{waitkey}{ret}
+</message>
+  <message offset="1af0">
+Demon Inspector: That's right!{nl}
+You guys —{nl}
+get 'em!{waitkey}{ret}
+</message>
+  <message offset="1b1c">
+Used the "Cell Key"...{waitkey}{ret}
+</message>
+</scene>

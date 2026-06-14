@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="21">
+  <message offset="145c">
+Nanjo: Exploring is fine,{nl}
+{ctl0f:1}, but don't forget{nl}
+to go to the hospital.{waitkey}{ret}
+</message>
+  <message offset="1488">
+Mark: The principal's out,{nl}
+huh. Right, he's in the{nl}
+courtyard again.{waitkey}{ret}
+</message>
+  <message offset="14b4">
+Yukino: Pretty flowers...{nl}
+So it's true the principal{nl}
+really does love flowers.{waitkey}{ret}
+</message>
+</scene>

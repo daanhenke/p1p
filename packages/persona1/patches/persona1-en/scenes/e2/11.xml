@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="11">
+  <message offset="1210">
+Nanjo: You want to join the{nl}
+boxing club? But first you{nl}
+must get examined at the{nl}
+hospital.{waitkey}{ret}
+</message>
+  <message offset="1250">
+Mark: Boxing's so cool, huh!{nl}
+But it looks like it hurts~{waitkey}{ret}
+</message>
+  <message offset="1280">
+Yukino: ...Maybe I should{nl}
+go on a diet too...{waitkey}{ret}
+</message>
+  <message offset="12a0">
+Student: I'm cutting weight{nl}
+right now, and even my boxing{nl}
+gloves are starting to look{nl}
+like candied apricots.{waitkey}{ret}
+</message>
+</scene>

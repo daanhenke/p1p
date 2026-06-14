@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="177">
+  <message offset="1514">
+Student: I've met a girl who{nl}
+looked like that girl in{nl}
+black.{waitkey}{ret}
+</message>
+  <message offset="1544">
+Nanjo: You're saying there's{nl}
+another girl?{waitkey}{ret}
+</message>
+  <message offset="1568">
+Student: I think so, yeah.{waitkey}{clearbox}You know that spot that's a{nl}
+forest now, but was a flower{nl}
+garden until recently?{waitkey}{clearbox}I saw her playing there.{waitkey}{ret}
+</message>
+  <message offset="15cc">
+Mark: Uh, a place that used{nl}
+to be a flower garden and is{nl}
+now a forest{wait_fr:32}... this town{nl}
+makes no sense.{waitkey}{ret}
+</message>
+  <message offset="1610">
+Elly: A forest...{wait_fr:32} Could this{nl}
+be what Naito meant about the{nl}
+police station's site having{nl}
+turned into a forest?{waitkey}{ret}
+</message>
+  <message offset="1654">
+Ayase: A forest — the one{nl}
+Naito mentioned? About the{nl}
+police turning into a forest?{waitkey}{ret}
+</message>
+  <message offset="1688">
+Brown: A forest — Naito said{nl}
+something about that, didn't{nl}
+he. The police turning into{nl}
+a forest or something.{waitkey}{ret}
+</message>
+  <message offset="16c0">
+Nanjo: A forest...{wait_fr:32} that{nl}
+reminds me, Naito said the{nl}
+police station's site had{nl}
+become a forest.{waitkey}{ret}
+</message>
+  <message offset="16fc">
+Maki: The police station —{nl}
+that's where we went to save{nl}
+Inaba and Uesugi, right?{waitkey}{clearbox}Now that you mention it,{nl}
+yeah, it's around there.{waitkey}{clearbox}It used to be a lovely flower{nl}
+garden, then suddenly became{nl}
+a huge forest. It startled{nl}
+me too.{waitkey}{ret}
+</message>
+  <message offset="1788">
+Student: What's everyone{nl}
+muttering about?{waitkey}...{wait_fr:16}You lot are kinda{nl}
+suspicious.{waitkey}Hey, are you really {ctl0f:1}?{waitkey}{ret}
+</message>
+  <message offset="17d8">
+Maki: Hey everyone, we've got{nl}
+to hurry! Well, we're off{nl}
+now. See you later!{waitkey}{ret}
+</message>
+</scene>

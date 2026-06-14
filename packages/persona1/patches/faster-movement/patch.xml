@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Increases overworld and dungeon movement speed. -->
+<patch id="faster-movement" version="0.1.0" game="persona1" priority="10">
+  <name>Faster Movement</name>
+  <description>Increases character movement speed in dungeons and the overworld map.</description>
+</patch>

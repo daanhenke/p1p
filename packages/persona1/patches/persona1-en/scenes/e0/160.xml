@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="160">
+  <message offset="1d24">
+Maki's Mother: All of you!?{nl}
+Are you all right?!{waitkey}{ret}
+</message>
+  <message offset="1d48">
+Mark: Owowowow!{nl}
+That smarts~{waitkey}{clearbox}Hm?{wait_fr:88} I see...{nl}
+so this compact{nl}
+carried us here...{waitkey}{ret}
+</message>
+  <message offset="1d90">
+Nanjo: Ngh...!?{nl}
+Where is this?!{waitkey}{ret}
+</message>
+  <message offset="1dac">
+Reiji: Looks like it worked...{wait_fr:88}{nl}
+This is the forest where the{nl}
+child Sonomura was, I think.{waitkey}{ret}
+</message>
+  <message offset="1dec">
+Elly: Bingo!!{nl}
+This is Child Maki's{nl}
+forest!{waitkey}
+</message>
+  <message offset="1e28">
+Brown: Hey, we did it!!{nl}
+This is little Maki's{nl}
+forest, isn't it?!{waitkey}{ret}
+</message>
+  <message offset="1e5c">
+Ayase: Super lucky!!{nl}
+This is chibi Sonomura's{nl}
+forest, right?!
+</message>
+  <message offset="1e88">
+{ret}
+</message>
+  <message offset="1ebc">
+Maki's Mother: Why have you{nl}
+come back?! What happened{nl}
+with Kandori?!{waitkey}{ret}
+</message>
+  <message offset="1ee0">
+Mark: You're one to talk -{nl}
+why are YOU here?!{waitkey}{ret}
+</message>
+  <message offset="1f48">
+Maki's Mother: I'm not sure...{nl}
+After I sent you all off,{nl}
+I thought I heard Maki again{waitkey}{clearbox}and next I knew,{nl}
+I was here... But why{nl}
+have you come back?{waitkey}{ret}
+</message>
+  <message offset="1f68">
+Nanjo: Let me explain.{nl}
+You see...{waitkey}{ret}
+</message>
+  <message offset="1fb4">
+Maki's Mother: ......{wait_fr:88}{nl}
+It can't be... such a thing...{waitkey}Then what about Maki?!{nl}
+What will become of Maki?!{waitkey}{ret}
+</message>
+  <message offset="1fe0">
+Nanjo: Left alone, at best{nl}
+she stays that way for life,{nl}
+at worst...{waitkey}{ret}
+</message>
+  <message offset="2014">
+Maki's Mother: No...{nl}
+Can nothing be done?!{nl}
+This is too cruel!{waitkey}{ret}
+</message>
+  <message offset="2048">
+Mark: Ma'am, calm down!!{nl}
+That's exactly why{nl}
+we came back.
+</message>
+  <message offset="2070">
+{ret}
+</message>
+  <message offset="20a0">
+Reiji: ...{wait_fr:60}We won't let it{nl}
+end like this. Relax.{waitkey}{ret}
+</message>
+  <message offset="20e0">
+Elly: Don't worry,{nl}
+we'll surely find a way!{waitkey}{ret}
+</message>
+  <message offset="20f4">
+Brown: It'll be fine,{nl}
+just trust us! Climb aboard{nl}
+like it's a sinking mud boat!{waitkey}{ret}
+</message>
+  <message offset="212c">
+Nanjo: A great ship!{waitkey}{ret}
+</message>
+  <message offset="2160">
+Brown: Right, right, a great{nl}
+ship! Totally a-okay!!{nl}
+Bwahahaha!!{waitkey}{ret}
+</message>
+  <message offset="21a0">
+Mark: Hey Nanjo... this is{nl}
+his real self. So much{nl}
+for "self-improvement"...{waitkey}{ret}
+</message>
+  <message offset="21b8">
+Nanjo: Indeed... this degree{nl}
+of foolishness is a{nl}
+natural gift.{waitkey}{clearbox}He hardly looks like a man{nl}
+who'd faint over something{nl}
+so crude as soiling himself.{waitkey}{ret}
+</message>
+  <message offset="21e8">
+Brown: Bwahahaha!{waitkey}
+</message>
+  <message offset="2204">
+Ayase: Don't worry, Sonomura{nl}
+Mama! Ayase may not look it,{nl}
+but Ayase's reliable!{waitkey}{ret}
+</message>
+  <message offset="221c">
+Maki's Mother: ...Thank you,{nl}
+everyone...{waitkey}{ret}
+</message>
+  <message offset="2248">
+Mai's Voice: Sniff... sob...{waitkey}{ret}
+</message>
+  <message offset="227c">
+Maki's Mother: That was{nl}
+Maki's voice?! She's{nl}
+deeper inside!{waitkey}
+</message>
+  <message offset="22d8">
+Mark: Let's go!!{nl}
+Little Sonomura might{nl}
+know something!{waitkey}{ret}
+</message>
+  <message offset="2314">
+Maki's Mother: Wait!{nl}
+Take me with you!{nl}
+I'm Maki's mother!{waitkey}I can't just leave my own{nl}
+daughter to suffer!
+</message>
+  <message offset="232c">
+{ret}
+</message>
+  <message offset="235c">
+Nanjo: ...{wait_fr:88}Very well.{nl}
+But this forest is dangerous.{nl}
+I can't guarantee your life.{waitkey}{ret}
+</message>
+  <message offset="23d0">
+Maki's Mother: I don't care!{waitkey}{ret}
+</message>
+  <message offset="23f0">
+Nanjo: So it's settled.{nl}
+Let's go, {ctl0f:1}.
+</message>
+  <message offset="2494">
+Let's reunite a mother{nl}
+with her child.{waitkey}{ret}
+</message>
+  <message offset="24f8">
+Mark: Heh... she's a good{nl}
+mom, huh. Pretty, too.{waitkey}{clearbox}My old lady...{wait_fr:88} she's{nl}
+just a nag, but she's{nl}
+alive and kicking, I bet!{waitkey}
+</message>
+  <message offset="252c">
+She's not the type to{nl}
+die easy, after all...{waitkey}{ret}
+</message>
+  <message offset="2558">
+Mark: C'mon c'mon,{nl}
+we gotta hurry or else!{waitkey}{ret}
+</message>
+  <message offset="2580">
+Nanjo: A woman like her is{nl}
+a true mother... I don't{nl}
+even know my mom's birthday.{clearbox}Even at home, all but{nl}
+Yamaoka were strangers.{nl}
+All I got was money, things.{clearbox}{ctl0f:1}, we WILL reunite{nl}
+her with Sonomura - even{nl}
+at the cost of our lives.{waitkey}{ret}
+</message>
+  <message offset="2598">
+Nanjo: Still, this whole{nl}
+affair gives me much{nl}
+to think about.{waitkey}{clearbox}The existence of multiple{nl}
+selves... I never once{nl}
+considered it, but even I{waitkey}must acknowledge it now.{waitkey}{ret}
+</message>
+  <message offset="25b8">
+Reiji: ...{wait_fr:88}{nl}
+That's just how moms are...{nl}
+Kids just don't notice it.{waitkey}{ret}
+</message>
+  <message offset="2600">
+Reiji: How long you planning{nl}
+to stay here? Aren't we{nl}
+going to the shrine?{waitkey}{ret}
+</message>
+  <message offset="2630">
+Elly: {ctl07:1}...{wait_fr:88}{nl}
+Is the way I talk strange?{waitkey}{ret}
+</message>
+  <message offset="2660">
+Was the old way... better?{nl}
+{ctl0e:30}{ret}
+</message>
+  <message offset="26dc">
+Elly: I see...{nl}
+Then I'll speak politely.{waitkey}{ret}
+</message>
+  <message offset="2734">
+Elly: Oh, good!{nl}
+I was worried you might{nl}
+find it odd!{waitkey}{ctl07:1}... Thanks...{waitkey}{ret}
+</message>
+  <message offset="277c">
+Elly: Hurry up!{nl}
+We must get to the shrine!{waitkey}{ret}
+</message>
+  <message offset="278c">
+Elly: Hurry up!{nl}
+Let's get to the shrine!{waitkey}{ret}
+</message>
+  <message offset="27c8">
+Brown: The shrine's next,{nl}
+right? "Haste makes waste"!{waitkey}What? That's "not what it{nl}
+means"? Whatever - it's{nl}
+Brown-speak!{waitkey}{ret}
+</message>
+  <message offset="2818">
+Ayase: Hmm~{nl}
+{ctl0f:1}, when you look{nl}
+closely, you're a catch!{waitkey}{clearbox}Want Ayase to register you{nl}
+as a husband candidate?{waitkey}{ret}
+</message>
+  <message offset="2858">
+Register?{nl}
+{ctl0e:31}{ret}
+</message>
+  <message offset="2898">
+Ayase: Beep! Registered!{nl}
+From now on, you'll work{nl}
+like a horse for Ayase!{waitkey}{ret}
+</message>
+  <message offset="28c8">
+Ayase: What?!{nl}
+Ayase's not good enough?!{nl}
+Fine! See if Ayase cares!!{waitkey}I'll work you even harder!!{waitkey}{ret}Ayase: We're going to the{nl}
+shrine, right? With all this{nl}
+walking, maybe it counts{waitkey}as a little diet?{waitkey}{ret}
+</message>
+  <message offset="2900">
+Maki's Mother: I'm... a{nl}
+useless mother. Whenever{nl}
+she suffers, I can never{waitkey}do a thing for her...{waitkey}{ret}
+</message>
+  <message offset="293c">
+Maki: The real me is next...{nl}
+Just how many of me{nl}
+are there, anyway?{waitkey}{ret}
+</message>
+  <message offset="2980">
+Elly: Child Maki...{nl}
+all alone in such a{nl}
+lonely place...{waitkey}{ret}
+</message>
+  <message offset="29c4">
+Elly: Child Maki...{nl}
+all alone in such a{nl}
+lonely place...{waitkey}{ret}
+</message>
+</scene>

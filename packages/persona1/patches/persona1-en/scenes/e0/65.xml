@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="65">
+  <message offset="18c0">
+Yosuke: Is it really{nl}
+{ctl0f:1}? I never thought{nl}
+I'd meet you all again!{waitkey}{ret}
+</message>
+  <message offset="1900">
+Mark: What?{nl}
+Could you be...{nl}
+the missing Naito?!{waitkey}{ret}
+</message>
+  <message offset="1934">
+Yosuke: Yeah!{nl}
+I drifted here 2 months{nl}
+ago — with Chisato...{waitkey}Kasai-san.{nl}
+Same world as you!{waitkey}{ret}
+</message>
+  <message offset="198c">
+Nanjo: You said "world"...{wait_fr:60}{nl}
+This isn't the past,{nl}
+but another dimension?{waitkey}{ret}
+</message>
+  <message offset="19cc">
+Yosuke: Yeah, I thought{nl}
+it was the past at first.{nl}
+Looked just like our town.{waitkey}{clearbox}But parts were off —{nl}
+the police station was{nl}
+a forest, the hospital{waitkey}a diner.{nl}
+And Maki, as you see.{nl}
+It was like paradise...{waitkey}{wait_fr:88}until a month ago.{waitkey}{ret}
+</message>
+  <message offset="1a78">
+Nanjo: A parallel world...{nl}
+Worlds like ours existing{nl}
+in parallel universes...{waitkey}{ret}
+</message>
+  <message offset="1abc">
+Mark: Seriously...{nl}
+I thought you eloped{nl}
+with Kasai!{waitkey}{clearbox}But you went to{nl}
+another world! That's wild —{nl}
+but wait, same goes for us.{waitkey}{ret}
+</message>
+  <message offset="1b24">
+Elly: Fantastic!{nl}
+How wonderful!{nl}
+Like a novel or movie!{waitkey}{ret}
+</message>
+  <message offset="1b68">
+Ayase: Seriously?!{nl}
+Ayase has things to do!{nl}
+What do we do, {ctl0f:1}?!{waitkey}{ret}
+</message>
+  <message offset="1ba0">
+Brown: No way!{nl}
+How do we get back?!{nl}
+Ugh...{waitkey}{ret}
+</message>
+  <message offset="1bc8">
+Nanjo: Hard to believe,{nl}
+but given the DEVA System,{nl}
+accepting it seems right.{waitkey}{ret}
+</message>
+  <message offset="1c0c">
+Yosuke: Well, that's{nl}
+understandable...{wait_fr:92}{nl}
+But for this world's Maki{nl}
+to bring you all here...{waitkey}{ret}
+</message>
+  <message offset="1c50">
+Mark: Wait!{nl}
+So Sonoda is Sonoda,{nl}
+but not our Sonoda?!{waitkey}{ret}
+</message>
+  <message offset="1c90">
+Maki: I'm sorry!{nl}
+I wasn't trying to{nl}
+deceive you!{waitkey}{clearbox}I wasn't sure until{nl}
+we got back. I never{nl}
+thought another world{waitkey}was real and that I'd{nl}
+go there...{nl}
+I planned to tell you after.{waitkey}{ret}
+</message>
+  <message offset="1cf8">
+Nanjo: I see.{nl}
+No wonder her behavior{nl}
+was strange.{waitkey}{ret}
+</message>
+  <message offset="1d1c">
+Maki: I dozed off in class{nl}
+and woke in another world.{nl}
+It took a while to realize.{waitkey}{ret}
+</message>
+  <message offset="1d5c">
+Mark: Unbelievable...{nl}
+The real Sonoda is still{nl}
+in the hospital...{waitkey}{clearbox}May I say one thing?{nl}
+Uh...{wait_fr:108} Sonoda.{waitkey}{ret}
+</message>
+  <message offset="1dbc">
+Maki: Sorry, but would{nl}
+you have believed me?{waitkey}{clearbox}And if we beat Kandori,{nl}
+both worlds should{nl}
+return to normal...{waitkey}I planned to tell{nl}
+you after, I promise.{waitkey}{ret}
+</message>
+  <message offset="1e24">
+Mark: I see...{nl}
+Hmm? Kasai's not here —{nl}
+where is she?{waitkey}{ret}
+</message>
+  <message offset="1e54">
+Yosuke: Chisato...{nl}
+Kasai-san was taken{nl}
+by that black girl...{waitkey}{wait_fr:88}Damn!{waitkey}{ret}
+</message>
+  <message offset="1e8c">
+Brown: Whoa!{nl}
+Wh-what?!{waitkey}{ret}
+</message>
+  <message offset="1eac">
+Elly: What's happening?!{waitkey}{ret}
+</message>
+  <message offset="1ed4">
+Ayase: Kyaa!{nl}
+I'm done — what is this?!{waitkey}{ret}
+</message>
+  <message offset="1efc">
+Maki: Could it be?!{nl}
+That girl again?!{waitkey}{ret}
+</message>
+  <message offset="1f18">
+Dark girl's voice: Kyahaha!{nl}
+This time I'll wreck{nl}
+this school for sure!{waitkey}{clearbox}I hid the exits so{nl}
+no one can escape!{nl}
+Kyahahahahahaha...{waitkey}{ret}
+</message>
+  <message offset="1f84">
+Yosuke: No doubt it's her!{nl}
+She erased the exit?!{nl}
+If demons come now...{waitkey}{ret}
+</message>
+  <message offset="1fc4">
+We'll all be killed!{nl}
+Damn — we have to go!{waitkey}{ret}
+</message>
+  <message offset="1fdc">
+Maki: Stop! Yosuke-kun!{nl}
+Please, don't{nl}
+push yourself!{waitkey}Everyone, help!{nl}
+We have to do{nl}
+something!{waitkey}{ret}
+</message>
+  <message offset="2020">
+Mark: Not sure what's{nl}
+happening, but we're{nl}
+stuck! Let's go, {ctl0f:1}!{waitkey}{ret}
+</message>
+  <message offset="2054">
+Yosuke: Damn!{nl}
+If my body cooperated,{nl}
+I could save Chisato!{waitkey}{clearbox}Hm? This injury?{nl}
+{wait_fr:88}When she last came{nl}
+she beat me badly...{waitkey}What a sorry state{nl}
+I'm in!{waitkey}{ret}
+</message>
+  <message offset="20d4">
+Maki: She must be{nl}
+somewhere in school!{waitkey}Don't underestimate{nl}
+her size — she has{nl}
+strange powers!{waitkey}{ret}
+</message>
+  <message offset="2120">
+Nanjo: What connects{nl}
+that girl and Kandori?{nl}
+Too little data to judge...{waitkey}{ret}
+</message>
+  <message offset="215c">
+Mark: No use worrying!{nl}
+To find a way back,{nl}
+handle this first!{waitkey}{ret}
+</message>
+  <message offset="2198">
+Brown: Ugh...{nl}
+is there really{nl}
+a way back...?{waitkey}{ret}
+</message>
+  <message offset="21c4">
+Ayase: {ctl0f:1},{nl}
+make sure you find{nl}
+a way home, okay?!{waitkey}{ret}
+</message>
+  <message offset="21e8">
+Elly: A girl who{nl}
+commands demons...{nl}
+A Devil Summoner?{waitkey}{ret}
+</message>
+  <message offset="2238">
+{color:2}Naito Yosuke.{nl}
+A playboy missing for{nl}
+2 months with Kasai.{color:0}{waitkey}{ret}
+</message>
+  <message offset="2280">
+Mark: I see...{nl}
+So Kasai is still held{nl}
+by that black girl?{waitkey}{ret}
+</message>
+  <message offset="22b0">
+Yosuke: Yeah...{nl}
+and I couldn't even{nl}
+protect her...{waitkey}{wait_fr:88}Damn!{waitkey}{ret}
+</message>
+  <message offset="22d8">
+Reiji: ...{nl}
+Kandori's kid, you say?{nl}
+He has no kids.{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="48">
+  <message offset="16d0">
+Yukino: Hm? This is...{nl}
+the Principal's office?{nl}
+Why is it here??{waitkey}{ret}
+</message>
+  <message offset="16fc">
+V.P. Hannya: Oishi, "Vice{nl}
+Principal," you mean to say{nl}
+my, the "Principal's,"{waitkey}{clearbox}teaching policy is wrong?{nl}
+That's what you're saying,{nl}
+"Vice Principal" Oishi?{waitkey}{ret}
+</message>
+  <message offset="1768">
+Principal Oishi: No, Hannya,{nl}
+"Principal," that's not it.{nl}
+It's just that I...{waitkey}{clearbox}A rule where a student late{nl}
+three times is expelled, or{nl}
+shines "Principal" Hannya's{waitkey}{clearbox}shoes till graduation...{nl}
+isn't that a bit much...?{waitkey}{ret}
+</message>
+  <message offset="17f0">
+Nanjo: It seems we're in the{nl}
+dream of the V.P. and{nl}
+the Principal.{waitkey}{clearbox}V.P. Hannya has become{nl}
+"Principal," and Principal{nl}
+Oishi the "Vice Principal"...{waitkey}{clearbox}Most likely the Principal{nl}
+got dragged into that vulgar{nl}
+V.P.'s dream. Something so.{waitkey}{ret}
+</message>
+  <message offset="1880">
+Brown: Huh huh huh?{nl}
+V.P. Hannya's "Principal"?{nl}
+Principal Oishi's "V.P."?{waitkey}{clearbox}What's going on?{nl}
+Oh, I get it! This is{nl}
+Hannya and Oishi's dream!{waitkey}{ret}
+</message>
+  <message offset="18f0">
+Ayase: Ehh! Baldy Hannya as{nl}
+Principal? So not okay!{waitkey}{ret}
+</message>
+  <message offset="191c">
+V.P. Hannya: What did you say!{nl}
+Oishi, "Vice Principal"!{nl}
+A mere "V.P." like you,{waitkey}{clearbox}finding fault with the{nl}
+splendid rule I, "Principal"{nl}
+Hannya, thought up?!{waitkey}{clearbox}Right! New rule! Any teacher{nl}
+who knocks the "Principal's"{nl}
+rule is fired! Fired, fired!{waitkey}You're fired~!!{waitkey}{ret}
+</message>
+  <message offset="19e4">
+Principal Oishi:{nl}
+"Thought up"?!{nl}
+Hannya, "Principal"!!{nl}
+You decided the school rules{waitkey}on a whim?{waitkey}{ret}
+</message>
+  <message offset="1a34">
+Nanjo: Absurd. Truly absurd.{nl}
+An exchange I can't bear{nl}
+to listen to.{waitkey}{clearbox}Is this the conversation of{nl}
+men who call themselves{nl}
+educators?{waitkey}{ret}
+</message>
+  <message offset="1a84">
+Elly: V.P. Hannya's "dream,"{nl}
+so full of desire, must have{nl}
+a very strong power.{waitkey}{clearbox}To drag even Principal Oishi{nl}
+into his own dream...{waitkey}{ret}
+</message>
+  <message offset="1aec">
+V.P. Hannya: Sh-shut up!{nl}
+What's wrong with deciding{nl}
+rules on a whim?!{waitkey}{clearbox}Call it what you will,{nl}
+I'm the greatest at this{nl}
+school! A god, you could say!{waitkey}{clearbox}My voice is the voice of god!{nl}
+The will of the great cosmos!{nl}
+Understand?!{waitkey}{ret}
+</message>
+  <message offset="1b84">
+Principal Oishi: Hannya,{nl}
+"Principal"!! What do you{nl}
+think education even is?{waitkey}{clearbox}To begin with...{waitkey}{ret}
+</message>
+  <message offset="1bcc">
+Yukino: Let's just wake them{nl}
+up already. I really can't{nl}
+stand listening.{waitkey}{ret}
+</message>
+  <message offset="1bf4">
+Yukino: Still, this is an{nl}
+awfully realistic{nl}
+Principal's office.{waitkey}{clearbox}If no one told you, you'd{nl}
+never know it's a dream.{waitkey}{ret}
+</message>
+  <message offset="1c34">
+Ayase: Ahh,{nl}
+let's get back to school.{nl}
+Ayase's tired!!{waitkey}{ret}
+</message>
+  <message offset="1c60">
+Nanjo: We who go peering{nl}
+through others' dreams have{nl}
+no right to say it, but{waitkey}{clearbox}being shown such naked human{nl}
+desire is not a pleasant{nl}
+feeling.{waitkey}{ret}
+</message>
+  <message offset="1cc0">
+Brown: Whoa~!{nl}
+Wanna take a break on the{nl}
+sofa set here?{waitkey}{clearbox}...Just kidding.{waitkey}{ret}
+</message>
+  <message offset="1d00">
+Elly: For a dream world,{nl}
+it's not such a Romantic{nl}
+place, is it.{waitkey}{ret}
+</message>
+  <message offset="1d3c">
+V.P. Hannya: What?! You're{nl}
+being noisy! Later!!{waitkey}{ret}
+</message>
+  <message offset="1d64">
+Pinch V.P. Hannya?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1d7c">
+Principal Oishi: Later -{nl}
+I must persuade the{nl}
+"Principal."{waitkey}{ret}
+</message>
+  <message offset="1da4">
+Pinch Principal Oishi?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1dbc">
+V.P. Hannya: Wh-what?{waitkey}{ret}
+</message>
+  <message offset="1dd0">
+Principal Oishi: Oh, my?{waitkey}{ret}
+</message>
+  <message offset="1de4">
+V.P. Hannya: Get lost,{nl}
+now!! I'll have you{nl}
+shining shoes!!{waitkey}{ret}
+</message>
+  <message offset="1e10">
+Principal Oishi: Now, run{nl}
+along over there.{waitkey}{ret}
+</message>
+</scene>

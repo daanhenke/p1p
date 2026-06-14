@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="40">
+  <message offset="140c">
+Yukino: The Snow Queens of{nl}
+ages past lived their school{nl}
+lives in the old building —{nl}
+is that why it's changed?{waitkey}{clearbox}Which means the demons' power{nl}
+has grown even greater than{nl}
+before.{waitkey}{ret}
+</message>
+  <message offset="1478">
+Ayase: So people back then{nl}
+had class in rooms like this~{waitkey}Weren't they cold, I wonder~{waitkey}{ret}
+</message>
+  <message offset="14ac">
+Nanjo: Mayuzumi's right.{waitkey}From here on, we'd best{nl}
+proceed with our guard up.{waitkey}{ret}
+</message>
+  <message offset="14e0">
+Brown: What a nasty vibe.{waitkey}{clearbox}It's an old building to begin{nl}
+with, and it's frozen over,{nl}
+and the footsteps echo like{nl}
+crazy.{waitkey}{ret}
+</message>
+  <message offset="1524">
+Elly: They say old schools{nl}
+are steeped in all sorts of{nl}
+memories spanning many{nl}
+generations.{waitkey}{clearbox}I only hope they don't have{nl}
+a bad influence.{waitkey}{ret}
+</message>
+</scene>

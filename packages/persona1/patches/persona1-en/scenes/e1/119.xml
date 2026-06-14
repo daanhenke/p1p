@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="119">
+  <message offset="18ac">
+Yukino: Who is that woman?{nl}
+Hanging a camera around{nl}
+her neck like that.{waitkey}{ret}
+</message>
+  <message offset="18e0">
+Yukino: A weird one,{nl}
+that Mariko woman.{waitkey}{clearbox}Like Kuroori, I just don't{nl}
+get people who are into{nl}
+the occult.{waitkey}{ret}
+</message>
+  <message offset="1928">
+Ayase: That woman's, like,{nl}
+super suspicious.{waitkey}{ret}
+</message>
+  <message offset="1944">
+Ayase: That pink uniform's{nl}
+cute, huh.{waitkey}{ret}
+</message>
+  <message offset="1960">
+Nanjo: What is that woman?{nl}
+She doesn't seem to be{nl}
+a student of our school.{waitkey}{ret}
+</message>
+  <message offset="1990">
+Nanjo: That Mariko woman is{nl}
+truly enjoying this whole{nl}
+situation, isn't she.{waitkey}{ret}
+</message>
+  <message offset="19c4">
+Brown: That's the uniform of{nl}
+"Yamagumo Private High,"{nl}
+famous for its free spirit.{waitkey}{clearbox}She's quite a cutie, isn't{nl}
+she! Who is she, I wonder?{waitkey}{ret}
+</message>
+  <message offset="1a24">
+Brown: Maybe I'll go{nl}
+adventuring the tower with{nl}
+Mariko-chan...{waitkey}{ret}
+</message>
+  <message offset="1a50">
+Elly: She... what is she{nl}
+doing in a place like this?{waitkey}{ret}
+</message>
+  <message offset="1a70">
+Elly: She... might be more{nl}
+Dangerous than Kuroori.{waitkey}{ret}
+</message>
+  <message offset="1aac">
+Mariko: Hm? Was there{nl}
+something in that chest?{waitkey}{clearbox}Yeah, this "Mirror Shard"{nl}
+was inside! I feel a strong{nl}
+spiritual power from this{waitkey}mirror.{waitkey}{clearbox}It must be a psychic item{nl}
+with great hidden power,{nl}
+surely.{waitkey}{clearbox}Hm? You want this?{nl}
+Hmm...{waitkey}{clearbox}5000 yen! How's that? I'm{nl}
+the one who found it first,{nl}
+so... not too pricey, right?{waitkey}{ret}
+</message>
+  <message offset="1b7c">
+Buy the "Mirror Shard"?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1b98">
+Mariko: Thanks!{nl}
+I've been snapping photos{nl}
+like crazy since entering{waitkey}this tower, so film's pricey.{waitkey}{clearbox}Alright! Now I can buy{nl}
+more film!{waitkey}{ret}
+</message>
+  <message offset="1bf8">
+Obtained a "Mirror Shard"!{waitkey}{ret}
+</message>
+  <message offset="1c10">
+Mariko: Hmm, oh, I see.{nl}
+You don't want it, huh.{waitkey}{clearbox}Then I'll send it to{nl}
+"Lemuria" to have it{nl}
+appraised!{waitkey}{ret}
+</message>
+  <message offset="1c5c">
+Mariko: Hey! You don't even{nl}
+have 5000 yen?{nl}
+Sheesh, how pathetic!{waitkey}{clearbox}Then you can come with me{nl}
+and work off 5000 yen's{nl}
+worth.{waitkey}{clearbox}Hm? No?{waitkey}{clearbox}Then pay up the full{nl}
+5000 yen, right now!{waitkey}{ret}
+</message>
+  <message offset="1cf4">
+Mariko: Honestly, I'm so{nl}
+lucky!{waitkey}{clearbox}You couldn't get photos of{nl}
+the afterlife in a whole{nl}
+lifetime!{waitkey}{clearbox}When I get back, I've got to{nl}
+submit these photos to{nl}
+"Fortean World"!{waitkey}{ret}
+</message>
+  <message offset="1d70">
+The chest is already empty.{waitkey}{ret}
+</message>
+  <message offset="1d80">
+???: Oh, hello!{nl}
+Nice to meet you!{waitkey}{clearbox}I'm Mariko Yabe of the{nl}
+"Yamagumo Private High School{nl}
+Paranormal Club"! Nice to{waitkey}meet you!{waitkey}{clearbox}Though it's an unofficial club{nl}
+where I'm both president and{nl}
+sole member!{waitkey}{clearbox}My homeroom teacher won't{nl}
+approve the club just because{nl}
+he says it's "lame"!{waitkey}{clearbox}So today I came to meet my{nl}
+comrade Kuroori, but...{nl}
+never{wait_fr:30} did I think...{waitkey}{clearbox}I'd get caught up in such an{nl}
+amazing paranormal event!{nl}
+I'm, like, super lucky!{waitkey}{clearbox}I've been snapping photos like{nl}
+crazy! And I'll submit these{nl}
+demon photos to a magazine!{waitkey}{clearbox}Then! Maybe the teacher will{nl}
+approve the club after all!{nl}
+Alright! I'll do my best!{waitkey}{ret}
+</message>
+</scene>

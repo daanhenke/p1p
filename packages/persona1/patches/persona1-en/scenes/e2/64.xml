@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="64">
+  <message offset="10fc">
+Nurse: Honestly, you lot!{nl}
+You'll have to wait your{nl}
+turn properly, or there'll{nl}
+be trouble!{waitkey}Now, out you go, please!{waitkey}{ret}
+</message>
+</scene>

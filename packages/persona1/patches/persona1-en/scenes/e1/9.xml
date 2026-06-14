@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="9">
+  <message offset="17ac">
+...
+</message>
+  <message offset="17d8">
+Brown: Fuga~??{nl}
+Someone came out of me{nl}
+and said hello.{waitkey}{ret}
+</message>
+  <message offset="17ec">
+Ayase: What was that...{waitkey}{ret}
+</message>
+  <message offset="1810">
+Nanjo: That?{nl}
+We've decided to call{nl}
+it a Persona.{waitkey}{ret}
+</message>
+  <message offset="1834">
+Elly: At least for now,{nl}
+it doesn't seem to be{nl}
+an enemy.{waitkey}{ret}
+</message>
+  <message offset="184c">
+Yukino: Another ally{nl}
+joins us.{waitkey}{ret}
+</message>
+  <message offset="1860">
+Brown: Ally?{waitkey}{ret}
+</message>
+  <message offset="1890">
+Ayase: What do you mean?{nl}
+Don't tell me {ctl0f:1} and{nl}
+Mayuzumi are that too?{waitkey}{ret}
+</message>
+  <message offset="18c0">
+Nanjo: Whether they're "that"{nl}
+or not, I don't know, but{nl}
+we do share one thing.{waitkey}{ret}
+</message>
+  <message offset="18f8">
+Yukino: Yeah, ever since that{nl}
+weird dream, we can call{nl}
+those - Personas, was it?{waitkey}{ret}
+</message>
+  <message offset="1950">
+Elly: Somehow, only those who{nl}
+saw that butterfly in their{nl}
+dream have gained the power.{waitkey}{clearbox}It seems connected to this{nl}
+demon uproar as well.{waitkey}{ret}
+</message>
+  <message offset="197c">
+Ayase: Ugh! Toro used a{nl}
+Persona too. Did he have{nl}
+the butterfly dream as well?{waitkey}{ret}
+</message>
+  <message offset="19ac">
+Nanjo: Hm, most likely.{waitkey}{clearbox}That's probably how he came{nl}
+to use a Persona.{waitkey}{ret}
+</message>
+  <message offset="19c4">
+Elly: Yes, most likely.{waitkey}{ret}
+</message>
+  <message offset="1a58">
+Ayase: Ehhh?!{waitkey}No waaay!{waitkey}Unbelievaaable!!{waitkey}{clearbox}So then, so then,{nl}
+out of Ayase's belly too,{waitkey}a beep{wait_fr:15} goes{wait_fr:15} beep{wait_fr:15}?!{waitkey}{ret}
+</message>
+  <message offset="1ad4">
+Elly: {wait_fr:18}...{wait_fr:18}...{wait_fr:18}I don't think so.{nl}
+Like a Knife, what matters{nl}
+is how you use it.{waitkey}{clearbox}With its use, it can help{nl}
+people or harm them.{waitkey}In short, it's the character{nl}
+of the one who wields it.{waitkey}{ret}
+</message>
+  <message offset="1b74">
+Nanjo: I think not.{nl}
+Even the same power is used{nl}
+differently by each person.{waitkey}{clearbox}Dynamite has the power to{nl}
+kill, but it can also{nl}
+open a tunnel.{waitkey}{clearbox}In the end it's the wielder's{nl}
+character. Use power for{nl}
+greed, and you reap what{waitkey}you sow.{waitkey}{ret}
+</message>
+  <message offset="1c40">
+Brown: Character, huh~{nl}
+No problem there.{waitkey}I see!!{waitkey}{clearbox}The butterfly must think this:{nl}
+make Lord Brown a champion{nl}
+of justice to save the town{waitkey}and school, or something.{waitkey}{clearbox}If you all bow your heads{nl}
+and beg me, well,{nl}
+I suppose I've no choice.{waitkey}{clearbox}I, the great me, shall{nl}
+lend you my power!{nl}
+Everyone, follow me!!{waitkey}{ret}
+</message>
+  <message offset="1c54">
+Nanjo: A happy fellow.{waitkey}{ret}
+</message>
+  <message offset="1c7c">
+Yukino: Well, if he wants{nl}
+to come along, let him{nl}
+do as he likes.{waitkey}{ret}
+</message>
+  <message offset="1c8c">
+Right, {ctl0f:1}?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1cd4">
+Brown: Oh-ho?{waitkey}{clearbox}Honestly, come on~♥{nl}
+You want me to come along~♥{nl}
+Let's all be more honest, eh?{waitkey}{ret}
+</message>
+  <message offset="1d94">
+Brown: Hey hey hey hey{waitkey}{clearbox}Yukino herself said "by all{nl}
+means"! There's no way{nl}
+I can refuse!{waitkey}{clearbox}Besides, from what I hear,{nl}
+the school ended up like{nl}
+this 'cause of you, right?{waitkey}{clearbox}Put me up as leader and{nl}
+you can't go wrong.{waitkey}{clearbox}Just trust me and{nl}
+follow along!!{nl}
+Dehyahyahyahyahya!{waitkey}{ret}
+</message>
+  <message offset="1dd0">
+Yukino: Where are you looking,{nl}
+flashing a peace sign?{waitkey}{clearbox}C'mon, quit dawdling!{nl}
+Let's go!!{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="166">
+  <message offset="1238">
+Maki: I wonder what kind of{nl}
+company SEBEC even is.{waitkey}{ret}
+</message>
+  <message offset="125c">
+Maki: Let's hurry and go{nl}
+after Kandori!{waitkey}{ret}
+</message>
+  <message offset="127c">
+Nanjo: Kandori and I never{nl}
+hit it off, from the first{nl}
+time we met at a party.{waitkey}If only I'd seen through his{nl}
+scheme back then...{waitkey}{ret}
+</message>
+  <message offset="12d8">
+Mark: There's a chance we{nl}
+could end up dead, after all.{wait_fr:32}{nl}
+I don't really mind, but{waitkey}{clearbox}my old lady... {wait_fr:32}when I think{nl}
+of Mom crying, it just bugs{nl}
+me...{waitkey}{ret}
+</message>
+  <message offset="1344">
+Elly: I wonder what'll happen{nl}
+next. Hehe, I can't wait!{waitkey}{ret}
+</message>
+  <message offset="1370">
+Elly: Let's hurry and go{nl}
+after Mr. Kandori!{waitkey}{ret}
+</message>
+  <message offset="1398">
+Brown: Let's hurry up and go{nl}
+crush this Kandori guy!{waitkey}Idiot, like I'd ever be{wait_fr:16}{nl}
+s-{wait_fr:16}scared, right?{waitkey}{ret}
+</message>
+  <message offset="13ec">
+Brown: Go after Kandori,{nl}
+quick...{wait_fr:32} we really do have{nl}
+to chase him, huh...?{waitkey}{ret}
+</message>
+  <message offset="1424">
+Ayase: Ayase's not scared or{nl}
+anything{wait_fr:48}... okay, maybe just{nl}
+a little scared.{waitkey}{ret}
+</message>
+</scene>

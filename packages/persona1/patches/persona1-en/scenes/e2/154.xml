@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="154">
+  <message offset="1400">
+SEBEC Employee: I always knew{nl}
+this company had a dark side,{nl}
+but...{waitkey}To think they were even making{nl}
+biological weapons.{waitkey}{ret}
+</message>
+  <message offset="1440">
+SEBEC Employee: The other day{nl}
+in the office, I saw the ghost{nl}
+of a girl in black clothes...{waitkey}{clearbox}It's got to be the curse of{nl}
+the haunted house. Yes!{nl}
+That must be it!!{waitkey}{ret}
+</message>
+  <message offset="14a0">
+Maki: The haunted house, huh.{nl}
+When I was little, I often{nl}
+went there to play alone.{waitkey}{ret}
+</message>
+  <message offset="14d4">
+Mark: Biological weapons~?!{waitkey}{ret}
+</message>
+  <message offset="14f0">
+Nanjo: That Kandori!{waitkey}Turning the whole company{nl}
+into his personal plaything{nl}
+— what is he planning?{waitkey}{ret}
+</message>
+  <message offset="152c">
+Ayase: Such a pretty building,{nl}
+but what they do inside is{nl}
+the worst.{waitkey}{ret}
+</message>
+  <message offset="1550">
+Brown: Ghosts or biological{nl}
+weapons, with me around{nl}
+they're done for in a flash.{waitkey}{ret}
+</message>
+  <message offset="1584">
+Elly: There's a mansion where{nl}
+Ghosts appear?{waitkey}{ret}
+</message>
+  <message offset="15ac">
+Reiji: How long do you plan{nl}
+to dawdle?!{waitkey}Let's move.{waitkey}{ret}
+</message>
+</scene>

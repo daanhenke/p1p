@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="129">
+  <message offset="1498">
+...
+</message>
+  <message offset="151c">
+Yukino: Yuriko...{nl}
+you've... lost! Give it up.{waitkey}{clearbox}Or what? Will you cry and{nl}
+cling to your gracious "Snow{nl}
+Queen," who gave you{waitkey}"eternal beauty"?{waitkey}{clearbox}What'll it be!! Huh?{waitkey}{ret}
+</message>
+  <message offset="16b4">
+Yuriko: ...{wait_fr:30}...{wait_fr:30}...{wait_fr:30}...{waitkey}{clearbox}You know, Yuriko-chan...{nl}
+really...{wait_fr:30} really...{wait_fr:30}{nl}
+the Sn-{wait_fr:30}"Snow Queen"...{waitkey}someone like that...{waitkey}I really hate her.{waitkey}{clearbox}You know, Yuriko-chan...{nl}
+...this was for the best...{nl}
+...{waitkey}{clearbox}Getting to play with{nl}
+everyone...{nl}
+chat with everyone...{nl}
+fight with all my might...{waitkey}and then...{wait_fr:30} getting beaten...{waitkey}{clearbox}Yes...{wait_fr:30} this is how{nl}
+it should be...{nl}
+...because Yuriko-chan is...{nl}
+..."human"{wait_fr:30}, after all...{waitkey}...and "humans"{wait_fr:30} "die"...{waitkey}{clearbox}...Because Yuriko-chan was...{nl}
+...a fool...{nl}
+...such an obvious thing...{waitkey}...she just couldn't grasp...{waitkey}{ret}
+</message>
+  <message offset="17a0">
+Nanjo: What? You... are you{nl}
+crying...?{wait_fr:30} Hmph... how false!{nl}
+What are you plotting now?{waitkey}{clearbox}Did you think you could lull{nl}
+us off guard with such fake{nl}
+tears?{waitkey}{clearbox}There's a limit to making{nl}
+fools of people.{waitkey}{clearbox}And to begin with - you, the{nl}
+"Snow Queen's" underling, of{nl}
+all things to say, that you{waitkey}"really hate" her?{waitkey}{clearbox}If you're going to lie, come{nl}
+up with a better lie.{waitkey}{ret}
+</message>
+  <message offset="1904">
+Brown: Huh? You're crying?{waitkey}{clearbox}Yuriko-chan... weak as the{nl}
+great me is to a pretty girl's{nl}
+tears...{waitkey}{clearbox}I can see right through those{nl}
+being fake tears...{waitkey}{clearbox}You're plotting something{nl}
+again, but... that won't work.{waitkey}{clearbox}You might fool the others,{nl}
+but!{waitkey}{clearbox}You can't trick the eyes of{nl}
+the great me. No, really.{waitkey}{clearbox}Besides, you, Miss "Snow{nl}
+Queen"-worshipper,{waitkey}{clearbox}saying "Yuriko-chan really{nl}
+hates the Snow Queen"?{waitkey}{clearbox}Oh come on... is that a new{nl}
+kind of party joke? Lie{nl}
+better, Yuriko-chan.{waitkey}{ret}
+</message>
+  <message offset="19ec">
+Ayase: Hey...{wait_fr:30} you idiot!{nl}
+This girl's really crying!{nl}
+Can't you tell by looking?{waitkey}{clearbox}You!! That's why you'll never{nl}
+get a girlfriend!{waitkey}{clearbox}You don't understand girls{nl}
+at all, like!{waitkey}{clearbox}Mayuzumi too! Don't say such{nl}
+harsh things - hear this{nl}
+girl out!{waitkey}{clearbox}Hey, Ayase thinks this girl{nl}
+isn't such a bad kid...{nl}
+...I can't put it{nl}
+well, but...{waitkey}{ret}
+</message>
+  <message offset="1e28">
+Yuriko: Thank...{wait_fr:30} you,{nl}
+Aya...{wait_fr:30}se? Was it...{waitkey}{clearbox}While I was alive, Yuriko-chan{nl}
+wanted to be...{wait_fr:30} your friend...{waitkey}{clearbox}...You know, Yuriko-chan...{nl}
+was really...{wait_fr:30} scared.{waitkey}{clearbox}Chatting... playing lots...{waitkey}{clearbox}Lots of boys and friends who{nl}
+said they "liked" Yuriko-chan{nl}
+...and kind Papa and Mama...{waitkey}{clearbox}Every day was so fun and{nl}
+happy...{waitkey}{clearbox}Ahh, I thought, this is my{nl}
+"best time"...{waitkey}{clearbox}And then suddenly...{nl}
+...I got scared...{waitkey}{clearbox}If now is my "best time,"{nl}
+then maybe the rest of my{nl}
+life only goes downhill...{waitkey}{clearbox}That's right... Yuriko-chan...{nl}
+even if I keep living{nl}
+like this{waitkey}{clearbox}I wondered if happiness{nl}
+greater than this would{nl}
+never, ever come again...{waitkey}{clearbox}Keep living, become an adult,{nl}
+...grow old and ugly...{nl}
+and just die - when I thought{waitkey}of that,{waitkey}{clearbox}I was scared... so scared...{nl}
+I couldn't even sleep{nl}
+at night...{waitkey}{clearbox}And then the "Snow Queen"{nl}
+mask we used in the play{waitkey}{clearbox}...told Yuriko-chan, "I'll let{nl}
+you stay just as you are{nl}
+now, forever"...{waitkey}{clearbox}And before I knew it...{nl}
+Yuriko-chan was in{nl}
+this tower...{waitkey}{clearbox}All alone, all alone...{nl}
+forever... in this tower...{waitkey}{clearbox}No Papa, no Mama,{nl}
+no friends...{nl}
+alone in this tower...{waitkey}{clearbox}Because Yuriko-chan{nl}
+was selfish!{waitkey}{clearbox}Because, though I'm human, I{nl}
+begged for the impossible -{nl}
+"I don't want to die,{waitkey}I don't want to age"...{waitkey}{clearbox}I was a fool! That's why the{nl}
+"Snow Queen" deceived me!!{waitkey}{clearbox}Because Yuriko! Because{nl}
+Yuriko was a fool!{waitkey}{clearbox}...I was lonely! I wanted it{nl}
+to end already! Yuriko-chan{nl}
+just couldn't take{nl}
+it anymore!!{waitkey}{clearbox}So when you all came...{nl}
+...Yuriko...{wait_fr:30} was happy!{waitkey}{clearbox}It could end, by any means...{nl}
+I didn't want to be alone{nl}
+anymore! So!{wait_fr:30} So!!{waitkey}{ret}
+</message>
+  <message offset="1fbc">
+Nanjo: Hmph...{wait_fr:30} I see.{waitkey}{clearbox}So that terrifying combat{nl}
+power of yours was born from{nl}
+your own selfish, willful,{waitkey}spoiled heart.{waitkey}{clearbox}Your boundless sorrow and{wait_fr:30}{nl}
+regret{waitkey}{clearbox}grew within absolute solitude{nl}
+and a span of time you might{nl}
+call "eternal"...{waitkey}changed...{waitkey}{clearbox}and at last became a{nl}
+ferocity more endless than{nl}
+even your own delusions...{waitkey}so it was.{waitkey}{clearbox}That violent heart became the{nl}
+trigger for your erratic{nl}
+behavior and your "Thanatos"{waitkey}power-up.{waitkey}{clearbox}What a troublesome thing...!{nl}
+Well... still, I can't say{nl}
+I don't... understand how{waitkey}you feel.{waitkey}{ret}
+</message>
+  <message offset="2128">
+Elly: That abnormally immense{nl}
+combat power of yours{waitkey}{clearbox}was born from sorrow beyond{nl}
+all compare, wasn't it...{waitkey}{clearbox}Despairing solitude... and{nl}
+unmanageable sorrow{waitkey}{clearbox}gave rise to a ferocity more{nl}
+endless than even your own{nl}
+delusions.{waitkey}{clearbox}That sorrow and ferocity{nl}
+mingled together,{waitkey}{clearbox}and that heart became...{nl}
+your erratic behavior, and{waitkey}{clearbox}the Trigger for the Power-up{nl}
+of your own Persona,{nl}
+"Thanatos"...{waitkey}{clearbox}Yuriko, you too were... a{nl}
+victim of the "Snow Queen,"{nl}
+weren't you...{waitkey}{ret}
+</message>
+  <message offset="2208">
+Yuriko: But Yuriko-chan...{nl}
+thanks to everyone... can{nl}
+finally...{wait_fr:30} end it, it seems...{waitkey}{clearbox}Thank you, everyone...{nl}
+Thanks to you all,{waitkey}{clearbox}Yuriko-chan... can die{nl}
+properly... still feeling{nl}
+like a "human"{wait_fr:30}...{waitkey}it seems...{waitkey}{clearbox}Yuriko-chan... ha...{wait_fr:30}s to{nl}
+g...{wait_fr:30}o...{wait_fr:30} now...{nl}
+Everyone...{wait_fr:30} really...{nl}
+thank you.{waitkey}Farewell...{waitkey}{ret}
+</message>
+  <message offset="2220">
+Obtained a "Mirror Shard"!{waitkey}{ret}
+</message>
+  <message offset="2240">
+Obtained 3 "Ambrosia"!{waitkey}{ret}
+</message>
+  <message offset="2260">
+Obtained 2 "Ambrosia"!{waitkey}{ret}
+</message>
+  <message offset="2280">
+Obtained 1 "Ambrosia"!{waitkey}{ret}
+</message>
+  <message offset="2310">
+Yukino: That "Snow Queen"...{nl}
+toying so carelessly with{nl}
+human lives! With life itself!{waitkey}{clearbox}Unforgivable!!{waitkey}{clearbox}Yuriko...{wait_fr:30} we'll do your{nl}
+share too! So rest easy{wait_fr:30}...{nl}
+and sleep...{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="9">
+  <message offset="14b4">
+Yukino: ...{wait_fr:32}Someone's here.{waitkey}{ret}
+</message>
+  <message offset="14cc">
+Mark: Huh?{wait_fr:32} ...Kido?{nl}
+That's you, Kido Reiji!{nl}
+What are you doing here?{waitkey}{ret}
+</message>
+  <message offset="1510">
+Reiji: ...{wait_fr:16}...{wait_fr:16}...{wait_fr:16}...{wait_fr:16}...{waitkey}{ret}
+</message>
+  <message offset="1534">
+{color:2}Kido Reiji.{nl}
+A student who transferred{nl}
+here half a year ago.{nl}
+Quiet. Keeps to himself.{color:0}{waitkey}{ret}
+</message>
+  <message offset="157c">
+Nanjo: Hmph. Unfriendly sort.{waitkey}{ret}
+</message>
+  <message offset="1594">
+Mark: Look who's talkin'.{waitkey}{ret}
+</message>
+  <message offset="15b0">
+Nanjo: What on earth was he{nl}
+thinking about in a{nl}
+place like this...{waitkey}{ret}
+</message>
+  <message offset="15d8">
+Mark: Kido's such a gloomy{nl}
+dude! Bet he goes home and{nl}
+secretly practices magic{nl}
+tricks or something!{waitkey}{ret}
+</message>
+  <message offset="1614">
+Yukino: Kido transferred here{nl}
+right after the Sebek Building{nl}
+went up, didn't he...{waitkey}{nl}
+Right, right — we still need{nl}
+to get to the hospital.{waitkey}{ret}
+</message>
+</scene>

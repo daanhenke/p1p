@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="201">
+  <message offset="122c">
+Maki: Those people are in the{nl}
+same situation as you all,{nl}
+aren't they.{waitkey}{ret}
+</message>
+  <message offset="1258">
+Nanjo: They say a woman's{nl}
+ghost appears here.{waitkey}{ret}
+</message>
+  <message offset="127c">
+Mark: To think a haunted{nl}
+house would really have a{nl}
+ghost!{waitkey}{ret}
+</message>
+  <message offset="12a4">
+Elly: Wonderful! To think we{nl}
+might even see a ghost...{nl}
+Let's hurry and go look!{waitkey}{ret}
+</message>
+  <message offset="12e8">
+Brown: If it's the ghost of{nl}
+a peerless beauty, maybe it's{nl}
+okay...{wait_fr:32} no no, on second{nl}
+thought, I'll pass!{waitkey}{ret}
+</message>
+  <message offset="1328">
+Ayase: Ayase should've brought{nl}
+a camera!{waitkey}I'd snap a ton of ghost{nl}
+photos and sell them all over!{waitkey}{ret}
+</message>
+  <message offset="136c">
+Reiji: Scientists cowering{nl}
+from ghosts...{wait_fr:32} Kandori sure{nl}
+was blessed with fine talent.{waitkey}{ret}
+</message>
+  <message offset="13a8">
+Scientist: The truth is, we{nl}
+aren't of this world. There's{nl}
+a room with a machine to send{nl}
+us home, but{waitkey}we can't get in, and it's{nl}
+a real problem...{waitkey}{clearbox}Would you please go and{nl}
+have a look for us?{waitkey}{ret}
+</message>
+  <message offset="1418">
+Scientist: Damn it!{waitkey}{clearbox}That Kandori — after using our{nl}
+research to the hilt, to{nl}
+leave us behind like this!{waitkey}{ret}
+</message>
+  <message offset="1464">
+Scientist: From inside that{nl}
+room, you can hear a woman's{nl}
+ghost weeping!{waitkey}{clearbox}We say out loud that ghosts{nl}
+can't possibly exist, but{waitkey}{clearbox}we're too scared, and no one{nl}
+can go near it...{waitkey}{ret}
+</message>
+</scene>

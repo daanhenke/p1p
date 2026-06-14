@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="4">
+  <message offset="15d8">
+{nl}
+
+</message>
+  <message offset="160c">
+{nl}
+
+</message>
+  <message offset="1644">
+Ms. Natsumi: Hey, Nanjo!{nl}
+Take off that bandage and{nl}
+the wound will reopen!{waitkey}{ret}
+</message>
+  <message offset="1668">
+Nanjo: No need to worry.{nl}
+Wrapped like this, the{nl}
+bandage is meaningless anyway.{waitkey}{ret}
+</message>
+  <message offset="1684">
+Ms. Natsumi: Ngh... sorry{nl}
+for being so clumsy.{waitkey}{ret}
+</message>
+  <message offset="16bc">
+Nanjo: Now then, I'll{nl}
+take my leave.{waitkey}{ret}
+</message>
+  <message offset="1760">
+Ms. Natsumi: Take your{nl}
+leave...?{wait_fr:32} You're not{nl}
+planning to go outside?{waitkey}{ret}
+</message>
+  <message offset="1790">
+Student: That's right, Nanjo.{nl}
+You'll just get hurt again.{nl}
+Besides...{waitkey}{clearbox}we all searched everywhere,{nl}
+but it seems we can't leave{nl}
+the school...{waitkey}There's no exit anywhere!!{waitkey}{ret}
+</message>
+  <message offset="17c8">
+Nanjo: Hm?{waitkey}You're not making sense.{nl}
+Save the nonsense for{nl}
+your dreams.{waitkey}{ret}
+</message>
+  <message offset="1820">
+Ayase: It's not nonsense!{nl}
+It's true!! The Snow Queen{nl}
+trapped us in here!{waitkey}{ret}
+</message>
+  <message offset="1840">
+Nanjo: The Snow Queen?{waitkey}Is it April Fools' today?{nl}
+Come up with a better lie.{waitkey}{clearbox}I've no time to humor fools.{nl}
+Move aside.{waitkey}{ret}
+</message>
+  <message offset="1880">
+Yukino: It's true, Nanjo.{waitkey}There's no way out.{waitkey}{ret}
+</message>
+  <message offset="18d8">
+Nanjo: Mayuzumi, you too{wait_fr:32}...{wait_fr:32}...{wait_fr:32}{nl}
+It can't be!!{waitkey}The school, like{nl}
+the hospital?!{waitkey}{ret}
+</message>
+  <message offset="1924">
+Elly: Regrettably,{nl}
+it is exactly that.{waitkey}{clearbox}If I must name a difference,{nl}
+there are no Demons this{nl}
+time - but no exit, either.{waitkey}{ret}
+</message>
+  <message offset="1958">
+Yukino: Yeah,{nl}
+same as the hospital.{waitkey}{clearbox}If there's a difference, no{nl}
+demons wandering this time -{nl}
+but no exit instead.{waitkey}{ret}
+</message>
+  <message offset="1998">
+Nanjo: ......{waitkey}I'm worried about Inaba{nl}
+and Sonomura. I must get{nl}
+outside no matter what.{waitkey}{ret}
+</message>
+  <message offset="19c8">
+Maki's Mother: Maki...{waitkey}{clearbox}Can we really not leave?{nl}
+Is there no way at all{nl}
+to get outside?{waitkey}{ret}
+</message>
+  <message offset="19dc">
+Yukino: There is.{waitkey}But to do it, we need{nl}
+a few more people.{waitkey}{ret}
+</message>
+  <message offset="19ec">
+Nanjo: What do you mean?{waitkey}{ret}
+</message>
+  <message offset="1a34">
+Ayase: Well, you see...{waitkey}{ret}
+</message>
+  <message offset="1a4c">
+Nanjo: Hm, I understand.{waitkey}{clearbox}If we save Ms. Saeko from{nl}
+this Snow Queen, the school{nl}
+returns to normal.{waitkey}{ret}
+</message>
+  <message offset="1a94">
+Don't tell me you want{nl}
+my help?{nl}
+{ctl0e:7}{ret}
+</message>
+  <message offset="1b0c">
+Nanjo: Fine.{waitkey}{clearbox}If you insist that much,{nl}
+I suppose I could help.{waitkey}Pursuing Sonomura and the{nl}
+others comes after.{waitkey}{ret}
+</message>
+</scene>

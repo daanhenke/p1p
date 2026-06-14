@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="156">
+  <message offset="36dc">
+Trish: Hi!{nl}
+I'm Trish!{nl}
+This is the Healing Spring!{waitkey}{clearbox}The world runs on{nl}
+give and take!{nl}
+Money buys any Recovery!{waitkey}{ret}
+</message>
+  <message offset="3750">
+What'll it be?{nl}
+{ctl0e:17}{ret}
+</message>
+  <message offset="3764">
+Trish: OK!{waitkey}{ret}
+</message>
+  <message offset="3778">
+Trish: Let's see...{nl}
+going by recent{nl}
+healing rates, for everyone...{waitkey}{ret}
+</message>
+  <message offset="37b0">
+That'll be 4000 yen, OK?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="37cc">
+Trish: Thanks!{nl}
+Okay, let me heal you up!{nl}
+Pain, pain, fly away!{waitkey}{ret}
+</message>
+  <message offset="380c">
+Trish: Phew...{nl}
+That's all!{nl}
+You're all better now!{waitkey}{ret}
+</message>
+  <message offset="3858">
+Trish: Boo~!{nl}
+You don't have the money?!{nl}
+Trish hates broke people!{waitkey}{clearbox}Come back once you've{nl}
+saved up some cash{nl}
+bye-bye!{waitkey}{ret}
+</message>
+  <message offset="38c0">
+Trish: Boo~!{nl}
+Cheap, cheap, super cheap!{nl}
+Don't blame me if you die!{waitkey}{ret}
+</message>
+  <message offset="38f8">
+Come again sometime{nl}
+I'll be waiting{nl}
+bye-bye!{waitkey}{ret}
+</message>
+  <message offset="3924">
+Trish: Boo~!{nl}
+You called me for nothing?!{nl}
+Get out!{waitkey}{ret}
+</message>
+</scene>

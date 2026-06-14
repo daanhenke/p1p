@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="39">
+  <message offset="140c">
+Yukino: What's with this{nl}
+floor?{waitkey}{ret}
+</message>
+  <message offset="1420">
+Ayase: I've seen this{nl}
+classroom — in an old framed{nl}
+photo in the principal's{nl}
+office.{waitkey}{clearbox}This is the wooden schoolhouse{nl}
+from before the current{nl}
+building was built.{waitkey}{ret}
+</message>
+  <message offset="147c">
+Nanjo: That's Ayase for you.{waitkey}No surprise, given how many{nl}
+times she's been lectured in{nl}
+the principal's office.{waitkey}{ret}
+</message>
+  <message offset="14b0">
+Brown: The warmth of wood{wait_fr:30},{nl}
+the coziness of handcraft{wait_fr:30}{nl}
+...{wait_fr:30}...{wait_fr:30}as if{wait_fr:15} there's{nl}
+any of that, argh!!{waitkey}{clearbox}The drafts are brutal and{nl}
+it reeks of mold...{waitkey}I want a piping-hot bath~{waitkey}{ret}
+</message>
+  <message offset="1528">
+Elly: What an Antique{nl}
+building.{waitkey}{clearbox}If not for circumstances, I'd{nl}
+love to take a slow look{nl}
+around.{waitkey}{ret}
+</message>
+</scene>

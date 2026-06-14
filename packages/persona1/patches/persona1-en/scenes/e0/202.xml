@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="202">
+  <message offset="24c8">
+Maki: Thanks for waiting,{nl}
+everyone!{waitkey}{ret}
+</message>
+  <message offset="24dc">
+Mark: I'm tired of waiting!{waitkey}{ret}
+</message>
+  <message offset="24f4">
+Nanjo: Seems it went{nl}
+well, then.{waitkey}Now, let's head to the school{nl}
+to meet this Pandora.{waitkey}{ret}
+</message>
+  <message offset="2530">
+Maki: Looks like everyone{nl}
+got bored waiting.{waitkey}{ret}
+</message>
+  <message offset="254c">
+Mark: Hey {ctl0f:1},{nl}
+you didn't do anything{nl}
+shady, did you?{waitkey}{ret}
+</message>
+  <message offset="256c">
+Nanjo: What's wrong?{nl}
+Did something happen{nl}
+in there?{waitkey}{ret}
+</message>
+  <message offset="258c">
+Reiji: Looks like you{nl}
+survived...{nl}
+When this is done, we'll{nl}
+settle who's stronger.{waitkey}No saying no, right?{waitkey}{ret}
+</message>
+  <message offset="25d0">
+Elly: {ctl07:1}!{nl}
+Thank goodness~{nl}
+You're not hurt?{waitkey}{ret}
+</message>
+  <message offset="25f8">
+Elly: {ctl07:1}!{nl}
+Thank goodness...{nl}
+You aren't injured?{waitkey}{ret}
+</message>
+  <message offset="2620">
+Brown: Tch, you're tough.{nl}
+{ctl08:12033}I figured you'd get{nl}
+beat, and I'd swoop in{nl}
+all cool!{waitkey}That was the scenario{nl}
+I had in mind...{waitkey}{ret}
+</message>
+  <message offset="2664">
+Ayase: {ctl0f:1},{nl}
+you took so long I thought{nl}
+you'd died!{waitkey}{ret}
+</message>
+  <message offset="268c">
+Ayase: {ctl08:65281}You took so long I{nl}
+thought you'd died!{waitkey}{ret}
+</message>
+  <message offset="26b4">
+Butterfly: There's little{nl}
+time left before this{nl}
+world vanishes. Make haste.{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="56">
+  <message offset="1978">
+{nl}
+
+</message>
+  <message offset="19ac">
+{nl}
+
+</message>
+  <message offset="19bc">
+{nl}
+
+</message>
+  <message offset="19d4">
+{nl}
+
+</message>
+  <message offset="19f4">
+Nanjo: Listen up, Inaba!{nl}
+Don't touch anything{nl}
+suspicious ahead!{waitkey}{ret}
+</message>
+  <message offset="1a2c">
+Mark: Got it.{waitkey}{ret}
+</message>
+  <message offset="1a58">
+Nanjo: {ctl0f:1},{nl}
+let's go.{waitkey}{ret}
+</message>
+  <message offset="1a88">
+Maki: Kandori...{nl}
+What kind of man is he?{waitkey}{ret}
+</message>
+  <message offset="1ac0">
+Maki: Kandori...{wait_fr:88}{nl}
+Oh, sorry — never mind.{nl}
+Let's keep moving!{waitkey}{ret}
+</message>
+  <message offset="1b08">
+Mark: Of all the nerve —{nl}
+building this stuff{nl}
+in our studio!{waitkey}{ret}
+</message>
+  <message offset="1b48">
+Mark: Of all the nerve!{nl}
+I liked this place —{nl}
+now it's totally ruined!{waitkey}{ret}
+</message>
+  <message offset="1b84">
+Nanjo: With this bunch,{nl}
+the tension level is{nl}
+seriously lacking...{waitkey}{ret}
+</message>
+  <message offset="1bc0">
+Nanjo: Hey, {ctl0f:1}!{nl}
+Stop wandering around!{waitkey}We need to find Kandori{nl}
+before he does{nl}
+more damage.{waitkey}{ret}
+</message>
+  <message offset="1c20">
+Elly: I've always been{nl}
+interested in SEBEC.{nl}
+Can't wait to see inside!{waitkey}{ret}
+</message>
+  <message offset="1c48">
+Elly: Where are you going?{nl}
+The enemy is inside{nl}
+SEBEC,I believe...{waitkey}{ret}
+</message>
+  <message offset="1c78">
+Brown: I'll take{nl}
+the lead,okay?{waitkey}{nl}
+No point in the leader{nl}
+hogging the spotlight.{waitkey}{ret}
+</message>
+  <message offset="1c94">
+Brown: Hey hey,{nl}
+Kandori didn't escape{nl}
+outside, right?{waitkey}{clearbox}I know you'd want to run,{nl}
+but this is the moment —{nl}
+up front, let's go!{waitkey}{ret}
+</message>
+  <message offset="1cbc">
+Ayase: Are we really{nl}
+going? Can't we just...{nl}
+not?{waitkey}{ret}
+</message>
+</scene>

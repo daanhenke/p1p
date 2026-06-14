@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="5">
+  <message offset="1520">
+...
+</message>
+  <message offset="1558">
+...
+</message>
+  <message offset="15bc">
+Elly: Well, Kuroori?{wait_fr:30}{nl}
+Have you found{nl}
+anything out?{waitkey}{ret}
+</message>
+  <message offset="15cc">
+Kuroori: Hehehe...{nl}
+Of course, Kirishima.{waitkey}{clearbox}This is{wait_fr:30}.{wait_fr:30}.{wait_fr:30}...{wait_fr:30}.{wait_fr:30}{nl}
+no work of a cold front!{waitkey}No, really.{waitkey}{ret}
+</message>
+  <message offset="160c">
+Elly: ......{waitkey}{ret}
+</message>
+  <message offset="1644">
+Kuroori: Eek~ sorry...{waitkey}{clearbox}I don't know anything~{nl}
+I mean~ it's not in{nl}
+any of the books.{waitkey}{ret}
+</message>
+  <message offset="1674">
+Elly: Oh... I see.{waitkey}Then I'll look into it{nl}
+myself. This door{nl}
+intrigues me, too.{waitkey}{ret}
+</message>
+  <message offset="169c">
+Elly: It says "Tower of{nl}
+Nemesis" - in Greek{nl}
+letters.{waitkey}{ret}
+</message>
+  <message offset="16c0">
+Kuroori: Nemesis? Hmm.{nl}
+Greek letters? Hmmmm.{waitkey}{ret}
+</message>
+  <message offset="171c">
+Elly: Nemesis is the goddess{nl}
+who symbolizes revenge.{waitkey}{ret}
+</message>
+  <message offset="1788">
+Yukino: Hey, Kuroori seems{nl}
+to know his demons and{nl}
+occult stuff, right?{waitkey}{clearbox}Bet he'd be useful. Be good{nl}
+to have someone like that{nl}
+on our side.{waitkey}{ret}
+</message>
+  <message offset="17c4">
+Nanjo: Hm, good thinking.{waitkey}We are indeed ignorant{nl}
+of demons right now.{waitkey}{clearbox}Know the foe and know{nl}
+yourself, and win every{nl}
+battle. The art of war says{waitkey}know your enemy first.{waitkey}{ret}
+</message>
+  <message offset="180c">
+Ayase: Ehh~ but, like,{nl}
+putting it mildly,{nl}
+he's not my type~{waitkey}{clearbox}Ayase says hard pass.{waitkey}{ret}
+</message>
+  <message offset="1844">
+Yukino: That's putting it{nl}
+mildly? And his being your{nl}
+type is beside the point.{waitkey}{clearbox}Though he does seem{nl}
+unreliable, I'll admit.{waitkey}{ret}
+</message>
+  <message offset="1874">
+Ayase: Hey hey, what about{nl}
+Kirishima? She could{nl}
+translate for foreign demons.{waitkey}{ret}
+</message>
+  <message offset="18bc">
+Yukino: Now that you mention{nl}
+it, she knows that kind of{nl}
+thing. Yeah, could be good.{waitkey}{ret}
+</message>
+  <message offset="18f8">
+Elly: What are you all{nl}
+talking about?{waitkey}{clearbox}I didn't mean to eavesdrop,{nl}
+but my name came up, so{nl}
+I grew curious.{waitkey}{ret}
+</message>
+  <message offset="1978">
+Yukino: Ah, well, just that{nl}
+someone who knows demons{nl}
+turned up at the right time.{waitkey}{clearbox}You see......{waitkey}{ret}
+</message>
+  <message offset="1990">
+Elly: Oh! So that's why the{nl}
+school is wrapped in ice.{nl}
+How fascinating.{waitkey}{clearbox}I do love tales of Monsters{nl}
+and Ghosts, but...{waitkey}{clearbox}for them to keep becoming{nl}
+real, one after another...{waitkey}{ret}
+</message>
+  <message offset="19d0">
+Someone must do something,{nl}
+and soon.{nl}
+{ctl0e:7}{ret}
+</message>
+  <message offset="1a3c">
+Elly: OK!{waitkey}{clearbox}To save Ms. Saeko, let's{nl}
+search for the "Shards of{nl}
+the Devil's Mirror."{waitkey}{ret}
+</message>
+</scene>

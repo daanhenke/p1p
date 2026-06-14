@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages floor="d18">
+  <message index="197">
+Ayase: Yeek, owowow!{nl}
+Don't touch the door —{nl}
+your fingers stick to it.{waitkey}{clearbox}Yukino: Damn it.{nl}
+It won't budge an inch.{waitkey}{clearbox}Ayase: Anyway, let's gather{nl}
+the "Demon's Mirror Shards."{nl}
+Let's trust that dandy.{waitkey}{clearbox}Yukino: Yeah, let's trust him{nl}
+and head for the tower.{waitkey}{nl}
+Ms. Saeko, hold on.{waitkey}{ret}
+</message>
+  <message index="198">
+The door is frozen over.{waitkey}{ret}
+</message>
+  <message index="199">
+The door is firmly shut.{waitkey}{ret}
+</message>
+</messages>

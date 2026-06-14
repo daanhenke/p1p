@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+  <skill id="1">
+    <name>Agi</name>
+  </skill>
+  <skill id="2">
+    <name>Agilao</name>
+  </skill>
+  <skill id="3">
+    <name>Agidyne</name>
+  </skill>
+  <skill id="4">
+    <name>Maragi</name>
+  </skill>
+  <skill id="5">
+    <name>Maragion</name>
+  </skill>
+  <skill id="6">
+    <name>Maragidyne</name>
+  </skill>
+  <skill id="7">
+    <name>Bufu</name>
+  </skill>
+  <skill id="8">
+    <name>Bufula</name>
+  </skill>
+  <skill id="9">
+    <name>Bufudyne</name>
+  </skill>
+  <skill id="10">
+    <name>Mabufu</name>
+  </skill>
+  <skill id="11">
+    <name>Mabufula</name>
+  </skill>
+  <skill id="12">
+    <name>Mabufudyne</name>
+  </skill>
+  <skill id="13">
+    <name>Garu</name>
+  </skill>
+  <skill id="14">
+    <name>Garula</name>
+  </skill>
+  <skill id="15">
+    <name>Garudyne</name>
+  </skill>
+  <skill id="16">
+    <name>Magaru</name>
+  </skill>
+  <skill id="17">
+    <name>Magarula</name>
+  </skill>
+  <skill id="18">
+    <name>Magarudyne</name>
+  </skill>
+  <skill id="19">
+    <name>Magna</name>
+  </skill>
+  <skill id="20">
+    <name>Magnara</name>
+  </skill>
+  <skill id="21">
+    <name>Magnadyne</name>
+  </skill>
+  <skill id="22">
+    <name>Mamagna</name>
+  </skill>
+  <skill id="23">
+    <name>Mamagnara</name>
+  </skill>
+  <skill id="24">
+    <name>Mamagnadyne</name>
+  </skill>
+  <skill id="25">
+    <name>Frei</name>
+  </skill>
+  <skill id="26">
+    <name>Freila</name>
+  </skill>
+  <skill id="27">
+    <name>Freidyne</name>
+  </skill>
+  <skill id="28">
+    <name>Megido</name>
+  </skill>
+  <skill id="29">
+    <name>Megidola</name>
+  </skill>
+  <skill id="30">
+    <name>Megidolaon</name>
+  </skill>
+  <skill id="31">
+    <name>Zan</name>
+  </skill>
+  <skill id="32">
+    <name>Zanma</name>
+  </skill>
+  <skill id="33">
+    <name>Zandyne</name>
+  </skill>
+  <skill id="34">
+    <name>Mazan</name>
+  </skill>
+  <skill id="35">
+    <name>Mazanma</name>
+  </skill>
+  <skill id="36">
+    <name>Mazandyne</name>
+  </skill>
+  <skill id="37">
+    <name>Gry</name>
+  </skill>
+  <skill id="38">
+    <name>Gryva</name>
+  </skill>
+  <skill id="39">
+    <name>Grydyne</name>
+  </skill>
+  <skill id="40">
+    <name>Magry</name>
+  </skill>
+  <skill id="41">
+    <name>Magryva</name>
+  </skill>
+  <skill id="42">
+    <name>Magrydyne</name>
+  </skill>
+  <skill id="43">
+    <name>Zio</name>
+  </skill>
+  <skill id="44">
+    <name>Zionga</name>
+  </skill>
+  <skill id="45">
+    <name>Ziodyne</name>
+  </skill>
+  <skill id="46">
+    <name>Mazio</name>
+  </skill>
+  <skill id="47">
+    <name>Mazionga</name>
+  </skill>
+  <skill id="48">
+    <name>Maziodyne</name>
+  </skill>
+  <skill id="49">
+    <name>Eiha</name>
+  </skill>
+  <skill id="50">
+    <name>Baeiha</name>
+  </skill>
+  <skill id="51">
+    <name>Maeiha</name>
+  </skill>
+  <skill id="52">
+    <name>Mudo</name>
+  </skill>
+  <skill id="53">
+    <name>Mudoon</name>
+  </skill>
+  <skill id="54">
+    <name>Mamudo</name>
+  </skill>
+  <skill id="55">
+    <name>Dormina</name>
+  </skill>
+  <skill id="56">
+    <name>Shibaboo</name>
+  </skill>
+  <skill id="57">
+    <name>Pulinpa</name>
+  </skill>
+  <skill id="58">
+    <name>Hapirma</name>
+  </skill>
+  <skill id="59">
+    <name>Marin Karin</name>
+  </skill>
+  <skill id="60">
+    <name>Makajam</name>
+  </skill>
+  <skill id="61">
+    <name>Delyte</name>
+  </skill>
+  <skill id="62">
+    <name>Slumpa</name>
+  </skill>
+  <skill id="63">
+    <name>Decover</name>
+  </skill>
+  <skill id="64">
+    <name>Desanga</name>
+  </skill>
+  <skill id="65">
+    <name>Doronpa</name>
+  </skill>
+  <skill id="66">
+    <name>Doroid</name>
+  </skill>
+  <skill id="67">
+    <name>Quikka</name>
+  </skill>
+  <skill id="68">
+    <name>Balzac</name>
+  </skill>
+  <skill id="69">
+    <name>Mador</name>
+  </skill>
+  <skill id="70">
+    <name>Wolvaan</name>
+  </skill>
+  <skill id="71">
+    <name>Deathtika</name>
+  </skill>
+  <skill id="72">
+    <name>Petrama</name>
+  </skill>
+  <skill id="73">
+    <name>Paralama</name>
+  </skill>
+  <skill id="74">
+    <name>Poisma</name>
+  </skill>
+  <skill id="75">
+    <name>Nervma</name>
+  </skill>
+  <skill id="76">
+    <name>Omega Cluster</name>
+  </skill>
+  <skill id="77">
+    <name>Kouha</name>
+  </skill>
+  <skill id="78">
+    <name>Baikouha</name>
+  </skill>
+  <skill id="79">
+    <name>Makouha</name>
+  </skill>
+  <skill id="80">
+    <name>Hama</name>
+  </skill>
+  <skill id="81">
+    <name>Hamaon</name>
+  </skill>
+  <skill id="82">
+    <name>Mahama</name>
+  </skill>
+  <skill id="83">
+    <name>Tarunda</name>
+  </skill>
+  <skill id="84">
+    <name>Rakunda</name>
+  </skill>
+  <skill id="85">
+    <name>Sukunda</name>
+  </skill>
+  <skill id="86">
+    <name>Dekunda</name>
+  </skill>
+  <skill id="87">
+    <name>Tarukaja</name>
+  </skill>
+  <skill id="88">
+    <name>Rakukaja</name>
+  </skill>
+  <skill id="89">
+    <name>Sukukaja</name>
+  </skill>
+  <skill id="90">
+    <name>Makakaja</name>
+  </skill>
+  <skill id="91">
+    <name>Dekaja</name>
+  </skill>
+  <skill id="92">
+    <name>Tetraja</name>
+  </skill>
+  <skill id="93">
+    <name>Makarakarn</name>
+  </skill>
+  <skill id="94">
+    <name>Tetrakarn</name>
+  </skill>
+  <skill id="95">
+    <name>Dia</name>
+  </skill>
+  <skill id="96">
+    <name>Diarama</name>
+  </skill>
+  <skill id="97">
+    <name>Diarahan</name>
+  </skill>
+  <skill id="98">
+    <name>Media</name>
+  </skill>
+  <skill id="99">
+    <name>Mediarama</name>
+  </skill>
+  <skill id="100">
+    <name>Mediarahan</name>
+  </skill>
+  <skill id="101">
+    <name>Patra</name>
+  </skill>
+  <skill id="102">
+    <name>Pen Patra</name>
+  </skill>
+  <skill id="103">
+    <name>Posumudi</name>
+  </skill>
+  <skill id="104">
+    <name>Paraladi</name>
+  </skill>
+  <skill id="105">
+    <name>Petradi</name>
+  </skill>
+  <skill id="106">
+    <name>Nervundi</name>
+  </skill>
+  <skill id="107">
+    <name>Recarm</name>
+  </skill>
+  <skill id="108">
+    <name>Samarecarm</name>
+  </skill>
+  <skill id="109">
+    <name>Recarmdra</name>
+  </skill>
+  <skill id="110">
+    <name>Alpha Blaster</name>
+  </skill>
+  <skill id="114">
+    <name>Outoma</name>
+  </skill>
+  <skill id="115">
+    <name>Liftoma</name>
+  </skill>
+  <skill id="116">
+    <name>Alsanga</name>
+  </skill>
+  <skill id="117">
+    <name>Paral Eyes</name>
+  </skill>
+  <skill id="118">
+    <name>Petra Eyes</name>
+  </skill>
+  <skill id="121">
+    <name>Terror Eyes</name>
+  </skill>
+  <skill id="124">
+    <name>Hula of Misfortune</name>
+    <menu>HulaMisfort</menu>
+  </skill>
+  <skill id="125">
+    <name>Tango of Dispelling</name>
+    <menu>TangoDispel</menu>
+  </skill>
+  <skill id="126">
+    <name>Waltz of Sadness</name>
+    <menu>WaltzSadness</menu>
+  </skill>
+  <skill id="127">
+    <name>Lullaby</name>
+  </skill>
+  <skill id="130">
+    <name>Frenzy Song</name>
+  </skill>
+  <skill id="132">
+    <name>Passionate Kiss</name>
+    <menu>PassionKiss</menu>
+  </skill>
+  <skill id="133">
+    <name>Demon's Kiss</name>
+  </skill>
+  <skill id="134">
+    <name>Evil Smile</name>
+  </skill>
+  <skill id="135">
+    <name>Deathtouch</name>
+  </skill>
+  <skill id="138">
+    <name>Poison Breath</name>
+  </skill>
+  <skill id="139">
+    <name>Fog Breath</name>
+  </skill>
+  <skill id="140">
+    <name>Water Wall</name>
+  </skill>
+  <skill id="142">
+    <name>Crystal Wall</name>
+  </skill>
+  <skill id="144">
+    <name>Crimson Sublation</name>
+    <menu>CrimsonSubl</menu>
+  </skill>
+  <skill id="145">
+    <name>Azure Cessation</name>
+    <menu>AzureCessat</menu>
+  </skill>
+  <skill id="146">
+    <name>Mighty Wave</name>
+  </skill>
+  <skill id="147">
+    <name>Gentle Wave</name>
+  </skill>
+  <skill id="148">
+    <name>Heavenly Cyclone</name>
+    <menu>HeavenCyclon</menu>
+  </skill>
+  <skill id="149">
+    <name>Earthly Vortex</name>
+    <menu>EarthVortex</menu>
+  </skill>
+  <skill id="150">
+    <name>Hell Drop</name>
+  </skill>
+  <skill id="151">
+    <name>Gokuraku Fall</name>
+  </skill>
+  <skill id="152">
+    <name>Eastern Impact</name>
+    <menu>EastrnImpact</menu>
+  </skill>
+  <skill id="153">
+    <name>Western Blow</name>
+  </skill>
+  <skill id="154">
+    <name>Sanraigeki</name>
+  </skill>
+  <skill id="155">
+    <name>Shuuraigeki</name>
+  </skill>
+  <skill id="156">
+    <name>Eternal Black</name>
+  </skill>
+  <skill id="157">
+    <name>Dark Verdict</name>
+  </skill>
+  <skill id="158">
+    <name>Eternal White</name>
+  </skill>
+  <skill id="159">
+    <name>Bright Judgement</name>
+    <menu>BrightJudge</menu>
+  </skill>
+  <skill id="160">
+    <name>Hieroglyphein</name>
+    <menu>Hieroglyph</menu>
+  </skill>
+  <skill id="162">
+    <name>Luna Trap</name>
+  </skill>
+  <skill id="163">
+    <name>Feral Bite</name>
+  </skill>
+  <skill id="164">
+    <name>Venom Bite</name>
+  </skill>
+  <skill id="165">
+    <name>Stun Bite</name>
+  </skill>
+  <skill id="166">
+    <name>Virus Bite</name>
+  </skill>
+  <skill id="167">
+    <name>Stone Bite</name>
+  </skill>
+  <skill id="168">
+    <name>Feral Claw</name>
+  </skill>
+  <skill id="169">
+    <name>Poison Claw</name>
+  </skill>
+  <skill id="170">
+    <name>Stun Claw</name>
+  </skill>
+  <skill id="171">
+    <name>Virus Claw</name>
+  </skill>
+  <skill id="172">
+    <name>Stone Claw</name>
+  </skill>
+  <skill id="173">
+    <name>Toxic Sting</name>
+  </skill>
+  <skill id="174">
+    <name>Stun Needle</name>
+  </skill>
+  <skill id="175">
+    <name>Needle Rush</name>
+  </skill>
+  <skill id="176">
+    <name>Genocide Fan</name>
+  </skill>
+  <skill id="178">
+    <name>Bonecrusher</name>
+  </skill>
+  <skill id="180">
+    <name>Heavenly Hit</name>
+  </skill>
+  <skill id="181">
+    <name>Megaton Raid</name>
+  </skill>
+  <skill id="184">
+    <name>Dive</name>
+  </skill>
+  <skill id="187">
+    <name>Twinkle Punch</name>
+  </skill>
+  <skill id="188">
+    <name>Fist of Fury</name>
+  </skill>
+  <skill id="189">
+    <name>Deadly Fist</name>
+  </skill>
+  <skill id="191">
+    <name>Thunder Kick</name>
+  </skill>
+  <skill id="192">
+    <name>Lightning Kick</name>
+    <menu>LightngKick</menu>
+  </skill>
+  <skill id="196">
+    <name>Ichimonji Slash</name>
+    <menu>IchimonjiSl</menu>
+  </skill>
+  <skill id="197">
+    <name>Wolf Fang</name>
+  </skill>
+  <skill id="198">
+    <name>Triple Slice</name>
+  </skill>
+  <skill id="199">
+    <name>Double Thrust</name>
+  </skill>
+  <skill id="200">
+    <name>Dragon Whirl</name>
+  </skill>
+  <skill id="201">
+    <name>Burning Spear</name>
+  </skill>
+  <skill id="202">
+    <name>Flurry Stab</name>
+  </skill>
+  <skill id="203">
+    <name>Destruction Smash</name>
+    <menu>DestrucSmash</menu>
+  </skill>
+  <skill id="204">
+    <name>Earth Slicer</name>
+  </skill>
+  <skill id="206">
+    <name>Infinite Spiral</name>
+    <menu>InfinSpiral</menu>
+  </skill>
+  <skill id="207">
+    <name>Moon Shatterer</name>
+    <menu>MoonShatter</menu>
+  </skill>
+  <skill id="209">
+    <name>Darkness Nail</name>
+  </skill>
+  <skill id="210">
+    <name>Sonic Bullet</name>
+  </skill>
+  <skill id="211">
+    <name>Rapid Fire</name>
+  </skill>
+  <skill id="212">
+    <name>Myriad Arrows</name>
+  </skill>
+  <skill id="213">
+    <name>Arrow Volley</name>
+  </skill>
+  <skill id="214">
+    <name>Handgun</name>
+  </skill>
+  <skill id="216">
+    <name>Middle Shot</name>
+  </skill>
+  <skill id="217">
+    <name>Shotgun</name>
+  </skill>
+  <skill id="218">
+    <name>Rifle</name>
+  </skill>
+  <skill id="221">
+    <name>Drumroll Punch</name>
+    <menu>DrumrolPunch</menu>
+  </skill>
+  <skill id="222">
+    <name>Rainbow Strike</name>
+    <menu>RainbowStrik</menu>
+  </skill>
+  <skill id="223">
+    <name>Binal Strike</name>
+  </skill>
+  <skill id="224">
+    <name>Last Resort</name>
+  </skill>
+  <skill id="225">
+    <name>Self Destruct</name>
+  </skill>
+  <skill id="226">
+    <name>Clone</name>
+  </skill>
+  <skill id="227">
+    <name>Dissolvent</name>
+  </skill>
+  <skill id="230">
+    <name>Paralyze Puncture</name>
+    <menu>ParalyzPunct</menu>
+  </skill>
+  <skill id="233">
+    <name>Dark Slumber</name>
+  </skill>
+  <skill id="234">
+    <name>Revenge Leak</name>
+  </skill>
+  <skill id="235">
+    <name>Absolute Zero</name>
+  </skill>
+  <skill id="238">
+    <name>Symphony of Lament</name>
+    <menu>SymphonyLam</menu>
+  </skill>
+  <skill id="240">
+    <name>Butterfly Storm</name>
+    <menu>ButterflyStm</menu>
+  </skill>
+  <skill id="242">
+    <name>Derangement Voice</name>
+    <menu>DerangeVoice</menu>
+  </skill>
+</skills>

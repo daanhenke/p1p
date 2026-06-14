@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="38">
+  <message offset="14d8">
+Nanjo: Mirrors have long been{nl}
+said to hold spiritual power.{nl}
+You think that one has such{nl}
+power too?{waitkey}{ret}
+</message>
+  <message offset="1510">
+Mark: You've suddenly turned{nl}
+studious. Think it might{nl}
+snow or something?{waitkey}{ret}
+</message>
+  <message offset="1540">
+Yukino: It's musty in here,{nl}
+but the atmosphere's not bad.{nl}
+Maybe this mirror's{nl}
+protecting it.{waitkey}{ret}
+</message>
+  <message offset="1578">
+Man: I came to see this{nl}
+museum's centerpiece, the{nl}
+"Evil-Warding Mirror." Truly,{nl}
+how divine it is.{waitkey}{ret}
+</message>
+  <message offset="15bc">
+Girl: They say the{nl}
+"Evil-Warding Mirror" was the{nl}
+only thing found in some{nl}
+ruins half a year ago.{waitkey}{clearbox}There's nothing else there,{nl}
+so going in is boring — that's{nl}
+what my teacher said.{waitkey}{ret}
+</message>
+</scene>

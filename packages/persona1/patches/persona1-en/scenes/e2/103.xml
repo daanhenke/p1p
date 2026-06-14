@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="103">
+  <message offset="1620">
+Maki: What is it? Buying{nl}
+some ice cream?{waitkey}{ret}
+</message>
+  <message offset="1640">
+Brown: Don't they sell any{nl}
+super-powerful guns or armor?{nl}
+Will we be okay with such{nl}
+flimsy gear?{waitkey}{ret}
+</message>
+  <message offset="1684">
+Nanjo: Open for business even{nl}
+with demons about — quite{nl}
+admirable.{waitkey}{ret}
+</message>
+  <message offset="16ac">
+Mark: I wonder if the demons{nl}
+won't come inside the store.{nl}
+Either way, it's a relief.{waitkey}{ret}
+</message>
+  <message offset="16e0">
+Elly: It's a strange feeling.{nl}
+Being here, I start to wonder{nl}
+if all of it was just{nl}
+a dream.{waitkey}{ret}
+</message>
+  <message offset="1714">
+Ayase: Hey, what're we gonna{nl}
+do about SEBEC? Are we done{nl}
+with it already~?{waitkey}{ret}
+</message>
+  <message offset="1740">
+Ayase: C'mon, let's hurry up{nl}
+and go after Kandori!{waitkey}{ret}
+</message>
+  <message offset="1764">
+Clerk: ...{wait_fr:16}Even demons won't{nl}
+come inside the store, right?{wait_fr:21}{nl}
+I've got to keep it open...{waitkey}{clearbox}We're open year-round, after{nl}
+all...{wait_fr:32} Welcome!{waitkey}{ret}
+</message>
+</scene>

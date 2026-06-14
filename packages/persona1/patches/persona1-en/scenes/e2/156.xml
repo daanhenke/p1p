@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="156">
+  <message offset="1400">
+SEBEC Employee: A high{nl}
+schooler in the same uniform{nl}
+as you came by earlier too.{waitkey}{clearbox}For all this to happen on{nl}
+your field trip day... you{nl}
+kids have it rough.{waitkey}{ret}
+</message>
+  <message offset="1460">
+SEBEC Employee: Who is it?!{nl}
+Who rearranged the rooms{nl}
+without telling me and made{nl}
+a storeroom?!{waitkey}{clearbox}And stuffed weird toys{nl}
+inside it, too! I won't{nl}
+stand for it!!{waitkey}{ret}
+</message>
+  <message offset="14c8">
+Maki: These people are{nl}
+victims too, aren't they.{waitkey}{ret}
+</message>
+  <message offset="14e4">
+Mark: Let's hurry and find{nl}
+Kandori.{waitkey}{ret}
+</message>
+  <message offset="14fc">
+Nanjo: The ordinary employees{nl}
+seem to know nothing.{waitkey}{ret}
+</message>
+  <message offset="1520">
+Ayase: One of our students is{nl}
+here?{waitkey}Who could it be?{waitkey}{ret}
+</message>
+  <message offset="1540">
+Brown: What's one of our{nl}
+students doing here?{waitkey}Not that I'm one to talk.{waitkey}{ret}
+</message>
+  <message offset="1570">
+Elly: One of our students{nl}
+besides us?{waitkey}Who on earth could it be?{waitkey}{ret}
+</message>
+  <message offset="15a0">
+Reiji: ...{waitkey}{ret}
+</message>
+</scene>

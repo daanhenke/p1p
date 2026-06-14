@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="183">
+  <message offset="11ec">
+{nl}
+
+</message>
+  <message offset="1218">
+{nl}
+
+</message>
+  <message offset="1280">
+Kandori: Boy...{nl}
+I haven't heard your answer.{nl}
+Why do you live?{waitkey}{ret}
+</message>
+</scene>

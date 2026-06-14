@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="33">
+  <message offset="1358">
+Kaneda: What do you want with{nl}
+my place? You're not here to{nl}
+steal my treasures, are you!{waitkey}{ret}
+</message>
+  <message offset="1394">
+{color:3}Katsue Kaneda{nl}
+A resident of Mikage Town.{nl}
+Lately she's suddenly come{nl}
+into money, it seems.{color:0}{waitkey}{ret}
+</message>
+  <message offset="13d8">
+Nanjo: Don't be absurd! What{nl}
+that old hag calls "treasure"{nl}
+is mere junk in my eyes.{waitkey}She plays at collecting{nl}
+antiques, but really she just{nl}
+buys them up by the wallet.{nl}
+Laughable!{waitkey}{ret}
+</message>
+  <message offset="1450">
+Yukino: That old hag treats{nl}
+everyone like a thief, no{nl}
+matter who. Not worth{nl}
+bothering with.{waitkey}{ret}
+</message>
+  <message offset="1488">
+Mark: Let's just go, {ctl0f:1}!{nl}
+This place makes me sick!{waitkey}{ret}
+</message>
+  <message offset="14b0">
+Kaneda: Hmph! As if kids like{nl}
+you could understand the{nl}
+worth of my treasures!{waitkey}Now, off you go!{waitkey}{ret}
+</message>
+  <message offset="14f8">
+Kaneda: What are the police{nl}
+doing! I pay more taxes than{nl}
+most people!{waitkey}At a time like this, isn't it{nl}
+only right they come to me{nl}
+first of all?{waitkey}If anything happens to my{nl}
+fortune, I'll sue!{waitkey}{ret}
+</message>
+  <message offset="157c">
+Elly: Everyone pays taxes,{nl}
+surely.{waitkey}I don't think there's any{nl}
+need to boast about it,{nl}
+is there?{waitkey}{ret}
+</message>
+  <message offset="15bc">
+Kaneda: The nerve of this{nl}
+stuck-up little girl!{waitkey}Now get off my property{nl}
+this instant!{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="179">
+  <message offset="14a0">
+{nl}
+
+</message>
+  <message offset="14c8">
+{nl}
+
+</message>
+  <message offset="1500">
+Yukino: {ctl0f:1}!{nl}
+This person's still alive!{nl}
+Give me a hand!{waitkey}{ret}
+</message>
+  <message offset="1528">
+Nanjo: {ctl0f:1}!{nl}
+That nurse is beyond saving!{nl}
+Dawdle and you're next!{waitkey}{ret}
+</message>
+  <message offset="1580">
+Mark: Hey, {ctl0f:1}!{nl}
+There's a monster coming{nl}
+right for us!{waitkey}{ret}
+</message>
+</scene>

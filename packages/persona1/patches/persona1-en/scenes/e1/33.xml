@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="33">
+  <message offset="1524">
+Yukino: What? Someone's down.{nl}
+T-Tadashi and Tamaki?!{nl}
+And Ms. Natsumi too!{waitkey}{clearbox}Why are they here...{nl}
+weren't they at the school...?{nl}
+D-{wait_fr:30}don't tell me!{waitkey}{ret}
+</message>
+  <message offset="1588">
+Nanjo: So at last there are{nl}
+victims among the ordinary{nl}
+students too...{waitkey}{clearbox}A pity, but we've no time{nl}
+to fuss over them.{nl}
+We could be next.{waitkey}{ret}
+</message>
+  <message offset="15d8">
+Brown: Tadashi...{nl}
+Tamaki...{nl}
+Ms. Natsumi...{waitkey}What a cruel thing to do!{waitkey}{clearbox}Damn you, Snow Queen!{nl}
+All three of you...{wait_fr:30}I'll{wait_fr:30}{nl}
+avenge you, I swear it!{waitkey}{ret}
+</message>
+  <message offset="1658">
+Tadashi: Zzz zzz zzz...{nl}
+...hrgg{wait_fr:30}...lo...ve{wait_fr:30}...{nl}
+...Tamaki-chuaaan!...{waitkey}{ret}
+</message>
+  <message offset="1698">
+Yukino: "T...Tamaki-chuan"...{nl}
+?!{nl}
+Sleep-talking? Are they just{nl}
+asleep, these guys?!{waitkey}{clearbox}Honestly... worrying over{nl}
+them was a waste.{waitkey}{ret}
+</message>
+  <message offset="16ec">
+Nanjo: Wait, Mayuzumi.{nl}
+Asleep or not, it's strange{nl}
+that they're here when they{waitkey}{clearbox}should be at the school.{nl}
+It may be the Snow Queen's{nl}
+trap. Best stay cautious.{waitkey}{ret}
+</message>
+  <message offset="1750">
+Elly: The Tower of Hypnos...{nl}
+What Hypnos symbolizes{nl}
+is sleep............!{waitkey}{clearbox}Be careful, everyone!{nl}
+The three may have been put{nl}
+to sleep by the Snow Queen!{waitkey}{ret}
+</message>
+  <message offset="17c0">
+Tamaki: Zzz, zzz zzz{nl}
+...mumble{wait_fr:30}...love{wait_fr:30}...you{nl}
+mmm...Ta...{wait_fr:30}...da{wait_fr:30}...mumble{waitkey}{ret}
+</message>
+  <message offset="1808">
+Ayase: But, but~{nl}
+for being put to sleep by{nl}
+the Snow Queen, they're all{waitkey}{clearbox}sleeping with such{nl}
+happy faces!{waitkey}{ret}
+</message>
+  <message offset="184c">
+Ms. Natsumi: Zzz{wait_fr:30}...zpii{nl}
+...heehee...{wait_fr:30}no...{nl}
+...eat...{wait_fr:30}...properly...{waitkey}{ret}
+</message>
+  <message offset="1890">
+Ayase: ...{wait_fr:30}...{wait_fr:30}...{nl}
+Whatever they're dreaming,{nl}
+it makes me wanna pinch{waitkey}their noses.{waitkey}{ret}
+</message>
+  <message offset="18c4">
+Yukino: Asleep or not, we{nl}
+can't just leave the three{nl}
+in a place full of monsters{waitkey}{clearbox}like this.{nl}
+Let's wake them before{nl}
+we go on.{waitkey}{ret}
+</message>
+  <message offset="1918">
+Yukino: Honestly,{nl}
+Ms. Natsumi's{nl}
+a handful too.{waitkey}{clearbox}This is no different from{nl}
+her being asleep...{waitkey}{ret}
+</message>
+  <message offset="1958">
+Ayase: Hey, hey,{nl}
+Tadashi's always{nl}
+yelling and being{waitkey}{clearbox}so noisy, but asleep{nl}
+like this, he's actually{nl}
+kinda pretty cute.{waitkey}{ret}
+</message>
+  <message offset="19a8">
+Ayase: Ahh, I'm tired.{nl}
+Ayase's getting kinda{nl}
+sleepy too.{waitkey}{ret}
+</message>
+  <message offset="19d4">
+Nanjo: If their lives aren't{nl}
+in danger, leaving them{nl}
+should be no issue.{waitkey}{clearbox}We're short on time.{nl}
+"Time is money."{nl}
+Let's press on.{waitkey}{ret}
+</message>
+  <message offset="1a28">
+Nanjo: ...{wait_fr:30}...{wait_fr:30}...?!{nl}
+No, no. Let my guard down{nl}
+even a little and I'll{waitkey}{clearbox}fall asleep.{nl}
+I'd like to get out of a{nl}
+place like this quickly.{waitkey}{ret}
+</message>
+  <message offset="1a88">
+Brown: What the, what the,{nl}
+making us worry when they're{nl}
+just asleep.{waitkey}{clearbox}Well, I figured as much{nl}
+from the start, y'know.{nl}
+No, seriously.{waitkey}{ret}
+</message>
+  <message offset="1ae8">
+Brown: ...{wait_fr:30}......{wait_fr:30}.........{nl}
+............{wait_fr:30}............{wait_fr:30}......{nl}
+...{wait_fr:30}hrgg?!{waitkey}{clearbox}Wh-what?! I-I wasn't{nl}
+asleep or anything!{nl}
+I-I was planning strategy!!{waitkey}{ret}
+</message>
+  <message offset="1b7c">
+Elly: If the reason the three{nl}
+are asleep is connected{nl}
+to Hypnos,{waitkey}{clearbox}then standing here like{nl}
+this, I don't think they{nl}
+will ever wake.{waitkey}{ret}
+</message>
+  <message offset="1bd8">
+Elly: Hold firmly to your{nl}
+sense of self and don't{nl}
+fall asleep.{waitkey}{clearbox}That is the "key" to clearing{nl}
+this "Tower of Hypnos."{waitkey}{ret}
+</message>
+  <message offset="1c24">
+Tadashi: Zzz zzz zzz{nl}
+hrgg...{wait_fr:30}guh...{wait_fr:30}guu...{nl}
+won't... let{wait_fr:30} go...{waitkey}{ret}
+</message>
+  <message offset="1c60">
+Tamaki: Zzz zzz zzz...{nl}
+zzz zzz...{nl}
+won't...{wait_fr:30} ever...{wait_fr:30} part...{waitkey}{ret}
+</message>
+  <message offset="1c94">
+Ms. Natsumi: Zzz... zzz...{nl}
+zzz... zpi zpi... zpii{nl}
+...don't{wait_fr:30}...run{wait_fr:30}...eat{waitkey}{ret}
+</message>
+  <message offset="1cd0">
+Ms. Natsumi: ...{wait_fr:30}...{wait_fr:30}...!{nl}
+Ow! Owowowow, my head...{nl}
+hurts... I've got low blood{waitkey}{clearbox}pressure. Let me sleep{nl}
+a bit more!{nl}
+...{wait_fr:30}Anyway, be careful...{nl}
+owww...{waitkey}{ret}
+</message>
+  <message offset="1d50">
+{color:3}Tamaki, a transfer student{nl}
+in the fencing club. Fights{nl}
+with Tadashi every day.{color:0}{waitkey}{ret}
+</message>
+  <message offset="1d88">
+{color:2}Tadashi, a lazy member of{nl}
+the fencing club. Fights with{nl}
+Tamaki every day.{color:0}{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="32">
+  <message offset="12c0">
+Frozen solid.{waitkey}{ret}
+</message>
+  <message offset="12cc">
+Frozen solid.{waitkey}{ret}
+</message>
+  <message offset="12d8">
+Yukino: I thought the numbers{nl}
+seemed low, and here they{nl}
+are in a place like this...{waitkey}{clearbox}Hang on, everyone! We'll save{nl}
+you soon!!{waitkey}{ret}
+</message>
+  <message offset="1320">
+Ayase: How awful...{waitkey}What's even fun about doing{nl}
+something like this?{waitkey}{ret}
+</message>
+  <message offset="1344">
+Nanjo: Hm. So the enemy's{nl}
+resorting to force, too.{waitkey}{ret}
+</message>
+  <message offset="1364">
+Brown: Wa-wa-wa-wa-wah!{waitkey}{ret}
+</message>
+  <message offset="1378">
+Elly: They still seem to be{nl}
+breathing.{waitkey}The Eternal Night... so this{nl}
+is what it meant.{waitkey}{ret}
+</message>
+</scene>

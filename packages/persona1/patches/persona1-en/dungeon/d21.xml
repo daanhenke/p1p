@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages floor="d21">
+  <message index="174">
+Yukino: Sent back, huh...{nl}
+The hall floor looks fishy.{waitkey}{clearbox}Ayase: You know, I just{nl}
+realized...{waitkey} a "fishy floor"{nl}
+and "Ayase Yuka" —{nl}
+don't they sound alike?{waitkey}{clearbox}Yukino: ...This is no time{nl}
+for a comedy bit.{waitkey}{ret}Yukino: Looks like that{nl}
+was the right answer.{waitkey}{ret}
+</message>
+</messages>

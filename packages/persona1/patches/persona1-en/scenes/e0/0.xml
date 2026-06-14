@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="0">
+  <message offset="1cf8">
+Mark: A 'Persona', huh?{nl}
+Like that'd ever show you{nl}
+your future self.{waitkey}{clearbox}Hey, Brown...{nl}
+is your head feeling{nl}
+a little too warm?{waitkey}{ret}
+</message>
+  <message offset="1d54">
+Brown: Heh heh.{nl}
+Don't go knockin' it,{nl}
+man!{waitkey}{clearbox}Okay, seein' the future{nl}
+is goin' a bit far, but it's{nl}
+a real paranormal deal!{waitkey}{nl}
+I'll even bet you on it, Mark!{waitkey}{ret}
+</message>
+  <message offset="1dc0">
+Mark: Alright, a bet?{nl}
+Loser treats everyone to{nl}
+all-you-can-eat at{nl}
+Peace Diner!{waitkey}{ret}
+</message>
+  <message offset="1dfc">
+Ayase: Yaaay!{nl}
+Then Ayase's betting on Brown!{waitkey}{ret}
+</message>
+  <message offset="1e20">
+Elly: I shall place my bet{nl}
+on Brown as well.{waitkey}{ret}
+</message>
+  <message offset="1e44">
+Mark: What? What is it?{waitkey}{ret}
+</message>
+  <message offset="1e58">
+Mark: Hey! Nanjo, Yukino,{nl}
+which side are you two on?{waitkey}{ret}
+</message>
+  <message offset="1e80">
+Nanjo: Hmph. Utter nonsense.{nl}
+Count me out.{waitkey}{ret}
+</message>
+  <message offset="1ea0">
+Yukino: Same here...{nl}
+Do whatever you want.{waitkey}{ret}
+</message>
+  <message offset="1ebc">
+Mark: Tch!{nl}
+Same as always.{nl}
+What a bunch of{nl}
+party poopers.{waitkey}{ret}
+</message>
+  <message offset="1ee8">
+Mark: Hey.{nl}
+Which side are you betting on?{nl}
+Mine, obviously, right?{waitkey}{ret}
+</message>
+  <message offset="1f14">
+So, which will it be?{nl}
+{ctl0e:25}{ret}
+</message>
+  <message offset="1f28">
+Mark: Geez, you too?{nl}
+Every last one of you{nl}
+is out of their mind.{waitkey}{ret}
+</message>
+  <message offset="1f50">
+Ayase: Aww, man...{nl}
+you're gonna regret this~{waitkey}{ret}
+</message>
+  <message offset="1f68">
+Brown: Pff heh heh heh...{nl}
+I'll make ya cry!{nl}
+Alright, let's get started!{waitkey}{ret}
+</message>
+  <message offset="1f98">
+Ayase: Okay, here we go~{waitkey}{ret}
+</message>
+  <message offset="1fac">
+Ayase: Um, let's see...{nl}
+Persona, oh Persona,{nl}
+please come to us~{waitkey}{ret}
+</message>
+  <message offset="1fd4">
+Brown: Alright!{nl}
+Persona, oh Persona,{nl}
+please come on out!{waitkey}{ret}
+</message>
+  <message offset="2004">
+Mark: Man, seriously...{nl}
+why do I have to do{nl}
+something this stupid...{waitkey}{ret}
+</message>
+  <message offset="2030">
+Brown: Just hurry up and go!{nl}
+All-you-can-eat, baby!{waitkey}{ret}
+</message>
+  <message offset="2058">
+Mark: Yeah, yeah, fine.{wait_fr:88}{nl}
+Persona, Persona,{nl}
+come on out, whatever.{waitkey}{ret}
+</message>
+  <message offset="208c">
+Elly: Now then...{nl}
+Persona,{nl}
+Persona,{waitkey}{nl}
+please come forth...{waitkey}{ret}
+</message>
+  <message offset="20d0">
+Brown: Alright, here it comes!{nl}
+.{wait_fr:16}.{wait_fr:16}.{wait_fr:16}.{wait_fr:16}.{wait_fr:16}.{wait_fr:16}.{wait_fr:16}.{wait_fr:16}.{wait_fr:16}.{wait_fr:16}.{wait_fr:16}.{wait_fr:16}.{wait_fr:16}.{wait_fr:16}.uh, huh?{waitkey}{ret}
+</message>
+  <message offset="2144">
+Ayase: H-hey, Brown!{nl}
+This makes Ayase{nl}
+look like an idiot!{waitkey}{ret}
+</message>
+  <message offset="2170">
+Mark: See, look.{nl}
+Nothing happened at all.{nl}
+Heh heh, I win.{waitkey}{ret}
+</message>
+  <message offset="21a0">
+Yukino: Phew...{nl}
+feel better now?{nl}
+Now go fetch the{nl}
+teacher already.{waitkey}{ret}
+</message>
+  <message offset="21c8">
+Brown: W-wait, hold on!{nl}
+Just one more time! C'mon!{nl}
+It's 'cause Mark joined in!{waitkey}{nl}
+Put some spirit into it!{waitkey}{ret}
+</message>
+  <message offset="2214">
+Mark: Oh, you little...{nl}
+You sure don't know{nl}
+when to quit, do ya.{waitkey}{ret}
+</message>
+  <message offset="2238">
+Nanjo: H-hey, Inaba...{nl}
+Behind you... take a look.{waitkey}{ret}
+</message>
+  <message offset="225c">
+Mark: What is it.{nl}
+Too late to back out now...{waitkey}{ret}
+</message>
+  <message offset="2280">
+Mark: Gah!!{waitkey}{ret}
+</message>
+  <message offset="2294">
+Ayase: Wh-what is this...{nl}
+A-are you serious?{waitkey}{ret}
+</message>
+  <message offset="22b0">
+Elly: Last time it was only a sound.{nl}
+How surprising.{waitkey}{ret}
+</message>
+  <message offset="22d0">
+Brown: Ha ha... s-see?{nl}
+Just like I told you, right?{nl}
+Bit different from{nl}
+before, though...{waitkey}{ret}
+</message>
+  <message offset="230c">
+Pale girl: ...hic ...sob{nl}
+{wait_fr:88}Help me... help me...{waitkey}{ret}
+</message>
+  <message offset="233c">
+Mark: Wh-what the!{waitkey}{ret}
+</message>
+  <message offset="2350">
+Nanjo: Wha? Th-this is...!?{waitkey}{ret}
+</message>
+  <message offset="2368">
+Elly: Fantastic!{nl}
+This grows more intriguing!{waitkey}{ret}
+</message>
+  <message offset="2398">
+Ayase: Kyaa! What is iiit!!{waitkey}{ret}
+</message>
+  <message offset="23b4">
+Yukino: Everyone, be careful!{nl}
+Kya!?{waitkey}{ret}
+</message>
+  <message offset="23f4">
+{color:2}Inaba Masao{nl}
+A.K.A. Mark. The wayward{nl}
+son of Inaba Cleaners.{nl}
+The impulsive type.{color:0}{waitkey}{ret}
+</message>
+  <message offset="2438">
+{color:2}Nanjo Kei{nl}
+A.K.A. Nanjo-kun. Heir to{nl}
+the Nanjo conglomerate.{nl}
+A staunch rationalist.{color:0}{waitkey}{ret}
+</message>
+  <message offset="2484">
+{color:3}Mayuzumi Yukino.{nl}
+A.K.A. Yukino.{nl}
+The big-sister of the school,{nl}
+trusted by everyone.{color:0}{waitkey}{ret}
+</message>
+  <message offset="24cc">
+{color:2}Uesugi Hidehiko. A.K.A. Brown.{nl}
+An attention-seeking show-off.{color:0}{waitkey}{ret}
+</message>
+  <message offset="2508">
+{color:3}Ayase Yuka. A.K.A. Ayase.{nl}
+A free-spirited trendy girl{nl}
+and total troublemaker.{color:0}{waitkey}{ret}
+</message>
+  <message offset="254c">
+{color:3}Kirishima Eriko. A.K.A. Elly.{nl}
+A returnee young lady;{nl}
+an intellectual beauty.{color:0}{waitkey}{ret}
+</message>
+</scene>

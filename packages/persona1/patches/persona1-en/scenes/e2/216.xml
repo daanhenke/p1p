@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="216">
+  <message offset="121c">
+Maki: Are you done with your{nl}
+business? Let's hurry and{nl}
+get out of here!{waitkey}{ret}
+</message>
+  <message offset="1244">
+Nanjo: Wounds of the heart,{nl}
+being invisible, are harder{nl}
+to heal, it seems.{waitkey}{clearbox}No, no particular meaning.{nl}
+It just crossed my mind{nl}
+just now.{waitkey}{ret}
+</message>
+  <message offset="1294">
+Mark: What are you lazing{nl}
+around for? Once we're healed,{nl}
+we move out!{waitkey}{ret}
+</message>
+  <message offset="12bc">
+Elly: I want to vanquish the{nl}
+Demons soon and restore the{nl}
+peaceful town...{waitkey}{ret}
+</message>
+  <message offset="12f8">
+Brown: When's the day gonna{nl}
+come that I'm the idol of the{nl}
+whole town — no, all of{nl}
+Japan~!{waitkey}{ret}
+</message>
+  <message offset="1334">
+Ayase: Ayase wants to go back{nl}
+to being a normal high{nl}
+school girl, and fast~!{waitkey}{ret}
+</message>
+  <message offset="1360">
+Reiji: I'd like it if this{nl}
+all got resolved soon.{waitkey}{clearbox}You've got someone waiting{nl}
+for you to come home too,{nl}
+haven't you?{waitkey}{ret}
+</message>
+  <message offset="13a4">
+Doctor: This place used to be{nl}
+a peaceful, wonderful town{nl}
+too, but it suddenly fell{nl}
+to ruin.{waitkey}{clearbox}Now then, how are you{nl}
+feeling?{waitkey}{ret}
+</message>
+  <message offset="13f0">
+Nurse: At this rate, this{nl}
+town will perish. I can't{nl}
+bring myself to feel any{nl}
+hope either.{waitkey}{clearbox}I even catch myself thinking{nl}
+it might be better if{nl}
+everything just disappeared.{waitkey}{ret}
+</message>
+</scene>

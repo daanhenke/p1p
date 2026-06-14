@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="190">
+  <message offset="15f4">
+Maki: Frogs... does he like{nl}
+them, I wonder.{waitkey}{ret}
+</message>
+  <message offset="160c">
+Nanjo: Will the day come when{nl}
+our town's convenience stores{nl}
+sell weapons too, I wonder?{waitkey}{ret}
+</message>
+  <message offset="1644">
+Mark: Tch, all weapons, huh.{nl}
+Without a book section, it{nl}
+feels kinda lonely.{waitkey}{ret}
+</message>
+  <message offset="1678">
+Elly: This place... I wonder{nl}
+what happened here?{waitkey}{ret}
+</message>
+  <message offset="1698">
+Brown: Look at this drawing —{nl}
+real stylish, huh!{wait_fr:32}{nl}
+...Huh, it's the real thing?{waitkey}{ret}
+</message>
+  <message offset="16d4">
+Ayase: This is... don't tell{nl}
+me...{waitkey}{ret}
+</message>
+  <message offset="16ec">
+Reiji: It looks a lot like{nl}
+the Nazca Lines.{waitkey}{ret}
+</message>
+  <message offset="1710">
+Clerk: Hi~ everyone, how's it{nl}
+going? Welcome to Yin &amp; Yan!{nl}
+Now, what'll you buy for me~?{waitkey}{ret}
+</message>
+  <message offset="1758">
+Clerk: Oh no~ Don't tell me{nl}
+you're a robber~?{waitkey}{clearbox}I don't like naughty kids{nl}
+like that!{waitkey}{ret}
+</message>
+  <message offset="179c">
+Customer: Have you met the{nl}
+Harem Queen yet?{waitkey}{clearbox}The Queen is a terribly{nl}
+delicate person, you know!{waitkey}{clearbox}Listen, whatever you do, be{nl}
+sure not to hurt the Queen!{waitkey}{ret}
+</message>
+  <message offset="180c">
+Customer: They say the Queen{nl}
+is gone now! Finally we can{nl}
+breathe easy!{waitkey}{ret}
+</message>
+</scene>

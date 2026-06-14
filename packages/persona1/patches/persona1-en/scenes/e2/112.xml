@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="112">
+  <message offset="13d0">
+Maki: I don't think we really{nl}
+need TV or radio anyway. Is{nl}
+that such a big deal?{waitkey}{ret}
+</message>
+  <message offset="140c">
+Nanjo: The only thing you can{nl}
+trust is your own strength...{nl}
+A sound way of thinking.{waitkey}{ret}
+</message>
+  <message offset="143c">
+Mark: Kids these days really{nl}
+have it together.{waitkey}{ret}
+</message>
+  <message offset="145c">
+Elly: I, too, wish to unravel{nl}
+this mystery with my own{nl}
+hands.{waitkey}{clearbox}It's a chance to put all I've{nl}
+learned to good use, after{nl}
+all.{waitkey}{ret}
+</message>
+  <message offset="14ac">
+Brown: We go from the factory{nl}
+to SEBEC, right? Then we beat{nl}
+Kandori, right?{waitkey}{clearbox}And then it's all solved,{nl}
+and I'm the hero!{wait_fr:21}{nl}
+That's how it goes, yeah?{waitkey}{ret}
+</message>
+  <message offset="150c">
+Brown: Kandori... I guess we{nl}
+really do have to go after{nl}
+him, huh...{waitkey}{ret}
+</message>
+  <message offset="1538">
+Ayase: TV and radio both{nl}
+being out — does that mean{nl}
+some kind of signal trouble?{waitkey}{clearbox}Why would something like{nl}
+that happen?{waitkey}{ret}
+</message>
+  <message offset="1584">
+Customer: The TV and radio{nl}
+are both dead, and my parents{nl}
+are cowering under the{nl}
+covers...{waitkey}{clearbox}In the end, you've just got{nl}
+to sort things out yourself.{waitkey}{ret}
+</message>
+  <message offset="15d0">
+Shopkeeper: That's my private{nl}
+room over there~ So you're{nl}
+not allowed in, okay~{waitkey}{ret}
+</message>
+  <message offset="160c">
+Shopkeeper: I'm not the least{nl}
+bit scared of demons, no~{waitkey}{clearbox}Those things are bound to be{nl}
+a trick of the eye or some{nl}
+kind of hoax!{waitkey}{ret}
+</message>
+</scene>

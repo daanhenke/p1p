@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="38">
+  <message offset="150c">
+!
+</message>
+  <message offset="1530">
+Hihoko-chan: Hiho!! Fourth{nl}
+floor, here we are~{waitkey}{ret}
+</message>
+  <message offset="1558">
+Heeho-kun: Heeho! Hey, hey,{nl}
+you guys~{waitkey}{ret}
+</message>
+  <message offset="1570">
+Will you be my friend?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="15d4">
+Heeho-kun: Heeho! Just 95{nl}
+more and I'll have 100{nl}
+friends, heeho!!{waitkey}{clearbox}Is there something I can do{nl}
+for my friends, I wonder?{waitkey}I know!!{waitkey}{ret}
+</message>
+  <message offset="15f0">
+Shall I take you to the{nl}
+floor above?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1600">
+Hihoko-chan: Tch.{waitkey}{ret}
+</message>
+  <message offset="1630">
+Heeho-kun: Heeho! Okay then,{nl}
+close your eyes for just a{nl}
+moment...{waitkey}{ret}
+</message>
+  <message offset="1640">
+Hihoko-chan: Tch.{waitkey}{ret}
+</message>
+  <message offset="1664">
+Yukino: The snowmen again.{nl}
+What are they up to this{nl}
+time?{waitkey}{ret}
+</message>
+  <message offset="1684">
+Ayase: They look like they{nl}
+want to be talked to.{waitkey}{ret}
+</message>
+  <message offset="169c">
+Nanjo: Are they lonely, those{nl}
+two?{waitkey}{ret}
+</message>
+  <message offset="16c4">
+Brown: Looking at their{nl}
+mouths makes me want to eat{nl}
+watermelon.{waitkey}{ret}
+</message>
+</scene>

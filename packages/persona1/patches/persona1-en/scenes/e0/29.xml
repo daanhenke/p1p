@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="29">
+  <message offset="2788">
+Yukino: What was that{nl}
+just now... A dream...?{waitkey}{ret}
+</message>
+  <message offset="27a4">
+Nanjo: Truth is stranger{nl}
+than fiction...{nl}
+How well that's said.{waitkey}{ret}
+</message>
+  <message offset="27cc">
+Elly: I've had yet another{nl}
+precious experience...{waitkey}{ret}
+</message>
+  <message offset="27f0">
+Maki's Mother: Ugh...{nl}
+uhhh...{waitkey}{ret}
+</message>
+  <message offset="2808">
+{color:3}Maki's Mother.{nl}
+Works at SEBEC.{nl}
+An elite engineer.{color:0}{waitkey}{ret}
+</message>
+  <message offset="2844">
+Mark: H-hey!{nl}
+We almost forgot{nl}
+about Maki's mom!{waitkey}{ret}
+</message>
+  <message offset="286c">
+Yukino: Ma'am!{nl}
+Are you okay?{waitkey}{ret}
+</message>
+  <message offset="2888">
+Nanjo: This wound...{nl}
+it's from a bullet.{nl}
+Who did this to you?{waitkey}{ret}
+</message>
+  <message offset="28b0">
+Maki's Mother: Kandori's...{nl}
+men...{waitkey}{ret}
+</message>
+  <message offset="28cc">
+Nanjo: Kandori!?{nl}
+The Kandori from SEBEC?{waitkey}{ret}
+</message>
+  <message offset="28f4">
+Maki's Mother: Everything{nl}
+wrong with this city...{nl}
+it's all Kandori's doing...{waitkey}{nl}
+I was involved as an{nl}
+engineer in the development{nl}
+of a certain device.{waitkey}{ret}
+</message>
+  <message offset="2948">
+Nanjo: A device...{nl}
+Are you saying that machine{nl}
+caused all of this?{waitkey}{ret}
+</message>
+  <message offset="2970">
+Maki's Mother:{nl}
+The Deva System...{nl}
+It artificially alters{nl}
+space itself...{waitkey}{clearbox}That it would lead to{nl}
+results like this...{nl}
+Kandori said he didn't{nl}
+care what happened here.{waitkey}{nl}
+We have to warn{nl}
+the police, fast...{waitkey}{ret}
+</message>
+  <message offset="2a00">
+Elly: I'm afraid that{nl}
+won't work...{nl}
+The police station is{nl}
+already full of demons.{waitkey}{nl}
+I just saw it{nl}
+myself.{waitkey}{ret}
+</message>
+  <message offset="2a5c">
+Maki's Mother: Good heavens...{nl}
+Someone has to{nl}
+stop Kandori...{waitkey}{ret}
+</message>
+  <message offset="2a88">
+Mark: ...Ma'am,{nl}
+how did you{nl}
+get away?{waitkey}{ret}
+</message>
+  <message offset="2aac">
+Maki's Mother: The abandoned{nl}
+factory has a secret{nl}
+loading entrance...{nl}
+With this Security Card...{waitkey}{ret}
+</message>
+  <message offset="2af0">
+Yukino: Ma'am!{nl}
+...Thank goodness —{nl}
+she just fainted.{nl}
+We need to move!{waitkey}{ret}
+</message>
+  <message offset="2b2c">
+Mark: ...{ctl0f:1}{nl}
+Leaving the rest{nl}
+to you guys.{nl}
+Gonna go settle this.{waitkey}{ret}
+</message>
+  <message offset="2b58">
+Nanjo: Wait, Inaba.{nl}
+Nothing ventured,{nl}
+nothing gained.{nl}
+I'll come too.{waitkey}{nl}
+Besides, without{nl}
+that card, we can't{nl}
+get near Kandori.{waitkey}{ret}
+</message>
+  <message offset="2bac">
+Yukino: W-wait a second!...{wait_fr:88}{nl}
+Fine, whatever!{nl}
+We'll get back to{nl}
+school on our own!{waitkey}{clearbox}Honestly, men!{nl}
+They never stop to{nl}
+think how it feels{nl}
+to be left behind.{waitkey}{ret}
+</message>
+  <message offset="2c14">
+Elly: They really are alike,{nl}
+those two — so reckless.{waitkey}{nl}
+Well, once they see{nl}
+how it goes, they'll{nl}
+give up and come back.{waitkey}{ret}
+</message>
+  <message offset="2c64">
+Butterfly: If you are hurt{nl}
+before you reach the school,{nl}
+return to me.{nl}
+I shall give you strength...{waitkey}{ret}
+</message>
+  <message offset="2c94">
+Yukino: Still...{nl}
+What on earth is{nl}
+this butterfly?{waitkey}{clearbox}Thinking about it{nl}
+won't help, I guess...{nl}
+Let's just get back{nl}
+to school fast.{waitkey}{ret}
+</message>
+  <message offset="2ce0">
+Elly: What a mysterious{nl}
+butterfly...{nl}
+Don't you feel like it can{nl}
+see into your very heart?{waitkey}{ret}
+</message>
+  <message offset="2d1c">
+Butterfly: Young ones{nl}
+who are wounded...{nl}
+Close your eyes...{waitkey}{ret}
+</message>
+  <message offset="2d40">
+They appear to have{nl}
+lost consciousness.{waitkey}{ret}
+</message>
+</scene>

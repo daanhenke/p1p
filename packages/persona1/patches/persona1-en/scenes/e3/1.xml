@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="1">
+  <message offset="1550">
+Student: {ctl0f:1}! The place{nl}
+across from the library's{nl}
+become a casino!!{waitkey}{clearbox}I'm raking it in! You should{nl}
+go check it out too!{waitkey}{ret}
+</message>
+  <message offset="159c">
+Student: While you guys were{nl}
+gone, I sank all the club{nl}
+funds into poker...{waitkey}{clearbox}The next guy to play's gonna{nl}
+be lucky. The jackpot bonus{nl}
+must be sky-high by now...{waitkey}{ret}
+</message>
+  <message offset="160c">
+Junior: Hee hee hee. It's all{nl}
+over now.{waitkey}{clearbox}We're all going to die someday{nl}
+anyway... this just moves it{nl}
+up a little. Yes,{wait_fr:30} that's all.{waitkey}{clearbox}We get to end our lives still{nl}
+beautiful, so we ought to{nl}
+thank the Snow Queen.{waitkey}{ret}
+</message>
+  <message offset="1684">
+Junior: Hee hee hee. In a deep{nl}
+blue room, a deep blue piano.{waitkey}{clearbox}Deep blue curtains, and a deep{nl}
+blue carpet. What kind of{nl}
+room could it be, I wonder?{waitkey}{clearbox}It's the room just to the{nl}
+left as you leave here. Hee{nl}
+hee hee hee.{waitkey}{ret}
+</message>
+  <message offset="1704">
+Junior: Hee hee hee. In a{nl}
+pitch-dark room, a light{nl}
+floats.{waitkey}{clearbox}The light takes me away to{nl}
+another world. It's so{nl}
+lovely.{waitkey}{clearbox}At the crossroads just outside{nl}
+here, turn left and go{nl}
+straight on, and there it is.{waitkey}Hee hee hee hee.{waitkey}{ret}
+</message>
+  <message offset="1794">
+Yukino: A casino? Tempting.{waitkey}{ret}
+</message>
+  <message offset="17b0">
+Yukino: Huh, so go off{nl}
+fighting for a while and the{nl}
+jackpot can climb, huh.{waitkey}{ret}
+</message>
+  <message offset="17e0">
+Ayase: I'm hungry~ Come to{nl}
+think of it, where'd the home{nl}
+ec room go?{waitkey}{clearbox}I've got a fair bit of{nl}
+leftover baking ingredients{nl}
+from this morning, just{nl}
+sitting there.{waitkey}{ret}
+</message>
+  <message offset="1844">
+Ayase: I'm hungry~{waitkey}{ret}
+</message>
+  <message offset="1858">
+Nanjo: A casino? Get mixed up{nl}
+in something like that and{nl}
+you'll ruin yourself.{waitkey}{ret}
+</message>
+  <message offset="1880">
+Nanjo: What a fool. He brought{nl}
+it on himself.{waitkey}{ret}
+</message>
+  <message offset="18a0">
+Brown: Ooh~ sounds fun.{waitkey}{clearbox}Let's go check it out too!{nl}
+The casino!!{waitkey}{ret}
+</message>
+  <message offset="18d8">
+Brown: Once in a while I'd{nl}
+love to cut loose and hit{nl}
+the casino.{waitkey}{ret}
+</message>
+  <message offset="1904">
+Elly: That girl by the{nl}
+window... she's been muttering{nl}
+something for a while now.{waitkey}{ret}
+</message>
+  <message offset="1934">
+Elly: That girl by the{nl}
+window... she's still{nl}
+muttering something.{waitkey}{ret}
+</message>
+</scene>

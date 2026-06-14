@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Speeds up the ADV text scroll rate. Standalone: works without persona1-en. -->
+<patch id="faster-text" version="0.1.0" game="persona1" priority="10">
+  <name>Faster Text</name>
+  <description>Increases ADV text scroll speed so dialogue plays back faster.</description>
+</patch>

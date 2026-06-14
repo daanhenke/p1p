@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="37">
+  <message offset="14ac">
+Yukino: How did that woman{nl}
+even climb up here?{waitkey}{ret}
+</message>
+  <message offset="14cc">
+Ayase: Oh, look, look~ My{nl}
+eyelashes are frozen~{waitkey}{ret}
+</message>
+  <message offset="14f0">
+Nanjo: She's usually{nl}
+irritating, but having Ayase{nl}
+around at a time like this is{nl}
+somehow a relief.{waitkey}{ret}
+</message>
+  <message offset="1524">
+Brown: I'm getting sleepy...{waitkey}{ret}
+</message>
+  <message offset="153c">
+Elly: The same scenery no{nl}
+matter how far we go...{waitkey}Are we really making{nl}
+progress, I wonder?{waitkey}{ret}
+</message>
+  <message offset="1570">
+???: Oh, hello. Nice to meet{nl}
+you.{waitkey}{clearbox}I'm Mariko Yabe, of the{nl}
+Yamagumo Private High School{nl}
+Paranormal Phenomena Club.{waitkey}Pleased to meet you!{waitkey}{clearbox}Though it's an unofficial club{nl}
+where I'm both president and{nl}
+sole member, ha!{waitkey}{clearbox}My homeroom teacher won't{nl}
+approve the club, for the sole{nl}
+reason that it's "uncool"!{waitkey}{clearbox}So today I came to meet my{nl}
+comrade Kuroori, but...{nl}
+little{wait_fr:30}... little{wait_fr:30}... did I...{waitkey}{clearbox}did I dream I'd get caught up{nl}
+in a paranormal event this{nl}
+amazing! I'm super lucky!{waitkey}{clearbox}Until just now I was exploring{nl}
+the three mysterious towers{nl}
+that appeared around school!{waitkey}{clearbox}The towers are full of demons!{nl}
+Thanks to that, I got loads{nl}
+of great photos!{waitkey}{clearbox}I'm gonna submit those demon{nl}
+photos to a magazine!{waitkey}{clearbox}If the media takes notice,{nl}
+maybe my teacher will approve{nl}
+the club!{waitkey}All right! I'll give it{nl}
+my all!{waitkey}{ret}
+</message>
+  <message offset="177c">
+Mariko: I'd pretty much{nl}
+finished exploring the{nl}
+towers, so I climbed up{nl}
+here, but...{waitkey}I'm a little tired, I admit...{waitkey}{clearbox}But this situation gets me{nl}
+fired up! "The school's{nl}
+mysterious freeze"! "The{nl}
+demons' revival"!{waitkey}"The mystery towers and the{nl}
+school turned labyrinth"!{waitkey}{clearbox}Say, what do you think?{waitkey}{clearbox}I still think it's the plot{nl}
+of a secret society scheming{nl}
+to rule the world through{nl}
+magic...{waitkey}{ret}
+</message>
+</scene>

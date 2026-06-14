@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="33">
+  <message offset="1244">
+Hihoko-chan: Strike! Strike!{nl}
+Hiho!{waitkey}{clearbox}Heeho-kun: This school's got{nl}
+no sumo club, so I'll join{nl}
+the boxing club, heeho!{waitkey}{clearbox}Hihoko-chan: You, you — the{nl}
+punching bag isn't supposed{nl}
+to move.{waitkey}{clearbox}Heeho-kun: Hiho? You mean me??{waitkey}{clearbox}Hihoko-chan: Well, that boy in{nl}
+the fencing club was getting{nl}
+walloped by a girl, wasn't he.{waitkey}{clearbox}Heeho-kun: Heeho!! I see, so{nl}
+girls are strong, huh...{nl}
+{wait_fr:30}...{wait_fr:30}be{wait_fr:7} gen{wait_fr:7}tle{wait_fr:7} now{wait_fr:7}{color:3}♥{color:0}{waitkey}{ret}
+</message>
+  <message offset="1378">
+Yukino: These two again.{waitkey}{ret}
+</message>
+  <message offset="138c">
+Ayase: How nice, the two of{nl}
+them getting along.{waitkey}{ret}
+</message>
+  <message offset="13a0">
+Nanjo: Always doing their{nl}
+comedy routine.{waitkey}{ret}
+</message>
+  <message offset="13b8">
+Brown: How soothing~{waitkey}{ret}
+</message>
+  <message offset="13cc">
+Elly: Do Jack Frosts even{nl}
+have a gender, I wonder?{waitkey}{ret}
+</message>
+</scene>

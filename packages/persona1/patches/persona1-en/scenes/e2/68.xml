@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="68">
+  <message offset="123c">
+Nanjo: Sonomura's mother, of{nl}
+all places, works at a{nl}
+company like that?!{waitkey}{ret}
+</message>
+  <message offset="126c">
+Mark: Ah! Dang it! Maybe I{nl}
+should've brought flowers or{nl}
+something. Oh well, can't be{nl}
+helped!{waitkey}{ret}
+</message>
+  <message offset="12a4">
+Yukino: Come on, Sonomura's{nl}
+waiting for us.{waitkey}{ret}
+</message>
+  <message offset="12c0">
+Nurse: You're all Maki's{nl}
+friends? Oh, I'm so glad.{waitkey}She's been in and out of the{nl}
+hospital ever since she was{nl}
+a child, you know?{waitkey}I always worry whether she's{nl}
+getting along with friends...{waitkey}{ret}
+</message>
+  <message offset="133c">
+Nurse: Honestly, I can't{nl}
+believe it! Her precious only{nl}
+daughter's hospitalized, and{nl}
+she won't even visit!{waitkey}I don't know how busy SEBEC{nl}
+work keeps her, but she's a{nl}
+failure as a mother!{waitkey}...Poor little Maki...{waitkey}{ret}
+</message>
+</scene>

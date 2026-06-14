@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="213">
+  <message offset="1254">
+Pandora: Shuru...{nl}
+fushururururururu...{waitkey}{ret}
+</message>
+  <message offset="1274">
+Maki: This is me too?!{nl}
+This is...{wait_fr:88} Pandora!!{waitkey}{ret}
+</message>
+  <message offset="12a0">
+Nanjo: That's...!!{nl}
+Behind it - is that the{nl}
+core of the Deva System?!{waitkey}{ret}
+</message>
+  <message offset="12d4">
+Pandora: At last...{nl}
+at last you've come so far...{nl}
+fushu... rururururururu...{waitkey}{clearbox}This is... the "Gate of{nl}
+Paradise" I finally seized...{nl}
+I'll give it to no one...{waitkey}{clearbox}With it I'll make a paradise{nl}
+- a paradise where nothing{nl}
+exists at all...{waitkey}{ret}
+</message>
+  <message offset="1374">
+Maki: No! That's not{nl}
+the "Gate of Paradise"!{waitkey}It's "Pandora's Box" -{nl}
+the bringer of calamity{nl}
+to this world!{waitkey}{ret}
+</message>
+  <message offset="13c0">
+Pandora: Fushururururu...{nl}
+All is futile... everything...{nl}
+You're futile... I'm futile...{waitkey}{clearbox}I have no need for futile{nl}
+things... Vanish from{nl}
+existence... Fushuruaaaah!{waitkey}{ret}
+</message>
+</scene>

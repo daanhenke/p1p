@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="3">
+  <message offset="1314">
+Nanjo: I'll grant Kasai's{nl}
+character isn't the best.{waitkey}{clearbox}She made a show of flaunting{nl}
+that she was dating Naito,{nl}
+after all.{waitkey}{ret}
+</message>
+  <message offset="1368">
+Mark: Naito's got the looks{nl}
+AND he's a good guy. Galls{nl}
+me, but he's a real nice guy!{waitkey}{ret}
+</message>
+  <message offset="13a0">
+Yukino: True, I was surprised{nl}
+when Naito and Kasai started{waitkey}dating. Kasai never showed{nl}
+any sign of it.{waitkey}{clearbox}If anything, the one who{nl}
+liked Naito was so...{wait_fr:48}{nl}
+Hey, what about the hospital?{waitkey}{ret}
+</message>
+  <message offset="1418">
+Student: Hey, isn't it about{nl}
+time you gave up on Naito?{waitkey}{clearbox}He ran off with her, for{nl}
+sure! It's been two months!{waitkey}{ret}
+</message>
+  <message offset="1468">
+Student: Naito was popular{nl}
+with the girls,{waitkey}{clearbox}but two months back he just{nl}
+stopped coming to school.{waitkey}{ret}
+</message>
+  <message offset="14b4">
+Student: That's a lie! Naito's{nl}
+being tricked by Kasai!{waitkey}Because deep down that girl's{nl}
+got a really nasty side!{waitkey}{ret}
+</message>
+  <message offset="1504">
+Student: Kasai was Sonomura's{nl}
+best friend, right?{waitkey}{clearbox}If you're visiting her, ask{nl}
+about all that, would you!{waitkey}{ret}
+</message>
+</scene>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="24">
+  <message offset="1174">
+Nanjo: There's nothing much{nl}
+kept in here.{waitkey}{ret}
+</message>
+  <message offset="1190">
+Mark: This mat's actually{nl}
+comfy to sleep on.{waitkey}{ret}
+</message>
+  <message offset="11b0">
+Yukino: It's dusty and reeks{nl}
+of sweat... How can you even{nl}
+feel like sleeping here.{waitkey}{ret}
+</message>
+</scene>

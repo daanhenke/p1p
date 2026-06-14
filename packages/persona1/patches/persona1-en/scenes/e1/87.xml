@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="87">
+  <message offset="13e4">
+...
+</message>
+  <message offset="1410">
+Yukino: Hmph!{nl}
+We... win!{waitkey}{clearbox}Still... want to fight?{waitkey}{ret}
+</message>
+  <message offset="148c">
+Michiko: M-me, lose?!{nl}
+That... that can't be!!{waitkey}{clearbox}And to mere humans like{nl}
+these, of all things...{nl}
+Ohh!? How can it be?{waitkey}Ohh!! Ooooh!!{waitkey}{ret}
+</message>
+  <message offset="1538">
+Nanjo: Noisy woman.{nl}
+You lost and we won -{nl}
+an unbendable reality.{waitkey}{clearbox}Making your unsightly face{nl}
+uglier still and raising a{nl}
+fuss won't change that.{waitkey}{clearbox}A loser should act like one{nl}
+and vanish from our sight{nl}
+at once...{waitkey}{clearbox}No - please, vanish.{nl}
+I beg you.{waitkey}{ret}
+</message>
+  <message offset="1604">
+Brown: Ahh! Ahh!!{nl}
+Aaagh!!! You're so noisy!{nl}
+You are!!{waitkey}{clearbox}Listen? You got beaten by{nl}
+"the dashing great me and{nl}
+my pals"!!{waitkey}{clearbox}Quit squawking "ow, ow" like{nl}
+a fur seal forever and get{nl}
+out of my sight!{waitkey}Eh? Eh?{waitkey}{ret}
+</message>
+  <message offset="1690">
+Ayase: Mm-hm,{nl}
+exactly, like!{waitkey}{clearbox}A hopeless, super-dumb{nl}
+woman's face like yours{waitkey}{clearbox}- Ayase doesn't wanna see it{nl}
+anymore either, kinda?{waitkey}{clearbox}Mm... I mean, like,{nl}
+just hurry up{nl}
+and disappear already!{waitkey}{ret}
+</message>
+  <message offset="1970">
+Michiko: Kiiiii!{nl}
+Kiiiiiiiii!!{waitkey}{clearbox}What! What!! Whaaat!!!{waitkey}{clearbox}Selfish, cruel humans,{nl}
+all of you?? That's what{nl}
+you are!!{waitkey}{clearbox}Five of you ganging up to{nl}
+bully poor me, who did{nl}
+nothing, and gloating!!{waitkey}{clearbox}Yes! Humans are always like{nl}
+this!! And so are you!{waitkey}{clearbox}And so are the ones whose{nl}
+ugly faces hang on my wall -{waitkey}{clearbox}the ones who once bullied me{nl}
+for no reason at all!{waitkey}{clearbox}Can you understand? Using my{nl}
+endless money to buy the role{nl}
+of "the Snow Queen"!{waitkey}{clearbox}Getting that detestable girl{nl}
+playing girlfriend beside the{nl}
+drama senpai I admired{nl}
+expelled!{waitkey}{clearbox}Bribing a teacher to add a{nl}
+little color to my grades -{nl}
+that's all I did!!{waitkey}{clearbox}Yet the fools in my class{nl}
+cursed frail me, gossiped{nl}
+behind my back,{waitkey}{clearbox}and cast me out...{waitkey}{clearbox}The only one who gently{nl}
+reached out a hand to me was{nl}
+the "Snow Queen's mask"!{waitkey}{clearbox}The only one who understood{nl}
+my sorrow, my misfortune, was{nl}
+the "Snow Queen's mask"!{waitkey}{clearbox}Tell me, by what right do{nl}
+humans bully poor,{nl}
+pitiful me??{waitkey}{clearbox}Michiko... cannot understand{nl}
+it at all!{waitkey}{ret}
+</message>
+  <message offset="1a08">
+Nanjo: That is... entirely{nl}
+your own fault!!{waitkey}{clearbox}You... you truly threw away{nl}
+your life in the real world{waitkey}{clearbox}over that, sank to being the{nl}
+"Snow Queen's" underling, and{nl}
+became this tower's guardian?{waitkey}I'm too dumbfounded to speak.{waitkey}{ret}
+</message>
+  <message offset="1abc">
+Elly: What? That is entirely{nl}
+your own fault!!{waitkey}{clearbox}Did you really... throw away{nl}
+your life in reality over{nl}
+such a reason{waitkey}{clearbox}and become the "Snow Queen's"{nl}
+subordinate?{waitkey}{clearbox}Unbelievable... You really{nl}
+are quite unhinged...{waitkey}{ret}
+</message>
+  <message offset="1cd4">
+Michiko: Kiiiii!!!{nl}
+Even after hearing my sad{nl}
+past, which I can't tell{waitkey}without tears,{waitkey}{clearbox}you can still mock me?{nl}
+Michiko can't believe it!{waitkey}{clearbox}That's quite enough!! Asking{nl}
+poor-hearted folk like you{waitkey}{clearbox}to grasp the sorrow of{nl}
+high-society me was too much!{waitkey}{clearbox}Hmph! Fine!! Just this once,{nl}
+I'll let it be your win!!{waitkey}{clearbox}But be prepared... when the{nl}
+vengeance for you swirling in{nl}
+my heart fills once{nl}
+more in time!{waitkey}{clearbox}I shall show you hell{nl}
+again!!{waitkey}{clearbox}Reeemember this!! I'll appear{nl}
+before you again and again!{waitkey}{clearbox}Look forward to that day!!{nl}
+Now then, good day!{waitkey}{clearbox}Ohohohoho!{nl}
+Ohohohohohoho!{waitkey}{ret}
+</message>
+  <message offset="1cec">
+Obtained a "Mirror Shard"!{waitkey}{ret}
+</message>
+  <message offset="1d0c">
+Obtained 2 "Ambrosia"!{waitkey}{ret}
+</message>
+  <message offset="1d2c">
+Obtained 1 "Ambrosia"!{waitkey}{ret}
+</message>
+  <message offset="1ddc">
+Yukino: Michiko Matsudaira...{nl}
+someone I'd rather never{nl}
+meet again.{waitkey}{clearbox}Oh, right! Toro and Kuroori...{nl}
+are they okay?{waitkey}{clearbox}That Michiko! She never{nl}
+handed over the key after{nl}
+all!!{waitkey}{clearbox}When we get back to school,{nl}
+let's go check on those two.{nl}
+Now, let's head back!{waitkey}{ret}
+</message>
+</scene>

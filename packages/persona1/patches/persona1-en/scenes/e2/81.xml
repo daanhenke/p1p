@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="81">
+  <message offset="125c">
+Nanjo: {ctl0f:1}...{wait_fr:48}{nl}
+Sorry, but my mind isn't{wait_fr:32}{nl}
+as sharp as usual.{waitkey}{ret}
+</message>
+  <message offset="1290">
+Mark: Damn it, if only we{nl}
+had some kind of clue!{waitkey}{ret}
+</message>
+  <message offset="12b4">
+Elly: I want to help Maki's{nl}
+mother soon...{wait_fr:32}{nl}
+Come with me to Alaya Shrine!{waitkey}{ret}
+</message>
+  <message offset="12f8">
+Yukino: The air in this town{nl}
+feels like it's changed.{nl}
+It's somehow hard to breathe.{waitkey}{ret}
+</message>
+  <message offset="132c">
+Nurse: There's a kind of haze{nl}
+hanging outside the window.{nl}
+It seems to surround the town.{waitkey}Surely we can't be trapped in{nl}
+this town like in some weird{nl}
+novel... There's no way that{nl}
+could happen, right?{waitkey}{ret}
+</message>
+  <message offset="1394">
+Old Man: Hiroshi, it's been a{nl}
+while. Have you come to hear{nl}
+me talk? Then I'll tell you{nl}
+something worthwhile.{waitkey}Stay calm, think well, and{nl}
+then act. Do that, and you'll{nl}
+surely reach it...{wait_fr:48} the truth.{waitkey}By the way, Akiko, is lunch{nl}
+not ready yet?{waitkey}{ret}
+</message>
+</scene>

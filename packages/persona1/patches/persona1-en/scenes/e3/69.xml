@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="69">
+  <message offset="114c">
+
+</message>
+  <message offset="11ac">
+Kumi's Father: Club{nl}
+activities this late? Kumi,{nl}
+just what do you go to{nl}
+school{waitkey}{clearbox}for, anyway? To study? Or to{nl}
+fool around?{waitkey}{ret}
+</message>
+  <message offset="11dc">
+Kumi: ...U-um... but... I was{nl}
+chosen for "the Snow Queen"—
+</message>
+  <message offset="1240">
+Kumi's Father: Your mother{nl}
+told me. You had a test in{nl}
+the 70s recently, didn't you.{waitkey}{clearbox}You get marks that low because{nl}
+all you do is play instead of{nl}
+study.{waitkey}{ret}
+</message>
+  <message offset="1264">
+Kumi: ...But... the average{nl}
+was... eighty...{waitkey}{ret}
+</message>
+  <message offset="1314">
+Kumi's Father: Your father{nl}
+cuts back on the drink and{nl}
+tobacco he loves, even gives{nl}
+up weekend golf,{waitkey}{clearbox}to work and earn money — and{nl}
+who do you think it's all{nl}
+for?!{waitkey}{clearbox}It's to support you and your{nl}
+mother, isn't it?{waitkey}{clearbox}Kumi, the only reason you can{nl}
+attend school now is because{nl}
+your father sweats and toils.{waitkey}{ret}
+</message>
+  <message offset="1328">
+Kumi: ......Yes.{waitkey}{ret}
+</message>
+  <message offset="1424">
+Kumi's Father: And yet you,{nl}
+without a thought for your{nl}
+father's hardships, neglect{nl}
+your studies and{waitkey}fritter your time away on{nl}
+clubs and play.{waitkey}{clearbox}The one at fault, Kumi, is{nl}
+you.{waitkey}{ret}
+</message>
+</scene>

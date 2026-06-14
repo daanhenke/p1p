@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="12">
+  <message offset="14f0">
+Reiji: Still not letting me{nl}
+through?{wait_fr:86} You'll die.{waitkey}{ret}
+</message>
+  <message offset="1518">
+Man in black: Don't make us{nl}
+repeat ourselves. Beyond here{nl}
+is under Sebek control.{nl}
+Disobey and we shoot.{waitkey}{ret}
+</message>
+  <message offset="1558">
+Mark: That dumb idiot!{nl}
+He's gonna get himself{nl}
+killed!{waitkey}{ret}
+</message>
+  <message offset="1578">
+Mark: Heh heh, sorry 'bout{nl}
+him, he ain't quite right.{nl}
+C'mon, blockhead, move it.{waitkey}{ret}
+</message>
+  <message offset="15ac">
+Reiji: Tch...{nl}
+You lot again.{waitkey}{ret}
+</message>
+  <message offset="15c4">
+Nanjo: Well now...{nl}
+Even you help people?{nl}
+Truly a bolt from the blue.{waitkey}{ret}
+</message>
+  <message offset="15f4">
+Mark: Idiot.{nl}
+Even a guy like that's got{nl}
+a mom who'd cry if he died.{waitkey}{ret}
+</message>
+  <message offset="1624">
+Man in black: You can't pass.{nl}
+This area is blocked off.{waitkey}{ret}
+</message>
+  <message offset="1648">
+Man in black: This is no place{nl}
+for kids. Get out of here{nl}
+and find shelter.{waitkey}{ret}
+</message>
+  <message offset="1674">
+Mark: Man, that guy...{nl}
+What the heck is he doing?{waitkey}{ret}
+</message>
+  <message offset="1698">
+Nanjo: Sebek...{nl}
+Kamitori, what are you{nl}
+scheming?{waitkey}{ret}
+</message>
+  <message offset="16bc">
+Yukino: I don't like this...{nl}
+So they're more than just{nl}
+a company.{waitkey}{ret}
+</message>
+  <message offset="16e4">
+Elly: What on earth is{nl}
+going on? I thought SEBEC{nl}
+was a top-tier company...{waitkey}{nl}
+No different from the Mafia.{waitkey}{ret}
+</message>
+  <message offset="1738">
+Elly: Oh?{nl}
+Isn't that the transfer{nl}
+student over there?{waitkey}{ret}
+</message>
+  <message offset="1758">
+Mark: Hm?{nl}
+Hey, that's Kido, ain't it?{nl}
+What's he doin' there?{waitkey}{ret}
+</message>
+  <message offset="1788">
+{color:2}Kido Reiji{nl}
+A student who transferred{nl}
+here half a year ago.{nl}
+Quiet, always acts alone.{color:0}{waitkey}{ret}
+</message>
+  <message offset="17d4">
+Man in black: Who are you?{nl}
+This area is under Sebek{nl}
+control. Entry is forbidden.{waitkey}{ret}
+</message>
+  <message offset="1814">
+Mark: Hey, Sebek — that's{nl}
+Sonoda's mom's company,{nl}
+right? What's going on!?{waitkey}{ret}
+</message>
+</scene>

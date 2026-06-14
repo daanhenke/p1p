@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e0" scene="87">
+  <message offset="24d4">
+Elly: Kandori... So he too{nl}
+has come to{nl}
+this city after all.{waitkey}{ret}
+</message>
+  <message offset="2504">
+Ayase: Even Kandori's{nl}
+here now?{nl}
+I've got a bad feeling!{waitkey}{ret}
+</message>
+  <message offset="2538">
+Brown: Kandori, huh...{waitkey}{clearbox}Even for a guy like me,{nl}
+that man's the one{nl}
+I'd really rather avoid.{waitkey}{ret}
+</message>
+  <message offset="2578">
+Reiji: Kandori...{nl}
+So he's come to{nl}
+this world...{wait_fr:48}{nl}
+Saves me the search.{waitkey}{ret}
+</message>
+  <message offset="25b0">
+Mark: They said there's a{nl}
+demon in the subway.{nl}
+So, what was it{wait_fr:32}... Ha...{wait_fr:48}{nl}
+Hamano?{waitkey}{ret}
+</message>
+  <message offset="25f0">
+Nanjo: The Mirror of Harming.{nl}
+With it, they said,{nl}
+one can cross to the east.{waitkey}{clearbox}Taking our city alone{nl}
+wasn't enough to{nl}
+satisfy Kandori, it seems...{waitkey}I'll teach him greed{nl}
+is the root of ruin.{waitkey}{ret}
+</message>
+  <message offset="267c">
+Maki: Even if you say that,{nl}
+I don't know anything{nl}
+about a Mirror of Harming...{waitkey}{ret}
+</message>
+  <message offset="26ac">
+Nanjo: Hmm...{wait_fr:32} I feel{nl}
+I've heard that name{nl}
+somewhere before...{waitkey}{ctl0f:1}, what do you think?{waitkey}{ret}
+</message>
+  <message offset="26f0">
+Maki: The wall splitting this{nl}
+city in two went up{nl}
+only recently.{waitkey}Before, you could cross{nl}
+to the other side freely.{waitkey}{ret}
+</message>
+  <message offset="2734">
+Nanjo: I can't recall...{wait_fr:48}{nl}
+The Mirror of Harming...{nl}
+I've surely heard{nl}
+that name somewhere.{waitkey}{ret}
+</message>
+  <message offset="2770">
+Mark: 'Harming,' huh...{nl}
+That's a real{nl}
+old-fashioned name.{waitkey}{ret}
+</message>
+  <message offset="2798">
+Brown: Something's been{nl}
+bugging me, you know...{waitkey}{clearbox}They said there's a 'demon'{nl}
+down in the subway, right?{waitkey}{clearbox}...Me{wait_fr:38}, I wouldn't mind{nl}
+not crossing east at all,{nl}
+y'know... just sayin'...{waitkey}{ret}
+</message>
+  <message offset="280c">
+Brown: The 'demon' in the{nl}
+subway, huh...{waitkey}{clearbox}...{wait_fr:21}So we really do{nl}
+have to fight that thing...{wait_fr:21}{nl}
+...boo-hoo-hoo...{waitkey}{ret}
+</message>
+  <message offset="2858">
+Elly: Since ancient times,{nl}
+that mirror was believed{nl}
+to hold 'Harming' power-{waitkey}the power to break evil,{nl}
+or so it's believed.{waitkey}{ret}
+</message>
+  <message offset="28a0">
+Ayase: If the subway demon{nl}
+isn't some gross thing,{nl}
+Ayase would be relieved...{waitkey}{ret}
+</message>
+  <message offset="28d8">
+Ayase: ...{wait_fr:21}We have to{nl}
+fight that monster?{nl}
+Waaah, no waaay!{waitkey}{ret}
+</message>
+  <message offset="2910">
+Reiji: Before you lean on{nl}
+others, how about{nl}
+thinking for yourself?{waitkey}{ret}
+</message>
+</scene>

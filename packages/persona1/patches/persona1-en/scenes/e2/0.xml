@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="0">
+  <message offset="1324">
+Nanjo: What's wrong? Is the{nl}
+school gate barricaded?{waitkey}{clearbox}Hurry, or the hospital's{nl}
+reception may close on us.{waitkey}{ret}
+</message>
+  <message offset="1374">
+Mark: Ugh, Vice Principal{nl}
+Hannya's right there!{nl}
+Man, I can't stand that guy-{waitkey}{nl}
+Let's get outta here quick!{waitkey}{ret}
+</message>
+  <message offset="13c4">
+Yukino: You know, aside from{nl}
+Ms. Saeko and the Principal,{nl}
+this school's got no decent{nl}
+teachers at all, huh?{waitkey}{ret}
+</message>
+  <message offset="1408">
+V.P. Hannya: Who said you{nl}
+lot could pass through here?{waitkey}{clearbox}If you want out, use the gate{nl}
+like proper students! The{nl}
+Principal's gone too soft -{waitkey}that's why our school's full{nl}
+of little brats like you!{waitkey}{clearbox}Now get moving, the other{nl}
+way! I'll have workers fill{nl}
+this hole in right away!{waitkey}{ret}
+</message>
+  <message offset="14bc">
+{color:2}Vice Principal Hannya{nl}
+A real stickler - very{nl}
+unpopular with the students.{waitkey}{ret}
+</message>
+  <message offset="1504">
+V.P. Hannya: You! I told you{nl}
+you're not to use this spot!{waitkey}{ret}
+</message>
+</scene>

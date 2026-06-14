@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="160">
+  <message offset="1c04">
+Heeho-kun: Heeho!{waitkey}Up a floor, I saw a girl{nl}
+wearing a weird mask!{clearbox}Hihoko-chan: She was saying{nl}
+something real scary~{nl}
+like smashing up the school~{clearbox}Heeho-kun: That's bad, heeho!{nl}
+If the school gets wrecked,{nl}
+what're we supposed to do?{clearbox}Hihoko-chan: Get a job~!{wait_fr:30}{nl}
+Work till you sweat~!!{wait_fr:30}{nl}
+Support Hihoko forever~!!{clearbox}Heeho-kun: Brrr...{waitkey}{ret}
+</message>
+  <message offset="1d14">
+Hihoko-chan: Heading up?{waitkey}Hmm~{nl}
+Well, do your best, I guess~{waitkey}{clearbox}Heeho-kun: Oh right, heeho!{waitkey}Up a floor, I saw a girl{nl}
+wearing a weird mask!{clearbox}Hihoko-chan: She was saying{nl}
+something real scary~{nl}
+like smashing up the school~{clearbox}Heeho-kun: That's bad, heeho!{nl}
+If the school gets wrecked,{nl}
+what're we supposed to do?{clearbox}Hihoko-chan: Get a job~!{wait_fr:30}{nl}
+Work till you sweat~!!{wait_fr:30}{nl}
+Support Hihoko forever~!!{clearbox}Heeho-kun: Brrr...{waitkey}{ret}
+</message>
+  <message offset="1e54">
+Heeho-kun: I'll trade you a{nl}
+Sealing Tool for that{nl}
+Ambrosia you're carrying~{waitkey}{ret}
+</message>
+  <message offset="1e8c">
+Want to hear how it works?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="1ea0">
+Heeho-kun: Heeho!{waitkey}Huh?{nl}
+You've got something nice~{waitkey}{clearbox}Hihoko-chan: Hiho!!{nl}
+She's right,{nl}
+she's got Ambrosia~{waitkey}{clearbox}Heeho-kun: Lucky, lucky!{nl}
+I want some too!!{waitkey}{clearbox}Hihoko-chan: Hey, hand it{nl}
+over! Hand it over~!!{waitkey}{clearbox}Heeho-kun: Um{wait_fr:30}...{wait_fr:30} Miss Hihoko,{waitkey}Teacher said snatching{nl}
+things is a no-no, but...{waitkey}{clearbox}Hihoko-chan: Hmm~{nl}
+Humans are so difficult~{nl}
+So, how about a trade?{waitkey}{clearbox}Heeho-kun: Heeho!!{nl}
+I'll trade a Sealing Tool{nl}
+for that Ambrosia of yours~{waitkey}{ret}
+</message>
+  <message offset="1ff0">
+Hihoko-chan: They say if you{nl}
+fuse a Sealing Tool with a{nl}
+demon, good things happen~{waitkey}{clearbox}Heeho-kun: I've got five{nl}
+Sealing Tools,{nl}
+and there are five of you.{waitkey}{clearbox}Hihoko-chan: That's one{nl}
+each, by my math.{waitkey}{clearbox}Heeho-kun: Check how much{nl}
+Ambrosia you've all got, then{nl}
+decide whose Tool to take.{waitkey}{clearbox}Hihoko-chan: Once you decide,{nl}
+talk to the human who's{nl}
+getting the Sealing Tool.{waitkey}{clearbox}Heeho-kun: If you want your{nl}
+own Sealing Tool, come{nl}
+talk to us~{waitkey}{clearbox}Hihoko-chan: Phew~{nl}
+Talking a lot is tiring~{waitkey}{ret}
+</message>
+  <message offset="2134">
+Heeho-kun: Heeho!{waitkey}{ret}
+</message>
+  <message offset="214c">
+Trade for your Sealing Tool?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="2168">
+Hihoko-chan: You sure?{waitkey}{ret}
+</message>
+  <message offset="2180">
+No regrets?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="2190">
+Heeho-kun: Heeho!!{nl}
+Here's our trade then.{waitkey}Here, the "Rosetta Stele"!{waitkey}{ret}
+</message>
+  <message offset="21d0">
+Got the "Rosetta Stele"!{waitkey}{ret}
+</message>
+  <message offset="21ec">
+Heeho-kun: Now then,{nl}
+talk to whoever you want{nl}
+to trade with~!!{waitkey}{ret}
+</message>
+  <message offset="221c">
+Yukino: So those two have{nl}
+been following us, huh.{waitkey}{ret}
+</message>
+  <message offset="223c">
+Yukino: I'll gratefully{nl}
+take it.{waitkey}{ret}
+</message>
+  <message offset="2254">
+Yukino: I already got{nl}
+my share.{waitkey}{ret}
+</message>
+  <message offset="2270">
+Yukino: We've only got so{nl}
+much Ambrosia, so we'd{nl}
+better choose carefully who{nl}
+gets a Sealing Tool.{waitkey}{ret}
+</message>
+  <message offset="22ac">
+Yukino: You sure it's me?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="22c4">
+Yukino: You're the leader.{nl}
+I'll follow your call.{waitkey}{ret}
+</message>
+  <message offset="22e8">
+You're really sure?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="22fc">
+Heeho-kun: Heeho!!{nl}
+Trading for the{nl}
+"Buffalo Beats"~{waitkey}{ret}
+</message>
+  <message offset="2338">
+Got the "Buffalo Beats"!{waitkey}{ret}
+</message>
+  <message offset="235c">
+Yukino: Got it, for sure.{waitkey}{ret}
+</message>
+  <message offset="2370">
+Ayase: He's totally{nl}
+under her thumb, huh.{waitkey}{ret}
+</message>
+  <message offset="238c">
+Ayase: Ayase got her share.{waitkey}{ret}
+</message>
+  <message offset="23a4">
+Ayase: Why's it a stuffed{nl}
+animal~? The worst!!{waitkey}{ret}
+</message>
+  <message offset="23c8">
+Ayase: Sealing Tools are{nl}
+valuable, right?{waitkey}{ret}
+</message>
+  <message offset="23e8">
+Ayase: Is it okay to take it?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="2400">
+Ayase: Tch!!{waitkey}{ret}
+</message>
+  <message offset="2410">
+Yay~ Really?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="2424">
+Heeho-kun: Heeho!!{nl}
+Trading for the{nl}
+"Stuffed Deer"~{waitkey}{ret}
+</message>
+  <message offset="2458">
+Got the "Stuffed Deer"!{waitkey}{ret}
+</message>
+  <message offset="2474">
+Ayase: Hey now~{nl}
+Why's it a stuffed thing~!{nl}
+I don't want this~!!{waitkey}{ret}
+</message>
+  <message offset="24ac">
+Nanjo: He's got it rough{nl}
+too, that one.{waitkey}{ret}
+</message>
+  <message offset="24c4">
+Nanjo: Yamaoka...{waitkey}{ret}
+</message>
+  <message offset="24d4">
+Nanjo: Yamaoka...{waitkey}{ret}
+</message>
+  <message offset="24e4">
+Nanjo: I trust you know,{nl}
+but Ambrosia is precious.{waitkey}{ret}
+</message>
+  <message offset="250c">
+Nanjo: You'll trade for{nl}
+mine, then?{ctl0e:0}{ret}
+</message>
+  <message offset="2528">
+Nanjo: I'll leave this{nl}
+to your judgment.{waitkey}{ret}
+</message>
+  <message offset="2548">
+Then I'll take it.{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="2558">
+Heeho-kun: Heeho!!{nl}
+Trading for the{nl}
+"Tortoiseshell Glasses"~{waitkey}{ret}
+</message>
+  <message offset="2590">
+Got the "Tortoiseshell{nl}
+Glasses"!{waitkey}{ret}
+</message>
+  <message offset="25ac">
+Nanjo: Th-{wait_fr:30}this is...{waitkey}Aren't these Yamaoka's{nl}
+glasses?!{waitkey}{clearbox}Why... why are they{nl}
+in a place like this...{nl}
+To protect me?{waitkey}Yamaoka...{waitkey}{ret}
+</message>
+  <message offset="260c">
+Elly: Those Demons{nl}
+don't seem hostile.{waitkey}{ret}
+</message>
+  <message offset="2634">
+Elly: I'll take the{nl}
+Sealing Tool.{waitkey}{ret}
+</message>
+  <message offset="2650">
+Elly: Thank you!{waitkey}{ret}
+</message>
+  <message offset="2670">
+Elly: Sealing Tools are{nl}
+precious. We should choose{nl}
+carefully who receives one.{waitkey}{ret}
+</message>
+  <message offset="26ac">
+Elly: Are you sure it's me?{ctl0e:0}{ret}
+</message>
+  <message offset="26c4">
+Elly: Please think it{nl}
+over carefully.{waitkey}{ret}
+</message>
+  <message offset="26e0">
+Are you quite certain?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="26f4">
+Heeho-kun: Heeho!!{nl}
+Trading for the{nl}
+"Contract of Judgment"~{waitkey}{ret}
+</message>
+  <message offset="272c">
+Got the "Contract of{nl}
+Judgment"!{waitkey}{ret}
+</message>
+  <message offset="2748">
+Elly: Thank you!{waitkey}{ret}
+</message>
+  <message offset="2768">
+Brown: I sense the sorrow{nl}
+of a man~{waitkey}{ret}
+</message>
+  <message offset="2788">
+Brown: Yeah~! Score,{nl}
+score!{waitkey}{ret}
+</message>
+  <message offset="27a4">
+Brown: Yeah~! Score,{nl}
+score!{waitkey}{ret}
+</message>
+  <message offset="27c0">
+Brown: I'm the leader, so{nl}
+naturally I've got every{nl}
+right to take one, kiddo.{waitkey}{ret}
+</message>
+  <message offset="27f4">
+Brown: I'll take mine.{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="2810">
+Brown: Last chance to{nl}
+reconsider.{waitkey}{ret}
+</message>
+  <message offset="2828">
+Well, that settles it.{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="283c">
+Heeho-kun: Heeho!!{nl}
+Trading for the{nl}
+"Victoria Rune"~{waitkey}{ret}
+</message>
+  <message offset="2874">
+Got the "Victoria Rune"!{waitkey}{ret}
+</message>
+  <message offset="2894">
+Brown: Dehyahya!{waitkey}A nice bourgeois-sounding{nl}
+name, just right for me.{waitkey}{ret}
+</message>
+</scene>

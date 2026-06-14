@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="105">
+  <message offset="1604">
+Maki: Hey, hey, Inaba's at the{nl}
+police station, right? Let's{nl}
+hurry and go save him!{waitkey}{ret}
+</message>
+  <message offset="163c">
+Maki: Um, we were going to{nl}
+the abandoned factory, right?{waitkey}{ret}
+</message>
+  <message offset="1660">
+Maki: We've got to go after{nl}
+Kandori, quick!{waitkey}{ret}
+</message>
+  <message offset="1680">
+Brown: Man, what a lame shop{nl}
+though!{waitkey}{clearbox}If it were me, I'd remodel it{nl}
+into an open-air cafe!{waitkey}{ret}
+</message>
+  <message offset="16c8">
+Nanjo: That shopkeeper seems{nl}
+to suspect us.{waitkey}{clearbox}But with these strange powers{nl}
+of ours, are we still truly{nl}
+human, I wonder?{waitkey}What do you think?{waitkey}{ret}
+</message>
+  <message offset="1728">
+Mark: {ctl0f:1}, you've got it{nl}
+easy, so carefree~{waitkey}{ret}
+</message>
+  <message offset="1744">
+Elly: There are some{nl}
+surprisingly calm people{nl}
+around. I'm impressed.{waitkey}{ret}
+</message>
+  <message offset="1774">
+Ayase: So {ctl0f:1}, you were{nl}
+into this kind of thing!{nl}
+Aw, that's adorable!{waitkey}{ret}
+</message>
+  <message offset="17a8">
+Shopkeeper: ...{wait_fr:16}Are you a{nl}
+real human?{wait_fr:32} Well, if you're a{nl}
+customer, you're welcome.{waitkey}{ret}
+</message>
+</scene>

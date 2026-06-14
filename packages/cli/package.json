@@ -1,0 +1,15 @@
+{
+  "name": "@p1p/cli",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "p1p command line — dump (full extract) / extract / build / validate a game's content.",
+  "bin": { "p1p": "./src/index.ts" },
+  "exports": { ".": "./src/lib.ts", "./bin": "./src/index.ts" },
+  "scripts": { "build": "tsc -b", "p1p": "tsx src/index.ts" },
+  "dependencies": {
+    "@p1p/core": "workspace:*",
+    "@p1p/atlus": "workspace:*",
+    "@p1p/ps1": "workspace:*"
+  }
+}

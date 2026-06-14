@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e1" scene="86">
+  <message offset="1648">
+Yukino: There!{nl}
+Just as you wished, we came!!{nl}
+Michiko Matsudaira!!{waitkey}{clearbox}Hand over the "chain key"{nl}
+binding Toro and Kuroori!{nl}
+By force, if it comes to it!{waitkey}{clearbox}Well, I meant to do it by{nl}
+force from the start - your{nl}
+sort won't hand it over{waitkey}quietly, will you?{waitkey}{ret}
+</message>
+  <message offset="16f0">
+Michiko: What?! You?{nl}
+You came here this quickly?{waitkey}{clearbox}Th-{wait_fr:30}the "Mirror Shard"?{nl}
+Don't tell me you didn't{nl}
+go get it? Oh!{wait_fr:30} Oh!? How!?{waitkey}{clearbox}At this rate!{wait_fr:30} At this rate!!{nl}
+The "negative" power of human{nl}
+emotion, source of my might!{waitkey}{clearbox}The power of "hatred" and{nl}
+"anger" is - lacking!{wait_fr:30}{nl}
+Far too lacking!!{waitkey}{clearbox}No{wait_fr:30}, worse than that......{nl}
+What is this? This unpleasant{nl}
+feeling flooding into me?{waitkey}{clearbox}Wh-{wait_fr:30}what?{wait_fr:30} "Gratitude"?{nl}
+"Friendship"?{nl}
+Don't tell me they hold such{nl}
+feelings even under torture?{waitkey}{clearbox}I-impossible!? You knew how{nl}
+this tower works?{nl}
+You did??{waitkey}{clearbox}No, that can't be!{nl}
+My plan was supposed{nl}
+to be perfect!{waitkey}{clearbox}The feeling every human holds -{nl}
+"so long as I'm fine, who{nl}
+cares about others"...{waitkey}{clearbox}No!{wait_fr:30} It's not so lofty{nl}
+a thing as a feeling!{waitkey}{clearbox}Instinct!{wait_fr:30} Yes, my plan used{nl}
+you humans' very instinct!!{waitkey}{clearbox}Why?{wait_fr:30} Why?? How can you try{nl}
+to save others with no{nl}
+reward at all?{waitkey}{clearbox}Michiko can't understand it!{nl}
+At this rate! Like this!!{nl}
+My power's far too lacking{waitkey}What am I to do?{waitkey}{ret}
+</message>
+  <message offset="1a18">
+Nanjo: Well, the usual me{nl}
+would leave such fellows be{nl}
+and go fetch the "Mirror{waitkey}Shard."{waitkey}{clearbox}Hmph! I don't know what you{nl}
+schemed with your meager wits,{nl}
+but you made one mistake.{waitkey}{clearbox}You truly angered me,{nl}
+Kei Nanjo.{waitkey}{clearbox}Don't tell me you thought{nl}
+you'd get away free after{nl}
+such a fool of me?{waitkey}{clearbox}The sin of calling the great{nl}
+Kei Nanjo a lapdog!{waitkey}{clearbox}You'll pay for it with your{nl}
+death! Prepare yourself!!{waitkey}{ret}
+</message>
+  <message offset="1b58">
+Brown: Abandon my friends and{nl}
+it'd stain my brilliant{nl}
+record!!{waitkey}{clearbox}It's guys like you I just{nl}
+can't forgive!{waitkey}{clearbox}Hurting Toro and the{nl}
+Demon Kid!{nl}
+Calling everyone mutts!{nl}
+And above all!!{waitkey}{clearbox}Calling the great me a pet!{nl}
+I'll pay you back for that{nl}
+in full!{waitkey}Prepare yourself!!{waitkey}{ret}
+</message>
+  <message offset="1c38">
+Ayase: Heh-heh! Besides,{nl}
+we don't need all 12{nl}
+"Mirror Shards" - about{waitkey}8 is totally fine!{waitkey}{clearbox}Ayase doesn't care what{nl}
+happens to Toro and Kuroori,{nl}
+buuut{waitkey}{clearbox}an unpleasant woman like you{nl}
+acting all high and mighty{waitkey}{clearbox}is, like, totally MMC,{nl}
+y'know?{nl}
+Get it?{waitkey}{ret}
+</message>
+  <message offset="1cf4">
+Michiko: Kiiiii!{nl}
+Shut up! Shut up!!{waitkey}Be quiet!! Hush!!{waitkey}{clearbox}So what are you saying?{nl}
+That I am inferior to those{nl}
+two ugly creatures??{waitkey}{clearbox}Beautiful me?? How can it be??{nl}
+Ohh!! Oooh!!{waitkey}{clearbox}Yes, the splendid plan I laid{nl}
+was too highbrow for mutts{nl}
+like you to grasp!{waitkey}{clearbox}Oooh! Ohh!! I should have{nl}
+slaughtered you all the moment{nl}
+you entered this tower!{waitkey}Ooooh!!{waitkey}{ret}
+</message>
+  <message offset="1e2c">
+Nanjo: "Ow, ow," how noisy.{nl}
+Hmph! You're no fur seal...{waitkey}{clearbox}But Ayase is right. Letting{nl}
+a shard or two slip here{waitkey}won't shake our victory!{waitkey}{clearbox}A fiend like you we cannot{nl}
+forgive, no matter what!{nl}
+First, we'll defeat you!{waitkey}No mercy!!{waitkey}{ret}
+</message>
+  <message offset="1ef4">
+Elly: Michiko...{nl}
+you're a poor loser.{waitkey}{clearbox}The more you wail, the more{nl}
+your ugliness stands out...{waitkey}{clearbox}You should look at your own{nl}
+face in a mirror right now.{waitkey}{clearbox}Heehee... it's hardly fit{nl}
+to show to others.{waitkey}{clearbox}Indeed, as Ayase says, losing{nl}
+a shard or two from this tower{waitkey}won't trouble us one bit.{waitkey}{clearbox}Let's end this idle chatter.{nl}
+And the reason we came{waitkey}straight here...{waitkey}{clearbox}no matter how long we explain,{nl}
+you'll never understand it.{waitkey}Now! Prepare yourself!{waitkey}{ret}
+</message>
+  <message offset="2054">
+Michiko: Kiii!{nl}
+I will never, ever accept it!{waitkey}{clearbox}The "kindness" of the human{nl}
+heart! "Friendship"!{nl}
+"Trust"!{waitkey}{clearbox}Such things!{wait_fr:30} Such things!!{nl}
+I'll prove they absolutely{nl}
+do not exist in this world!{waitkey}{clearbox}I'll prove it with{nl}
+your defeat!!{waitkey}{clearbox}"Lord Nemesis"...{nl}
+be the armor that guards me!{nl}
+"Lord Nemesis"...{waitkey}be the sword to destroy them!{waitkey}{clearbox}Come!{wait_fr:30} "Nemesis"!!{nl}
+To my side!{nl}
+"Nemesis power{wait_fr:30} build{waitkey}uuup!"{waitkey}{ret}
+</message>
+  <message offset="21a4">
+Yukino: So you mean to summon{nl}
+a Persona, do you?{nl}
+Everyone! Here we go!{waitkey}Payback for Toro and Kuroori!{waitkey}{ret}
+</message>
+  <message offset="21f0">
+Yukino: So this looks like{nl}
+Michiko's room.{waitkey}{clearbox}What awful taste, though.{nl}
+What are these faces lined{waitkey}up on the wall??{waitkey}{ret}
+</message>
+  <message offset="224c">
+Michiko: Ohohohoho!{nl}
+Those faces are the remains{nl}
+of humans who wouldn't{waitkey}obey me...{waitkey}{clearbox}And they're your future{nl}
+selves, as well.{waitkey}{clearbox}Heehee... to gain five new{nl}
+faces - what a wonderful{nl}
+day today is!{waitkey}{clearbox}Ohohohoho! How about it?{nl}
+My collection?{waitkey}{clearbox}Is it to your liking?{waitkey}{clearbox}You filthy little thieves who{nl}
+abandoned suffering friends,{nl}
+driven by greed?{waitkey}{clearbox}It seems you did accept my{nl}
+gift, the "Mirror Shard,"{nl}
+after all.{waitkey}{clearbox}Ohohohoho! To fall so easily{nl}
+into the trap I set!{waitkey}{clearbox}Lured by the bait of a single{nl}
+"Mirror Shard,"{waitkey}{clearbox}you threw away with your own{nl}
+hands your chance{nl}
+to defeat me!{nl}
+Ohohohoho!{waitkey}{ret}
+</message>
+  <message offset="2448">
+Nanjo: What did you say?{nl}
+We fell into a trap?{waitkey}{clearbox}What do you mean?{nl}
+You! What did you do?!{waitkey}{ret}
+</message>
+  <message offset="2490">
+Brown: Fugah?{nl}
+The great me, in a trap??{nl}
+What's that mean?{waitkey}{clearbox}Hey, you! Explain yourself!!{waitkey}{ret}
+</message>
+  <message offset="24e0">
+Ayase: Ngh! What's this!{nl}
+This hag! Just because Ayase{nl}
+and friends took the shard,{waitkey}{clearbox}you're cornered and bluffing,{nl}
+aren't you?{waitkey}{clearbox}You liar!! Just be quiet and{nl}
+get beaten by Ayase and{nl}
+friends!{waitkey}{ret}
+</message>
+  <message offset="255c">
+Michiko: Ohohohoho!{nl}
+This "Tower of Nemesis"{waitkey}{clearbox}grows by absorbing humans'{nl}
+"negative" emotions - "anger,"{nl}
+"hatred," "despair"{waitkey}{clearbox}- as its energy. A "living{nl}
+tower," you might say.{waitkey}{clearbox}And by taking the energy the{nl}
+tower draws up into my own{nl}
+body,{waitkey}{clearbox}I grow boundlessly stronger.{nl}
+That was the mechanism.{nl}
+Do you understand?{waitkey}{clearbox}Hehehe... the "sorrow" and{nl}
+"anger" born from the pain{nl}
+of those two ugly men,{waitkey}{clearbox}the "hatred" and "despair"{nl}
+born of being abandoned by{nl}
+the friends they trusted...{waitkey}{clearbox}Fwahahaha! All of it gave my{nl}
+body such wonderful power!{waitkey}{clearbox}Ohoho! If you'd resent{nl}
+anyone, resent your own{nl}
+lowly natures, you masses!{waitkey}{ret}
+</message>
+  <message offset="2760">
+Nanjo: Quite the power!{nl}
+And she's merely standing{nl}
+there!{waitkey}{clearbox}This murderous surge of "qi"{nl}
+bearing down on us!?{waitkey}{clearbox}Did Yokouchi and Kuroori's{nl}
+"anger" and "hatred" truly{nl}
+power her up...{waitkey}{clearbox}A blunder! To hand her power{nl}
+right before our eyes...{waitkey}{ret}
+</message>
+  <message offset="2828">
+Elly: What?!{nl}
+This vicious wave?{waitkey}{clearbox}And Michiko's just{nl}
+standing there...!{waitkey}{clearbox}The "anger" and "hatred" of{nl}
+the two who were tortured{waitkey}{clearbox}have made Michiko's Power{nl}
+so Big it's unmanageable...{waitkey}We were completely outwitted!{waitkey}{ret}
+</message>
+  <message offset="28f4">
+Michiko: Now, the five faces{nl}
+of impudent little puppies{nl}
+who defied "the Snow Queen"{waitkey}{clearbox}and made a fool of me...{waitkey}{clearbox}I'll add them to the faces{nl}
+of the humans who once{nl}
+betrayed me!{waitkey}{clearbox}Your "anger"!{wait_fr:30} Your "regret"!{nl}
+Your "despair"!{wait_fr:30} Your "hatred"!{nl}
+More!{wait_fr:30} More!!{waitkey}{clearbox}Bare your "negative" emotions,{nl}
+your human instinct, and{nl}
+come at me!!{waitkey}{clearbox}Even that is, to me, an{nl}
+irresistible feast!{waitkey}{clearbox}Khehehe! Hahahahaha!{nl}
+Fwahahaha!{waitkey}{clearbox}"Lord Nemesis"...{nl}
+be the armor that guards me!{nl}
+"Lord Nemesis"...{waitkey}be the sword to destroy them!{waitkey}{clearbox}Come!{wait_fr:30} "Nemesis"!!{nl}
+To my side!{nl}
+"Nemesis power{wait_fr:30} build{waitkey}uuup!"{waitkey}{ret}
+</message>
+  <message offset="2af8">
+Yukino: Tch!{wait_fr:30} A Persona?{nl}
+Everyone! No use grumbling{nl}
+about what's done now!{waitkey}{clearbox}For now, let's deal with{nl}
+this thing before us!!{waitkey}{ret}
+</message>
+  <message offset="2b5c">
+Yukino: So this looks like{nl}
+Michiko's room.{waitkey}{clearbox}What awful taste, though.{nl}
+What are these faces lined{waitkey}up on the wall??{waitkey}{ret}
+</message>
+  <message offset="2bb8">
+Michiko: Ohohohoho!{nl}
+Those faces are the remains{nl}
+of humans who wouldn't{waitkey}obey me...{waitkey}{clearbox}And they're your future{nl}
+selves, as well.{waitkey}{clearbox}Heehee... to gain five new{nl}
+faces - what a wonderful{nl}
+day today is!{waitkey}{clearbox}Ohohohoho! How about it?{nl}
+My collection?{waitkey}{clearbox}Is it to your liking?{waitkey}{clearbox}Still, what a leisurely{nl}
+arrival you've made!{waitkey}{clearbox}I grew quite tired of waiting!{waitkey}{clearbox}Ohohohoho! To fall so easily{nl}
+into the trap I set!{waitkey}{clearbox}Lifting the tower's time{nl}
+limit was the right call!{waitkey}{clearbox}Your chance to defeat me...{waitkey}{clearbox}you threw it away with your{nl}
+own hands! Michiko can't{nl}
+stop laughing! Ohohohoho!{waitkey}{ret}
+</message>
+  <message offset="2db0">
+Nanjo: What did you say?{nl}
+We fell into a trap?{waitkey}{clearbox}What do you mean?{nl}
+You! What did you do?!{waitkey}{ret}
+</message>
+  <message offset="2df8">
+Brown: Fugah?{nl}
+The great me, in a trap??{nl}
+What's that mean?{waitkey}{clearbox}Hey, you! Explain yourself!!{waitkey}{ret}
+</message>
+  <message offset="2e48">
+Ayase: Ngh! What's this!{nl}
+This hag! Just because you're{nl}
+about to lose to Ayase{waitkey}{clearbox}and friends, you're cornered{nl}
+and bluffing, aren't you?{waitkey}{clearbox}You liar!! Just be quiet and{nl}
+get beaten by Ayase and{nl}
+friends!{waitkey}{ret}
+</message>
+  <message offset="2eb8">
+Michiko: Ohohohoho!{nl}
+This "Tower of Nemesis"{waitkey}{clearbox}grows by absorbing humans'{nl}
+"negative" emotions - "anger,"{nl}
+"hatred," "despair"{waitkey}{clearbox}- as its energy. A "living{nl}
+tower," you might say.{waitkey}{clearbox}And by taking the energy the{nl}
+tower draws up into my own{nl}
+body,{waitkey}{clearbox}I grow boundlessly stronger.{nl}
+That was the mechanism.{nl}
+Do you understand?{waitkey}{clearbox}Hehehe... the "sorrow" and{nl}
+"anger" born from the pain{nl}
+of those two ugly men,{waitkey}{clearbox}the "doubt" and "despair"{nl}
+born of the uneasy thought{nl}
+that trusted friends wouldn't come...{waitkey}{clearbox}Fwahahaha! All of it gave my{nl}
+body such wonderful power!{waitkey}{clearbox}And plenty of it! All thanks{nl}
+to you taking your time{nl}
+getting here. My gratitude!{waitkey}{ret}
+</message>
+  <message offset="30c8">
+Nanjo: Quite the power!{nl}
+And she's merely standing{nl}
+there!{waitkey}{clearbox}This murderous surge of "qi"{nl}
+bearing down on us!?{waitkey}{clearbox}Did Yokouchi and Kuroori's{nl}
+"anger" and "hatred" truly{nl}
+power her up...{waitkey}{clearbox}A blunder! To hand her power{nl}
+right before our eyes...{waitkey}{ret}
+</message>
+  <message offset="3190">
+Elly: What?!{nl}
+This vicious wave?{waitkey}{clearbox}And Michiko's just{nl}
+standing there...!{waitkey}{clearbox}The "anger" and "hatred" of{nl}
+the two who were tortured{waitkey}{clearbox}have made Michiko's Power{nl}
+so Big it's unmanageable...{waitkey}{clearbox}We were completely outwitted!{nl}
+If only we'd been more wary{waitkey}of having no Time limit...!{waitkey}{ret}
+</message>
+  <message offset="328c">
+Michiko: Now, the five faces{nl}
+of impudent little puppies{nl}
+who defied "the Snow Queen"{waitkey}{clearbox}and made a fool of me...{waitkey}{clearbox}I'll add them to the faces{nl}
+of the humans who once{nl}
+betrayed me!{waitkey}{clearbox}Your "anger"!{wait_fr:30} Your "regret"!{nl}
+Your "despair"!{wait_fr:30} Your "hatred"!{nl}
+More!{wait_fr:30} More!!{waitkey}{clearbox}Bare your "negative" emotions,{nl}
+your human instinct, and{nl}
+come at me!!{waitkey}{clearbox}Even that is, to me, an{nl}
+irresistible feast!{waitkey}{clearbox}Khehehe! Hahahahaha!{nl}
+Fwahahaha!{waitkey}{clearbox}"Lord Nemesis"...{nl}
+be the armor that guards me!{nl}
+"Lord Nemesis"...{waitkey}be the sword to destroy them!{waitkey}{clearbox}Come!{wait_fr:30} "Nemesis"!!{nl}
+To my side!{nl}
+"Nemesis power{wait_fr:30} build{waitkey}uuup!"{waitkey}{ret}
+</message>
+  <message offset="3490">
+Yukino: Tch!{wait_fr:30} A Persona?{nl}
+Everyone! No use grumbling{nl}
+about what's done now!{waitkey}{clearbox}For now, let's deal with{nl}
+this thing before us!!{waitkey}{ret}
+</message>
+</scene>

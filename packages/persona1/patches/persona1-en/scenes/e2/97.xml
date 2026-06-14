@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="97">
+  <message offset="1408">
+Yukino: Excuse me! There are{nl}
+demons out in the town!{nl}
+Lots of people are hurt!{waitkey}Could you patrol...{wait_fr:32}{nl}
+Um{wait_fr:48}, officer?{waitkey}{ret}
+</message>
+  <message offset="1460">
+Demons{wait_fr:32}, you say...?{waitkey}{ret}
+</message>
+  <message offset="1474">
+Elly: Yukino, wait. There's{nl}
+something wrong with that{nl}
+man...!{waitkey}{ret}
+</message>
+  <message offset="14a4">
+Plenty of demons came, all{nl}
+right. And look what they've{nl}
+left me...{waitkey}{ret}
+</message>
+  <message offset="14c8">
+Officer's Ghost: Damn it...{wait_fr:32}{nl}
+Inspector...{wait_fr:32} please, help{nl}
+me...{wait_fr:32} help...{waitkey}{ret}
+</message>
+  <message offset="1504">
+Elly: Just as I thought!{nl}
+Everyone, let's run!{waitkey}{ret}
+</message>
+  <message offset="1524">
+Yukino: Tch! So we can't{nl}
+count on the police either!{waitkey}{ret}
+</message>
+</scene>

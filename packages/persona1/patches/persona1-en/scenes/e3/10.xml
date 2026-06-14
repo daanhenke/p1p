@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e3" scene="10">
+  <message offset="1964">
+!
+</message>
+  <message offset="1980">
+Yukino: {ctl0f:1}!{waitkey}{nl}
+Be careful...{waitkey}{ret}
+</message>
+  <message offset="1998">
+Touch the orb of light?{nl}
+{ctl0e:0}{ret}
+</message>
+  <message offset="19bc">
+Ayase: Hey! What did you do,{nl}
+{ctl0f:1}!!{waitkey}{ret}
+</message>
+  <message offset="19cc">
+Yukino: Whoa!!{waitkey}{ret}
+</message>
+  <message offset="19dc">
+Yukino: What's this...?{waitkey}{ret}
+</message>
+  <message offset="1a08">
+Yukino: What is it?{waitkey}I'm ready, if you mean{nl}
+mentally. Let's hurry!{waitkey}{ret}
+</message>
+  <message offset="1a18">
+Ayase: Pretty...{waitkey}{ret}
+</message>
+  <message offset="1a34">
+Ayase: What now, after all{nl}
+this? Getting cold feet?{waitkey}{ret}
+</message>
+  <message offset="1a60">
+Nanjo: They say beautiful{nl}
+things have thorns.{waitkey}Be careful!{waitkey}{ret}
+</message>
+  <message offset="1a8c">
+Nanjo: They say beautiful{nl}
+things have thorns.{waitkey}Be careful!{waitkey}{ret}
+</message>
+  <message offset="1b1c">
+Nanjo: I was waiting.{waitkey}I came on ahead to give{nl}
+you this.{waitkey}{clearbox}It's a "Phurba Dagger,"{waitkey}but it's awkward for me to{nl}
+use, so I'll give it to you.{waitkey}{clearbox}No need for thanks. In return,{nl}
+save the school as fast as{nl}
+you can.{waitkey}{ret}
+</message>
+  <message offset="1b38">
+Received the "Phurba{nl}
+Dagger"!{waitkey}{ret}
+</message>
+  <message offset="1b80">
+Nanjo: It seems touching this{nl}
+transports you to another{nl}
+place.{waitkey}{clearbox}Where it sends you, though,{nl}
+I couldn't say.{waitkey}{ret}
+</message>
+  <message offset="1ba0">
+Brown: Stare at it long{nl}
+enough and it feels like it'd{nl}
+suck you in.{waitkey}{ret}
+</message>
+  <message offset="1bc0">
+Brown: Stare at it long{nl}
+enough and it feels like it'd{nl}
+suck you in.{waitkey}{ret}
+</message>
+  <message offset="1c8c">
+Brown: You're slow, honestly.{waitkey}{clearbox}I've got to keep watch over{nl}
+Toro, so sorry, but I can't{nl}
+come with you.{waitkey}{clearbox}To make up for it — you'll{nl}
+need all sorts of things, so{nl}
+here, take this!{waitkey}{clearbox}It's the "Scorching Tablet."{waitkey}I won it at the casino, and{nl}
+I've got another one.{waitkey}{clearbox}Nah, no thanks needed. Now{nl}
+go on, give it your all!{waitkey}{ret}
+</message>
+  <message offset="1ca8">
+Received the "Scorching{nl}
+Tablet"!{waitkey}{ret}
+</message>
+  <message offset="1ce0">
+Brown: I've got to keep watch{nl}
+over Toro, so sorry, but I{nl}
+can't come along.{waitkey}{ret}
+</message>
+  <message offset="1cfc">
+Elly: Plasma, perhaps?{waitkey}{ret}
+</message>
+  <message offset="1d14">
+Elly: Now, let's go!{waitkey}{ret}
+</message>
+  <message offset="1d98">
+Elly: So you were here after{nl}
+all. I came to give you this.{waitkey}It's the "Full Moon Tablet."{waitkey}{clearbox}I was looking for something{nl}
+in the library and happened{nl}
+upon it.{waitkey}{clearbox}I thought it would be of more{nl}
+use in your hands.{waitkey}{ret}
+</message>
+  <message offset="1db0">
+Received the "Full Moon{nl}
+Tablet"!{waitkey}{ret}
+</message>
+</scene>

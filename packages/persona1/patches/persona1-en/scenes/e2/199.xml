@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene archive="e2" scene="199">
+  <message offset="14b0">
+Maki: Chisato...{wait_fr:32} it couldn't{nl}
+be, could it!{waitkey}{ret}
+</message>
+  <message offset="14d4">
+Maki: Somehow it feels like{nl}
+I'm having a bad dream.{waitkey}{ret}
+</message>
+  <message offset="14f4">
+Maki: I hope Chisato and Naito{nl}
+work out well.{waitkey}{clearbox}It's not sour grapes or{nl}
+anything{wait_fr:32}... because {wait_fr:32}I...{waitkey}{ret}
+</message>
+  <message offset="1540">
+Nanjo: Is he locking us in to{nl}
+toy with us? Or stalling for{nl}
+time?{waitkey}I can't read his intent.{waitkey}{ret}
+</message>
+  <message offset="1588">
+Nanjo: This time we'll get a{nl}
+proper talk out of her,{nl}
+I trust.{waitkey}{ret}
+</message>
+  <message offset="15b4">
+Nanjo: The more one tries to{nl}
+bottle up their feelings, the{nl}
+bigger they explode in the{nl}
+end.{waitkey}{clearbox}Though with you, there's no{nl}
+such worry!{waitkey}{ret}
+</message>
+  <message offset="1608">
+Mark: And here we've got no{nl}
+time to spare!{waitkey}{ret}
+</message>
+  <message offset="1628">
+Mark: Damn it, what "palace"?{nl}
+Don't make me laugh!{waitkey}{ret}
+</message>
+  <message offset="164c">
+Mark: That Aki — using even{nl}
+Kozai now, what's he{nl}
+plotting?{waitkey}{ret}
+</message>
+  <message offset="1678">
+Elly: She must be quite{nl}
+confident in her paintings.{waitkey}{ret}
+</message>
+  <message offset="16a0">
+Elly: When you think it's a{nl}
+road you've walked before,{nl}
+doesn't it feel shorter?{wait_fr:48}{nl}
+...No, I suppose not...{waitkey}{ret}
+</message>
+  <message offset="16e0">
+Elly: I'm so glad we can get{nl}
+outside now!{waitkey}{ret}
+</message>
+  <message offset="1708">
+Brown: Oh Queen~! I've been{nl}
+looking forward to meeting{nl}
+you~♥{waitkey}Is that a good enough{nl}
+greeting?{waitkey}{ret}
+</message>
+  <message offset="1754">
+Brown: Kozai made one heck of{nl}
+a room...{waitkey}{clearbox}Imagining myself turned into{nl}
+one of those things in{nl}
+there... yeesh, that's rough!{waitkey}{ret}
+</message>
+  <message offset="17ac">
+Brown: Well, the point is{nl}
+don't sweat the small stuff~!{waitkey}{clearbox}Huh? I should worry more?{nl}
+Okay, okay! Leave it to me~!{waitkey}{ret}
+</message>
+  <message offset="1800">
+Ayase: That Queen, is she{nl}
+trying to set up an idol{nl}
+training school or something?{waitkey}{ret}
+</message>
+  <message offset="1830">
+Ayase: Owww, my ankle hurts~!!{waitkey}{ret}
+</message>
+  <message offset="1850">
+Ayase: Ayase's maybe just a{nl}
+teensy bit jealous~{waitkey}{ret}
+</message>
+  <message offset="1870">
+Reiji: No matter how much you{nl}
+think it over, what you don't{nl}
+know, you don't know!{waitkey}{clearbox}Anyway, we track down where{nl}
+this so-called Queen is.{waitkey}{ret}
+</message>
+  <message offset="18c8">
+Reiji: If you get hurt over{nl}
+every little thing like this,{nl}
+you'll never make it in the{nl}
+world.{waitkey}{clearbox}There are plenty of people{nl}
+who've been through far{nl}
+worse.{waitkey}{ret}
+</message>
+  <message offset="1924">
+Reiji: What is it? You think{nl}
+I'm going to say I was{nl}
+"moved"?{waitkey}{ret}
+</message>
+  <message offset="1958">
+Young Man: This is a painting{nl}
+the Queen made. It's kinda{nl}
+nice, isn't it...{waitkey}{clearbox}The Queen paints well and{nl}
+she's a beauty{wait_fr:32}... but I'm{nl}
+good-looking too, right?{waitkey}{ret}
+</message>
+  <message offset="19c0">
+Young Man: You know what I{nl}
+think? What's even good about{nl}
+a painting like this?{waitkey}{clearbox}Putting on airs as a "Queen"{nl}
+and all — I'm way more{nl}
+charming than her!{waitkey}{ret}
+</message>
+  <message offset="1a18">
+There's a painting said to be{nl}
+the Queen's work.{wait_fr:21}...The style{nl}
+looks like something you've{nl}
+seen somewhere before.{waitkey}{ret}
+</message>
+  <message offset="1a48">
+Maki: ...{wait_fr:32}This painting...!{wait_fr:48}{nl}
+This is a painting Chisato{nl}
+made...!{waitkey}{ret}
+</message>
+  <message offset="1a7c">
+Mark: Chisato — {wait_fr:21}Chisato{nl}
+Kozai? I heard she went{nl}
+missing!{waitkey}{clearbox}Kozai's painting is here, and{nl}
+it's supposed to be the{nl}
+Queen's painting...?{waitkey}{ret}
+</message>
+  <message offset="1ae8">
+Maki: Why?{wait_fr:48} Does that mean{nl}
+Chisato is being held by the{nl}
+Harem Queen...?{wait_fr:32}{waitkey}{ret}
+</message>
+</scene>
